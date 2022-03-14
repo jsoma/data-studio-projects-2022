@@ -44,7 +44,8 @@ class Website:
 
     def get_table_row(self):
         """Markdown display of screenshots for this web page"""
-        desc = f"|[{self.url}]({self.url})|"
+        title = self.page.title() or self.urlpath
+        desc = f"|[{title}]({self.url})|"
         images = [
             f"[![{size}]({self.shot_path(size, 'thumb')})]({self.shot_path(size)})"
             for size in SIZES.keys()
