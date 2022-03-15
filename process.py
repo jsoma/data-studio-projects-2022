@@ -131,6 +131,37 @@ class Website:
             """)
             overlapping_elements.extend(new_overlaps)
 
+        missing_fonts = self.page.evaluate("""
+            () => {
+                function groupBy(objectArray, property) {
+                    return objectArray.reduce((acc, obj) => {
+                    const key = obj[property];
+                    if (!acc[key]) {
+                        acc[key] = [];
+                    }
+                    // Add object to list for given key's value
+                    acc[key].push(obj);
+                    return acc;
+                    }, { });
+                }
+                
+                const objects = [...document.querySelectorAll(".ai2html p")]
+                    .filter(d => !(document.fonts.check("12px " + window.getComputedStyle(d)['font-family'])))
+                    .map(d => {
+                        return {
+                            text: d.innerText,
+                            font: window.getComputedStyle(d)['font-family']
+                        }
+                    })
+
+                return groupBy(objects, 'font')
+            }
+        """)
+
+        if not self.urlpath.endswith("index.html"):
+            name = self.urlpath.split("/")[-1].replace(".html", "")
+            self.issues.append(f"* Move `{self.urlpath}` into a folder called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)")
+
         if missing_viewport_tag:
             self.issues.append('* Missing viewport meta tag in `<head>`, needed to tell browser it\'s responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`')
         if has_sideways_scroll:
@@ -145,6 +176,11 @@ class Website:
             self.issues.append("* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size")
             for overlap in overlapping_elements:
                 self.issues.append(f"   * Text `{overlap['text1']}` overlaps with `{overlap['text2']}` at screen width {overlap['width']}")
+
+        if missing_fonts:
+            self.issues.append("* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)")
+            for key, values in missing_fonts.items():
+                self.issues.append(f"   * `{key}` font not found, used in {len(values)} text objects. Example: _{', '.join([v['text'] for v in values[:3]])}_")
 
 websites = [w for w in Path("websites.txt").read_text().split("\n") if w != ""]
 
@@ -181,7 +217,7 @@ with sync_playwright() as p:
 
         readme_md += site.get_table_row() + "\n"
 
-        issues_md += f"**{site.url}** [Visit ↗]({site.url})\n\n"
+        issues_md += f"**{site.url}**\n\n"
         if site.issues:
             issues_md += '\n'.join(site.issues) + '\n\n'
         else:

@@ -40,19 +40,19 @@ Quick checks to make sure your pages are looking their best.
 
 ### Automatic Checks
 
-**https://angelinejcq.github.io/** [Visit ↗](https://angelinejcq.github.io/)
+**https://angelinejcq.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://angelinejcq.github.io/bubble-tea-project/** [Visit ↗](https://angelinejcq.github.io/bubble-tea-project/)
+**https://angelinejcq.github.io/bubble-tea-project/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://angelinejcq.github.io/near-earth-objects-project/** [Visit ↗](https://angelinejcq.github.io/near-earth-objects-project/)
+**https://angelinejcq.github.io/near-earth-objects-project/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://angelinejcq.github.io/woman-trafficking-project/** [Visit ↗](https://angelinejcq.github.io/woman-trafficking-project/)
+**https://angelinejcq.github.io/woman-trafficking-project/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Guizhou:` is too small at 11px
@@ -74,6 +74,8 @@ Quick checks to make sure your pages are looking their best.
    * Text `97.59` overlaps with `Hebei` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 900
    * Text `97.59` overlaps with `Hebei` at screen width 1300
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+   * `"Open Sans"` font not found, used in 143 text objects. Example: _Hebei: 116, Shandong: 137, Henan: 298_
 
 
 
@@ -90,16 +92,18 @@ Quick checks to make sure your pages are looking their best.
 
 ### Automatic Checks
 
-**https://annerquaye.github.io** [Visit ↗](https://annerquaye.github.io)
+**https://annerquaye.github.io**
 
 No issues found! 🎉
 
-**https://annerquaye.github.io/projects/oscars.html** [Visit ↗](https://annerquaye.github.io/projects/oscars.html)
+**https://annerquaye.github.io/projects/oscars.html**
 
+* Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://annerquaye.github.io/projects/responsive_pages/responsive.html** [Visit ↗](https://annerquaye.github.io/projects/responsive_pages/responsive.html)
+**https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
+* Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `The pandemic also shot inflation to a 3-year high` is too small at 9px
    * Text `Inflation` is too small at 8px
@@ -136,8 +140,9 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Inflation` overlaps with `Gdp Growth` at screen width 400
 
-**https://annerquaye.github.io/projects/ricestory.html** [Visit ↗](https://annerquaye.github.io/projects/ricestory.html)
+**https://annerquaye.github.io/projects/ricestory.html**
 
+* Move `projects/ricestory.html` into a folder called `ricestory`, then rename the file `index.html`. That way the project can be found at **/ricestory** instead of **/ricestory.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
@@ -156,11 +161,11 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://areenaarora.com/** [Visit ↗](https://areenaarora.com/)
+**https://areenaarora.com/**
 
 No issues found! 🎉
 
-**https://areenaarora.com/artboards** [Visit ↗](https://areenaarora.com/artboards)
+**https://areenaarora.com/artboards**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -180,11 +185,11 @@ No issues found! 🎉
    * Text `2016` is too small at 9px
    * Text `Year` is too small at 11px
 
-**https://areenaarora.com/responsive-dev-hw** [Visit ↗](https://areenaarora.com/responsive-dev-hw)
+**https://areenaarora.com/responsive-dev-hw**
 
 No issues found! 🎉
 
-**https://areenaarora.com/stories/biryani/** [Visit ↗](https://areenaarora.com/stories/biryani/)
+**https://areenaarora.com/stories/biryani/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -193,7 +198,7 @@ No issues found! 🎉
    * Text `` is too small at 11px
    * Text `A Flourish data visualization` is too small at 11px
 
-**https://areenaarora.com/stories/ny-state-spills/** [Visit ↗](https://areenaarora.com/stories/ny-state-spills/)
+**https://areenaarora.com/stories/ny-state-spills/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -212,20 +217,20 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://ilenapeng.github.io/** [Visit ↗](https://ilenapeng.github.io/)
+**https://ilenapeng.github.io/**
 
 No issues found! 🎉
 
-**https://ilenapeng.github.io/nyc-open-streets/** [Visit ↗](https://ilenapeng.github.io/nyc-open-streets/)
+**https://ilenapeng.github.io/nyc-open-streets/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Source: October 2021 Transportation Alternatives report` is too small at 10px
 
-**https://ilenapeng.github.io/path-to-principal/** [Visit ↗](https://ilenapeng.github.io/path-to-principal/)
+**https://ilenapeng.github.io/path-to-principal/**
 
 No issues found! 🎉
 
-**https://ilenapeng.github.io/stevens-creek/** [Visit ↗](https://ilenapeng.github.io/stevens-creek/)
+**https://ilenapeng.github.io/stevens-creek/**
 
 No issues found! 🎉
 
@@ -244,27 +249,27 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://jessieblaeser.github.io/** [Visit ↗](https://jessieblaeser.github.io/)
+**https://jessieblaeser.github.io/**
 
 No issues found! 🎉
 
-**https://jessieblaeser.github.io/pj_pipelines.html** [Visit ↗](https://jessieblaeser.github.io/pj_pipelines.html)
+**https://jessieblaeser.github.io/pj_pipelines.html**
 
+* Move `pj_pipelines.html` into a folder called `pj_pipelines`, then rename the file `index.html`. That way the project can be found at **/pj_pipelines** instead of **/pj_pipelines.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
    * Text `Graphic by Jessie Blaeser` is too small at 8px
    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
    * Text `Graphic by Jessie Blaeser` is too small at 8px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Incident caused by material failure` overlaps with `All other pipeline incidents` at screen width 400
 
-**https://jessieblaeser.github.io/pj_ticket_to_ride.html** [Visit ↗](https://jessieblaeser.github.io/pj_ticket_to_ride.html)
+**https://jessieblaeser.github.io/pj_ticket_to_ride.html**
 
-No issues found! 🎉
+* Move `pj_ticket_to_ride.html` into a folder called `pj_ticket_to_ride`, then rename the file `index.html`. That way the project can be found at **/pj_ticket_to_ride** instead of **/pj_ticket_to_ride.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
-**https://jessieblaeser.github.io/pj_trae_young.html** [Visit ↗](https://jessieblaeser.github.io/pj_trae_young.html)
+**https://jessieblaeser.github.io/pj_trae_young.html**
 
-No issues found! 🎉
+* Move `pj_trae_young.html` into a folder called `pj_trae_young`, then rename the file `index.html`. That way the project can be found at **/pj_trae_young** instead of **/pj_trae_young.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
 
@@ -281,11 +286,11 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://juisarwate.github.io/** [Visit ↗](https://juisarwate.github.io/)
+**https://juisarwate.github.io/**
 
 No issues found! 🎉
 
-**https://juisarwate.github.io/nyc-recycling-distribution/** [Visit ↗](https://juisarwate.github.io/nyc-recycling-distribution/)
+**https://juisarwate.github.io/nyc-recycling-distribution/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -293,14 +298,14 @@ No issues found! 🎉
    * Text `Image Credit: Pexels` is too small at 10.72px
    * Text `Pexels` is too small at 10.72px
 
-**https://juisarwate.github.io/project-3/** [Visit ↗](https://juisarwate.github.io/project-3/)
+**https://juisarwate.github.io/project-3/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Image Credit: Pexels` is too small at 10.72px
    * Text `Pexels` is too small at 10.72px
 
-**https://juisarwate.github.io/Sarwate_Project1/** [Visit ↗](https://juisarwate.github.io/Sarwate_Project1/)
+**https://juisarwate.github.io/Sarwate_Project1/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -320,7 +325,7 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://juliaingram.github.io** [Visit ↗](https://juliaingram.github.io)
+**https://juliaingram.github.io**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -355,12 +360,12 @@ No issues found! 🎉
    * Text `May 2021` is too small at 10.4px
    * Text `Public records` is too small at 10.4px
 
-**https://juliaingram.github.io/citibike/** [Visit ↗](https://juliaingram.github.io/citibike/)
+**https://juliaingram.github.io/citibike/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://juliaingram.github.io/daylight-saving/** [Visit ↗](https://juliaingram.github.io/daylight-saving/)
+**https://juliaingram.github.io/daylight-saving/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -385,7 +390,7 @@ No issues found! 🎉
    * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 1300
    * Text `have been at 5:01 p.m., in` overlaps with `earlier` at screen width 1300
 
-**https://juliaingram.github.io/therapy-apps/** [Visit ↗](https://juliaingram.github.io/therapy-apps/)
+**https://juliaingram.github.io/therapy-apps/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -404,12 +409,14 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://kfalayi.github.io/** [Visit ↗](https://kfalayi.github.io/)
+**https://kfalayi.github.io/**
 
 No issues found! 🎉
 
-**https://kfalayi.github.io/bloomberg_map_recreation.html** [Visit ↗](https://kfalayi.github.io/bloomberg_map_recreation.html)
+**https://kfalayi.github.io/bloomberg_map_recreation.html**
 
+* Move `bloomberg_map_recreation.html` into a folder called `bloomberg_map_recreation`, then rename the file `index.html`. That way the project can be found at **/bloomberg_map_recreation** instead of **/bloomberg_map_recreation.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `There are over 26,000 dollar stores across the US` is too small at 8px
    * Text `1 dot= 1 dollar store` is too small at 8px
@@ -431,21 +438,18 @@ No issues found! 🎉
    * Text `Areas within a 10-mins drive of dollar stores ` is too small at 4px
    * Text `but outside 10-mins drive of vaccination sites` is too small at 4px
    * Text `Red dots are vaccination sites` is too small at 4px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `There are over 26,000 dollar stores across the US` overlaps with `1 dot= 1 dollar store` at screen width 400
-   * Text `There are over 26,000 dollar stores across the US` overlaps with `1 dot= 1 dollar store` at screen width 900
-   * Text `There are over 26,000 dollar stores across the US` overlaps with `1 dot= 1 dollar store` at screen width 1300
 
-**https://kfalayi.github.io/food-price-Nigeria.html** [Visit ↗](https://kfalayi.github.io/food-price-Nigeria.html)
+**https://kfalayi.github.io/food-price-Nigeria.html**
 
+* Move `food-price-Nigeria.html` into a folder called `food-price-Nigeria`, then rename the file `index.html`. That way the project can be found at **/food-price-Nigeria** instead of **/food-price-Nigeria.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Caveat: CFR depends mostly on newspaper reports to collate its weekly data. Density of incidents in some states in southern Nigeria may be due to high reporting rates because most of Nigeria's major newspapers are concentrated in the south.` is too small at 11px
    * Text `Caveat:` is too small at 11px
 
-**https://kfalayi.github.io/hispanic_immigrants.html** [Visit ↗](https://kfalayi.github.io/hispanic_immigrants.html)
+**https://kfalayi.github.io/hispanic_immigrants.html**
 
-No issues found! 🎉
+* Move `hispanic_immigrants.html` into a folder called `hispanic_immigrants`, then rename the file `index.html`. That way the project can be found at **/hispanic_immigrants** instead of **/hispanic_immigrants.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
 
@@ -462,11 +466,11 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://luizftoledo.github.io/** [Visit ↗](https://luizftoledo.github.io/)
+**https://luizftoledo.github.io/**
 
 No issues found! 🎉
 
-**https://luizftoledo.github.io/congress-expenses-with-food/** [Visit ↗](https://luizftoledo.github.io/congress-expenses-with-food/)
+**https://luizftoledo.github.io/congress-expenses-with-food/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `A Flourish scatter chart` is too small at 11px
@@ -478,11 +482,11 @@ No issues found! 🎉
    * Text `` is too small at 11px
    * Text `A Flourish data visualization` is too small at 11px
 
-**https://luizftoledo.github.io/iron-maiden-happiness/** [Visit ↗](https://luizftoledo.github.io/iron-maiden-happiness/)
+**https://luizftoledo.github.io/iron-maiden-happiness/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://luizftoledo.github.io/weapons-seized/** [Visit ↗](https://luizftoledo.github.io/weapons-seized/)
+**https://luizftoledo.github.io/weapons-seized/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
@@ -613,22 +617,23 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://mishavaid7.github.io/** [Visit ↗](https://mishavaid7.github.io/)
+**https://mishavaid7.github.io/**
 
 No issues found! 🎉
 
-**https://mishavaid7.github.io/Airbnb-Story/** [Visit ↗](https://mishavaid7.github.io/Airbnb-Story/)
+**https://mishavaid7.github.io/Airbnb-Story/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://mishavaid7.github.io/NYCRestaurants-Story/** [Visit ↗](https://mishavaid7.github.io/NYCRestaurants-Story/)
+**https://mishavaid7.github.io/NYCRestaurants-Story/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://mishavaid7.github.io/Project-4/** [Visit ↗](https://mishavaid7.github.io/Project-4/)
+**https://mishavaid7.github.io/Project-4/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Entire home/apt` is too small at 8px
    * Text `Private Room` is too small at 8px
@@ -651,39 +656,24 @@ No issues found! 🎉
    * Text `80.4` is too small at 10px
    * Text `Hotel room` is too small at 8px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `few in number but control a larger` overlaps with `Hosts who have more than 1 listing are few in number but control a` at screen width 400
-   * Text `few in number but control a larger` overlaps with `larger proportion of listings` at screen width 400
-   * Text `few in number but control a larger` overlaps with `A third of all the listings that are 'Entire Apartment' are controlled by hosts who have more than` at screen width 400
-   * Text `few in number but control a larger` overlaps with `one listing.` at screen width 400
-   * Text `14.2%` overlaps with `Entire home/apt` at screen width 400
-   * Text `25.2` overlaps with `Private Room` at screen width 400
-   * Text `39.6` overlaps with `Shared room` at screen width 400
-   * Text `Entire home/apt` overlaps with `34.3%` at screen width 400
-   * Text `53.7` overlaps with `Private Room` at screen width 400
-   * Text `56.9` overlaps with `Shared room` at screen width 400
-   * Text `80.4` overlaps with `Hotel room` at screen width 400
-   * Text `few in number but control a larger` overlaps with `Hosts who have more than 1 listing are few in number but control a` at screen width 900
-   * Text `few in number but control a larger` overlaps with `larger proportion of listings` at screen width 900
-   * Text `few in number but control a larger` overlaps with `A third of all the listings that are 'Entire Apartment' are controlled by hosts who have more than` at screen width 900
-   * Text `few in number but control a larger` overlaps with `one listing.` at screen width 900
-   * Text `14.2%` overlaps with `Entire home/apt` at screen width 900
-   * Text `25.2` overlaps with `Private Room` at screen width 900
-   * Text `39.6` overlaps with `Shared room` at screen width 900
-   * Text `Entire home/apt` overlaps with `34.3%` at screen width 900
-   * Text `53.7` overlaps with `Private Room` at screen width 900
-   * Text `56.9` overlaps with `Shared room` at screen width 900
-   * Text `80.4` overlaps with `Hotel room` at screen width 900
-   * Text `few in number but control a larger` overlaps with `Hosts who have more than 1 listing are few in number but control a` at screen width 1300
-   * Text `few in number but control a larger` overlaps with `larger proportion of listings` at screen width 1300
-   * Text `few in number but control a larger` overlaps with `A third of all the listings that are 'Entire Apartment' are controlled by hosts who have more than` at screen width 1300
-   * Text `few in number but control a larger` overlaps with `one listing.` at screen width 1300
-   * Text `14.2%` overlaps with `Entire home/apt` at screen width 1300
-   * Text `25.2` overlaps with `Private Room` at screen width 1300
-   * Text `39.6` overlaps with `Shared room` at screen width 1300
-   * Text `Entire home/apt` overlaps with `34.3%` at screen width 1300
-   * Text `53.7` overlaps with `Private Room` at screen width 1300
-   * Text `56.9` overlaps with `Shared room` at screen width 1300
-   * Text `80.4` overlaps with `Hotel room` at screen width 1300
+   * Text `14.2%` overlaps with `34.3%` at screen width 400
+   * Text `14.2%` overlaps with `34.3%` at screen width 400
+   * Text `34.3%` overlaps with `34.3%` at screen width 400
+   * Text `25.2` overlaps with `53.7` at screen width 400
+   * Text `39.6` overlaps with `56.9` at screen width 400
+   * Text `43.8` overlaps with `80.4` at screen width 400
+   * Text `14.2%` overlaps with `34.3%` at screen width 900
+   * Text `14.2%` overlaps with `34.3%` at screen width 900
+   * Text `34.3%` overlaps with `34.3%` at screen width 900
+   * Text `25.2` overlaps with `53.7` at screen width 900
+   * Text `39.6` overlaps with `56.9` at screen width 900
+   * Text `43.8` overlaps with `80.4` at screen width 900
+   * Text `14.2%` overlaps with `34.3%` at screen width 1300
+   * Text `14.2%` overlaps with `34.3%` at screen width 1300
+   * Text `34.3%` overlaps with `34.3%` at screen width 1300
+   * Text `25.2` overlaps with `53.7` at screen width 1300
+   * Text `39.6` overlaps with `56.9` at screen width 1300
+   * Text `43.8` overlaps with `80.4` at screen width 1300
 
 
 
@@ -699,12 +689,13 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://msc-joel.github.io/** [Visit ↗](https://msc-joel.github.io/)
+**https://msc-joel.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://msc-joel.github.io/main-article1.html** [Visit ↗](https://msc-joel.github.io/main-article1.html)
+**https://msc-joel.github.io/main-article1.html**
 
+* Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `A Flourish chart` is too small at 11px
@@ -712,9 +703,9 @@ No issues found! 🎉
    * Text `` is too small at 11px
    * Text `A Flourish chart` is too small at 11px
 
-**https://msc-joel.github.io/main-article3.html** [Visit ↗](https://msc-joel.github.io/main-article3.html)
+**https://msc-joel.github.io/main-article3.html**
 
-No issues found! 🎉
+* Move `main-article3.html` into a folder called `main-article3`, then rename the file `index.html`. That way the project can be found at **/main-article3** instead of **/main-article3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
 
@@ -731,22 +722,22 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://naokatoh.github.io/** [Visit ↗](https://naokatoh.github.io/)
+**https://naokatoh.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://naokatoh.github.io/figure_skate_music/** [Visit ↗](https://naokatoh.github.io/figure_skate_music/)
+**https://naokatoh.github.io/figure_skate_music/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `HanyuMuse` is too small at 6.4px
    * Text `Aude Mugnier` is too small at 6.4px
 
-**https://naokatoh.github.io/sea_urchin/** [Visit ↗](https://naokatoh.github.io/sea_urchin/)
+**https://naokatoh.github.io/sea_urchin/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://naokatoh.github.io/ukraine/** [Visit ↗](https://naokatoh.github.io/ukraine/)
+**https://naokatoh.github.io/ukraine/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Morocco` is too small at 9px
@@ -800,16 +791,19 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://pmagtulis.github.io/** [Visit ↗](https://pmagtulis.github.io/)
+**https://pmagtulis.github.io/**
 
 No issues found! 🎉
 
-**https://pmagtulis.github.io/projects.html** [Visit ↗](https://pmagtulis.github.io/projects.html)
+**https://pmagtulis.github.io/projects.html**
 
+* Move `projects.html` into a folder called `projects`, then rename the file `index.html`. That way the project can be found at **/projects** instead of **/projects.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://pmagtulis.github.io/projects/polls.html** [Visit ↗](https://pmagtulis.github.io/projects/polls.html)
+**https://pmagtulis.github.io/projects/polls.html**
 
+* Move `projects/polls.html` into a folder called `polls`, then rename the file `index.html`. That way the project can be found at **/polls** instead of **/polls.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Number of ` is too small at 11px
    * Text `registered` is too small at 11px
@@ -833,8 +827,10 @@ No issues found! 🎉
    * Text `Entire NCR:` is too small at 8px
    * Text `7,301,393` is too small at 8px
 
-**https://pmagtulis.github.io/projects/video-games.html** [Visit ↗](https://pmagtulis.github.io/projects/video-games.html)
+**https://pmagtulis.github.io/projects/video-games.html**
 
+* Move `projects/video-games.html` into a folder called `video-games`, then rename the file `index.html`. That way the project can be found at **/video-games** instead of **/video-games.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `4m` is too small at 8px
    * Text `Super Mario Bros. released three` is too small at 8px
@@ -886,7 +882,7 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://pmartisa.github.io/** [Visit ↗](https://pmartisa.github.io/)
+**https://pmartisa.github.io/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1194,7 +1190,7 @@ No issues found! 🎉
    * Text `Chile` overlaps with `11.2` at screen width 1300
    * Text `DIVISION` overlaps with `1` at screen width 1300
 
-**https://pmartisa.github.io/project_one/** [Visit ↗](https://pmartisa.github.io/project_one/)
+**https://pmartisa.github.io/project_one/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1207,7 +1203,7 @@ No issues found! 🎉
    * Text `` is too small at 11px
    * Text `A Flourish scatter chart` is too small at 11px
 
-**https://pmartisa.github.io/project_three/index.html** [Visit ↗](https://pmartisa.github.io/project_three/index.html)
+**https://pmartisa.github.io/project_three/index.html**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1347,8 +1343,12 @@ No issues found! 🎉
    * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+   * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
+   * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
 
-**https://pmartisa.github.io/project_two/index.html** [Visit ↗](https://pmartisa.github.io/project_two/index.html)
+**https://pmartisa.github.io/project_two/index.html**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1367,11 +1367,11 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://sarahgrevy.github.io/** [Visit ↗](https://sarahgrevy.github.io/)
+**https://sarahgrevy.github.io/**
 
 No issues found! 🎉
 
-**https://sarahgrevy.github.io/co2_emission** [Visit ↗](https://sarahgrevy.github.io/co2_emission)
+**https://sarahgrevy.github.io/co2_emission**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `A Flourish map` is too small at 11px
@@ -1383,11 +1383,11 @@ No issues found! 🎉
    * Text `` is too small at 11px
    * Text `A Flourish chart` is too small at 11px
 
-**https://sarahgrevy.github.io/weather_project** [Visit ↗](https://sarahgrevy.github.io/weather_project)
+**https://sarahgrevy.github.io/weather_project**
 
 No issues found! 🎉
 
-**https://sarahgrevy.github.io/wordle** [Visit ↗](https://sarahgrevy.github.io/wordle)
+**https://sarahgrevy.github.io/wordle**
 
 No issues found! 🎉
 
@@ -1407,11 +1407,11 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://semerriam.github.io/** [Visit ↗](https://semerriam.github.io/)
+**https://semerriam.github.io/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://semerriam.github.io/nicar_first_visual_story/** [Visit ↗](https://semerriam.github.io/nicar_first_visual_story/)
+**https://semerriam.github.io/nicar_first_visual_story/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1420,13 +1420,15 @@ No issues found! 🎉
    * Text `Leaflet` is too small at 11px
    * Text `Leaflet` is too small at 11px
 
-**https://semerriam.github.io/pj_ec_schools.html** [Visit ↗](https://semerriam.github.io/pj_ec_schools.html)
+**https://semerriam.github.io/pj_ec_schools.html**
 
+* Move `pj_ec_schools.html` into a folder called `pj_ec_schools`, then rename the file `index.html`. That way the project can be found at **/pj_ec_schools** instead of **/pj_ec_schools.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://semerriam.github.io/projects/pj_census_quirks.html** [Visit ↗](https://semerriam.github.io/projects/pj_census_quirks.html)
+**https://semerriam.github.io/projects/pj_census_quirks.html**
 
+* Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1631,8 +1633,9 @@ No issues found! 🎉
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
 
-**https://semerriam.github.io/projects/pj_census_quirks.html** [Visit ↗](https://semerriam.github.io/projects/pj_census_quirks.html)
+**https://semerriam.github.io/projects/pj_census_quirks.html**
 
+* Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1852,11 +1855,11 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://sriharshadevulapalli.github.io/** [Visit ↗](https://sriharshadevulapalli.github.io/)
+**https://sriharshadevulapalli.github.io/**
 
 No issues found! 🎉
 
-**https://sriharshadevulapalli.github.io/indian-airline-routes/index.html** [Visit ↗](https://sriharshadevulapalli.github.io/indian-airline-routes/index.html)
+**https://sriharshadevulapalli.github.io/indian-airline-routes/index.html**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Delhi` is too small at 10px
@@ -1914,12 +1917,14 @@ No issues found! 🎉
    * Text `Hyderabad` is too small at 9px
    * Text `Bengaluru` is too small at 9px
    * Text `Chennai` is too small at 9px
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+   * `"Source Sans Pro"` font not found, used in 98 text objects. Example: _Air India, The national, carrier has the_
 
-**https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/** [Visit ↗](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)
+**https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/**
 
 No issues found! 🎉
 
-**https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html** [Visit ↗](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)
+**https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html**
 
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `compared to historical average (1950-2000)` overlaps with `Extreme Deficient` at screen width 400
@@ -1944,16 +1949,17 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://srjouppi.github.io/** [Visit ↗](https://srjouppi.github.io/)
+**https://srjouppi.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://srjouppi.github.io/colorado-parks-mobility/** [Visit ↗](https://srjouppi.github.io/colorado-parks-mobility/)
+**https://srjouppi.github.io/colorado-parks-mobility/**
 
 No issues found! 🎉
 
-**https://srjouppi.github.io/covid-gofundme-analysis/** [Visit ↗](https://srjouppi.github.io/covid-gofundme-analysis/)
+**https://srjouppi.github.io/covid-gofundme-analysis/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Distribution of number of days in the hospital reported in COVID-19 related GoFundMe campaigns` is too small at 11px
    * Text `30 campaigns` is too small at 11px
@@ -1997,16 +2003,18 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://stephenanti.github.io/** [Visit ↗](https://stephenanti.github.io/)
+**https://stephenanti.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://stephenanti.github.io/brooklyn_crashes.html** [Visit ↗](https://stephenanti.github.io/brooklyn_crashes.html)
+**https://stephenanti.github.io/brooklyn_crashes.html**
 
+* Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://stephenanti.github.io/project_3.html** [Visit ↗](https://stephenanti.github.io/project_3.html)
+**https://stephenanti.github.io/project_3.html**
 
+* Move `project_3.html` into a folder called `project_3`, then rename the file `index.html`. That way the project can be found at **/project_3** instead of **/project_3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `9` is too small at 9px
@@ -2025,8 +2033,9 @@ No issues found! 🎉
    * Text `6000` is too small at 9px
    * Text `8000` is too small at 9px
 
-**https://stephenanti.github.io/yam.html** [Visit ↗](https://stephenanti.github.io/yam.html)
+**https://stephenanti.github.io/yam.html**
 
+* Move `yam.html` into a folder called `yam`, then rename the file `index.html`. That way the project can be found at **/yam** instead of **/yam.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -2044,7 +2053,7 @@ No issues found! 🎉
 
 ### Automatic Checks
 
-**https://tanazm.github.io/** [Visit ↗](https://tanazm.github.io/)
+**https://tanazm.github.io/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `TANAZ MEGHJANI
@@ -2225,21 +2234,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
     ` is too small at 10px
    * Text `` is too small at 10px
    * Text `` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
 
-**https://tanazm.github.io/ATLparks/** [Visit ↗](https://tanazm.github.io/ATLparks/)
+**https://tanazm.github.io/ATLparks/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://tanazm.github.io/Libraries/** [Visit ↗](https://tanazm.github.io/Libraries/)
+**https://tanazm.github.io/Libraries/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Library` overlaps with `6 mile radius` at screen width 400
    * Text `6 mile radius` overlaps with `Population density` at screen width 400
    * Text `Library` overlaps with `6 mile radius` at screen width 900
 
-**https://tanazm.github.io/TXwind/** [Visit ↗](https://tanazm.github.io/TXwind/)
+**https://tanazm.github.io/TXwind/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -2258,19 +2270,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Automatic Checks
 
-**https://vincentvb.github.io/** [Visit ↗](https://vincentvb.github.io/)
+**https://vincentvb.github.io/**
 
 No issues found! 🎉
 
-**https://vincentvb.github.io/football_penalties/** [Visit ↗](https://vincentvb.github.io/football_penalties/)
+**https://vincentvb.github.io/football_penalties/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://vincentvb.github.io/game_reviews** [Visit ↗](https://vincentvb.github.io/game_reviews)
+**https://vincentvb.github.io/game_reviews**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
-**https://vincentvb.github.io/santa_barbara_wine/** [Visit ↗](https://vincentvb.github.io/santa_barbara_wine/)
+**https://vincentvb.github.io/santa_barbara_wine/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
