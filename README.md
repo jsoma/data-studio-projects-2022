@@ -284,16 +284,10 @@ No issues found! 🎉
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Image Credit: Pexels` is too small at 10.72px
-   * Text `Pexels` is too small at 10.72px
 
 **https://juisarwate.github.io/project-3/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Image Credit: Pexels` is too small at 10.72px
-   * Text `Pexels` is too small at 10.72px
 
 **https://juisarwate.github.io/Sarwate_Project1/**
 
@@ -318,37 +312,6 @@ No issues found! 🎉
 **https://juliaingram.github.io**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `February 2022` is too small at 10.4px
-   * Text `Scraping, Machine Learning, HTML, CSS` is too small at 10.4px
-   * Text `August 2021` is too small at 10.4px
-   * Text `Python, spreadsheets` is too small at 10.4px
-   * Text `December 2021` is too small at 10.4px
-   * Text `Web scraping, Mapbox GL JS` is too small at 10.4px
-   * Text `October 2021` is too small at 10.4px
-   * Text `Spreadsheets, SEC filings` is too small at 10.4px
-   * Text `July 2020` is too small at 10.4px
-   * Text `Public records requests, spreadsheets` is too small at 10.4px
-   * Text `February 2022` is too small at 10.4px
-   * Text `Python, Datawrapper` is too small at 10.4px
-   * Text `February 2022` is too small at 10.4px
-   * Text `Python, plotnine/ggplot, Tableau` is too small at 10.4px
-   * Text `August 2020` is too small at 10.4px
-   * Text `Public records` is too small at 10.4px
-   * Text `August 2018` is too small at 10.4px
-   * Text `Public records` is too small at 10.4px
-   * Text `August 2019` is too small at 10.4px
-   * Text `On the ground reporting, photo/video` is too small at 10.4px
-   * Text `February 2019` is too small at 10.4px
-   * Text `Public records` is too small at 10.4px
-   * Text `August 2019` is too small at 10.4px
-   * Text `Explanatory reporting` is too small at 10.4px
-   * Text `October 2021` is too small at 10.4px
-   * Text `On the ground reporting, photo/video` is too small at 10.4px
-   * Text `December 2021` is too small at 10.4px
-   * Text `Datawrapper` is too small at 10.4px
-   * Text `May 2021` is too small at 10.4px
-   * Text `Public records` is too small at 10.4px
 
 **https://juliaingram.github.io/citibike/**
 
@@ -696,9 +659,6 @@ No issues found! 🎉
 **https://naokatoh.github.io/figure_skate_music/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `HanyuMuse` is too small at 6.4px
-   * Text `Aude Mugnier` is too small at 6.4px
 
 **https://naokatoh.github.io/sea_urchin/**
 
@@ -788,9 +748,7 @@ No issues found! 🎉
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `4m` is too small at 8px
    * Text `Super Mario Bros. released three` is too small at 8px
-   * Text `three` is too small at 8px
    * Text `new games in 2021, ` is too small at 8px
-   * Text `new games` is too small at 8px
    * Text `the most among franchises` is too small at 8px
    * Text `units` is too small at 8px
    * Text `sold` is too small at 8px
@@ -798,7 +756,6 @@ No issues found! 🎉
    * Text `2m` is too small at 8px
    * Text `Pandemic dented most sales` is too small at 8px
    * Text `but Final Fantasy bucked trend` is too small at 8px
-   * Text `Final Fantasy` is too small at 8px
    * Text `as PS5 is released with FFVII game` is too small at 8px
    * Text `1m` is too small at 8px
    * Text `0` is too small at 8px
@@ -1142,12 +1099,9 @@ No issues found! 🎉
 **https://pmartisa.github.io/project_three/index.html**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
-   * Text `Stronger colors` is too small at 8px
-   * Text ` ` is too small at 8px
-   * Text ` ` is too small at 8px
-   * Text `imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
    * Text `China` is too small at 10px
    * Text `more than 1.5 million barrels per day` is too small at 9px
@@ -1170,11 +1124,7 @@ No issues found! 🎉
    * Text `Slovakia` is too small at 10px
    * Text `Turkey` is too small at 10px
    * Text `Stronger colors for countries that ` is too small at 5px
-   * Text `Stronger colors` is too small at 5px
-   * Text ` ` is too small at 5px
    * Text `haven’t imposed ` is too small at 5px
-   * Text `haven’t` is too small at 5px
-   * Text ` ` is too small at 5px
    * Text `any sanction.` is too small at 5px
    * Text `China` is too small at 7px
    * Text `2018` is too small at 10px
@@ -1202,10 +1152,6 @@ No issues found! 🎉
    * Text `Slovakia` is too small at 7px
    * Text `Turkey` is too small at 7px
    * Text `Stronger colors for countries that haven’t imposed ` is too small at 7px
-   * Text `Stronger colors` is too small at 7px
-   * Text ` ` is too small at 7px
-   * Text ` ` is too small at 7px
-   * Text `imposed ` is too small at 7px
    * Text `any sanction.` is too small at 7px
    * Text `China` is too small at 9px
    * Text `more than 1.5 million barrels per day` is too small at 7px
@@ -1255,16 +1201,14 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
-   * Text `Nigeria` overlaps with `Yemen` at screen width 400
-   * Text `894,72` overlaps with `880,507` at screen width 400
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
+   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
+   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
@@ -1324,9 +1268,6 @@ No issues found! 🎉
 **https://semerriam.github.io/nicar_first_visual_story/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `MAR. 5, 2022` is too small at 10px
-   * Text `MAR. 5, 2022` is too small at 10px
 
 **https://semerriam.github.io/pj_ec_schools.html**
 
@@ -1791,7 +1732,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1860,187 +1801,7 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `TANAZ MEGHJANI
-   
-
-Data journalist at Columbia Journalism School.
-
-Data collection: APIs, FOIA/FOIL, Beautiful Soup, Selenium.
-Data analysis: Python, Pandas, SQL, HTML, Q Research Software, Excel.
-Maps and visualizations: Matplotlib, Adobe Illustrator, Adobe InDesign, DataWrapper, MapBox, Tableau.
-
-Stories.
-
-South Asian Food Pantry Expands Amid Spike in Need
-
-A longtime community staple in Flushing, Queens, the South Asian Council for Social Services food pantry balances a rise in need and the looming fear of COVID-19.
-
- February 17, 2022.
-
-Blue-state judicial emergencies soar during Trump term
-
-During Trump’s term, the number of judicial emergencies soared in blue states and decreased in red states. And the average number of days that an emergency sat vacant increased from 648 in 2016 to 923 in 2020.
-
- December 16, 2021.
-
-Professional development for D.C. teachers in summer 2021
-
-After a tumultuous year, student needs in the fall of 2021 will vary greatly, and to better serve all students, schools will need to increase their investment in professional development for teachers.
-
- June 24, 2021.
-
-Challenges outside of school for D.C.’s students and families during the pandemic
-
-The pandemic’s impact has been greater for students of color and students from low-income families compared to their peers–and these effects will likely reverberate in the years to come.
-
- March 9, 2021
-
-Transition to college or career for the District’s high school students
-
-Access to good jobs depends heavily on educational attainment - so what do we know about graduation rates, postsecondary enrollment, and postsecondary completion in D.C.? What do we need to find out?
-
- June 30, 2020
-
-Student achievement is on the rise in D.C., but critical gaps persist
-
-At-risk students make up 45 percent of the public school student population in the District, but only 21 percent are meeting or exceeding expectations in ELA and only 17 percent are doing the same in Math.
-
- March 5, 2020
-
-Visualizations.
-
-Disparities in accessing Atlanta's green spaces
-
-Atlanta’s 190 regional parks, neighborhood parks, community parks, playlots, nature preserves, plazas, and trails are unevenly distributed across its twelve City Council Districts.
-
- February 6, 2022
-
-Wind energy production soars
-
-Over the past 20 years, investment in renewable energy sources across the country has increased. Wind energy production has experienced the most growth and Texas is leading the charge.
-
- February 21, 2022
-
-Southern states lack access to libraries
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
- March 12, 2022` is too small at 10px
-   * Text `
-    
-    
-    
-    
-    
-    
-
-    Tanaz Meghjani's Portfolio
-
-    
-
-    
-    
-
-    
-    
-        
-    
-    
-    
-    
-    
-    
-
-    
-    
-    
-        // When the window has finished loading create our google map below
-        google.maps.event.addDomListener(window, 'load', init);
-    
-        function init() {
-            // Basic options for a simple Google Map
-            // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-            var mapOptions = {
-                // How zoomed in you want the map to start at (always required)
-                zoom: 11,
-                
-                scrollwheel: false,
-
-                // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(40.6700, -73.9400), // New York
-
-                // How you would like to style the map. 
-                // This is where you would paste any style found on Snazzy Maps.
-                styles: [	{		featureType:'water',		stylers:[{color:'#74c9be'},{visibility:'on'}]	},{		featureType:'landscape',		stylers:[{color:'#f2f2f2'}]	},{		featureType:'road',		stylers:[{saturation:-100},{lightness:45}]	},{		featureType:'road.highway',		stylers:[{visibility:'simplified'}]	},{		featureType:'road.arterial',		elementType:'labels.icon',		stylers:[{visibility:'off'}]	},{		featureType:'administrative',		elementType:'labels.text.fill',		stylers:[{color:'#444444'}]	},{		featureType:'transit',		stylers:[{visibility:'off'}]	},{		featureType:'poi',		stylers:[{visibility:'off'}]	}]
-            };
-
-            // Get the HTML DOM element that will contain your map 
-            // We are using a div with id="map" seen below in the <body>
-            var mapElement = document.getElementById('map');
-
-            // Create the Google Map using out element and options defined above
-            var map = new google.maps.Map(mapElement, mapOptions);
-        }
-    
-    
-    
-    
-    
-    
-    
-
-    
-    
-  ` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `Tanaz Meghjani's Portfolio` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `
-        // When the window has finished loading create our google map below
-        google.maps.event.addDomListener(window, 'load', init);
-    
-        function init() {
-            // Basic options for a simple Google Map
-            // For more options see: https://developers.google.com/maps/documentation/javascript/reference#MapOptions
-            var mapOptions = {
-                // How zoomed in you want the map to start at (always required)
-                zoom: 11,
-                
-                scrollwheel: false,
-
-                // The latitude and longitude to center the map (always required)
-                center: new google.maps.LatLng(40.6700, -73.9400), // New York
-
-                // How you would like to style the map. 
-                // This is where you would paste any style found on Snazzy Maps.
-                styles: [	{		featureType:'water',		stylers:[{color:'#74c9be'},{visibility:'on'}]	},{		featureType:'landscape',		stylers:[{color:'#f2f2f2'}]	},{		featureType:'road',		stylers:[{saturation:-100},{lightness:45}]	},{		featureType:'road.highway',		stylers:[{visibility:'simplified'}]	},{		featureType:'road.arterial',		elementType:'labels.icon',		stylers:[{visibility:'off'}]	},{		featureType:'administrative',		elementType:'labels.text.fill',		stylers:[{color:'#444444'}]	},{		featureType:'transit',		stylers:[{visibility:'off'}]	},{		featureType:'poi',		stylers:[{visibility:'off'}]	}]
-            };
-
-            // Get the HTML DOM element that will contain your map 
-            // We are using a div with id="map" seen below in the <body>
-            var mapElement = document.getElementById('map');
-
-            // Create the Google Map using out element and options defined above
-            var map = new google.maps.Map(mapElement, mapOptions);
-        }
-    ` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
+No issues found! 🎉
 
 **https://tanazm.github.io/ATLparks/**
 
