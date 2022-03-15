@@ -55,10 +55,6 @@ Quick checks to make sure your pages are looking their best.
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Guizhou:` is too small at 11px
-   * Text `115` is too small at 11px
-   * Text `Guangxi:` is too small at 11px
-   * Text `107` is too small at 11px
    * Text `|` is too small at 8px
    * Text `|` is too small at 8px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -171,7 +167,6 @@ No issues found! 🎉
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20` is too small at 9px
    * Text `15` is too small at 9px
-   * Text `CO2 emissions per capita` is too small at 11px
    * Text `10` is too small at 9px
    * Text `5` is too small at 9px
    * Text `2000` is too small at 9px
@@ -183,7 +178,6 @@ No issues found! 🎉
    * Text `2012` is too small at 9px
    * Text `2014` is too small at 9px
    * Text `2016` is too small at 9px
-   * Text `Year` is too small at 11px
 
 **https://areenaarora.com/responsive-dev-hw**
 
@@ -192,11 +186,6 @@ No issues found! 🎉
 **https://areenaarora.com/stories/biryani/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `A Flourish data visualization` is too small at 11px
-   * Text `A Flourish data visualization` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish data visualization` is too small at 11px
 
 **https://areenaarora.com/stories/ny-state-spills/**
 
@@ -260,7 +249,8 @@ No issues found! 🎉
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
    * Text `Graphic by Jessie Blaeser` is too small at 8px
-   * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
+   * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety
+                                    Administration` is too small at 8px
    * Text `Graphic by Jessie Blaeser` is too small at 8px
 
 **https://jessieblaeser.github.io/pj_ticket_to_ride.html**
@@ -443,9 +433,6 @@ No issues found! 🎉
 
 * Move `food-price-Nigeria.html` into a folder called `food-price-Nigeria`, then rename the file `index.html`. That way the project can be found at **/food-price-Nigeria** instead of **/food-price-Nigeria.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Caveat: CFR depends mostly on newspaper reports to collate its weekly data. Density of incidents in some states in southern Nigeria may be due to high reporting rates because most of Nigeria's major newspapers are concentrated in the south.` is too small at 11px
-   * Text `Caveat:` is too small at 11px
 
 **https://kfalayi.github.io/hispanic_immigrants.html**
 
@@ -472,15 +459,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `A Flourish data visualization` is too small at 11px
-   * Text `A Flourish data visualization` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish data visualization` is too small at 11px
+No issues found! 🎉
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -546,9 +525,6 @@ No issues found! 🎉
    * Text `Garrucha` is too small at 6px
    * Text `Source: Brazilian Federal Police / FOIA` is too small at 6px
    * Text `Glock` is too small at 7px
-   * Text `One out of for foreign weapons` is too small at 11px
-   * Text `seized by the Federal Police in` is too small at 11px
-   * Text `Brazil is a Glock` is too small at 11px
    * Text `Smith & Wesson` is too small at 7px
    * Text `Canik` is too small at 7px
    * Text `Colt` is too small at 7px
@@ -587,10 +563,6 @@ No issues found! 🎉
    * Text `1,000` is too small at 4px
    * Text `1,200` is too small at 4px
    * Text `Source: Brazilian Federal Police / FOIA request` is too small at 4px
-   * Text `Foz de Iguaçu city (state of Paraná),` is too small at 11px
-   * Text `on the border with Paraguay,` is too small at 11px
-   * Text `makes the state have` is too small at 11px
-   * Text `the highest number of guns seizures` is too small at 11px
    * Text `Paraná leads in weapon seized by the Federal Police` is too small at 10px
    * Text `Foz de Iguaçu city (state of Paraná),` is too small at 5px
    * Text ` on the border with Paraguay, ` is too small at 5px
@@ -697,11 +669,6 @@ No issues found! 🎉
 
 * Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `A Flourish chart` is too small at 11px
-   * Text `A Flourish chart` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish chart` is too small at 11px
 
 **https://msc-joel.github.io/main-article3.html**
 
@@ -805,19 +772,6 @@ No issues found! 🎉
 * Move `projects/polls.html` into a folder called `polls`, then rename the file `index.html`. That way the project can be found at **/polls** instead of **/polls.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Number of ` is too small at 11px
-   * Text `registered` is too small at 11px
-   * Text `voters` is too small at 11px
-   * Text `up to 25,000` is too small at 11px
-   * Text `470,001 - Over 1m` is too small at 11px
-   * Text `Cebu City ` is too small at 11px
-   * Text `has ` is too small at 11px
-   * Text `713,074` is too small at 11px
-   * Text `voters` is too small at 11px
-   * Text `Puerto Princesa` is too small at 11px
-   * Text `has 164,590 voters` is too small at 11px
-   * Text `Davao City` is too small at 11px
-   * Text `has over 992,000 voters` is too small at 11px
    * Text `Caloocan` is too small at 8px
    * Text `700,279` is too small at 8px
    * Text `Quezon City` is too small at 8px
@@ -886,13 +840,8 @@ No issues found! 🎉
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
    * Text ` ` is too small at 9px
    * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
-   * Text `.` is too small at 11px
    * Text `2018` is too small at 9px
    * Text `+13.4 pts.` is too small at 9px
    * Text `2016` is too small at 9px
@@ -932,10 +881,6 @@ No issues found! 🎉
    * Text `.` is too small at 6px
    * Text `.` is too small at 6px
    * Text `0` is too small at 10px
-   * Text `1` is too small at 11px
-   * Text `2` is too small at 11px
-   * Text `3` is too small at 11px
-   * Text `4` is too small at 11px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2018` at screen width 400
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `+13.4 pts.` at screen width 400
@@ -1193,15 +1138,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/project_one/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `A Flourish bar chart race` is too small at 11px
-   * Text `A Flourish bar chart race` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish bar chart race` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish scatter chart` is too small at 11px
 
 **https://pmartisa.github.io/project_three/index.html**
 
@@ -1291,18 +1227,11 @@ No issues found! 🎉
    * Text `Japan` is too small at 9px
    * Text `Slovakia` is too small at 9px
    * Text `Turkey` is too small at 9px
-   * Text `674,558` is too small at 11px
-   * Text `Prevalence of insufficient ` is too small at 11px
-   * Text `food consumption ` is too small at 11px
-   * Text `Bangladesh` is too small at 11px
    * Text `1,94` is too small at 10px
    * Text `8.25 million metric tonnes ` is too small at 10px
-   * Text `Azerbaijan` is too small at 11px
-   * Text `Sudan` is too small at 11px
    * Text `1,38` is too small at 10px
    * Text `1,33` is too small at 10px
    * Text `Yemen` is too small at 10px
-   * Text `Pakistan` is too small at 11px
    * Text `796,10` is too small at 9px
    * Text `1,17` is too small at 10px
    * Text `Tanzania` is too small at 10px
@@ -1313,29 +1242,18 @@ No issues found! 🎉
    * Text `998,13` is too small at 9px
    * Text `674,558` is too small at 8px
    * Text `Azerbaijan` is too small at 9px
-   * Text `Bangladesh` is too small at 11px
    * Text `2,58` is too small at 10px
    * Text `1,28` is too small at 10px
    * Text `United Arab ` is too small at 10px
    * Text `Emirates` is too small at 10px
-   * Text `Sudan` is too small at 11px
    * Text `986,95` is too small at 10px
    * Text `736,156` is too small at 10px
    * Text `Viet Nam` is too small at 10px
    * Text `604,543` is too small at 10px
-   * Text `Nigeria` is too small at 11px
-   * Text `Yemen` is too small at 11px
    * Text `894,72` is too small at 10px
    * Text `880,507` is too small at 9px
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
-   * Text `Prevalence of insufficient ` is too small at 11px
-   * Text `food consumption ` is too small at 11px
-   * Text ` Moderately Low (10% - 20%)` is too small at 11px
-   * Text `Very High (above 40%)` is too small at 11px
-   * Text `Low (5% - 10%)` is too small at 11px
-   * Text `Moderately High (20% - 30%)` is too small at 11px
-   * Text `Not reported` is too small at 11px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
    * Text `Nigeria` overlaps with `Yemen` at screen width 400
@@ -1373,15 +1291,7 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/co2_emission**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `A Flourish map` is too small at 11px
-   * Text `A Flourish map` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish map` is too small at 11px
-   * Text `A Flourish chart` is too small at 11px
-   * Text `A Flourish chart` is too small at 11px
-   * Text `` is too small at 11px
-   * Text `A Flourish chart` is too small at 11px
+No issues found! 🎉
 
 **https://sarahgrevy.github.io/weather_project**
 
@@ -1417,8 +1327,6 @@ No issues found! 🎉
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `MAR. 5, 2022` is too small at 10px
    * Text `MAR. 5, 2022` is too small at 10px
-   * Text `Leaflet` is too small at 11px
-   * Text `Leaflet` is too small at 11px
 
 **https://semerriam.github.io/pj_ec_schools.html**
 
@@ -1436,43 +1344,24 @@ No issues found! 🎉
    * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
    * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
    * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `Wyoming Correctional Facility` is too small at 11px
    * Text `+938` is too small at 10px
-   * Text `Bedford Hills Correctional Facility` is too small at 11px
    * Text `+375` is too small at 10px
-   * Text `Colorado Territorial Correctional Facility` is too small at 11px
    * Text `+346` is too small at 10px
-   * Text `Albion Correctional Facility` is too small at 11px
    * Text `+340` is too small at 10px
-   * Text `Centennial Correctional Facility` is too small at 11px
    * Text `+218` is too small at 10px
-   * Text `Ogdensburg Correctional Facility` is too small at 11px
    * Text `+192` is too small at 10px
-   * Text `Midstate Correctional Facility` is too small at 11px
    * Text `+187` is too small at 10px
-   * Text `Fremont Correctional Facility` is too small at 11px
    * Text `+186` is too small at 10px
-   * Text `Bent County Correctional Facility` is too small at 11px
    * Text `+158` is too small at 10px
-   * Text `Cayuga Correctional Facility` is too small at 11px
    * Text `+116` is too small at 10px
-   * Text `Riverview Correctional Facility` is too small at 11px
    * Text `+113` is too small at 10px
-   * Text `La Vista Correctional Facility` is too small at 11px
    * Text `+107` is too small at 10px
-   * Text `Midstate Correctional Facility` is too small at 11px
    * Text `+101` is too small at 10px
-   * Text `Hale Creek Correctional Facility` is too small at 11px
    * Text `+91` is too small at 10px
-   * Text `Five Points Correctional Facility` is too small at 11px
    * Text `+76` is too small at 10px
-   * Text `Hazel D. Plant Women's Treatment Facility` is too small at 11px
    * Text `+72` is too small at 10px
-   * Text `San Carlos Correctional Facility` is too small at 11px
    * Text `+50` is too small at 10px
-   * Text `Midstate Correctional Facility` is too small at 11px
    * Text `+33` is too small at 10px
-   * Text `Marcy Correctional Facility` is too small at 11px
    * Text `+31` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -1485,43 +1374,24 @@ No issues found! 🎉
    * Text `1600` is too small at 10px
    * Text `1800` is too small at 10px
    * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `1` is too small at 11px
    * Text `+938` is too small at 10px
    * Text `+375` is too small at 10px
-   * Text `2` is too small at 11px
-   * Text `3` is too small at 11px
    * Text `+346` is too small at 10px
    * Text `+340` is too small at 10px
-   * Text `4` is too small at 11px
    * Text `+218` is too small at 10px
-   * Text `5` is too small at 11px
    * Text `+192` is too small at 10px
-   * Text `6` is too small at 11px
-   * Text `7` is too small at 11px
    * Text `+187` is too small at 10px
-   * Text `8` is too small at 11px
    * Text `+186` is too small at 10px
-   * Text `9` is too small at 11px
    * Text `+158` is too small at 10px
-   * Text `10` is too small at 11px
    * Text `+116` is too small at 10px
    * Text `+113` is too small at 10px
-   * Text `11` is too small at 11px
    * Text `+107` is too small at 10px
-   * Text `12` is too small at 11px
    * Text `+101` is too small at 10px
-   * Text `13` is too small at 11px
    * Text `+91` is too small at 10px
-   * Text `14` is too small at 11px
-   * Text `15` is too small at 11px
    * Text `+76` is too small at 10px
    * Text `+72` is too small at 10px
-   * Text `16` is too small at 11px
    * Text `+50` is too small at 10px
-   * Text `17` is too small at 11px
    * Text `+33` is too small at 10px
-   * Text `18` is too small at 11px
-   * Text `19` is too small at 11px
    * Text `+31` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -1643,43 +1513,24 @@ No issues found! 🎉
    * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
    * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
    * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `Wyoming Correctional Facility` is too small at 11px
    * Text `+938` is too small at 10px
-   * Text `Bedford Hills Correctional Facility` is too small at 11px
    * Text `+375` is too small at 10px
-   * Text `Colorado Territorial Correctional Facility` is too small at 11px
    * Text `+346` is too small at 10px
-   * Text `Albion Correctional Facility` is too small at 11px
    * Text `+340` is too small at 10px
-   * Text `Centennial Correctional Facility` is too small at 11px
    * Text `+218` is too small at 10px
-   * Text `Ogdensburg Correctional Facility` is too small at 11px
    * Text `+192` is too small at 10px
-   * Text `Midstate Correctional Facility` is too small at 11px
    * Text `+187` is too small at 10px
-   * Text `Fremont Correctional Facility` is too small at 11px
    * Text `+186` is too small at 10px
-   * Text `Bent County Correctional Facility` is too small at 11px
    * Text `+158` is too small at 10px
-   * Text `Cayuga Correctional Facility` is too small at 11px
    * Text `+116` is too small at 10px
-   * Text `Riverview Correctional Facility` is too small at 11px
    * Text `+113` is too small at 10px
-   * Text `La Vista Correctional Facility` is too small at 11px
    * Text `+107` is too small at 10px
-   * Text `Midstate Correctional Facility` is too small at 11px
    * Text `+101` is too small at 10px
-   * Text `Hale Creek Correctional Facility` is too small at 11px
    * Text `+91` is too small at 10px
-   * Text `Five Points Correctional Facility` is too small at 11px
    * Text `+76` is too small at 10px
-   * Text `Hazel D. Plant Women's Treatment Facility` is too small at 11px
    * Text `+72` is too small at 10px
-   * Text `San Carlos Correctional Facility` is too small at 11px
    * Text `+50` is too small at 10px
-   * Text `Midstate Correctional Facility` is too small at 11px
    * Text `+33` is too small at 10px
-   * Text `Marcy Correctional Facility` is too small at 11px
    * Text `+31` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -1692,43 +1543,24 @@ No issues found! 🎉
    * Text `1600` is too small at 10px
    * Text `1800` is too small at 10px
    * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `1` is too small at 11px
    * Text `+938` is too small at 10px
    * Text `+375` is too small at 10px
-   * Text `2` is too small at 11px
-   * Text `3` is too small at 11px
    * Text `+346` is too small at 10px
    * Text `+340` is too small at 10px
-   * Text `4` is too small at 11px
    * Text `+218` is too small at 10px
-   * Text `5` is too small at 11px
    * Text `+192` is too small at 10px
-   * Text `6` is too small at 11px
-   * Text `7` is too small at 11px
    * Text `+187` is too small at 10px
-   * Text `8` is too small at 11px
    * Text `+186` is too small at 10px
-   * Text `9` is too small at 11px
    * Text `+158` is too small at 10px
-   * Text `10` is too small at 11px
    * Text `+116` is too small at 10px
    * Text `+113` is too small at 10px
-   * Text `11` is too small at 11px
    * Text `+107` is too small at 10px
-   * Text `12` is too small at 11px
    * Text `+101` is too small at 10px
-   * Text `13` is too small at 11px
    * Text `+91` is too small at 10px
-   * Text `14` is too small at 11px
-   * Text `15` is too small at 11px
    * Text `+76` is too small at 10px
    * Text `+72` is too small at 10px
-   * Text `16` is too small at 11px
    * Text `+50` is too small at 10px
-   * Text `17` is too small at 11px
    * Text `+33` is too small at 10px
-   * Text `18` is too small at 11px
-   * Text `19` is too small at 11px
    * Text `+31` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -1959,34 +1791,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Distribution of number of days in the hospital reported in COVID-19 related GoFundMe campaigns` is too small at 11px
-   * Text `30 campaigns` is too small at 11px
-   * Text `20` is too small at 11px
-   * Text `Six people reported` is too small at 11px
-   * Text `hospital stays of` is too small at 11px
-   * Text `around four months` is too small at 11px
-   * Text `10` is too small at 11px
-   * Text `The longest stay` is too small at 11px
-   * Text `reported was` is too small at 11px
-   * Text `nine months` is too small at 11px
-   * Text `0` is too small at 11px
-   * Text `0` is too small at 11px
-   * Text `40` is too small at 11px
-   * Text `80` is too small at 11px
-   * Text `120` is too small at 11px
-   * Text `160` is too small at 11px
-   * Text `200` is too small at 11px
-   * Text `240` is too small at 11px
-   * Text `280 days` is too small at 11px
-   * Text `Source: 3,500+ campaigns scraped from GoFundMe in February 2022. Using regex found 157 posts that mentioned` is too small at 11px
-   * Text `“days/weeks/months” in the hospital. Credit: Shelby Jouppi` is too small at 11px
-   * Text `Credit: Shelby Jouppi` is too small at 11px
-   * Text `Source: 3,500+ campaigns scraped from GoFundMe in February 2022. ` is too small at 11px
-   * Text `Using regex found 157 posts that mentioned  “days/weeks/months” in` is too small at 11px
-   * Text ` the hospital.  Credit: Shelby Jouppi` is too small at 11px
-   * Text ` the hospital.  ` is too small at 11px
+No issues found! 🎉
 
 
 

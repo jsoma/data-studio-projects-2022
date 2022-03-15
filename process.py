@@ -82,7 +82,7 @@ class Website:
         tiny_text = self.page.evaluate("""
         () => [...document.querySelectorAll("*")]
             .filter(d => window.getComputedStyle(d)['font-size'].indexOf("px") != -1)
-            .filter(d => parseFloat(window.getComputedStyle(d)['font-size']) < 12)
+            .filter(d => parseFloat(window.getComputedStyle(d)['font-size']) < 11)
             .map((d) => {
                 return {
                     text: d.innerText,
