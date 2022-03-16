@@ -22,7 +22,7 @@ jobs:
           pipenv install --dev
           pipenv run playwright install
       - name: Run script
-        run: pipenv run process.py
+        run: pipenv run python process.py
       - name: Commit and push if content changed
         run: |-
           git config user.name "Automated"
