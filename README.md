@@ -100,6 +100,7 @@ No issues found! 🎉
 **https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
 * Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `The pandemic also shot inflation to a 3-year high` is too small at 9px
    * Text `Inflation` is too small at 8px
@@ -245,6 +246,7 @@ No issues found! 🎉
 **https://jessieblaeser.github.io/pj_pipelines.html**
 
 * Move `pj_pipelines.html` into a folder called `pj_pipelines`, then rename the file `index.html`. That way the project can be found at **/pj_pipelines** instead of **/pj_pipelines.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
@@ -256,10 +258,12 @@ No issues found! 🎉
 **https://jessieblaeser.github.io/pj_ticket_to_ride.html**
 
 * Move `pj_ticket_to_ride.html` into a folder called `pj_ticket_to_ride`, then rename the file `index.html`. That way the project can be found at **/pj_ticket_to_ride** instead of **/pj_ticket_to_ride.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 
 **https://jessieblaeser.github.io/pj_trae_young.html**
 
 * Move `pj_trae_young.html` into a folder called `pj_trae_young`, then rename the file `index.html`. That way the project can be found at **/pj_trae_young** instead of **/pj_trae_young.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 
 
 
@@ -291,6 +295,8 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/Sarwate_Project1/**
 
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -390,6 +396,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/Food_price_Nigeria/**
 
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/hispanics%20in%20america/**
@@ -440,6 +448,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
@@ -568,15 +577,18 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/Airbnb-Story/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://mishavaid7.github.io/Project-4/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -668,10 +680,12 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure_skate_music/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://naokatoh.github.io/sea_urchin/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://naokatoh.github.io/ukraine/**
@@ -928,7 +942,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1247,10 +1260,11 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/project_one/**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://pmartisa.github.io/project_three/index.html**
 
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
@@ -1360,11 +1374,11 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 
 
@@ -1387,11 +1401,11 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/co2_emission**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://sarahgrevy.github.io/weather_project**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://sarahgrevy.github.io/wordle**
 
@@ -1419,17 +1433,21 @@ No issues found! 🎉
 
 **https://semerriam.github.io/nicar_first_visual_story/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/pj_ec_schools.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `pj_ec_schools.html` into a folder called `pj_ec_schools`, then rename the file `index.html`. That way the project can be found at **/pj_ec_schools** instead of **/pj_ec_schools.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
 * Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1592,29 +1610,14 @@ No issues found! 🎉
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `Census Count` overlaps with `|` at screen width 1300
-   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
-   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
-   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
-   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
-   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
-   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
-   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
-   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
-   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
-   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
-   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
-   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
-   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
-   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
-   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
+   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 1300
+   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
+   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
 * Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -1940,11 +1943,13 @@ No issues found! 🎉
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/project_3.html**
 
 * Move `project_3.html` into a folder called `project_3`, then rename the file `index.html`. That way the project can be found at **/project_3** instead of **/project_3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `9` is too small at 9px
@@ -1989,11 +1994,13 @@ No issues found! 🎉
 
 **https://tanazm.github.io/ATLparks/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/Libraries/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
@@ -2006,6 +2013,7 @@ No issues found! 🎉
 
 **https://tanazm.github.io/TXwind/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -2029,13 +2037,16 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/football_penalties/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://vincentvb.github.io/game_reviews**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://vincentvb.github.io/santa_barbara_wine/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
