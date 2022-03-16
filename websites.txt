@@ -28,9 +28,10 @@ https://juliaingram.github.io/citibike/
 https://juliaingram.github.io/daylight-saving/
 https://juliaingram.github.io/therapy-apps/
 https://kfalayi.github.io/
-https://kfalayi.github.io/bloomberg_map_recreation.html
-https://kfalayi.github.io/food-price-Nigeria.html
-https://kfalayi.github.io/hispanic_immigrants.html
+https://kfalayi.github.io/bloomberg/
+https://kfalayi.github.io/Food_price_Nigeria/
+https://kfalayi.github.io/hispanics%20in%20america/
+https://kfalayi.github.io/irpin/
 https://luizftoledo.github.io/
 https://luizftoledo.github.io/congress-expenses-with-food/
 https://luizftoledo.github.io/iron-maiden-happiness/
