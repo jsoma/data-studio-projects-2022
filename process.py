@@ -29,7 +29,11 @@ class Website:
     def load(self):
         """Load the web page"""
         logger.info(f"{self.url}: Loading")
-        self.page.goto(self.url)
+        response = self.page.goto(self.url)
+        if response and response.ok:
+            self.successful_request = True
+        else:
+            self.successful_request = False
         time.sleep(1)
         self.page.evaluate(
             "window.scrollTo({ top: document.body.scrollHeight, behavior: 'smooth' });"
@@ -158,9 +162,18 @@ class Website:
             }
         """)
 
+        if not self.successful_request:
+            self.issues.append("* Could not access the page - if you moved it, let me know")
+
         if not self.urlpath.endswith("index.html"):
             name = self.urlpath.split("/")[-1].replace(".html", "")
             self.issues.append(f"* Move `{self.urlpath}` into a folder called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)")
+
+        if ' ' in self.url or '_' in self.url:
+            self.issues.append("* Change URL to use `-` instead of spaces or underscores")
+
+        if self.url != self.url.lower():
+            self.issues.append("* Change URL to be all in lowercase")
 
         if missing_viewport_tag:
             self.issues.append('* Missing viewport meta tag in `<head>`, needed to tell browser it\'s responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`')
