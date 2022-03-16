@@ -48,8 +48,10 @@ https://naokatoh.github.io/sea_urchin/
 https://naokatoh.github.io/ukraine/
 https://pmagtulis.github.io/
 https://pmagtulis.github.io/projects.html
-https://pmagtulis.github.io/projects/polls.html
-https://pmagtulis.github.io/projects/video-games.html
+https://pmagtulis.github.io/projects/air-quality/
+https://pmagtulis.github.io/projects/polls-ph/
+https://pmagtulis.github.io/projects/ph-conflict/
+https://pmagtulis.github.io/projects/video-games/
 https://pmartisa.github.io/
 https://pmartisa.github.io/project_one/
 https://pmartisa.github.io/project_three/index.html

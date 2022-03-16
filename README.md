@@ -338,10 +338,6 @@ No issues found! 🎉
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 400
    * Text `have been at 5:01 p.m., in` overlaps with `earlier` at screen width 400
-   * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 900
-   * Text `have been at 5:01 p.m., in` overlaps with `earlier` at screen width 900
-   * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 1300
-   * Text `have been at 5:01 p.m., in` overlaps with `earlier` at screen width 1300
 
 **https://juliaingram.github.io/therapy-apps/**
 
@@ -355,9 +351,9 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg_map_recreation.html)|[![mobile](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/food-price-Nigeria.html)|[![mobile](screenshots/kfalayi.github.io/food-price-Nigeria.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/food-price-Nigeria.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/food-price-Nigeria.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanic_immigrants.html)|[![mobile](screenshots/kfalayi.github.io/hispanic_immigrants.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanic_immigrants.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanic_immigrants.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://kfalayi.github.io/bloomberg_map_recreation.html)|[![mobile](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://kfalayi.github.io/food-price-Nigeria.html)|[![mobile](screenshots/kfalayi.github.io/food-price-Nigeria.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/food-price-Nigeria.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/food-price-Nigeria.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://kfalayi.github.io/hispanic_immigrants.html)|[![mobile](screenshots/kfalayi.github.io/hispanic_immigrants.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanic_immigrants.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanic_immigrants.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -369,37 +365,20 @@ No issues found! 🎉
 **https://kfalayi.github.io/bloomberg_map_recreation.html**
 
 * Move `bloomberg_map_recreation.html` into a folder called `bloomberg_map_recreation`, then rename the file `index.html`. That way the project can be found at **/bloomberg_map_recreation** instead of **/bloomberg_map_recreation.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `There are over 26,000 dollar stores across the US` is too small at 8px
-   * Text `1 dot= 1 dollar store` is too small at 8px
-   * Text `1 dot = 1 dollar store` is too small at 10px
-   * Text `blue dots = dollar stores` is too small at 10px
-   * Text `red dots = vaccination sites` is too small at 10px
-   * Text `1 dot = 1 dollar store` is too small at 9px
-   * Text `blue dots = dollar stores` is too small at 9px
-   * Text `red dots = vaccination sites` is too small at 9px
-   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 10px
-   * Text `1 dot = 1 dollar store` is too small at 6px
-   * Text `blue dots = dollar stores` is too small at 6px
-   * Text `red dots = vaccination sites` is too small at 6px
-   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 3px
-   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 5px
-   * Text `Areas within a 10-mins drive of dollar stores` is too small at 8px
-   * Text `but outside 10-mins drive of vaccination sites` is too small at 8px
-   * Text `Red dots are vaccination sites` is too small at 8px
-   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 4px
-   * Text `but outside 10-mins drive of vaccination sites` is too small at 4px
-   * Text `Red dots are vaccination sites` is too small at 4px
 
 **https://kfalayi.github.io/food-price-Nigeria.html**
 
 * Move `food-price-Nigeria.html` into a folder called `food-price-Nigeria`, then rename the file `index.html`. That way the project can be found at **/food-price-Nigeria** instead of **/food-price-Nigeria.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/hispanic_immigrants.html**
 
 * Move `hispanic_immigrants.html` into a folder called `hispanic_immigrants`, then rename the file `index.html`. That way the project can be found at **/hispanic_immigrants** instead of **/hispanic_immigrants.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -712,8 +691,10 @@ No issues found! 🎉
 |---|---|---|---|
 |[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects.html)|[![mobile](screenshots/pmagtulis.github.io/projects.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls.html)|[![mobile](screenshots/pmagtulis.github.io/projects_polls.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/video-games.html)|[![mobile](screenshots/pmagtulis.github.io/projects_video-games.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_video-games.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_video-games.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/video-games/)|[![mobile](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -727,9 +708,167 @@ No issues found! 🎉
 * Move `projects.html` into a folder called `projects`, then rename the file `index.html`. That way the project can be found at **/projects** instead of **/projects.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://pmagtulis.github.io/projects/polls.html**
+**https://pmagtulis.github.io/projects/air-quality/**
 
-* Move `projects/polls.html` into a folder called `polls`, then rename the file `index.html`. That way the project can be found at **/polls** instead of **/polls.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `600` is too small at 8px
+   * Text `500` is too small at 8px
+   * Text `400` is too small at 8px
+   * Text `300` is too small at 8px
+   * Text `200` is too small at 8px
+   * Text `100` is too small at 8px
+   * Text `Air quality complaints` is too small at 8px
+   * Text `in the area first recorded` is too small at 8px
+   * Text `in 2016` is too small at 8px
+   * Text `0` is too small at 8px
+   * Text `Mar 2020` is too small at 8px
+   * Text `Jun 2021` is too small at 8px
+   * Text `Feb 2022` is too small at 8px
+   * Text `Aug 2016` is too small at 8px
+   * Text `Complaints about air` is too small at 10px
+   * Text `quality hit a record-high` is too small at 10px
+   * Text `in January 2022 ` is too small at 10px
+   * Text `800` is too small at 8px
+   * Text `complaints` is too small at 8px
+   * Text `600` is too small at 8px
+   * Text `400` is too small at 8px
+   * Text `200` is too small at 8px
+   * Text `0` is too small at 8px
+   * Text `2008` is too small at 8px
+   * Text `2004` is too small at 8px
+   * Text `2012` is too small at 8px
+   * Text `2016` is too small at 8px
+   * Text `2020` is too small at 8px
+   * Text `2004` is too small at 8px
+   * Text `2008` is too small at 8px
+   * Text `2012` is too small at 8px
+   * Text `2016` is too small at 8px
+   * Text `2020` is too small at 8px
+   * Text `800` is too small at 8px
+   * Text `complaints` is too small at 8px
+   * Text `600` is too small at 8px
+   * Text `400` is too small at 8px
+   * Text `200` is too small at 8px
+   * Text `0` is too small at 8px
+   * Text `2004` is too small at 8px
+   * Text `2008` is too small at 8px
+   * Text `2012` is too small at 8px
+   * Text `2016` is too small at 8px
+   * Text `2020` is too small at 8px
+   * Text `2004` is too small at 8px
+   * Text `2008` is too small at 8px
+   * Text `2012` is too small at 8px
+   * Text `2016` is too small at 8px
+   * Text `2020` is too small at 8px
+   * Text `800` is too small at 8px
+   * Text `Complaints about air quality` is too small at 8px
+   * Text `surge in January 2022 ` is too small at 8px
+   * Text `complaints` is too small at 8px
+   * Text `600` is too small at 8px
+   * Text `400` is too small at 8px
+   * Text `200` is too small at 8px
+   * Text `0` is too small at 8px
+   * Text `2004` is too small at 8px
+   * Text `2008` is too small at 8px
+   * Text `2012` is too small at 8px
+   * Text `2016` is too small at 8px
+   * Text `2020` is too small at 8px
+   * Text `800` is too small at 8px
+   * Text `complaints` is too small at 8px
+   * Text `600` is too small at 8px
+   * Text `400` is too small at 8px
+   * Text `200` is too small at 8px
+   * Text `0` is too small at 8px
+   * Text `2008` is too small at 8px
+   * Text `2004` is too small at 8px
+   * Text `2012` is too small at 8px
+   * Text `2016` is too small at 8px
+   * Text `2020` is too small at 8px
+   * Text `Complaints about air` is too small at 10px
+   * Text `quality hit a record-high` is too small at 10px
+   * Text `in January 2022` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
+   * Text `2008` overlaps with `2004` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `2004` overlaps with `2008` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `2004` overlaps with `2008` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `2004` overlaps with `2008` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 1300
+   * Text `2004` overlaps with `2008` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `2008` overlaps with `2004` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+
+**https://pmagtulis.github.io/projects/polls-ph/**
+
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Caloocan` is too small at 8px
@@ -741,42 +880,25 @@ No issues found! 🎉
    * Text `Entire NCR:` is too small at 8px
    * Text `7,301,393` is too small at 8px
 
-**https://pmagtulis.github.io/projects/video-games.html**
+**https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Move `projects/video-games.html` into a folder called `video-games`, then rename the file `index.html`. That way the project can be found at **/video-games** instead of **/video-games.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `4m` is too small at 8px
-   * Text `Super Mario Bros. released three` is too small at 8px
-   * Text `new games in 2021, ` is too small at 8px
-   * Text `the most among franchises` is too small at 8px
-   * Text `units` is too small at 8px
-   * Text `sold` is too small at 8px
-   * Text `3m` is too small at 8px
-   * Text `2m` is too small at 8px
-   * Text `Pandemic dented most sales` is too small at 8px
-   * Text `but Final Fantasy bucked trend` is too small at 8px
-   * Text `as PS5 is released with FFVII game` is too small at 8px
-   * Text `1m` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `2019` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `2021` is too small at 8px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Monster Hunter Rise` overlaps with `Pokemon Brilliant Diamond / Shining Pearl` at screen width 400
-   * Text `Pokemon Brilliant Diamond / Shining Pearl` overlaps with `Momotaro Dentetsu` at screen width 400
-   * Text `Momotaro Dentetsu` overlaps with `Super Mario 3D World + Bowser's Fury` at screen width 400
-   * Text `Super Mario 3D World + Bowser's Fury` overlaps with `Ring Fit Adventure` at screen width 400
-   * Text `Ring Fit Adventure` overlaps with `Mario Kart 8 Deluxe` at screen width 400
-   * Text `Mario Kart 8 Deluxe` overlaps with `Minecraft` at screen width 400
-   * Text `Minecraft` overlaps with `Animal Crossing: New Horizons` at screen width 400
-   * Text `Animal Crossing: New Horizons` overlaps with `Mario Party Superstars` at screen width 400
-   * Text `Mario Party Superstars` overlaps with `Super Smash Bros. Ultimate` at screen width 400
-   * Text `Super Smash Bros. Ultimate` overlaps with `Pokemon Sword & Shield` at screen width 400
-   * Text `Pokemon Sword & Shield` overlaps with `Clubhouse Games: 51 Worldwide Classics` at screen width 400
-   * Text `Clubhouse Games: 51 Worldwide Classics` overlaps with `Story of Seasons: Pioneers of Olive Town` at screen width 400
-   * Text `Story of Seasons: Pioneers of Olive Town` overlaps with `New Pokemon Snap` at screen width 400
-   * Text `New Pokemon Snap` overlaps with `Super Mario Party` at screen width 400
+   * Text `Deaths per 100,000 population ` is too small at 8px
+   * Text `(2016-2019)` is too small at 8px
+   * Text `120` is too small at 7px
+   * Text `40` is too small at 7px
+   * Text `20` is too small at 7px
+   * Text `Deaths per 100,000 population ` is too small at 8px
+   * Text `(2016-2019)` is too small at 8px
+   * Text `120` is too small at 7px
+   * Text `40` is too small at 7px
+   * Text `20` is too small at 7px
+
+**https://pmagtulis.github.io/projects/video-games/**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text ` ` is too small at 10px
 
 
 
@@ -795,7 +917,6 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 9px
    * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
@@ -1094,12 +1215,10 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/project_one/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://pmartisa.github.io/project_three/index.html**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
@@ -1201,18 +1320,20 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
+   * Text `Nigeria` overlaps with `Yemen` at screen width 400
+   * Text `894,72` overlaps with `880,507` at screen width 400
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
-   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
-   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
 
 **https://pmartisa.github.io/project_two/index.html**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 
 
@@ -1440,9 +1561,25 @@ No issues found! 🎉
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
+   * Text `Census Count` overlaps with `|` at screen width 1300
+   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
+   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
+   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
+   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
+   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
+   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
+   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
+   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
+   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
+   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
+   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
+   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
+   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
+   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
+   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
@@ -1609,9 +1746,25 @@ No issues found! 🎉
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
+   * Text `Census Count` overlaps with `|` at screen width 1300
+   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
+   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
+   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
+   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
+   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
+   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
+   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
+   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
+   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
+   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
+   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
+   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
+   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
+   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
+   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
 
 
 
