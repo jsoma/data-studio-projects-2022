@@ -1322,6 +1322,8 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Nigeria` overlaps with `Yemen` at screen width 900
+   * Text `894,72` overlaps with `880,507` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
    * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
@@ -1744,9 +1746,25 @@ No issues found! 🎉
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
+   * Text `Census Count` overlaps with `|` at screen width 1300
+   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
+   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
+   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
+   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
+   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
+   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
+   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
+   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
+   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
+   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
+   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
+   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
+   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
+   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
+   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
+   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
 
 
 
