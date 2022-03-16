@@ -351,9 +351,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://kfalayi.github.io/bloomberg_map_recreation.html)|[![mobile](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_map_recreation.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://kfalayi.github.io/food-price-Nigeria.html)|[![mobile](screenshots/kfalayi.github.io/food-price-Nigeria.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/food-price-Nigeria.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/food-price-Nigeria.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/food-price-Nigeria.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://kfalayi.github.io/hispanic_immigrants.html)|[![mobile](screenshots/kfalayi.github.io/hispanic_immigrants.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanic_immigrants.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanic_immigrants.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanic_immigrants.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics%20in%20america/)|[![mobile](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -362,23 +363,53 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://kfalayi.github.io/bloomberg_map_recreation.html**
+**https://kfalayi.github.io/bloomberg/**
 
-* Move `bloomberg_map_recreation.html` into a folder called `bloomberg_map_recreation`, then rename the file `index.html`. That way the project can be found at **/bloomberg_map_recreation** instead of **/bloomberg_map_recreation.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `There are over 26,000 dollar stores across the US` is too small at 8px
+   * Text `1 dot= 1 dollar store` is too small at 8px
+   * Text `1 dot = 1 dollar store` is too small at 10px
+   * Text `blue dots = dollar stores` is too small at 10px
+   * Text `red dots = vaccination sites` is too small at 10px
+   * Text `1 dot = 1 dollar store` is too small at 9px
+   * Text `blue dots = dollar stores` is too small at 9px
+   * Text `red dots = vaccination sites` is too small at 9px
+   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 10px
+   * Text `1 dot = 1 dollar store` is too small at 6px
+   * Text `blue dots = dollar stores` is too small at 6px
+   * Text `red dots = vaccination sites` is too small at 6px
+   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 3px
+   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 5px
+   * Text `Areas within a 10-mins drive of dollar stores` is too small at 8px
+   * Text `but outside 10-mins drive of vaccination sites` is too small at 8px
+   * Text `Red dots are vaccination sites` is too small at 8px
+   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 4px
+   * Text `but outside 10-mins drive of vaccination sites` is too small at 4px
+   * Text `Red dots are vaccination sites` is too small at 4px
+
+**https://kfalayi.github.io/Food_price_Nigeria/**
+
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://kfalayi.github.io/food-price-Nigeria.html**
+**https://kfalayi.github.io/hispanics%20in%20america/**
 
-* Move `food-price-Nigeria.html` into a folder called `food-price-Nigeria`, then rename the file `index.html`. That way the project can be found at **/food-price-Nigeria** instead of **/food-price-Nigeria.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
-**https://kfalayi.github.io/hispanic_immigrants.html**
+**https://kfalayi.github.io/irpin/**
 
-* Move `hispanic_immigrants.html` into a folder called `hispanic_immigrants`, then rename the file `index.html`. That way the project can be found at **/hispanic_immigrants** instead of **/hispanic_immigrants.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `Irpin River` overlaps with `destroyed bridge, one of` at screen width 400
+   * Text `destroyed bridge, one of` overlaps with `IRPIN` at screen width 400
+   * Text `the main escape routes out of Irpin` overlaps with `IRPIN` at screen width 400
+   * Text `the main escape routes out of Irpin` overlaps with `At least four people` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
+   * Text `were killed by a mortar shell.` overlaps with `PS30 road` at screen width 400
+   * Text `Irpin` overlaps with `Kyiv` at screen width 400
+   * Text `Irpin` overlaps with `UKRAINE` at screen width 400
+   * Text `Kyiv` overlaps with `UKRAINE` at screen width 400
+   * Text `Irpin` overlaps with `Kyiv` at screen width 900
 
 
 
@@ -1329,7 +1360,7 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
 
 **https://pmartisa.github.io/project_two/index.html**
 
