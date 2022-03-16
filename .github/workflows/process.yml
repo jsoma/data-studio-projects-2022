@@ -1,4 +1,4 @@
-name: Process websites
+name: process
 
 on:
   workflow_dispatch:
@@ -6,8 +6,8 @@ on:
     - cron: "0 */3 * * *"
 
 jobs:
-  take-screenshot:
-    name: Take screenshot
+  process:
+    name: Process websites
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
