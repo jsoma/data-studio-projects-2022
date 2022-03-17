@@ -80,7 +80,7 @@ Quick checks to make sure your pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[My stories live here | annerquaye.github.io](https://annerquaye.github.io)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
+|[Abbey Richard's Portfolio](https://annerquaye.github.io)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
 |[Abbey Richard](https://annerquaye.github.io/projects/oscars.html)|[![mobile](screenshots/annerquaye.github.io/projects_oscars.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_oscars.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_oscars.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-wide-full.jpg)|
 |[Abbey Richard](https://annerquaye.github.io/projects/responsive_pages/responsive.html)|[![mobile](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-full.jpg)|
 |[Abbey Richard](https://annerquaye.github.io/projects/ricestory.html)|[![mobile](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_ricestory.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_ricestory.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-wide-full.jpg)|
@@ -523,7 +523,6 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
@@ -1497,15 +1496,15 @@ No issues found! 🎉
 |[Susan Merriam](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
 |[First Visual Story](https://semerriam.github.io/nicar_first_visual_story/)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://semerriam.github.io/pj_ec_schools.html)|[![mobile](screenshots/semerriam.github.io/pj_ec_schools.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/pj_ec_schools.html-medium-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/pj_ec_schools.html-wide-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://semerriam.github.io/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://semerriam.github.io/nicar_first_visual_story/**
 
@@ -1522,359 +1521,19 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 10px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 10px
-   * Text `1 Wyoming Correctional Facility` is too small at 10px
-   * Text `4 Albion Correctional Facility` is too small at 10px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 10px
-   * Text `5 Centennial Correctional Facility` is too small at 10px
-   * Text `7 Midstate Correctional Facility` is too small at 10px
-   * Text `8 Fremont Correctional Facility` is too small at 10px
-   * Text `9 Bent County Correctional Facility` is too small at 10px
-   * Text `11 Riverview Correctional Facility` is too small at 10px
-   * Text `12 La Vista Correctional Facility` is too small at 10px
-   * Text `10 Cayuga Correctional Facility` is too small at 10px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 10px
-   * Text `15 Five Points Correctional Facility` is too small at 10px
-   * Text `14 Hale Creek Correctional Facility` is too small at 10px
-   * Text `13 Midstate Correctional Facility` is too small at 10px
-   * Text `17 San Carlos Correctional Facility` is too small at 10px
-   * Text `18 Midstate Correctional Facility` is too small at 10px
-   * Text `19 Marcy Correctional Facility` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `1` is too small at 8px
-   * Text `+938` is too small at 9px
-   * Text `2` is too small at 8px
-   * Text `+375` is too small at 9px
-   * Text `3` is too small at 8px
-   * Text `+346` is too small at 9px
-   * Text `4` is too small at 8px
-   * Text `+340` is too small at 9px
-   * Text `+218` is too small at 10px
-   * Text `5` is too small at 8px
-   * Text `6` is too small at 8px
-   * Text `+192` is too small at 9px
-   * Text `7` is too small at 8px
-   * Text `+187` is too small at 9px
-   * Text `8` is too small at 8px
-   * Text `+186` is too small at 9px
-   * Text `9` is too small at 8px
-   * Text `+158` is too small at 9px
-   * Text `10` is too small at 8px
-   * Text `+116` is too small at 9px
-   * Text `11` is too small at 8px
-   * Text `+113` is too small at 9px
-   * Text `12` is too small at 8px
-   * Text `+107` is too small at 9px
-   * Text `13` is too small at 8px
-   * Text `+101` is too small at 9px
-   * Text `14` is too small at 8px
-   * Text `+91` is too small at 9px
-   * Text `15` is too small at 8px
-   * Text `+76` is too small at 9px
-   * Text `+72` is too small at 9px
-   * Text `16` is too small at 8px
-   * Text `17` is too small at 8px
-   * Text `+50` is too small at 9px
-   * Text `18` is too small at 8px
-   * Text `+33` is too small at 9px
-   * Text `19` is too small at 8px
-   * Text `+31` is too small at 9px
-   * Text `1000` is too small at 8px
-   * Text `1200` is too small at 8px
-   * Text `1400` is too small at 8px
-   * Text `1600` is too small at 8px
-   * Text `1800` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `1 Wyoming Correctional Facility` is too small at 8px
-   * Text `11 Riverview Correctional Facility` is too small at 8px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 8px
-   * Text `12 La Vista Correctional Facility` is too small at 8px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 8px
-   * Text `13 Midstate Correctional Facility` is too small at 8px
-   * Text `4 Albion Correctional Facility` is too small at 8px
-   * Text `14 Hale Creek Correctional Facility` is too small at 8px
-   * Text `5 Centennial Correctional Facility` is too small at 8px
-   * Text `15 Five Points Correctional Facility` is too small at 8px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 8px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 8px
-   * Text `7 Midstate Correctional Facility` is too small at 8px
-   * Text `17 San Carlos Correctional Facility` is too small at 8px
-   * Text `8 Fremont Correctional Facility` is too small at 8px
-   * Text `18 Midstate Correctional Facility` is too small at 8px
-   * Text `9 Bent County Correctional Facility` is too small at 8px
-   * Text `19 Marcy Correctional Facility` is too small at 8px
-   * Text `10 Cayuga Correctional Facility` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 10px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 10px
-   * Text `1 Wyoming Correctional Facility` is too small at 10px
-   * Text `4 Albion Correctional Facility` is too small at 10px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 10px
-   * Text `5 Centennial Correctional Facility` is too small at 10px
-   * Text `7 Midstate Correctional Facility` is too small at 10px
-   * Text `8 Fremont Correctional Facility` is too small at 10px
-   * Text `9 Bent County Correctional Facility` is too small at 10px
-   * Text `11 Riverview Correctional Facility` is too small at 10px
-   * Text `12 La Vista Correctional Facility` is too small at 10px
-   * Text `10 Cayuga Correctional Facility` is too small at 10px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 10px
-   * Text `15 Five Points Correctional Facility` is too small at 10px
-   * Text `14 Hale Creek Correctional Facility` is too small at 10px
-   * Text `13 Midstate Correctional Facility` is too small at 10px
-   * Text `17 San Carlos Correctional Facility` is too small at 10px
-   * Text `18 Midstate Correctional Facility` is too small at 10px
-   * Text `19 Marcy Correctional Facility` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `1` is too small at 8px
-   * Text `+938` is too small at 9px
-   * Text `2` is too small at 8px
-   * Text `+375` is too small at 9px
-   * Text `3` is too small at 8px
-   * Text `+346` is too small at 9px
-   * Text `4` is too small at 8px
-   * Text `+340` is too small at 9px
-   * Text `+218` is too small at 10px
-   * Text `5` is too small at 8px
-   * Text `6` is too small at 8px
-   * Text `+192` is too small at 9px
-   * Text `7` is too small at 8px
-   * Text `+187` is too small at 9px
-   * Text `8` is too small at 8px
-   * Text `+186` is too small at 9px
-   * Text `9` is too small at 8px
-   * Text `+158` is too small at 9px
-   * Text `10` is too small at 8px
-   * Text `+116` is too small at 9px
-   * Text `11` is too small at 8px
-   * Text `+113` is too small at 9px
-   * Text `12` is too small at 8px
-   * Text `+107` is too small at 9px
-   * Text `13` is too small at 8px
-   * Text `+101` is too small at 9px
-   * Text `14` is too small at 8px
-   * Text `+91` is too small at 9px
-   * Text `15` is too small at 8px
-   * Text `+76` is too small at 9px
-   * Text `+72` is too small at 9px
-   * Text `16` is too small at 8px
-   * Text `17` is too small at 8px
-   * Text `+50` is too small at 9px
-   * Text `18` is too small at 8px
-   * Text `+33` is too small at 9px
-   * Text `19` is too small at 8px
-   * Text `+31` is too small at 9px
-   * Text `1000` is too small at 8px
-   * Text `1200` is too small at 8px
-   * Text `1400` is too small at 8px
-   * Text `1600` is too small at 8px
-   * Text `1800` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `1 Wyoming Correctional Facility` is too small at 8px
-   * Text `11 Riverview Correctional Facility` is too small at 8px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 8px
-   * Text `12 La Vista Correctional Facility` is too small at 8px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 8px
-   * Text `13 Midstate Correctional Facility` is too small at 8px
-   * Text `4 Albion Correctional Facility` is too small at 8px
-   * Text `14 Hale Creek Correctional Facility` is too small at 8px
-   * Text `5 Centennial Correctional Facility` is too small at 8px
-   * Text `15 Five Points Correctional Facility` is too small at 8px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 8px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 8px
-   * Text `7 Midstate Correctional Facility` is too small at 8px
-   * Text `17 San Carlos Correctional Facility` is too small at 8px
-   * Text `8 Fremont Correctional Facility` is too small at 8px
-   * Text `18 Midstate Correctional Facility` is too small at 8px
-   * Text `9 Bent County Correctional Facility` is too small at 8px
-   * Text `19 Marcy Correctional Facility` is too small at 8px
-   * Text `10 Cayuga Correctional Facility` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `Census Count` overlaps with `|` at screen width 1300
-   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
-   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
-   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
-   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
-   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
-   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
-   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
-   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
-   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
-   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
-   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
-   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
-   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
-   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
-   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
 
 
 
