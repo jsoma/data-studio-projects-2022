@@ -317,7 +317,7 @@ No issues found! 🎉
 
 **https://juliaingram.github.io**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://juliaingram.github.io/citibike/**
 
@@ -326,8 +326,69 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/daylight-saving/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `All successful bills call for a year-round daylight time pending Congressional approval.` is too small at 10px
+   * Text `Enacted` is too small at 9px
+   * Text `Failed` is too small at 9px
+   * Text `2021` is too small at 9px
+   * Text `2020` is too small at 9px
+   * Text `Alabama` is too small at 9px
+   * Text `Georgia` is too small at 9px
+   * Text `Ohio` is too small at 9px
+   * Text `Maine` is too small at 9px
+   * Text `Minnesota` is too small at 9px
+   * Text `Mississippi` is too small at 9px
+   * Text `Montana` is too small at 9px
+   * Text `Idaho` is too small at 9px
+   * Text `Louisiana` is too small at 9px
+   * Text `South Carolina` is too small at 9px
+   * Text `Utah` is too small at 9px
+   * Text `Washington` is too small at 9px
+   * Text `Wyoming` is too small at 9px
+   * Text `Source: National Conference of State Legislatures` is too small at 9px
+   * Text `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` is too small at 10px
+   * Text `standard time, and five states have competing bills for which way to end clock-switching.` is too small at 10px
+   * Text `Enacted` is too small at 9px
+   * Text `Pending` is too small at 9px
+   * Text `Failed` is too small at 9px
+   * Text `2020` is too small at 9px
+   * Text `2021` is too small at 9px
+   * Text `2022` is too small at 9px
+   * Text `Alaska` is too small at 9px
+   * Text `California` is too small at 9px
+   * Text `Iowa` is too small at 9px
+   * Text `Kansas` is too small at 9px
+   * Text `Kentucky` is too small at 9px
+   * Text `Maryland` is too small at 9px
+   * Text `Massachusetts` is too small at 9px
+   * Text `Michigan` is too small at 9px
+   * Text `Daylight` is too small at 9px
+   * Text `time` is too small at 9px
+   * Text `Minnesota` is too small at 9px
+   * Text `Nebraska` is too small at 9px
+   * Text `New Hampshire` is too small at 9px
+   * Text `New Jersey` is too small at 9px
+   * Text `North Carolina` is too small at 9px
+   * Text `Ohio` is too small at 9px
+   * Text `South Carolina` is too small at 9px
+   * Text `South Dakota` is too small at 9px
+   * Text `Utah` is too small at 9px
+   * Text `Colorado` is too small at 9px
+   * Text `Missouri` is too small at 9px
+   * Text `Standard` is too small at 9px
+   * Text `time` is too small at 9px
+   * Text `Vermont` is too small at 9px
+   * Text `Virginia` is too small at 9px
+   * Text `Washington` is too small at 9px
+   * Text `West Virginia` is too small at 9px
+   * Text `Georgia` is too small at 9px
+   * Text `Illinois` is too small at 9px
+   * Text `Competing` is too small at 9px
+   * Text `bills` is too small at 9px
+   * Text `New York` is too small at 9px
+   * Text `Oklahoma` is too small at 9px
+   * Text `Pennsylvania` is too small at 9px
+   * Text `Source: National Conference of State Legislatures` is too small at 9px
    * Text `later` is too small at 10px
    * Text `earlier` is too small at 10px
    * Text `Sunrise could have been as late as` is too small at 10px
@@ -342,8 +403,22 @@ No issues found! 🎉
    * Text `and the latest as 6:58 p.m.` is too small at 10px
    * Text `in Odessa, Texas` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Enacted` overlaps with `Failed` at screen width 400
+   * Text `Enacted` overlaps with `Pending` at screen width 400
+   * Text `Pending` overlaps with `Failed` at screen width 400
    * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 400
-   * Text `have been at 5:01 p.m., in` overlaps with `earlier` at screen width 400
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 900
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 900
+   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 900
+   * Text `Enacted` overlaps with `Failed` at screen width 900
+   * Text `Enacted` overlaps with `Pending` at screen width 900
+   * Text `Pending` overlaps with `Failed` at screen width 900
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 1300
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 1300
+   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 1300
+   * Text `Enacted` overlaps with `Failed` at screen width 1300
+   * Text `Enacted` overlaps with `Pending` at screen width 1300
+   * Text `Pending` overlaps with `Failed` at screen width 1300
 
 **https://juliaingram.github.io/therapy-apps/**
 
@@ -448,6 +523,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
@@ -926,6 +1002,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Deaths per 100,000 population ` is too small at 8px
    * Text `(2016-2019)` is too small at 8px
@@ -937,28 +1014,10 @@ No issues found! 🎉
    * Text `120` is too small at 7px
    * Text `40` is too small at 7px
    * Text `20` is too small at 7px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `2015` overlaps with `2010` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2000` overlaps with `2005` at screen width 400
-   * Text `2010` overlaps with `2005` at screen width 400
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `2015` overlaps with `2010` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2000` overlaps with `2005` at screen width 900
-   * Text `2010` overlaps with `2005` at screen width 900
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
-   * Text `2015` overlaps with `2010` at screen width 1300
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2000` overlaps with `2005` at screen width 1300
-   * Text `2010` overlaps with `2005` at screen width 1300
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1282,6 +1341,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project_three/index.html**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
@@ -1383,16 +1443,14 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
-   * Text `Nigeria` overlaps with `Yemen` at screen width 400
-   * Text `894,72` overlaps with `880,507` at screen width 400
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
+   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
+   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
@@ -1628,25 +1686,9 @@ No issues found! 🎉
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
    * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `Census Count` overlaps with `|` at screen width 1300
-   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
-   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
-   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
-   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
-   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
-   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
-   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
-   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
-   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
-   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
-   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
-   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
-   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
-   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
-   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
+   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 1300
+   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 1300
+   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 1300
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
@@ -1953,7 +1995,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
