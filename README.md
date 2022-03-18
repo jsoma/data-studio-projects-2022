@@ -523,6 +523,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
@@ -809,7 +810,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects.html)|[![mobile](screenshots/pmagtulis.github.io/projects.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://pmagtulis.github.io/projects.html)|[![mobile](screenshots/pmagtulis.github.io/projects.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
@@ -824,7 +825,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `projects.html` into a folder called `projects`, then rename the file `index.html`. That way the project can be found at **/projects** instead of **/projects.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/air-quality/**
@@ -1716,8 +1719,8 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
-|[ATLparks/index.html](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
-|[Libraries/index.html](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
 |[TXwind/index.html](https://tanazm.github.io/TXwind/)|[![mobile](screenshots/tanazm.github.io/TXwind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/TXwind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/TXwind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-wide-full.jpg)|
 
 
@@ -1731,17 +1734,12 @@ No issues found! 🎉
 
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/Libraries/**
 
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Library` overlaps with `6 mile radius` at screen width 400
-   * Text `6 mile radius` overlaps with `Population density` at screen width 400
-   * Text `Library` overlaps with `6 mile radius` at screen width 900
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
    * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
