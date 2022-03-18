@@ -1339,6 +1339,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project_three/index.html**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
@@ -1440,16 +1441,14 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
-   * Text `Nigeria` overlaps with `Yemen` at screen width 400
-   * Text `894,72` overlaps with `880,507` at screen width 400
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
+   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
+   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
@@ -1715,7 +1714,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Tanaz Meghjani's Portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
+|[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
 |[ATLparks/index.html](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
 |[Libraries/index.html](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
 |[TXwind/index.html](https://tanazm.github.io/TXwind/)|[![mobile](screenshots/tanazm.github.io/TXwind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/TXwind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/TXwind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-wide-full.jpg)|
@@ -1725,7 +1724,7 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
