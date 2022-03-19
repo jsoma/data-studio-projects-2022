@@ -523,6 +523,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
@@ -831,7 +832,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `600` is too small at 8px
    * Text `500` is too small at 8px
@@ -910,15 +910,10 @@ No issues found! 🎉
    * Text `quality hit a record-high` is too small at 10px
    * Text `in January 2022` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `100` overlaps with `Air quality complaints` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
@@ -931,20 +926,20 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
-   * Text `100` overlaps with `Air quality complaints` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
@@ -957,20 +952,20 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
-   * Text `100` overlaps with `Air quality complaints` at screen width 1300
+   * Text `2008` overlaps with `2004` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
+   * Text `2008` overlaps with `2004` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
    * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
    * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
@@ -983,9 +978,14 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
    * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 1300
    * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
+   * Text `2008` overlaps with `2004` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
    * Text `2012` overlaps with `2016` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
 
@@ -1019,7 +1019,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1497,10 +1496,9 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Susan Merriam](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
-|[First Visual Story](https://semerriam.github.io/nicar_first_visual_story/)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://semerriam.github.io/pj_ec_schools.html)|[![mobile](screenshots/semerriam.github.io/pj_ec_schools.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/pj_ec_schools.html-medium-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/pj_ec_schools.html-wide-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
+|[First Visual Story](https://semerriam.github.io/nicar_first_visual_story)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
+|[Susan Merriam](https://semerriam.github.io/projects/pj-ec-schools)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
+|[Susan Merriam](https://semerriam.github.io/projects/pj-census-quirks)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1509,34 +1507,129 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://semerriam.github.io/nicar_first_visual_story/**
+**https://semerriam.github.io/nicar_first_visual_story**
 
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://semerriam.github.io/pj_ec_schools.html**
+**https://semerriam.github.io/projects/pj-ec-schools**
 
-* Could not access the page - if you moved it, let me know
-* Move `pj_ec_schools.html` into a folder called `pj_ec_schools`, then rename the file `index.html`. That way the project can be found at **/pj_ec_schools** instead of **/pj_ec_schools.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `150k` is too small at 9px
+   * Text `150k` is too small at 9px
+   * Text `100 ` is too small at 9px
+   * Text `100 ` is too small at 9px
+   * Text `50` is too small at 9px
+   * Text `50` is too small at 9px
+   * Text `0` is too small at 9px
+   * Text `0` is too small at 9px
+   * Text `0` is too small at 9px
+   * Text `10` is too small at 9px
+   * Text `20` is too small at 9px
+   * Text `30mi` is too small at 9px
+   * Text `0` is too small at 9px
+   * Text `10` is too small at 9px
+   * Text `20` is too small at 9px
+   * Text `30mi` is too small at 9px
+   * Text `Student Population` is too small at 10px
+   * Text `Lawrence: 12,786` is too small at 10px
+   * Text `N. Andover: 4,493` is too small at 10px
+   * Text `Andover: 5,456` is too small at 10px
+   * Text `150k` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `Distance: 1.6 mi —` is too small at 10px
+   * Text `Driving Distance: 3.9 mi, 9 min. —` is too small at 10px
+   * Text `30mi` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `150k` is too small at 10px
+   * Text `0k` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `30mi` is too small at 10px
+   * Text `Driving Distance: 3.9 mi, 9 min. —` is too small at 10px
+   * Text `Distance: 1.6 mi —` is too small at 10px
+   * Text `Student Population` is too small at 10px
+   * Text `Lawrence: 12,786` is too small at 10px
+   * Text `N. Andover: 4,493` is too small at 10px
+   * Text `Andover: 5,456` is too small at 10px
+   * Text `White` is too small at 9px
+   * Text `Hispanic` is too small at 9px
+   * Text `Asian` is too small at 9px
+   * Text `Black` is too small at 9px
+   * Text `Two or more races` is too small at 9px
+   * Text `American Indian / Alaska Native` is too small at 9px
+   * Text `Native Hawaiian / Pacific Islander` is too small at 9px
+   * Text `Andover` is too small at 9px
+   * Text `1,195` is too small at 9px
+   * Text `341` is too small at 9px
+   * Text `Lawrence` is too small at 9px
+   * Text `2,946` is too small at 9px
+   * Text `North Andover` is too small at 9px
+   * Text `1,048` is too small at 9px
+   * Text `The total student population is distributed according to the current size of the school to achieve “racial balance.” For example, white students represent 37 percent of the total student population for the three schools. Lawrence High School would have 1,161 white students (37%) of the total 3,126 school population, gaining 1,082 white students from the other two schools.` is too small at 9px
+   * Text `Andover` is too small at 9px
+   * Text `650` is too small at 9px
+   * Text `904` is too small at 9px
+   * Text `Lawrence` is too small at 9px
+   * Text `1,161` is too small at 9px
+   * Text `1,613` is too small at 9px
+   * Text `North Andover` is too small at 9px
+   * Text `511` is too small at 9px
+   * Text `710` is too small at 9px
+   * Text `The total student population is distributed equally between the three schools to achieve “racial balance” ` is too small at 9px
+   * Text `Andover` is too small at 9px
+   * Text `774` is too small at 9px
+   * Text `1,076` is too small at 9px
+   * Text `Lawrence` is too small at 9px
+   * Text `774` is too small at 9px
+   * Text `1,076` is too small at 9px
+   * Text `North Andover` is too small at 9px
+   * Text `774` is too small at 9px
+   * Text `1,076` is too small at 9px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `North Andover` overlaps with `1,048` at screen width 400
+   * Text `North Andover` overlaps with `511` at screen width 400
+   * Text `North Andover` overlaps with `774` at screen width 400
+   * Text `North Andover` overlaps with `1,048` at screen width 900
+   * Text `North Andover` overlaps with `511` at screen width 900
+   * Text `North Andover` overlaps with `774` at screen width 900
+   * Text `North Andover` overlaps with `1,048` at screen width 1300
+   * Text `North Andover` overlaps with `511` at screen width 1300
+   * Text `North Andover` overlaps with `774` at screen width 1300
 
-**https://semerriam.github.io/projects/pj_census_quirks.html**
+**https://semerriam.github.io/projects/pj-census-quirks**
 
-* Could not access the page - if you moved it, let me know
-* Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-**https://semerriam.github.io/projects/pj_census_quirks.html**
-
-* Could not access the page - if you moved it, let me know
-* Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `0` is too small at 10px
+   * Text `200` is too small at 10px
+   * Text `400` is too small at 10px
+   * Text `600` is too small at 10px
+   * Text `800` is too small at 10px
+   * Text `1000` is too small at 10px
+   * Text `1200` is too small at 10px
+   * Text `1400` is too small at 10px
+   * Text `1600` is too small at 10px
+   * Text `1800` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `200` is too small at 10px
+   * Text `400` is too small at 10px
+   * Text `600` is too small at 10px
+   * Text `800` is too small at 10px
+   * Text `1000` is too small at 10px
+   * Text `1200` is too small at 10px
+   * Text `1400` is too small at 10px
+   * Text `1600` is too small at 10px
+   * Text `1800` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `200` is too small at 10px
+   * Text `400` is too small at 10px
+   * Text `600` is too small at 10px
+   * Text `800` is too small at 10px
+   * Text `1000` is too small at 10px
+   * Text `1200` is too small at 10px
+   * Text `1400` is too small at 10px
+   * Text `1600` is too small at 10px
+   * Text `1800` is too small at 10px
 
 
 
