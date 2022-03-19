@@ -80,7 +80,7 @@ Quick checks to make sure your pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Abbey Richard](https://annerquaye.github.io)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
+|[Abbey Richard's Portfolio](https://annerquaye.github.io)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
 |[Abbey Richard](https://annerquaye.github.io/projects/oscars.html)|[![mobile](screenshots/annerquaye.github.io/projects_oscars.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_oscars.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_oscars.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-wide-full.jpg)|
 |[Abbey Richard](https://annerquaye.github.io/projects/responsive_pages/responsive.html)|[![mobile](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-full.jpg)|
 |[Abbey Richard](https://annerquaye.github.io/projects/ricestory.html)|[![mobile](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_ricestory.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_ricestory.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-wide-full.jpg)|
@@ -100,6 +100,7 @@ No issues found! 🎉
 **https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
 * Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `The pandemic also shot inflation to a 3-year high` is too small at 9px
    * Text `Inflation` is too small at 8px
@@ -245,6 +246,7 @@ No issues found! 🎉
 **https://jessieblaeser.github.io/pj_pipelines.html**
 
 * Move `pj_pipelines.html` into a folder called `pj_pipelines`, then rename the file `index.html`. That way the project can be found at **/pj_pipelines** instead of **/pj_pipelines.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
@@ -256,10 +258,12 @@ No issues found! 🎉
 **https://jessieblaeser.github.io/pj_ticket_to_ride.html**
 
 * Move `pj_ticket_to_ride.html` into a folder called `pj_ticket_to_ride`, then rename the file `index.html`. That way the project can be found at **/pj_ticket_to_ride** instead of **/pj_ticket_to_ride.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 
 **https://jessieblaeser.github.io/pj_trae_young.html**
 
 * Move `pj_trae_young.html` into a folder called `pj_trae_young`, then rename the file `index.html`. That way the project can be found at **/pj_trae_young** instead of **/pj_trae_young.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 
 
 
@@ -291,6 +295,8 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/Sarwate_Project1/**
 
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -311,7 +317,7 @@ No issues found! 🎉
 
 **https://juliaingram.github.io**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://juliaingram.github.io/citibike/**
 
@@ -320,8 +326,69 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/daylight-saving/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `All successful bills call for a year-round daylight time pending Congressional approval.` is too small at 10px
+   * Text `Enacted` is too small at 9px
+   * Text `Failed` is too small at 9px
+   * Text `2021` is too small at 9px
+   * Text `2020` is too small at 9px
+   * Text `Alabama` is too small at 9px
+   * Text `Georgia` is too small at 9px
+   * Text `Ohio` is too small at 9px
+   * Text `Maine` is too small at 9px
+   * Text `Minnesota` is too small at 9px
+   * Text `Mississippi` is too small at 9px
+   * Text `Montana` is too small at 9px
+   * Text `Idaho` is too small at 9px
+   * Text `Louisiana` is too small at 9px
+   * Text `South Carolina` is too small at 9px
+   * Text `Utah` is too small at 9px
+   * Text `Washington` is too small at 9px
+   * Text `Wyoming` is too small at 9px
+   * Text `Source: National Conference of State Legislatures` is too small at 9px
+   * Text `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` is too small at 10px
+   * Text `standard time, and five states have competing bills for which way to end clock-switching.` is too small at 10px
+   * Text `Enacted` is too small at 9px
+   * Text `Pending` is too small at 9px
+   * Text `Failed` is too small at 9px
+   * Text `2020` is too small at 9px
+   * Text `2021` is too small at 9px
+   * Text `2022` is too small at 9px
+   * Text `Alaska` is too small at 9px
+   * Text `California` is too small at 9px
+   * Text `Iowa` is too small at 9px
+   * Text `Kansas` is too small at 9px
+   * Text `Kentucky` is too small at 9px
+   * Text `Maryland` is too small at 9px
+   * Text `Massachusetts` is too small at 9px
+   * Text `Michigan` is too small at 9px
+   * Text `Daylight` is too small at 9px
+   * Text `time` is too small at 9px
+   * Text `Minnesota` is too small at 9px
+   * Text `Nebraska` is too small at 9px
+   * Text `New Hampshire` is too small at 9px
+   * Text `New Jersey` is too small at 9px
+   * Text `North Carolina` is too small at 9px
+   * Text `Ohio` is too small at 9px
+   * Text `South Carolina` is too small at 9px
+   * Text `South Dakota` is too small at 9px
+   * Text `Utah` is too small at 9px
+   * Text `Colorado` is too small at 9px
+   * Text `Missouri` is too small at 9px
+   * Text `Standard` is too small at 9px
+   * Text `time` is too small at 9px
+   * Text `Vermont` is too small at 9px
+   * Text `Virginia` is too small at 9px
+   * Text `Washington` is too small at 9px
+   * Text `West Virginia` is too small at 9px
+   * Text `Georgia` is too small at 9px
+   * Text `Illinois` is too small at 9px
+   * Text `Competing` is too small at 9px
+   * Text `bills` is too small at 9px
+   * Text `New York` is too small at 9px
+   * Text `Oklahoma` is too small at 9px
+   * Text `Pennsylvania` is too small at 9px
+   * Text `Source: National Conference of State Legislatures` is too small at 9px
    * Text `later` is too small at 10px
    * Text `earlier` is too small at 10px
    * Text `Sunrise could have been as late as` is too small at 10px
@@ -336,8 +403,22 @@ No issues found! 🎉
    * Text `and the latest as 6:58 p.m.` is too small at 10px
    * Text `in Odessa, Texas` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Enacted` overlaps with `Failed` at screen width 400
+   * Text `Enacted` overlaps with `Pending` at screen width 400
+   * Text `Pending` overlaps with `Failed` at screen width 400
    * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 400
-   * Text `have been at 5:01 p.m., in` overlaps with `earlier` at screen width 400
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 900
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 900
+   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 900
+   * Text `Enacted` overlaps with `Failed` at screen width 900
+   * Text `Enacted` overlaps with `Pending` at screen width 900
+   * Text `Pending` overlaps with `Failed` at screen width 900
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 1300
+   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 1300
+   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 1300
+   * Text `Enacted` overlaps with `Failed` at screen width 1300
+   * Text `Enacted` overlaps with `Pending` at screen width 1300
+   * Text `Pending` overlaps with `Failed` at screen width 1300
 
 **https://juliaingram.github.io/therapy-apps/**
 
@@ -390,6 +471,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/Food_price_Nigeria/**
 
+* Change URL to use `-` instead of spaces or underscores
+* Change URL to be all in lowercase
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/hispanics%20in%20america/**
@@ -568,15 +651,18 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/Airbnb-Story/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://mishavaid7.github.io/Project-4/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -668,10 +754,12 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure_skate_music/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://naokatoh.github.io/sea_urchin/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://naokatoh.github.io/ukraine/**
@@ -721,7 +809,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects.html)|[![mobile](screenshots/pmagtulis.github.io/projects.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://pmagtulis.github.io/projects.html)|[![mobile](screenshots/pmagtulis.github.io/projects.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
@@ -736,11 +824,14 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `projects.html` into a folder called `projects`, then rename the file `index.html`. That way the project can be found at **/projects** instead of **/projects.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `600` is too small at 8px
    * Text `500` is too small at 8px
@@ -819,10 +910,15 @@ No issues found! 🎉
    * Text `quality hit a record-high` is too small at 10px
    * Text `in January 2022` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `100` overlaps with `Air quality complaints` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
-   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
@@ -835,20 +931,20 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `Complaints about air quality` overlaps with `complaints` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2008` overlaps with `2004` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `100` overlaps with `Air quality complaints` at screen width 900
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
-   * Text `2008` overlaps with `2004` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
@@ -861,14 +957,9 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `Complaints about air quality` overlaps with `complaints` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2008` overlaps with `2004` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `100` overlaps with `Air quality complaints` at screen width 1300
@@ -1247,10 +1338,11 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/project_one/**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://pmartisa.github.io/project_three/index.html**
 
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
@@ -1360,11 +1452,11 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 
 
@@ -1387,11 +1479,11 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/co2_emission**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://sarahgrevy.github.io/weather_project**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://sarahgrevy.github.io/wordle**
 
@@ -1407,395 +1499,44 @@ No issues found! 🎉
 |[Susan Merriam](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
 |[First Visual Story](https://semerriam.github.io/nicar_first_visual_story/)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://semerriam.github.io/pj_ec_schools.html)|[![mobile](screenshots/semerriam.github.io/pj_ec_schools.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/pj_ec_schools.html-medium-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/pj_ec_schools.html-wide-thumb.jpg)](screenshots/semerriam.github.io/pj_ec_schools.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://semerriam.github.io/projects/pj_census_quirks.html)|[![mobile](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj_census_quirks.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://semerriam.github.io/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://semerriam.github.io/nicar_first_visual_story/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/pj_ec_schools.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `pj_ec_schools.html` into a folder called `pj_ec_schools`, then rename the file `index.html`. That way the project can be found at **/pj_ec_schools** instead of **/pj_ec_schools.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 10px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 10px
-   * Text `1 Wyoming Correctional Facility` is too small at 10px
-   * Text `4 Albion Correctional Facility` is too small at 10px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 10px
-   * Text `5 Centennial Correctional Facility` is too small at 10px
-   * Text `7 Midstate Correctional Facility` is too small at 10px
-   * Text `8 Fremont Correctional Facility` is too small at 10px
-   * Text `9 Bent County Correctional Facility` is too small at 10px
-   * Text `11 Riverview Correctional Facility` is too small at 10px
-   * Text `12 La Vista Correctional Facility` is too small at 10px
-   * Text `10 Cayuga Correctional Facility` is too small at 10px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 10px
-   * Text `15 Five Points Correctional Facility` is too small at 10px
-   * Text `14 Hale Creek Correctional Facility` is too small at 10px
-   * Text `13 Midstate Correctional Facility` is too small at 10px
-   * Text `17 San Carlos Correctional Facility` is too small at 10px
-   * Text `18 Midstate Correctional Facility` is too small at 10px
-   * Text `19 Marcy Correctional Facility` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `1` is too small at 8px
-   * Text `+938` is too small at 9px
-   * Text `2` is too small at 8px
-   * Text `+375` is too small at 9px
-   * Text `3` is too small at 8px
-   * Text `+346` is too small at 9px
-   * Text `4` is too small at 8px
-   * Text `+340` is too small at 9px
-   * Text `+218` is too small at 10px
-   * Text `5` is too small at 8px
-   * Text `6` is too small at 8px
-   * Text `+192` is too small at 9px
-   * Text `7` is too small at 8px
-   * Text `+187` is too small at 9px
-   * Text `8` is too small at 8px
-   * Text `+186` is too small at 9px
-   * Text `9` is too small at 8px
-   * Text `+158` is too small at 9px
-   * Text `10` is too small at 8px
-   * Text `+116` is too small at 9px
-   * Text `11` is too small at 8px
-   * Text `+113` is too small at 9px
-   * Text `12` is too small at 8px
-   * Text `+107` is too small at 9px
-   * Text `13` is too small at 8px
-   * Text `+101` is too small at 9px
-   * Text `14` is too small at 8px
-   * Text `+91` is too small at 9px
-   * Text `15` is too small at 8px
-   * Text `+76` is too small at 9px
-   * Text `+72` is too small at 9px
-   * Text `16` is too small at 8px
-   * Text `17` is too small at 8px
-   * Text `+50` is too small at 9px
-   * Text `18` is too small at 8px
-   * Text `+33` is too small at 9px
-   * Text `19` is too small at 8px
-   * Text `+31` is too small at 9px
-   * Text `1000` is too small at 8px
-   * Text `1200` is too small at 8px
-   * Text `1400` is too small at 8px
-   * Text `1600` is too small at 8px
-   * Text `1800` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `1 Wyoming Correctional Facility` is too small at 8px
-   * Text `11 Riverview Correctional Facility` is too small at 8px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 8px
-   * Text `12 La Vista Correctional Facility` is too small at 8px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 8px
-   * Text `13 Midstate Correctional Facility` is too small at 8px
-   * Text `4 Albion Correctional Facility` is too small at 8px
-   * Text `14 Hale Creek Correctional Facility` is too small at 8px
-   * Text `5 Centennial Correctional Facility` is too small at 8px
-   * Text `15 Five Points Correctional Facility` is too small at 8px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 8px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 8px
-   * Text `7 Midstate Correctional Facility` is too small at 8px
-   * Text `17 San Carlos Correctional Facility` is too small at 8px
-   * Text `8 Fremont Correctional Facility` is too small at 8px
-   * Text `18 Midstate Correctional Facility` is too small at 8px
-   * Text `9 Bent County Correctional Facility` is too small at 8px
-   * Text `19 Marcy Correctional Facility` is too small at 8px
-   * Text `10 Cayuga Correctional Facility` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `Census Count` overlaps with `|` at screen width 1300
-   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
-   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
-   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
-   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
-   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
-   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
-   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
-   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
-   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
-   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
-   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
-   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
-   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
-   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
-   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
 
 **https://semerriam.github.io/projects/pj_census_quirks.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `projects/pj_census_quirks.html` into a folder called `pj_census_quirks`, then rename the file `index.html`. That way the project can be found at **/pj_census_quirks** instead of **/pj_census_quirks.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `+938` is too small at 10px
-   * Text `+375` is too small at 10px
-   * Text `+346` is too small at 10px
-   * Text `+340` is too small at 10px
-   * Text `+218` is too small at 10px
-   * Text `+192` is too small at 10px
-   * Text `+187` is too small at 10px
-   * Text `+186` is too small at 10px
-   * Text `+158` is too small at 10px
-   * Text `+116` is too small at 10px
-   * Text `+113` is too small at 10px
-   * Text `+107` is too small at 10px
-   * Text `+101` is too small at 10px
-   * Text `+91` is too small at 10px
-   * Text `+76` is too small at 10px
-   * Text `+72` is too small at 10px
-   * Text `+50` is too small at 10px
-   * Text `+33` is too small at 10px
-   * Text `+31` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 10px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 10px
-   * Text `1 Wyoming Correctional Facility` is too small at 10px
-   * Text `4 Albion Correctional Facility` is too small at 10px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 10px
-   * Text `5 Centennial Correctional Facility` is too small at 10px
-   * Text `7 Midstate Correctional Facility` is too small at 10px
-   * Text `8 Fremont Correctional Facility` is too small at 10px
-   * Text `9 Bent County Correctional Facility` is too small at 10px
-   * Text `11 Riverview Correctional Facility` is too small at 10px
-   * Text `12 La Vista Correctional Facility` is too small at 10px
-   * Text `10 Cayuga Correctional Facility` is too small at 10px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 10px
-   * Text `15 Five Points Correctional Facility` is too small at 10px
-   * Text `14 Hale Creek Correctional Facility` is too small at 10px
-   * Text `13 Midstate Correctional Facility` is too small at 10px
-   * Text `17 San Carlos Correctional Facility` is too small at 10px
-   * Text `18 Midstate Correctional Facility` is too small at 10px
-   * Text `19 Marcy Correctional Facility` is too small at 10px
-   * Text `Source: U.S. Census 2020 PL 94-171, Redistricting Data Hub, Colorado Independent Redistricting Commissions, NYS LATFOR` is too small at 9px
-   * Text `1` is too small at 8px
-   * Text `+938` is too small at 9px
-   * Text `2` is too small at 8px
-   * Text `+375` is too small at 9px
-   * Text `3` is too small at 8px
-   * Text `+346` is too small at 9px
-   * Text `4` is too small at 8px
-   * Text `+340` is too small at 9px
-   * Text `+218` is too small at 10px
-   * Text `5` is too small at 8px
-   * Text `6` is too small at 8px
-   * Text `+192` is too small at 9px
-   * Text `7` is too small at 8px
-   * Text `+187` is too small at 9px
-   * Text `8` is too small at 8px
-   * Text `+186` is too small at 9px
-   * Text `9` is too small at 8px
-   * Text `+158` is too small at 9px
-   * Text `10` is too small at 8px
-   * Text `+116` is too small at 9px
-   * Text `11` is too small at 8px
-   * Text `+113` is too small at 9px
-   * Text `12` is too small at 8px
-   * Text `+107` is too small at 9px
-   * Text `13` is too small at 8px
-   * Text `+101` is too small at 9px
-   * Text `14` is too small at 8px
-   * Text `+91` is too small at 9px
-   * Text `15` is too small at 8px
-   * Text `+76` is too small at 9px
-   * Text `+72` is too small at 9px
-   * Text `16` is too small at 8px
-   * Text `17` is too small at 8px
-   * Text `+50` is too small at 9px
-   * Text `18` is too small at 8px
-   * Text `+33` is too small at 9px
-   * Text `19` is too small at 8px
-   * Text `+31` is too small at 9px
-   * Text `1000` is too small at 8px
-   * Text `1200` is too small at 8px
-   * Text `1400` is too small at 8px
-   * Text `1600` is too small at 8px
-   * Text `1800` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `1 Wyoming Correctional Facility` is too small at 8px
-   * Text `11 Riverview Correctional Facility` is too small at 8px
-   * Text `2 Bedford Hills Correctional Facility` is too small at 8px
-   * Text `12 La Vista Correctional Facility` is too small at 8px
-   * Text `3 Colorado Territorial Correctional Facility` is too small at 8px
-   * Text `13 Midstate Correctional Facility` is too small at 8px
-   * Text `4 Albion Correctional Facility` is too small at 8px
-   * Text `14 Hale Creek Correctional Facility` is too small at 8px
-   * Text `5 Centennial Correctional Facility` is too small at 8px
-   * Text `15 Five Points Correctional Facility` is too small at 8px
-   * Text `6 Ogdensburg Correctional Facility` is too small at 8px
-   * Text `16 Hazel D. Plant Women's Treatment Facility` is too small at 8px
-   * Text `7 Midstate Correctional Facility` is too small at 8px
-   * Text `17 San Carlos Correctional Facility` is too small at 8px
-   * Text `8 Fremont Correctional Facility` is too small at 8px
-   * Text `18 Midstate Correctional Facility` is too small at 8px
-   * Text `9 Bent County Correctional Facility` is too small at 8px
-   * Text `19 Marcy Correctional Facility` is too small at 8px
-   * Text `10 Cayuga Correctional Facility` is too small at 8px
-   * Text `Source: U.S. Census 2020 PL 94-171, Colorado Independent Redistricting Commissions, ` is too small at 8px
-   * Text `Redistricting Data Hub, NYS LATFOR` is too small at 8px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 400
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `13 Midstate Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `4 Albion Correctional Facility` at screen width 900
-   * Text `3 Colorado Territorial Correctional Facility` overlaps with `14 Hale Creek Correctional Facility` at screen width 900
-   * Text `Census Count` overlaps with `|` at screen width 1300
-   * Text `Wyoming Correctional Facility` overlaps with `Bedford Hills Correctional Facility` at screen width 1300
-   * Text `Bedford Hills Correctional Facility` overlaps with `Colorado Territorial Correctional Facility` at screen width 1300
-   * Text `Colorado Territorial Correctional Facility` overlaps with `Albion Correctional Facility` at screen width 1300
-   * Text `Albion Correctional Facility` overlaps with `Centennial Correctional Facility` at screen width 1300
-   * Text `Centennial Correctional Facility` overlaps with `Ogdensburg Correctional Facility` at screen width 1300
-   * Text `Ogdensburg Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Fremont Correctional Facility` at screen width 1300
-   * Text `Fremont Correctional Facility` overlaps with `Bent County Correctional Facility` at screen width 1300
-   * Text `Bent County Correctional Facility` overlaps with `Cayuga Correctional Facility` at screen width 1300
-   * Text `Cayuga Correctional Facility` overlaps with `Riverview Correctional Facility` at screen width 1300
-   * Text `Riverview Correctional Facility` overlaps with `La Vista Correctional Facility` at screen width 1300
-   * Text `La Vista Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Hale Creek Correctional Facility` at screen width 1300
-   * Text `Hale Creek Correctional Facility` overlaps with `Five Points Correctional Facility` at screen width 1300
-   * Text `Five Points Correctional Facility` overlaps with `Hazel D. Plant Women's Treatment Facility` at screen width 1300
-   * Text `Hazel D. Plant Women's Treatment Facility` overlaps with `San Carlos Correctional Facility` at screen width 1300
-   * Text `San Carlos Correctional Facility` overlaps with `Midstate Correctional Facility` at screen width 1300
-   * Text `Midstate Correctional Facility` overlaps with `Marcy Correctional Facility` at screen width 1300
 
 
 
@@ -1940,11 +1681,13 @@ No issues found! 🎉
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/project_3.html**
 
 * Move `project_3.html` into a folder called `project_3`, then rename the file `index.html`. That way the project can be found at **/project_3** instead of **/project_3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `9` is too small at 9px
@@ -1975,9 +1718,9 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Tanaz Meghjani's Portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
-|[ATLparks/index.html](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
-|[Libraries/index.html](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
+|[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
 |[TXwind/index.html](https://tanazm.github.io/TXwind/)|[![mobile](screenshots/tanazm.github.io/TXwind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/TXwind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/TXwind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-wide-full.jpg)|
 
 
@@ -1985,27 +1728,25 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/Libraries/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Library` overlaps with `6 mile radius` at screen width 400
-   * Text `6 mile radius` overlaps with `Population density` at screen width 400
-   * Text `Library` overlaps with `6 mile radius` at screen width 900
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
    * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
 **https://tanazm.github.io/TXwind/**
 
+* Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -2029,13 +1770,16 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/football_penalties/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://vincentvb.github.io/game_reviews**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://vincentvb.github.io/santa_barbara_wine/**
 
+* Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
