@@ -48,7 +48,7 @@ https://naokatoh.github.io/figure_skate_music/
 https://naokatoh.github.io/sea_urchin/
 https://naokatoh.github.io/ukraine/
 https://pmagtulis.github.io/
-https://pmagtulis.github.io/projects.html
+https://pmagtulis.github.io/projects/
 https://pmagtulis.github.io/projects/air-quality/
 https://pmagtulis.github.io/projects/polls-ph/
 https://pmagtulis.github.io/projects/ph-conflict/
