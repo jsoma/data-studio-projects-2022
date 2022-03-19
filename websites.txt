@@ -62,10 +62,9 @@ https://sarahgrevy.github.io/co2_emission
 https://sarahgrevy.github.io/weather_project
 https://sarahgrevy.github.io/wordle
 https://semerriam.github.io/
-https://semerriam.github.io/nicar_first_visual_story/
-https://semerriam.github.io/pj_ec_schools.html
-https://semerriam.github.io/projects/pj_census_quirks.html
-https://semerriam.github.io/projects/pj_census_quirks.html
+https://semerriam.github.io/nicar_first_visual_story
+https://semerriam.github.io/projects/pj-ec-schools
+https://semerriam.github.io/projects/pj-census-quirks
 https://sriharshadevulapalli.github.io/
 https://sriharshadevulapalli.github.io/indian-airline-routes/index.html
 https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/
