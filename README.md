@@ -434,7 +434,7 @@ No issues found! 🎉
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics%20in%20america/)|[![mobile](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)|[![mobile](screenshots/kfalayi.github.io/hispanics in america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics in america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics in america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 
 
@@ -475,9 +475,9 @@ No issues found! 🎉
 * Change URL to be all in lowercase
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://kfalayi.github.io/hispanics%20in%20america/**
+**https://kfalayi.github.io/hispanics in america/**
 
-No issues found! 🎉
+* Change URL to use `-` instead of spaces or underscores
 
 **https://kfalayi.github.io/irpin/**
 
@@ -523,7 +523,6 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
@@ -962,10 +961,15 @@ No issues found! 🎉
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
+   * Text `100` overlaps with `Air quality complaints` at screen width 1300
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
-   * Text `2008` overlaps with `2004` at screen width 1300
+   * Text `2004` overlaps with `2008` at screen width 1300
+   * Text `2008` overlaps with `2012` at screen width 1300
+   * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
    * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2012` overlaps with `2016` at screen width 1300
+   * Text `2016` overlaps with `2020` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
    * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
@@ -978,14 +982,9 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
    * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `Complaints about air quality` overlaps with `complaints` at screen width 1300
    * Text `2004` overlaps with `2008` at screen width 1300
    * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `2008` overlaps with `2004` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
    * Text `2012` overlaps with `2016` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
 
@@ -1342,7 +1341,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/project_three/index.html**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
@@ -1444,14 +1442,16 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
+   * Text `Nigeria` overlaps with `Yemen` at screen width 400
+   * Text `894,72` overlaps with `880,507` at screen width 400
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
-   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
-   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
 
 **https://pmartisa.github.io/project_two/index.html**
 
@@ -1593,9 +1593,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * Text `North Andover` overlaps with `511` at screen width 1300
-   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
