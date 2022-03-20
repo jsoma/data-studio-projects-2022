@@ -42,11 +42,11 @@ Quick checks to make sure your pages are looking their best.
 
 **https://angelinejcq.github.io/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://angelinejcq.github.io/bubble-tea-project/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://angelinejcq.github.io/near-earth-objects-project/**
 
