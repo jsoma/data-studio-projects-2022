@@ -523,6 +523,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `20 K` is too small at 6px
    * Text `15 K` is too small at 6px
