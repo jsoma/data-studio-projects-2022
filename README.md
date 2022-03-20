@@ -809,7 +809,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://pmagtulis.github.io/projects.html)|[![mobile](screenshots/pmagtulis.github.io/projects.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
@@ -822,11 +822,8 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://pmagtulis.github.io/projects.html**
+**https://pmagtulis.github.io/projects/**
 
-* Could not access the page - if you moved it, let me know
-* Move `projects.html` into a folder called `projects`, then rename the file `index.html`. That way the project can be found at **/projects** instead of **/projects.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/air-quality/**
@@ -1747,7 +1744,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
