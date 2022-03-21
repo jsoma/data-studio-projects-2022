@@ -829,7 +829,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `600` is too small at 8px
    * Text `500` is too small at 8px
@@ -908,15 +907,10 @@ No issues found! 🎉
    * Text `quality hit a record-high` is too small at 10px
    * Text `in January 2022` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `100` overlaps with `Air quality complaints` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
@@ -929,20 +923,20 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
-   * Text `100` overlaps with `Air quality complaints` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
@@ -955,9 +949,14 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `100` overlaps with `Air quality complaints` at screen width 1300
@@ -1017,6 +1016,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1827,8 +1827,9 @@ No issues found! 🎉
 
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away, from public libraries, Residents of southern states live further away _
+   * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
    * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
 **https://tanazm.github.io/TXwind/**
