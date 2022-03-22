@@ -717,6 +717,7 @@ No issues found! 🎉
 |[Profile of Joel Konopo](https://msc-joel.github.io/)|[![mobile](screenshots/msc-joel.github.io/index.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/index.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/index.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/index.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/index.html-wide-full.jpg)|
 |[Covid inflation surge likely to persist](https://msc-joel.github.io/main-article1.html)|[![mobile](screenshots/msc-joel.github.io/main-article1.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article1.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article1.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-wide-full.jpg)|
 |[More than half of CEDA loan beneficiaries are in the services business](https://msc-joel.github.io/main-article3.html)|[![mobile](screenshots/msc-joel.github.io/main-article3.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article3.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article3.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-wide-full.jpg)|
+|[Responsive page](https://msc-joel.github.io/main-article4.html)|[![mobile](screenshots/msc-joel.github.io/main-article4.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article4.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article4.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -733,6 +734,222 @@ No issues found! 🎉
 **https://msc-joel.github.io/main-article3.html**
 
 * Move `main-article3.html` into a folder called `main-article3`, then rename the file `index.html`. That way the project can be found at **/main-article3** instead of **/main-article3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+
+**https://msc-joel.github.io/main-article4.html**
+
+* Move `main-article4.html` into a folder called `main-article4`, then rename the file `index.html`. That way the project can be found at **/main-article4** instead of **/main-article4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `5%` is too small at 8px
+   * Text `5%` is too small at 8px
+   * Text `Estonia` is too small at 9px
+   * Text `Sweden` is too small at 9px
+   * Text `Bulgaria` is too small at 9px
+   * Text `France` is too small at 9px
+   * Text `Finland` is too small at 9px
+   * Text `Latvia` is too small at 9px
+   * Text `Spain` is too small at 9px
+   * Text `Ireland` is too small at 9px
+   * Text `Portugal` is too small at 9px
+   * Text `Italy` is too small at 9px
+   * Text `Cyprus` is too small at 9px
+   * Text `Luxembourg` is too small at 9px
+   * Text `Malta` is too small at 9px
+   * Text `0%` is too small at 10px
+   * Text `Top ten EU countries by percentage of total imports from Russia in 2020` is too small at 9px
+   * Text `97%` is too small at 7px
+   * Text `97%` is too small at 7px
+   * Text `95%` is too small at 7px
+   * Text `95%` is too small at 7px
+   * Text `93%` is too small at 7px
+   * Text `93%` is too small at 7px
+   * Text `80%` is too small at 9px
+   * Text `78%` is too small at 7px
+   * Text `78%` is too small at 7px
+   * Text `77%` is too small at 7px
+   * Text `77%` is too small at 7px
+   * Text `75%` is too small at 7px
+   * Text `75%` is too small at 7px
+   * Text `75%` is too small at 7px
+   * Text `75%` is too small at 7px
+   * Text `74%` is too small at 7px
+   * Text `74%` is too small at 7px
+   * Text `74%` is too small at 7px
+   * Text `74%` is too small at 7px
+   * Text `72%` is too small at 7px
+   * Text `72%` is too small at 7px
+   * Text `60%` is too small at 9px
+   * Text `40%` is too small at 9px
+   * Text `20%` is too small at 9px
+   * Text `0%` is too small at 9px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `` overlaps with `on Russia in the last two decades` at screen width 400
+   * Text `34%` overlaps with `34%` at screen width 400
+   * Text `5%` overlaps with `5%` at screen width 400
+   * Text `30%` overlaps with `30%` at screen width 400
+   * Text `39%` overlaps with `39%` at screen width 400
+   * Text `38%` overlaps with `38%` at screen width 400
+   * Text `46%` overlaps with `46%` at screen width 400
+   * Text `51%` overlaps with `51%` at screen width 400
+   * Text `48%` overlaps with `48%` at screen width 400
+   * Text `55%` overlaps with `55%` at screen width 400
+   * Text `42%` overlaps with `42%` at screen width 400
+   * Text `61%` overlaps with `61%` at screen width 400
+   * Text `44%` overlaps with `44%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `77%` overlaps with `77%` at screen width 400
+   * Text `69%` overlaps with `69%` at screen width 400
+   * Text `85%` overlaps with `85%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `85%` overlaps with `85%` at screen width 400
+   * Text `87%` overlaps with `87%` at screen width 400
+   * Text `77%` overlaps with `77%` at screen width 400
+   * Text `93%` overlaps with `93%` at screen width 400
+   * Text `98%` overlaps with `98%` at screen width 400
+   * Text `95%` overlaps with `95%` at screen width 400
+   * Text `99%` overlaps with `99%` at screen width 400
+   * Text `100%` overlaps with `100%` at screen width 400
+   * Text `97%` overlaps with `97%` at screen width 400
+   * Text `Many EU countries rely` overlaps with `Many EU countries rely` at screen width 400
+   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
+   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
+   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
+   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
+   * Text `heavily on Russian` overlaps with `heavily on Russian` at screen width 400
+   * Text `heavily on Russian` overlaps with `energy` at screen width 400
+   * Text `heavily on Russian` overlaps with `energy` at screen width 400
+   * Text `heavily on Russian` overlaps with `energy` at screen width 400
+   * Text `heavily on Russian` overlaps with `energy` at screen width 400
+   * Text `energy` overlaps with `energy` at screen width 400
+   * Text `Many EU countries rely heavily on Russian` overlaps with `energy` at screen width 400
+   * Text `97%` overlaps with `97%` at screen width 400
+   * Text `95%` overlaps with `95%` at screen width 400
+   * Text `93%` overlaps with `93%` at screen width 400
+   * Text `78%` overlaps with `78%` at screen width 400
+   * Text `77%` overlaps with `77%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `72%` at screen width 400
+   * Text `74%` overlaps with `72%` at screen width 400
+   * Text `74%` overlaps with `72%` at screen width 400
+   * Text `74%` overlaps with `72%` at screen width 400
+   * Text `72%` overlaps with `72%` at screen width 400
+   * Text `0%` overlaps with `Luxenbourg` at screen width 400
+   * Text `0%` overlaps with `Malta` at screen width 400
+   * Text `` overlaps with `on Russia in the last two decades` at screen width 900
+   * Text `34%` overlaps with `34%` at screen width 900
+   * Text `5%` overlaps with `5%` at screen width 900
+   * Text `30%` overlaps with `30%` at screen width 900
+   * Text `39%` overlaps with `39%` at screen width 900
+   * Text `38%` overlaps with `38%` at screen width 900
+   * Text `46%` overlaps with `46%` at screen width 900
+   * Text `51%` overlaps with `51%` at screen width 900
+   * Text `48%` overlaps with `48%` at screen width 900
+   * Text `55%` overlaps with `55%` at screen width 900
+   * Text `42%` overlaps with `42%` at screen width 900
+   * Text `61%` overlaps with `61%` at screen width 900
+   * Text `44%` overlaps with `44%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `77%` overlaps with `77%` at screen width 900
+   * Text `69%` overlaps with `69%` at screen width 900
+   * Text `85%` overlaps with `85%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `85%` overlaps with `85%` at screen width 900
+   * Text `87%` overlaps with `87%` at screen width 900
+   * Text `77%` overlaps with `77%` at screen width 900
+   * Text `93%` overlaps with `93%` at screen width 900
+   * Text `98%` overlaps with `98%` at screen width 900
+   * Text `95%` overlaps with `95%` at screen width 900
+   * Text `99%` overlaps with `99%` at screen width 900
+   * Text `100%` overlaps with `100%` at screen width 900
+   * Text `97%` overlaps with `97%` at screen width 900
+   * Text `Many EU countries rely` overlaps with `Many EU countries rely` at screen width 900
+   * Text `heavily on Russian` overlaps with `heavily on Russian` at screen width 900
+   * Text `energy` overlaps with `energy` at screen width 900
+   * Text `97%` overlaps with `97%` at screen width 900
+   * Text `95%` overlaps with `95%` at screen width 900
+   * Text `93%` overlaps with `93%` at screen width 900
+   * Text `78%` overlaps with `78%` at screen width 900
+   * Text `77%` overlaps with `77%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `75%` overlaps with `75%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `74%` overlaps with `74%` at screen width 900
+   * Text `72%` overlaps with `72%` at screen width 900
+   * Text `` overlaps with `on Russia in the last two decades` at screen width 1300
+   * Text `34%` overlaps with `34%` at screen width 1300
+   * Text `5%` overlaps with `5%` at screen width 1300
+   * Text `30%` overlaps with `30%` at screen width 1300
+   * Text `39%` overlaps with `39%` at screen width 1300
+   * Text `38%` overlaps with `38%` at screen width 1300
+   * Text `46%` overlaps with `46%` at screen width 1300
+   * Text `51%` overlaps with `51%` at screen width 1300
+   * Text `48%` overlaps with `48%` at screen width 1300
+   * Text `55%` overlaps with `55%` at screen width 1300
+   * Text `42%` overlaps with `42%` at screen width 1300
+   * Text `61%` overlaps with `61%` at screen width 1300
+   * Text `44%` overlaps with `44%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `77%` overlaps with `77%` at screen width 1300
+   * Text `69%` overlaps with `69%` at screen width 1300
+   * Text `85%` overlaps with `85%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `85%` overlaps with `85%` at screen width 1300
+   * Text `87%` overlaps with `87%` at screen width 1300
+   * Text `77%` overlaps with `77%` at screen width 1300
+   * Text `93%` overlaps with `93%` at screen width 1300
+   * Text `98%` overlaps with `98%` at screen width 1300
+   * Text `95%` overlaps with `95%` at screen width 1300
+   * Text `99%` overlaps with `99%` at screen width 1300
+   * Text `100%` overlaps with `100%` at screen width 1300
+   * Text `97%` overlaps with `97%` at screen width 1300
+   * Text `Many EU countries rely` overlaps with `Many EU countries rely` at screen width 1300
+   * Text `heavily on Russian` overlaps with `heavily on Russian` at screen width 1300
+   * Text `energy` overlaps with `energy` at screen width 1300
+   * Text `97%` overlaps with `97%` at screen width 1300
+   * Text `95%` overlaps with `95%` at screen width 1300
+   * Text `93%` overlaps with `93%` at screen width 1300
+   * Text `78%` overlaps with `78%` at screen width 1300
+   * Text `77%` overlaps with `77%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `75%` overlaps with `75%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `74%` overlaps with `74%` at screen width 1300
+   * Text `72%` overlaps with `72%` at screen width 1300
 
 
 
@@ -1443,7 +1660,7 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
