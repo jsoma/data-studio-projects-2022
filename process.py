@@ -165,6 +165,9 @@ class Website:
         if not self.successful_request:
             self.issues.append("* Could not access the page - if you moved it, let me know")
 
+        if not self.page.title():
+            self.issues.append("* Needs a title, add a `<title>` tag to the `<head>`")
+
         if not self.urlpath.endswith("index.html"):
             name = self.urlpath.split("/")[-1].replace(".html", "")
             self.issues.append(f"* Move `{self.urlpath}` into a folder called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)")
