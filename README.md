@@ -446,6 +446,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/bloomberg/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `There are over 26,000 dollar stores across the US` is too small at 8px
    * Text `1 dot= 1 dollar store` is too small at 8px
@@ -461,10 +462,10 @@ No issues found! 🎉
    * Text `red dots = vaccination sites` is too small at 6px
    * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 3px
    * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 5px
-   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 8px
+   * Text `Areas within a 10-mins drive of dollar stores` is too small at 8px
    * Text `but outside 10-mins drive of vaccination sites` is too small at 8px
    * Text `Red dots are vaccination sites` is too small at 8px
-   * Text `Areas within a 10-mins drive of dollar stores` is too small at 4px
+   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 4px
    * Text `but outside 10-mins drive of vaccination sites` is too small at 4px
    * Text `Red dots are vaccination sites` is too small at 4px
 
@@ -1030,7 +1031,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
+|[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
@@ -1042,8 +1043,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text ` ` is too small at 10px
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/**
 
@@ -1217,6 +1217,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Deaths per 100,000 population ` is too small at 8px
    * Text `(2016-2019)` is too small at 8px
@@ -1228,25 +1229,6 @@ No issues found! 🎉
    * Text `120` is too small at 7px
    * Text `40` is too small at 7px
    * Text `20` is too small at 7px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `2015` overlaps with `2010` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2000` overlaps with `2005` at screen width 400
-   * Text `2010` overlaps with `2005` at screen width 400
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `2015` overlaps with `2010` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2000` overlaps with `2005` at screen width 900
-   * Text `2010` overlaps with `2005` at screen width 900
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
-   * Text `2015` overlaps with `2010` at screen width 1300
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2000` overlaps with `2005` at screen width 1300
-   * Text `2010` overlaps with `2005` at screen width 1300
 
 **https://pmagtulis.github.io/projects/video-games/**
 
@@ -1829,9 +1811,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * Text `North Andover` overlaps with `511` at screen width 1300
-   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
@@ -1986,7 +1965,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
