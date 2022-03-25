@@ -1822,15 +1822,9 @@ No issues found! 🎉
    * Text `774` is too small at 9px
    * Text `1,076` is too small at 9px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `North Andover` overlaps with `1,048` at screen width 400
-   * Text `North Andover` overlaps with `511` at screen width 400
-   * Text `North Andover` overlaps with `774` at screen width 400
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * Text `North Andover` overlaps with `511` at screen width 1300
-   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
