@@ -983,7 +983,6 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/ukraine/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Morocco` is too small at 9px
    * Text `Iraq` is too small at 9px
