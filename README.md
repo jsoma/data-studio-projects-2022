@@ -446,6 +446,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/bloomberg/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `There are over 26,000 dollar stores across the US` is too small at 8px
    * Text `1 dot= 1 dollar store` is too small at 8px
@@ -461,10 +462,10 @@ No issues found! 🎉
    * Text `red dots = vaccination sites` is too small at 6px
    * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 3px
    * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 5px
-   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 8px
+   * Text `Areas within a 10-mins drive of dollar stores` is too small at 8px
    * Text `but outside 10-mins drive of vaccination sites` is too small at 8px
    * Text `Red dots are vaccination sites` is too small at 8px
-   * Text `Areas within a 10-mins drive of dollar stores` is too small at 4px
+   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 4px
    * Text `but outside 10-mins drive of vaccination sites` is too small at 4px
    * Text `Red dots are vaccination sites` is too small at 4px
 
@@ -1964,7 +1965,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
