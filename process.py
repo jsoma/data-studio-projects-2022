@@ -29,7 +29,14 @@ class Website:
     def load(self):
         """Load the web page"""
         logger.info(f"{self.url}: Loading")
-        response = self.page.goto(self.url)
+
+        try:
+            response = self.page.goto(self.url, timeout=30000)
+        except:
+            # Exit early if fails to load
+            self.successful_request = False
+            return
+
         if response and response.ok:
             self.successful_request = True
         else:
@@ -49,10 +56,14 @@ class Website:
         """Markdown display of screenshots for this web page"""
         title = self.page.title() or self.urlpath
         desc = f"|[{title}]({self.url})|"
-        images = [
-            f"[![{size}]({self.shot_path(size, 'thumb')})]({self.shot_path(size)})"
-            for size in SIZES.keys()
-        ]
+        if self.successful_request:
+            images = [
+                f"[![{size}]({self.shot_path(size, 'thumb')})]({self.shot_path(size)})"
+                for size in SIZES.keys()
+            ]
+        else:
+            images = [ f"request failed" for size in SIZES.keys() ]
+
         return desc + "|".join(images) + "|"
 
     def shot_path(self, size, version="full"):
@@ -228,7 +239,8 @@ with sync_playwright() as p:
             issues_md = f"\n\n### Automatic Checks\n\n"
             prev_host = site.hostname
         site.load()
-        site.screenshot()
+        if site.successful_request:
+            site.screenshot()
         site.run_checks()
 
         readme_md += site.get_table_row() + "\n"
