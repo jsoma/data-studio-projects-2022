@@ -1660,6 +1660,8 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Nigeria` overlaps with `Yemen` at screen width 900
+   * Text `894,72` overlaps with `880,507` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
    * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
