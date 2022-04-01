@@ -967,6 +967,7 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/ukraine/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Morocco` is too small at 9px
    * Text `Iraq` is too small at 9px
@@ -1209,6 +1210,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1644,7 +1646,7 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
 **https://pmartisa.github.io/project_two/index.html**
 
