@@ -1200,6 +1200,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Deaths per 100,000 population ` is too small at 8px
    * Text `(2016-2019)` is too small at 8px
@@ -1211,25 +1212,6 @@ No issues found! 🎉
    * Text `120` is too small at 7px
    * Text `40` is too small at 7px
    * Text `20` is too small at 7px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `2015` overlaps with `2010` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2000` overlaps with `2005` at screen width 400
-   * Text `2010` overlaps with `2005` at screen width 400
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `2015` overlaps with `2010` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2000` overlaps with `2005` at screen width 900
-   * Text `2010` overlaps with `2005` at screen width 900
-   * Text `2,000` overlaps with `Stepped up Phl-US` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
-   * Text `2015` overlaps with `2010` at screen width 1300
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2000` overlaps with `2005` at screen width 1300
-   * Text `2010` overlaps with `2005` at screen width 1300
 
 **https://pmagtulis.github.io/projects/video-games/**
 
@@ -1243,7 +1225,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[index.html](https://pmartisa.github.io/)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
+|[index.html](https://pmartisa.github.io/)|request failed|request failed|request failed|
 |[project_one/index.html](https://pmartisa.github.io/project_one/)|[![mobile](screenshots/pmartisa.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-wide-full.jpg)|
 |[project_three/index.html](https://pmartisa.github.io/project_three/index.html)|[![mobile](screenshots/pmartisa.github.io/project_three_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_three_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_three_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-wide-full.jpg)|
 |[project_two/index.html](https://pmartisa.github.io/project_two/index.html)|[![mobile](screenshots/pmartisa.github.io/project_two_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_two_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_two_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-wide-full.jpg)|
@@ -1253,6 +1235,7 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/**
 
+* Could not access the page - if you moved it, let me know
 * Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 9px
@@ -1812,9 +1795,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * Text `North Andover` overlaps with `511` at screen width 1300
-   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
@@ -1969,7 +1949,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
