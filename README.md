@@ -1354,7 +1354,7 @@ No issues found! 🎉
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
-|[projects/trains/index.html](https://pmagtulis.github.io/projects/trains/)|[![mobile](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/trains/)|[![mobile](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/video-games/)|[![mobile](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-full.jpg)|
 
 
@@ -1551,7 +1551,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/trains/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/video-games/**
@@ -1986,6 +1985,8 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Nigeria` overlaps with `Yemen` at screen width 900
+   * Text `894,72` overlaps with `880,507` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
    * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
@@ -3092,7 +3093,7 @@ No issues found! 🎉
 |[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
 |[Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
 |["The Cost of COVID"](https://srjouppi.github.io/covid-gofundme-analysis/)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
-|[nyc-child-psychologists/index.html](https://srjouppi.github.io/nyc-child-psychologists/)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
+|[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -3111,7 +3112,6 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Source: health.data.ny.gov “Medicaid Program Enrollment by Month Beginning 2009” - Aug. 2021 enrollment` is too small at 10px
 
@@ -3183,10 +3183,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
-|[Libraries](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
-|[Libraries](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
+|[ATL parks](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://tanazm.github.io/Libraries/)|request failed|request failed|request failed|
 |[Mapbox Storytelling](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
-|[TXwind/index.html](https://tanazm.github.io/TXwind/)|[![mobile](screenshots/tanazm.github.io/TXwind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/TXwind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/TXwind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://tanazm.github.io/TXwind/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -3202,12 +3202,10 @@ No issues found! 🎉
 
 **https://tanazm.github.io/Libraries/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
-   * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
 **https://tanazm.github.io/marathonmap/**
 
@@ -3215,9 +3213,10 @@ No issues found! 🎉
 
 **https://tanazm.github.io/TXwind/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
