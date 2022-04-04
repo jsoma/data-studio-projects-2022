@@ -231,7 +231,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Ilena Peng](https://ilenapeng.github.io/)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
-|[nyc-languages/index.html](https://ilenapeng.github.io/nyc-languages)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
+|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
 |[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
 |[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
 |[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
@@ -245,104 +245,105 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Needs a title, add a `<title>` tag to the `<head>`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `0.000000` is too small at 2px
+   * Text `0` is too small at 2px
    * Text `0` is too small at 2px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 400
-   * Text `it did a decade and a half ago` overlaps with `` at screen width 400
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
-   * Text `2005 to 2019` overlaps with `` at screen width 400
-   * Text `2005 to 2019` overlaps with `` at screen width 400
-   * Text `2005 to 2019` overlaps with `` at screen width 400
-   * Text `2005 to 2019` overlaps with `` at screen width 400
-   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `Brooklyn has 35K fewer Spanish speakers` overlaps with `` at screen width 400
+   * Text `Brooklyn has 35K fewer Spanish speakers` overlaps with `` at screen width 400
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 400
    * Text `` overlaps with `` at screen width 400
    * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Spanish -35.2K` at screen width 400
-   * Text `Italian -15.4K` overlaps with `` at screen width 400
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 400
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 400
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 400
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 400
+   * Text `from 2005 to 2019` overlaps with `` at screen width 400
+   * Text `< -100%` overlaps with `-50` at screen width 400
+   * Text `< -100%` overlaps with `` at screen width 400
+   * Text `-25` overlaps with `-50` at screen width 400
+   * Text `50` overlaps with `>100` at screen width 400
+   * Text `50` overlaps with `25` at screen width 400
+   * Text `` overlaps with `Other Indic -11.9K` at screen width 400
    * Text `` overlaps with `Chinese 47.9K` at screen width 400
    * Text `` overlaps with `Chinese 47.9K` at screen width 400
-   * Text `Arabic 3.3K` overlaps with `` at screen width 400
-   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 900
-   * Text `it did a decade and a half ago` overlaps with `` at screen width 900
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
-   * Text `2005 to 2019` overlaps with `` at screen width 900
-   * Text `2005 to 2019` overlaps with `` at screen width 900
-   * Text `2005 to 2019` overlaps with `` at screen width 900
-   * Text `2005 to 2019` overlaps with `` at screen width 900
-   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `Urdu 9.9K` overlaps with `` at screen width 400
+   * Text `` overlaps with `Other Asian 6.5K` at screen width 400
+   * Text `` overlaps with `Other African 3.4K` at screen width 400
+   * Text `` overlaps with `Arabic 3.3K` at screen width 400
+   * Text `Brooklyn has 35K fewer Spanish speakers` overlaps with `` at screen width 900
+   * Text `Brooklyn has 35K fewer Spanish speakers` overlaps with `` at screen width 900
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 900
    * Text `` overlaps with `` at screen width 900
    * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Spanish -35.2K` at screen width 900
-   * Text `Italian -15.4K` overlaps with `` at screen width 900
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 900
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 900
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 900
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 900
+   * Text `from 2005 to 2019` overlaps with `` at screen width 900
+   * Text `< -100%` overlaps with `-50` at screen width 900
+   * Text `< -100%` overlaps with `` at screen width 900
+   * Text `-25` overlaps with `-50` at screen width 900
+   * Text `50` overlaps with `>100` at screen width 900
+   * Text `50` overlaps with `25` at screen width 900
+   * Text `` overlaps with `Other Indic -11.9K` at screen width 900
    * Text `` overlaps with `Chinese 47.9K` at screen width 900
    * Text `` overlaps with `Chinese 47.9K` at screen width 900
-   * Text `Arabic 3.3K` overlaps with `` at screen width 900
-   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 1300
-   * Text `it did a decade and a half ago` overlaps with `` at screen width 1300
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
-   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
-   * Text `2005 to 2019` overlaps with `` at screen width 1300
-   * Text `2005 to 2019` overlaps with `` at screen width 1300
-   * Text `2005 to 2019` overlaps with `` at screen width 1300
-   * Text `2005 to 2019` overlaps with `` at screen width 1300
-   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `Urdu 9.9K` overlaps with `` at screen width 900
+   * Text `` overlaps with `Other Asian 6.5K` at screen width 900
+   * Text `` overlaps with `Other African 3.4K` at screen width 900
+   * Text `` overlaps with `Arabic 3.3K` at screen width 900
+   * Text `Brooklyn has 35K fewer Spanish speakers` overlaps with `` at screen width 1300
+   * Text `Brooklyn has 35K fewer Spanish speakers` overlaps with `` at screen width 1300
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `than it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 1300
    * Text `` overlaps with `` at screen width 1300
    * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Spanish -35.2K` at screen width 1300
-   * Text `Italian -15.4K` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 1300
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 1300
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 1300
+   * Text `` overlaps with `Languages with the greatest changes in speakers` at screen width 1300
+   * Text `from 2005 to 2019` overlaps with `` at screen width 1300
+   * Text `< -100%` overlaps with `-50` at screen width 1300
+   * Text `< -100%` overlaps with `` at screen width 1300
+   * Text `-25` overlaps with `-50` at screen width 1300
+   * Text `50` overlaps with `>100` at screen width 1300
+   * Text `50` overlaps with `25` at screen width 1300
+   * Text `` overlaps with `Other Indic -11.9K` at screen width 1300
    * Text `` overlaps with `Chinese 47.9K` at screen width 1300
    * Text `` overlaps with `Chinese 47.9K` at screen width 1300
-   * Text `Arabic 3.3K` overlaps with `` at screen width 1300
+   * Text `Urdu 9.9K` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Other Asian 6.5K` at screen width 1300
+   * Text `` overlaps with `Other African 3.4K` at screen width 1300
+   * Text `` overlaps with `Arabic 3.3K` at screen width 1300
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -1555,7 +1556,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
