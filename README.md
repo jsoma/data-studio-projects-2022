@@ -1527,7 +1527,6 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
@@ -1629,14 +1628,16 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
+   * Text `Nigeria` overlaps with `Yemen` at screen width 400
+   * Text `894,72` overlaps with `880,507` at screen width 400
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
-   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
-   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
 
 **https://pmartisa.github.io/project_two/index.html**
 
@@ -1891,8 +1892,308 @@ No issues found! 🎉
    * Text `Hyderabad` is too small at 9px
    * Text `Bengaluru` is too small at 9px
    * Text `Chennai` is too small at 9px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1930s - 1940s` overlaps with `1950s - 1960s` at screen width 400
+   * Text `1950s - 1960s` overlaps with `1970s-2000s` at screen width 400
+   * Text `1970s-2000s` overlaps with `2000s - Present` at screen width 400
+   * Text `Block` overlaps with `Rashtrapati` at screen width 400
+   * Text `Block` overlaps with `South` at screen width 400
+   * Text `RAJPATH` overlaps with `South` at screen width 400
+   * Text `Rashtrapati` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `War Memorial` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Jaipur` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Irwin` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Amphitheatre` at screen width 400
+   * Text `Bhawan` overlaps with `Hyderabad` at screen width 400
+   * Text `Bhawan` overlaps with `Patiala` at screen width 400
+   * Text `Hyderabad` overlaps with `Patiala` at screen width 400
+   * Text `House` overlaps with `Patiala` at screen width 400
+   * Text `House` overlaps with `House` at screen width 400
+   * Text `Central` overlaps with `CENTRAL VISTA` at screen width 400
+   * Text `Secretariat` overlaps with `CENTRAL VISTA` at screen width 400
+   * Text `Secretariat` overlaps with `Viceroy` at screen width 400
+   * Text `War Memorial` overlaps with `Bikaner` at screen width 400
+   * Text `Bikaner` overlaps with `Jaipur` at screen width 400
+   * Text `House` overlaps with `House` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `CENTRAL VISTA` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Museum` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Krishi` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Shastri` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Rail` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `RAJPATH` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Vayu` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Museum` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Udyog` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Nirman` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
+   * Text `CENTRAL VISTA` overlaps with `National` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Krishi` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Shastri` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `National` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Archives` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `RAJPATH` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `National` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Museum` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Udyog` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Nirman` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Indira Gandhi National` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Centre for Arts` at screen width 400
+   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `North` at screen width 400
+   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `Block` at screen width 400
+   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `Rashtrapati` at screen width 400
+   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Shastri` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `RAJPATH` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Nirman` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Indira Gandhi National` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Centre for Arts` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `RAJPATH` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Jawahar` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Admin` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Offices` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `The National Archives Building will not be torn down but its larger annexe will be.` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
+   * Text `Krishi` overlaps with `Shastri` at screen width 400
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
+   * Text `Bhawan` overlaps with `Rail` at screen width 400
+   * Text `Bhawan` overlaps with `National` at screen width 400
+   * Text `Bhawan` overlaps with `Rail` at screen width 400
+   * Text `Bhawan` overlaps with `National` at screen width 400
+   * Text `Raksha` overlaps with `National` at screen width 400
+   * Text `Bhawan` overlaps with `Archives` at screen width 400
+   * Text `Rail` overlaps with `National` at screen width 400
+   * Text `Bhawan` overlaps with `Archives` at screen width 400
+   * Text `Bhawan` overlaps with `Parliament` at screen width 400
+   * Text `Bhawan` overlaps with `North` at screen width 400
+   * Text `Block` overlaps with `Vayu` at screen width 400
+   * Text `Block` overlaps with `Rashtrapati` at screen width 400
+   * Text `Block` overlaps with `South` at screen width 400
+   * Text `RAJPATH` overlaps with `Vayu` at screen width 400
+   * Text `Vayu` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `Bhawan` overlaps with `National` at screen width 400
+   * Text `Rashtrapati` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `Museum` overlaps with `Udyog` at screen width 400
+   * Text `Museum` overlaps with `Nirman` at screen width 400
+   * Text `Udyog` overlaps with `Nirman` at screen width 400
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
+   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Indira Gandhi National` at screen width 400
+   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Centre for Arts` at screen width 400
+   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `RAJPATH` at screen width 400
+   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Jawahar` at screen width 400
+   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Bhawan` at screen width 400
+   * Text `India Gate` overlaps with `National` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `National` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Archives` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Block` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `National` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Museum` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `PM’s Residence` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Office` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `RAJPATH` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Museum` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
+   * Text `those in the Navy living` overlaps with `North` at screen width 400
+   * Text `those in the Navy living` overlaps with `Block` at screen width 400
+   * Text `those in the Navy living` overlaps with `Rashtrapati` at screen width 400
+   * Text `those in the Navy living` overlaps with `Bhawan` at screen width 400
+   * Text `in these hutments were` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
+   * Text `in these hutments were` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
+   * Text `moved out to make way` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
+   * Text `moved out to make way` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
+   * Text `moved out to make way` overlaps with `Rashtrapati` at screen width 400
+   * Text `for the new PM residence` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
+   * Text `for the new PM residence` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
+   * Text `for the new PM residence` overlaps with `Bhawan` at screen width 400
+   * Text `for the new PM residence` overlaps with `PM’s Residence` at screen width 400
+   * Text `for the new PM residence` overlaps with `Prime Minister’s` at screen width 400
+   * Text `for the new PM residence` overlaps with `Office` at screen width 400
+   * Text `for the new PM residence` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
+   * Text `Block` overlaps with `Rashtrapati` at screen width 400
+   * Text `Block` overlaps with `South` at screen width 400
+   * Text `RAJPATH` overlaps with `South` at screen width 400
+   * Text `Rashtrapati` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Central` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Secretariat` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Prime Minister’s` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Office` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The PMO shifts from the South Block to a new building` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Secretariat` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `RAJPATH` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `National` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Museum` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Rashtrapati` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Bhawan` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `PM’s Residence` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Prime Minister’s` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Office` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Office` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `The PMO shifts from the South Block to a new building` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `National` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Museum` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Rashtrapati` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Bhawan` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `PM’s Residence` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Office` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
+   * Text `Central` overlaps with `RAJPATH` at screen width 400
+   * Text `Secretariat` overlaps with `RAJPATH` at screen width 400
+   * Text `Museum` overlaps with `Rashtrapati` at screen width 400
+   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 400
+   * Text `Bhawan` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 900
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 900
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 900
+   * Text `Bhawan` overlaps with `Hyderabad` at screen width 900
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 900
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 900
+   * Text `CENTRAL VISTA` overlaps with `National` at screen width 900
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 900
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Krishi` at screen width 900
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Shastri` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 900
+   * Text `Krishi` overlaps with `Shastri` at screen width 900
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
+   * Text `Bhawan` overlaps with `Parliament` at screen width 900
+   * Text `Vayu` overlaps with `South` at screen width 900
+   * Text `Bhawan` overlaps with `Block` at screen width 900
+   * Text `Udyog` overlaps with `Nirman` at screen width 900
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
+   * Text `India Gate` overlaps with `National` at screen width 900
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 900
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 900
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 900
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 900
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 900
+   * Text `moved out to make way` overlaps with `Rashtrapati` at screen width 900
+   * Text `moved out to make way` overlaps with `Bhawan` at screen width 900
+   * Text `for the new PM residence` overlaps with `Bhawan` at screen width 900
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 900
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 900
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 900
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 900
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 900
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 900
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 900
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 900
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 900
+   * Text `Central` overlaps with `RAJPATH` at screen width 900
+   * Text `Secretariat` overlaps with `RAJPATH` at screen width 900
+   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 900
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 1300
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 1300
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 1300
+   * Text `Bhawan` overlaps with `Hyderabad` at screen width 1300
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 1300
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 1300
+   * Text `CENTRAL VISTA` overlaps with `National` at screen width 1300
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 1300
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Krishi` at screen width 1300
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Shastri` at screen width 1300
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 1300
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 1300
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 1300
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 1300
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 1300
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 1300
+   * Text `Krishi` overlaps with `Shastri` at screen width 1300
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
+   * Text `Bhawan` overlaps with `Parliament` at screen width 1300
+   * Text `Vayu` overlaps with `South` at screen width 1300
+   * Text `Bhawan` overlaps with `Block` at screen width 1300
+   * Text `Udyog` overlaps with `Nirman` at screen width 1300
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
+   * Text `India Gate` overlaps with `National` at screen width 1300
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 1300
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 1300
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 1300
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 1300
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 1300
+   * Text `moved out to make way` overlaps with `Rashtrapati` at screen width 1300
+   * Text `moved out to make way` overlaps with `Bhawan` at screen width 1300
+   * Text `for the new PM residence` overlaps with `Bhawan` at screen width 1300
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 1300
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 1300
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 1300
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 1300
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 1300
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 1300
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 1300
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 1300
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 1300
+   * Text `Central` overlaps with `RAJPATH` at screen width 1300
+   * Text `Secretariat` overlaps with `RAJPATH` at screen width 1300
+   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Source Sans Pro"` font not found, used in 98 text objects. Example: _Air India, The national, carrier has the_
+   * `"Source Sans Pro"` font not found, used in 204 text objects. Example: _Air India, The national, carrier has the_
 
 **https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/**
 
