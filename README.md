@@ -35,6 +35,7 @@ Quick checks to make sure your pages are looking their best.
 |[Chuqin Jiang's Incredible Portfolio](https://angelinejcq.github.io/)|[![mobile](screenshots/angelinejcq.github.io/index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-wide-full.jpg)|
 |[Welcome to my bubble tea shop project](https://angelinejcq.github.io/bubble-tea-project/)|[![mobile](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-full.jpg)|
 |[Welcome to my NEO project](https://angelinejcq.github.io/near-earth-objects-project/)|[![mobile](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-full.jpg)|
+|[project-plane-crash/index.html](https://angelinejcq.github.io/project-plane-crash/)|[![mobile](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-full.jpg)|
 |[Women trafficking in China](https://angelinejcq.github.io/woman-trafficking-project/)|[![mobile](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-full.jpg)|
 
 
@@ -51,6 +52,21 @@ No issues found! 🎉
 **https://angelinejcq.github.io/near-earth-objects-project/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+
+**https://angelinejcq.github.io/project-plane-crash/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `On 21 November 2004, just two minutes after takeoff, the Bombardier CRJ-200ER fell from the sky and crashed into a lake in Nanhai Park, next to the airport, killing all 53 people on board and two more on the ground.` is too small at 9px
+   * Text ` ` is too small at 9px
+   * Text `Kunming` is too small at 6px
+   * Text `Guangzhou` is too small at 6px
+   * Text `On June 6, 1994, an aircraft broke up in-flight after violent shaking above the suburb of  Mingdu, Shannxi Province. All 146 passengers and 14 crew died.` is too small at 9px
+   * Text ` ` is too small at 9px
+   * Text `At 2:22 pm on March 22, a Boeing 737-800 operated by China Eastern Airlines crashed in the mountains of Teng County, Guangxi province.` is too small at 9px
+   * Text ` ` is too small at 9px
+   * Text `On March 26, Chinese authorities officially confirmed that all 132 people on board were dead.` is too small at 9px
+   * Text ` ` is too small at 9px
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
@@ -84,6 +100,7 @@ No issues found! 🎉
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/oscars.html)|[![mobile](screenshots/annerquaye.github.io/projects_oscars.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_oscars.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_oscars.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/responsive_pages/responsive.html)|[![mobile](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/ricestory.html)|[![mobile](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_ricestory.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_ricestory.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-wide-full.jpg)|
+|[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/scrolly.html)|[![mobile](screenshots/annerquaye.github.io/projects_scrolly.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_scrolly.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_scrolly.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_scrolly.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_scrolly.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_scrolly.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -142,6 +159,10 @@ No issues found! 🎉
 * Move `projects/ricestory.html` into a folder called `ricestory`, then rename the file `index.html`. That way the project can be found at **/ricestory** instead of **/ricestory.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
+**https://annerquaye.github.io/projects/scrolly.html**
+
+* Move `projects/scrolly.html` into a folder called `scrolly`, then rename the file `index.html`. That way the project can be found at **/scrolly** instead of **/scrolly.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+
 
 
 ## areenaarora.com
@@ -154,6 +175,7 @@ No issues found! 🎉
 |[Page Not Found](https://areenaarora.com/responsive-dev-hw)|request failed|request failed|request failed|
 |[Best Biryani](https://areenaarora.com/stories/biryani/)|[![mobile](screenshots/areenaarora.com/stories_biryani_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_biryani_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_biryani_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-wide-full.jpg)|
 |[New York State spills](https://areenaarora.com/stories/ny-state-spills/)|[![mobile](screenshots/areenaarora.com/stories_ny-state-spills_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_ny-state-spills_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_ny-state-spills_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-wide-full.jpg)|
+|[COVID-vaccines](https://areenaarora.com/stories/vaccines/)|[![mobile](screenshots/areenaarora.com/stories_vaccines_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_vaccines_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_vaccines_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -178,6 +200,91 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
+**https://areenaarora.com/stories/vaccines/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `350 million` is too small at 10px
+   * Text `300 million` is too small at 10px
+   * Text `250 million` is too small at 10px
+   * Text `200 million` is too small at 10px
+   * Text `150 million` is too small at 10px
+   * Text `100 million` is too small at 10px
+   * Text `50 million` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `J&J` is too small at 10px
+   * Text `Moderna` is too small at 10px
+   * Text `Other` is too small at 10px
+   * Text `Pfizer` is too small at 10px
+   * Text `Pfizer` is too small at 8px
+   * Text `95% effective` is too small at 8px
+   * Text `Four` is too small at 10px
+   * Text `common` is too small at 10px
+   * Text `ingredients` is too small at 10px
+   * Text `Johnson & Johnson` is too small at 8px
+   * Text `66.3% effective` is too small at 8px
+   * Text `Moderna` is too small at 8px
+   * Text `94% effective` is too small at 8px
+   * Text `Source: CDC` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Pfizer` overlaps with `common` at screen width 400
+   * Text `Pfizer` overlaps with `Johnson & Johnson` at screen width 400
+   * Text `Pfizer` overlaps with `Moderna` at screen width 400
+   * Text `Pfizer` overlaps with `Source: CDC` at screen width 400
+   * Text `95% effective` overlaps with `common` at screen width 400
+   * Text `95% effective` overlaps with `66.3% effective` at screen width 400
+   * Text `95% effective` overlaps with `94% effective` at screen width 400
+   * Text `95% effective` overlaps with `Source: CDC` at screen width 400
+   * Text `common` overlaps with `Johnson & Johnson` at screen width 400
+   * Text `common` overlaps with `66.3% effective` at screen width 400
+   * Text `common` overlaps with `Moderna` at screen width 400
+   * Text `common` overlaps with `94% effective` at screen width 400
+   * Text `common` overlaps with `Source: CDC` at screen width 400
+   * Text `Johnson & Johnson` overlaps with `Moderna` at screen width 400
+   * Text `Johnson & Johnson` overlaps with `Source: CDC` at screen width 400
+   * Text `66.3% effective` overlaps with `94% effective` at screen width 400
+   * Text `66.3% effective` overlaps with `Source: CDC` at screen width 400
+   * Text `Moderna` overlaps with `Source: CDC` at screen width 400
+   * Text `94% effective` overlaps with `Source: CDC` at screen width 400
+   * Text `Pfizer` overlaps with `common` at screen width 900
+   * Text `Pfizer` overlaps with `Johnson & Johnson` at screen width 900
+   * Text `Pfizer` overlaps with `Moderna` at screen width 900
+   * Text `Pfizer` overlaps with `Source: CDC` at screen width 900
+   * Text `95% effective` overlaps with `common` at screen width 900
+   * Text `95% effective` overlaps with `66.3% effective` at screen width 900
+   * Text `95% effective` overlaps with `94% effective` at screen width 900
+   * Text `95% effective` overlaps with `Source: CDC` at screen width 900
+   * Text `common` overlaps with `Johnson & Johnson` at screen width 900
+   * Text `common` overlaps with `66.3% effective` at screen width 900
+   * Text `common` overlaps with `Moderna` at screen width 900
+   * Text `common` overlaps with `94% effective` at screen width 900
+   * Text `common` overlaps with `Source: CDC` at screen width 900
+   * Text `Johnson & Johnson` overlaps with `Moderna` at screen width 900
+   * Text `Johnson & Johnson` overlaps with `Source: CDC` at screen width 900
+   * Text `66.3% effective` overlaps with `94% effective` at screen width 900
+   * Text `66.3% effective` overlaps with `Source: CDC` at screen width 900
+   * Text `Moderna` overlaps with `Source: CDC` at screen width 900
+   * Text `94% effective` overlaps with `Source: CDC` at screen width 900
+   * Text `Pfizer` overlaps with `common` at screen width 1300
+   * Text `Pfizer` overlaps with `Johnson & Johnson` at screen width 1300
+   * Text `Pfizer` overlaps with `Moderna` at screen width 1300
+   * Text `Pfizer` overlaps with `Source: CDC` at screen width 1300
+   * Text `95% effective` overlaps with `common` at screen width 1300
+   * Text `95% effective` overlaps with `66.3% effective` at screen width 1300
+   * Text `95% effective` overlaps with `94% effective` at screen width 1300
+   * Text `95% effective` overlaps with `Source: CDC` at screen width 1300
+   * Text `common` overlaps with `Johnson & Johnson` at screen width 1300
+   * Text `common` overlaps with `66.3% effective` at screen width 1300
+   * Text `common` overlaps with `Moderna` at screen width 1300
+   * Text `common` overlaps with `94% effective` at screen width 1300
+   * Text `common` overlaps with `Source: CDC` at screen width 1300
+   * Text `Johnson & Johnson` overlaps with `Moderna` at screen width 1300
+   * Text `Johnson & Johnson` overlaps with `Source: CDC` at screen width 1300
+   * Text `66.3% effective` overlaps with `94% effective` at screen width 1300
+   * Text `66.3% effective` overlaps with `Source: CDC` at screen width 1300
+   * Text `Moderna` overlaps with `Source: CDC` at screen width 1300
+   * Text `94% effective` overlaps with `Source: CDC` at screen width 1300
+
 
 
 ## ilenapeng.github.io
@@ -186,6 +293,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Ilena Peng](https://ilenapeng.github.io/)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
+|[nyc-languages/index.html](https://ilenapeng.github.io/nyc-languages)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
 |[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
 |[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
 |[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
@@ -196,6 +304,107 @@ No issues found! 🎉
 **https://ilenapeng.github.io/**
 
 No issues found! 🎉
+
+**https://ilenapeng.github.io/nyc-languages**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `0` is too small at 2px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 400
+   * Text `it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `Spanish -35.2K` at screen width 400
+   * Text `Italian -15.4K` overlaps with `` at screen width 400
+   * Text `` overlaps with `Chinese 47.9K` at screen width 400
+   * Text `` overlaps with `Chinese 47.9K` at screen width 400
+   * Text `Arabic 3.3K` overlaps with `` at screen width 400
+   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 900
+   * Text `it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `Spanish -35.2K` at screen width 900
+   * Text `Italian -15.4K` overlaps with `` at screen width 900
+   * Text `` overlaps with `Chinese 47.9K` at screen width 900
+   * Text `` overlaps with `Chinese 47.9K` at screen width 900
+   * Text `Arabic 3.3K` overlaps with `` at screen width 900
+   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 1300
+   * Text `it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Spanish -35.2K` at screen width 1300
+   * Text `Italian -15.4K` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Chinese 47.9K` at screen width 1300
+   * Text `` overlaps with `Chinese 47.9K` at screen width 1300
+   * Text `Arabic 3.3K` overlaps with `` at screen width 1300
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -218,6 +427,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Jessie Blaeser's Portfolio](https://jessieblaeser.github.io/)|[![mobile](screenshots/jessieblaeser.github.io/index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-wide-full.jpg)|
+|[Dams in Georgia](https://jessieblaeser.github.io/pj_georgia_dams.html)|[![mobile](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-wide-full.jpg)|
 |[Most Expensive Pipeline Incidents](https://jessieblaeser.github.io/pj_pipelines.html)|[![mobile](screenshots/jessieblaeser.github.io/pj_pipelines.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_pipelines.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_pipelines.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_pipelines.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_pipelines.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_pipelines.html-wide-full.jpg)|
 |[Ticket to Ride Analysis](https://jessieblaeser.github.io/pj_ticket_to_ride.html)|[![mobile](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-wide-full.jpg)|
 |[Trae Young Hawks Analysis](https://jessieblaeser.github.io/pj_trae_young.html)|[![mobile](screenshots/jessieblaeser.github.io/pj_trae_young.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_trae_young.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_trae_young.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_trae_young.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_trae_young.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_trae_young.html-wide-full.jpg)|
@@ -228,6 +438,11 @@ No issues found! 🎉
 **https://jessieblaeser.github.io/**
 
 No issues found! 🎉
+
+**https://jessieblaeser.github.io/pj_georgia_dams.html**
+
+* Move `pj_georgia_dams.html` into a folder called `pj_georgia_dams`, then rename the file `index.html`. That way the project can be found at **/pj_georgia_dams** instead of **/pj_georgia_dams.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to use `-` instead of spaces or underscores
 
 **https://jessieblaeser.github.io/pj_pipelines.html**
 
@@ -260,6 +475,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Jui Sarwate Personal Website](https://juisarwate.github.io/)|[![mobile](screenshots/juisarwate.github.io/index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/index.html-wide-full.jpg)|
 |[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
+|[UCLA Campus Study Spots](https://juisarwate.github.io/project_5_scrollytelling/)|[![mobile](screenshots/juisarwate.github.io/project_5_scrollytelling_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/project_5_scrollytelling_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/project_5_scrollytelling_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/project_5_scrollytelling_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/project_5_scrollytelling_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/project_5_scrollytelling_index.html-wide-full.jpg)|
 |[Homeless 311 Complaints 2020](https://juisarwate.github.io/project-3/)|[![mobile](screenshots/juisarwate.github.io/project-3_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/project-3_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/project-3_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/project-3_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/project-3_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/project-3_index.html-wide-full.jpg)|
 |[Yosemite National Park Visitation](https://juisarwate.github.io/Sarwate_Project1/)|[![mobile](screenshots/juisarwate.github.io/Sarwate_Project1_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/Sarwate_Project1_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/Sarwate_Project1_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/Sarwate_Project1_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/Sarwate_Project1_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/Sarwate_Project1_index.html-wide-full.jpg)|
 
@@ -274,6 +490,11 @@ No issues found! 🎉
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://juisarwate.github.io/project_5_scrollytelling/**
+
+* Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://juisarwate.github.io/project-3/**
 
@@ -294,6 +515,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Julia Ingram's portfolio](https://juliaingram.github.io)|[![mobile](screenshots/juliaingram.github.io/index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/index.html-wide-full.jpg)|
+|[ca-utility-fires/index.html](https://juliaingram.github.io/ca-utility-fires/)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
 |[Citi Bike](https://juliaingram.github.io/citibike/)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
 |[Daylight Saving](https://juliaingram.github.io/daylight-saving/)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
 |[Therapy Apps](https://juliaingram.github.io/therapy-apps/)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
@@ -304,6 +526,10 @@ No issues found! 🎉
 **https://juliaingram.github.io**
 
 No issues found! 🎉
+
+**https://juliaingram.github.io/ca-utility-fires/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
 
 **https://juliaingram.github.io/citibike/**
 
@@ -418,6 +644,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/agritech-investment/)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)|[![mobile](screenshots/kfalayi.github.io/hispanics in america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics in america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics in america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-wide-full.jpg)|
@@ -429,6 +656,87 @@ No issues found! 🎉
 **https://kfalayi.github.io/**
 
 No issues found! 🎉
+
+**https://kfalayi.github.io/agritech-investment/**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `South ` is too small at 10px
+   * Text `Africa` is too small at 10px
+   * Text `Kenya` is too small at 10px
+   * Text `Nigeria` is too small at 10px
+   * Text `India` is too small at 9px
+   * Text `United States` is too small at 9px
+   * Text `Indonesia` is too small at 9px
+   * Text `Israel` is too small at 9px
+   * Text `China` is too small at 9px
+   * Text `South Korea` is too small at 9px
+   * Text `France` is too small at 9px
+   * Text `Ireland` is too small at 9px
+   * Text `United` is too small at 9px
+   * Text `United` is too small at 9px
+   * Text `Germany` is too small at 9px
+   * Text `Kingdom` is too small at 9px
+   * Text `Kingdom` is too small at 9px
+   * Text `Netherlands` is too small at 9px
+   * Text `Canada` is too small at 9px
+   * Text `South` is too small at 7px
+   * Text `Africa` is too small at 7px
+   * Text `Australia` is too small at 9px
+   * Text `tralia` is too small at 9px
+   * Text `Kenya` is too small at 7px
+   * Text `Nigeria` is too small at 7px
+   * Text `Chile` is too small at 9px
+   * Text `Brazil` is too small at 9px
+   * Text `Colombia` is too small at 9px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `ASIA` overlaps with `$6.7 billion` at screen width 400
+   * Text `Indonesia` overlaps with `Israel` at screen width 400
+   * Text `$5.4 billion` overlaps with `Germany` at screen width 400
+   * Text `United` overlaps with `United` at screen width 400
+   * Text `United` overlaps with `Germany` at screen width 400
+   * Text `United` overlaps with `Germany` at screen width 400
+   * Text `Kingdom` overlaps with `Kingdom` at screen width 400
+   * Text `Africa` overlaps with `Colombia` at screen width 400
+   * Text `Australia` overlaps with `tralia` at screen width 400
+   * Text `Australia` overlaps with `Kenya` at screen width 400
+   * Text `Australia` overlaps with `Nigeria` at screen width 400
+   * Text `tralia` overlaps with `Nigeria` at screen width 400
+   * Text `Kenya` overlaps with `Nigeria` at screen width 400
+   * Text `AFRICA` overlaps with `OCEANIA` at screen width 400
+   * Text `AFRICA` overlaps with `$244 million` at screen width 400
+   * Text `OCEANIA` overlaps with `$244 million` at screen width 400
+   * Text `SOUTH AMERICA` overlaps with `$1 billion` at screen width 400
+   * Text `$244 million` overlaps with `354.8 million` at screen width 400
+   * Text `$37.8 billion` overlaps with `Africa` at screen width 400
+   * Text `Africa` overlaps with `0.6` at screen width 400
+   * Text `South Africa` overlaps with `$145.6 million` at screen width 400
+   * Text ` ` overlaps with `$145.6 million` at screen width 400
+   * Text ` ` overlaps with `$95.2 million` at screen width 400
+   * Text `Europe` overlaps with `Asia` at screen width 400
+   * Text `$2 billion` overlaps with `$1.5` at screen width 400
+   * Text `bn` overlaps with `North America` at screen width 400
+   * Text `South America` overlaps with `$541.6 million` at screen width 400
+   * Text `United` overlaps with `United` at screen width 900
+   * Text `Kingdom` overlaps with `Kingdom` at screen width 900
+   * Text `South` overlaps with `Kenya` at screen width 900
+   * Text `Australia` overlaps with `tralia` at screen width 900
+   * Text `Australia` overlaps with `Nigeria` at screen width 900
+   * Text `Kenya` overlaps with `Nigeria` at screen width 900
+   * Text `$244 million` overlaps with `354.8 million` at screen width 900
+   * Text `Africa` overlaps with `0.6` at screen width 900
+   * Text ` ` overlaps with `$145.6 million` at screen width 900
+   * Text ` ` overlaps with `$95.2 million` at screen width 900
+   * Text `United` overlaps with `United` at screen width 1300
+   * Text `Kingdom` overlaps with `Kingdom` at screen width 1300
+   * Text `South` overlaps with `Kenya` at screen width 1300
+   * Text `Australia` overlaps with `tralia` at screen width 1300
+   * Text `Australia` overlaps with `Nigeria` at screen width 1300
+   * Text `Kenya` overlaps with `Nigeria` at screen width 1300
+   * Text `$244 million` overlaps with `354.8 million` at screen width 1300
+   * Text ` ` overlaps with `$145.6 million` at screen width 1300
+   * Text ` ` overlaps with `$95.2 million` at screen width 1300
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+   * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
 **https://kfalayi.github.io/bloomberg/**
 
@@ -489,6 +797,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
 |[Brazilian people are paying for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
+|[Under Bolsonaro, Brazil has sanctioned less companies for environmental crimes](https://luizftoledo.github.io/ibama_sanctions/)|[![mobile](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-wide-full.jpg)|
 |[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
 |[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
 
@@ -502,6 +811,55 @@ No issues found! 🎉
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
 No issues found! 🎉
+
+**https://luizftoledo.github.io/ibama_sanctions/**
+
+* Change URL to use `-` instead of spaces or underscores
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `18k` is too small at 7px
+   * Text `17k` is too small at 7px
+   * Text `16k` is too small at 7px
+   * Text `15k` is too small at 7px
+   * Text `14k` is too small at 7px
+   * Text `13k` is too small at 7px
+   * Text `12k` is too small at 7px
+   * Text `11k` is too small at 7px
+   * Text `10k` is too small at 7px
+   * Text `9k` is too small at 7px
+   * Text `8k` is too small at 7px
+   * Text `2013` is too small at 7px
+   * Text `2014` is too small at 7px
+   * Text `2015` is too small at 7px
+   * Text `2016` is too small at 7px
+   * Text `2017` is too small at 7px
+   * Text `2018` is too small at 7px
+   * Text `2019` is too small at 7px
+   * Text `2020` is too small at 7px
+   * Text `2021` is too small at 7px
+   * Text `18k` is too small at 4px
+   * Text `17k` is too small at 4px
+   * Text `-9.23%` is too small at 6px
+   * Text `16k` is too small at 4px
+   * Text `15k` is too small at 4px
+   * Text `14k` is too small at 4px
+   * Text `13k` is too small at 4px
+   * Text `12k` is too small at 4px
+   * Text `-26.82%` is too small at 6px
+   * Text `11k` is too small at 4px
+   * Text `10k` is too small at 4px
+   * Text `-16.98%` is too small at 6px
+   * Text `9k` is too small at 4px
+   * Text `8.9k fines` is too small at 6px
+   * Text `8k` is too small at 4px
+   * Text `2013` is too small at 4px
+   * Text `2014` is too small at 4px
+   * Text `2015` is too small at 4px
+   * Text `2016` is too small at 4px
+   * Text `2017` is too small at 4px
+   * Text `2018` is too small at 4px
+   * Text `2019` is too small at 4px
+   * Text `2020` is too small at 4px
+   * Text `2021` is too small at 4px
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -628,6 +986,7 @@ No issues found! 🎉
 |[Airbnb Story](https://mishavaid7.github.io/Airbnb-Story/)|[![mobile](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-full.jpg)|
 |[NYC Restaurant Grade Story](https://mishavaid7.github.io/NYCRestaurants-Story/)|[![mobile](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-wide-full.jpg)|
 |[Airbnb Story](https://mishavaid7.github.io/Project-4/)|[![mobile](screenshots/mishavaid7.github.io/Project-4_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Project-4_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Project-4_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-wide-full.jpg)|
+|[Wordle Cheaters](https://mishavaid7.github.io/Wordle-Webpage/)|[![mobile](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -693,6 +1052,11 @@ No issues found! 🎉
    * Text `39.6` overlaps with `56.9` at screen width 1300
    * Text `43.8` overlaps with `80.4` at screen width 1300
 
+**https://mishavaid7.github.io/Wordle-Webpage/**
+
+* Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+
 
 
 ## msc-joel.github.io
@@ -704,6 +1068,7 @@ No issues found! 🎉
 |[Covid inflation surge likely to persist](https://msc-joel.github.io/main-article1.html)|[![mobile](screenshots/msc-joel.github.io/main-article1.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article1.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article1.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-wide-full.jpg)|
 |[More than half of CEDA loan beneficiaries are in the services business](https://msc-joel.github.io/main-article3.html)|[![mobile](screenshots/msc-joel.github.io/main-article3.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article3.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article3.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-wide-full.jpg)|
 |[Responsive page](https://msc-joel.github.io/main-article4.html)|[![mobile](screenshots/msc-joel.github.io/main-article4.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article4.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article4.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-wide-full.jpg)|
+|[main-article5.html](https://msc-joel.github.io/main-article5.html)|[![mobile](screenshots/msc-joel.github.io/main-article5.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article5.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article5.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article5.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article5.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article5.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -921,6 +1286,44 @@ No issues found! 🎉
    * Text `74%` overlaps with `74%` at screen width 1300
    * Text `72%` overlaps with `72%` at screen width 1300
 
+**https://msc-joel.github.io/main-article5.html**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Move `main-article5.html` into a folder called `main-article5`, then rename the file `index.html`. That way the project can be found at **/main-article5** instead of **/main-article5.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `97%` is too small at 9px
+   * Text `95%` is too small at 9px
+   * Text `93%` is too small at 9px
+   * Text `78%` is too small at 9px
+   * Text `77%` is too small at 9px
+   * Text `75%` is too small at 9px
+   * Text `75%` is too small at 9px
+   * Text `74%` is too small at 9px
+   * Text `74%` is too small at 9px
+   * Text `72%` is too small at 9px
+   * Text `Luxenbourg` is too small at 9px
+   * Text `Malta` is too small at 9px
+   * Text `Belgium` is too small at 9px
+   * Text `Greece` is too small at 9px
+   * Text `Spain` is too small at 9px
+   * Text `Lithuania` is too small at 9px
+   * Text `Portugal` is too small at 9px
+   * Text `Italy` is too small at 9px
+   * Text `Austria` is too small at 9px
+   * Text `Cyprus` is too small at 9px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `97%` overlaps with `95%` at screen width 400
+   * Text `95%` overlaps with `93%` at screen width 400
+   * Text `78%` overlaps with `77%` at screen width 400
+   * Text `77%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `75%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `74%` at screen width 400
+   * Text `74%` overlaps with `72%` at screen width 400
+   * Text `75%` overlaps with `74%` at screen width 900
+   * Text `75%` overlaps with `74%` at screen width 1300
+
 
 
 ## naokatoh.github.io
@@ -930,9 +1333,10 @@ No issues found! 🎉
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
 |[Music in Men's Figure Skating](https://naokatoh.github.io/figure_skate_music/)|[![mobile](screenshots/naokatoh.github.io/figure_skate_music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure_skate_music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure_skate_music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-wide-full.jpg)|
+|[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
+|[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
 |[Where to Find Uni in the US](https://naokatoh.github.io/sea_urchin/)|[![mobile](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-full.jpg)|
 |[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
-|[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -944,6 +1348,16 @@ No issues found! 🎉
 **https://naokatoh.github.io/figure_skate_music/**
 
 * Change URL to use `-` instead of spaces or underscores
+
+**https://naokatoh.github.io/nycrats/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://naokatoh.github.io/oscar-anime/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text ` Not Disney/ Pixar` is too small at 10px
 
 **https://naokatoh.github.io/sea_urchin/**
 
@@ -989,10 +1403,6 @@ No issues found! 🎉
    * Text `Nigeria` overlaps with `Nigeria` at screen width 1300
    * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 1300
 
-**https://naokatoh.github.io/nycrats/**
-
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-
 
 
 ## pmagtulis.github.io
@@ -1003,8 +1413,9 @@ No issues found! 🎉
 |[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
+|[projects/trains/index.html](https://pmagtulis.github.io/projects/trains/)|[![mobile](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/video-games/)|[![mobile](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-full.jpg)|
 
 
@@ -1020,7 +1431,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Complaints about air` is too small at 10px
    * Text `quality hit a record-high` is too small at 10px
@@ -1085,17 +1495,12 @@ No issues found! 🎉
    * Text `quality hit a record-high` is too small at 10px
    * Text `in January 2022` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `100` overlaps with `Air quality complaints` at screen width 400
-   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `Air quality complaints` overlaps with `100` at screen width 400
+   * Text `in the area first recorded in 2016` overlaps with `100` at screen width 400
+   * Text `0` overlaps with `Aug` at screen width 400
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
@@ -1106,35 +1511,48 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
-   * Text `100` overlaps with `Air quality complaints` at screen width 900
-   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `Air quality complaints` overlaps with `100` at screen width 900
+   * Text `in the area first recorded in 2016` overlaps with `100` at screen width 900
+   * Text `0` overlaps with `Aug` at screen width 900
+   * Text `Jun` overlaps with `Feb` at screen width 900
+   * Text `2021` overlaps with `2022` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
    * Text `2004` overlaps with `2008` at screen width 900
    * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `Complaints about air quality` overlaps with `complaints` at screen width 900
+   * Text `2004` overlaps with `2008` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
+   * Text `2012` overlaps with `2016` at screen width 900
+   * Text `2016` overlaps with `2020` at screen width 900
+   * Text `2008` overlaps with `2004` at screen width 900
+   * Text `2008` overlaps with `2012` at screen width 900
    * Text `2012` overlaps with `2016` at screen width 900
    * Text `2016` overlaps with `2020` at screen width 900
    * Text `100` overlaps with `Air quality complaints` at screen width 1300
@@ -1164,19 +1582,6 @@ No issues found! 🎉
    * Text `2012` overlaps with `2016` at screen width 1300
    * Text `2016` overlaps with `2020` at screen width 1300
 
-**https://pmagtulis.github.io/projects/polls-ph/**
-
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Caloocan` is too small at 8px
-   * Text `700,279` is too small at 8px
-   * Text `Quezon City` is too small at 8px
-   * Text `1,403,895` is too small at 8px
-   * Text `Manila` is too small at 8px
-   * Text `1,112,081` is too small at 8px
-   * Text `Entire NCR:` is too small at 8px
-   * Text `7,301,393` is too small at 8px
-
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1192,9 +1597,26 @@ No issues found! 🎉
    * Text `40` is too small at 7px
    * Text `20` is too small at 7px
 
-**https://pmagtulis.github.io/projects/video-games/**
+**https://pmagtulis.github.io/projects/polls-ph/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `Caloocan` is too small at 8px
+   * Text `700,279` is too small at 8px
+   * Text `Quezon City` is too small at 8px
+   * Text `1,403,895` is too small at 8px
+   * Text `Manila` is too small at 8px
+   * Text `1,112,081` is too small at 8px
+   * Text `Entire NCR:` is too small at 8px
+   * Text `7,301,393` is too small at 8px
+
+**https://pmagtulis.github.io/projects/trains/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://pmagtulis.github.io/projects/video-games/**
+
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1209,6 +1631,7 @@ No issues found! 🎉
 |[project_one/index.html](https://pmartisa.github.io/project_one/)|[![mobile](screenshots/pmartisa.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-wide-full.jpg)|
 |[project_three/index.html](https://pmartisa.github.io/project_three/index.html)|[![mobile](screenshots/pmartisa.github.io/project_three_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_three_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_three_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-wide-full.jpg)|
 |[project_two/index.html](https://pmartisa.github.io/project_two/index.html)|[![mobile](screenshots/pmartisa.github.io/project_two_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_two_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_two_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-wide-full.jpg)|
+|[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1637,6 +2060,153 @@ No issues found! 🎉
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 
+**https://pmartisa.github.io/scrollytelling_project/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Change URL to use `-` instead of spaces or underscores
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Carabanchel` overlaps with `` at screen width 400
+   * Text `Carabanchel` overlaps with `Puente de vallecas` at screen width 400
+   * Text `Carabanchel` overlaps with `` at screen width 400
+   * Text `` overlaps with `Puente de vallecas` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `47` overlaps with `43` at screen width 400
+   * Text `Puente de vallecas` overlaps with `` at screen width 400
+   * Text `Puente de vallecas` overlaps with `Tetuan` at screen width 400
+   * Text `Puente de vallecas` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `43` overlaps with `39` at screen width 400
+   * Text `Tetuan` overlaps with `Usera` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `Usera` overlaps with `Centro` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `32` overlaps with `31` at screen width 400
+   * Text `Centro` overlaps with `Ciudad lineal` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `31` overlaps with `28` at screen width 400
+   * Text `Ciudad lineal` overlaps with `` at screen width 400
+   * Text `Ciudad lineal` overlaps with `Latina` at screen width 400
+   * Text `Ciudad lineal` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `28` overlaps with `27` at screen width 400
+   * Text `Latina` overlaps with `Arganzuela` at screen width 400
+   * Text `` overlaps with `Arganzuela` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `27` overlaps with `24` at screen width 400
+   * Text `Arganzuela` overlaps with `` at screen width 400
+   * Text `Arganzuela` overlaps with `Chamberi` at screen width 400
+   * Text `Arganzuela` overlaps with `` at screen width 400
+   * Text `` overlaps with `Chamberi` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `24` overlaps with `21` at screen width 400
+   * Text `Chamberi` overlaps with `` at screen width 400
+   * Text `Chamberi` overlaps with `Villaverde` at screen width 400
+   * Text `Chamberi` overlaps with `` at screen width 400
+   * Text `` overlaps with `Villaverde` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `21` overlaps with `20` at screen width 400
+   * Text `Villaverde` overlaps with `` at screen width 400
+   * Text `Villaverde` overlaps with `Salamanca` at screen width 400
+   * Text `Villaverde` overlaps with `` at screen width 400
+   * Text `` overlaps with `Salamanca` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `20` overlaps with `16` at screen width 400
+   * Text `Salamanca` overlaps with `` at screen width 400
+   * Text `Salamanca` overlaps with `San blas-canillejas` at screen width 400
+   * Text `Salamanca` overlaps with `` at screen width 400
+   * Text `` overlaps with `San blas-canillejas` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `16` overlaps with `San blas-canillejas` at screen width 400
+   * Text `16` overlaps with `13` at screen width 400
+   * Text `San blas-canillejas` overlaps with `` at screen width 400
+   * Text `San blas-canillejas` overlaps with `13` at screen width 400
+   * Text `San blas-canillejas` overlaps with `Chamartin` at screen width 400
+   * Text `San blas-canillejas` overlaps with `` at screen width 400
+   * Text `San blas-canillejas` overlaps with `12` at screen width 400
+   * Text `` overlaps with `Chamartin` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `13` overlaps with `12` at screen width 400
+   * Text `Chamartin` overlaps with `` at screen width 400
+   * Text `Chamartin` overlaps with `Fuencarral-el pardo` at screen width 400
+   * Text `Chamartin` overlaps with `` at screen width 400
+   * Text `` overlaps with `Fuencarral-el pardo` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `10` at screen width 400
+   * Text `12` overlaps with `Fuencarral-el pardo` at screen width 400
+   * Text `12` overlaps with `10` at screen width 400
+   * Text `Fuencarral-el pardo` overlaps with `` at screen width 400
+   * Text `Fuencarral-el pardo` overlaps with `10` at screen width 400
+   * Text `Fuencarral-el pardo` overlaps with `Vicalvaro` at screen width 400
+   * Text `Fuencarral-el pardo` overlaps with `` at screen width 400
+   * Text `Fuencarral-el pardo` overlaps with `9` at screen width 400
+   * Text `` overlaps with `Vicalvaro` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `10` overlaps with `9` at screen width 400
+   * Text `Vicalvaro` overlaps with `` at screen width 400
+   * Text `Vicalvaro` overlaps with `Hortaleza` at screen width 400
+   * Text `Vicalvaro` overlaps with `` at screen width 400
+   * Text `Vicalvaro` overlaps with `7` at screen width 400
+   * Text `` overlaps with `Hortaleza` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `9` overlaps with `7` at screen width 400
+   * Text `Hortaleza` overlaps with `` at screen width 400
+   * Text `Hortaleza` overlaps with `7` at screen width 400
+   * Text `Hortaleza` overlaps with `Retiro` at screen width 400
+   * Text `Hortaleza` overlaps with `7` at screen width 400
+   * Text `Hortaleza` overlaps with `` at screen width 400
+   * Text `` overlaps with `Retiro` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `7` overlaps with `7` at screen width 400
+   * Text `7` overlaps with `` at screen width 400
+   * Text `Retiro` overlaps with `` at screen width 400
+   * Text `Retiro` overlaps with `Villa de vallecas` at screen width 400
+   * Text `Retiro` overlaps with `` at screen width 400
+   * Text `7` overlaps with `` at screen width 400
+   * Text `7` overlaps with `Villa de vallecas` at screen width 400
+   * Text `7` overlaps with `7` at screen width 400
+   * Text `` overlaps with `Villa de vallecas` at screen width 400
+   * Text `` overlaps with `7` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `Villa de vallecas` overlaps with `7` at screen width 400
+   * Text `Villa de vallecas` overlaps with `` at screen width 400
+   * Text `Villa de vallecas` overlaps with `Moratalaz` at screen width 400
+   * Text `Villa de vallecas` overlaps with `` at screen width 400
+   * Text `Villa de vallecas` overlaps with `5` at screen width 400
+   * Text `7` overlaps with `Moratalaz` at screen width 400
+   * Text `7` overlaps with `5` at screen width 400
+   * Text `` overlaps with `Moratalaz` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `5` at screen width 400
+   * Text `Moratalaz` overlaps with `` at screen width 400
+   * Text `Moratalaz` overlaps with `5` at screen width 400
+   * Text `Moratalaz` overlaps with `Moncloa-aravaca` at screen width 400
+   * Text `Moratalaz` overlaps with `4` at screen width 400
+   * Text `Moratalaz` overlaps with `` at screen width 400
+   * Text `` overlaps with `5` at screen width 400
+   * Text `` overlaps with `Moncloa-aravaca` at screen width 400
+   * Text `` overlaps with `4` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `5` overlaps with `Moncloa-aravaca` at screen width 400
+   * Text `5` overlaps with `4` at screen width 400
+   * Text `5` overlaps with `` at screen width 400
+   * Text `Moncloa-aravaca` overlaps with `4` at screen width 400
+   * Text `Moncloa-aravaca` overlaps with `` at screen width 400
+   * Text `Moncloa-aravaca` overlaps with `Barajas` at screen width 400
+   * Text `Moncloa-aravaca` overlaps with `` at screen width 400
+   * Text `Moncloa-aravaca` overlaps with `3` at screen width 400
+   * Text `4` overlaps with `` at screen width 400
+   * Text `4` overlaps with `Barajas` at screen width 400
+   * Text `4` overlaps with `3` at screen width 400
+   * Text `` overlaps with `Barajas` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `3` at screen width 400
+   * Text `Barajas` overlaps with `` at screen width 400
+   * Text `Barajas` overlaps with `3` at screen width 400
+   * Text `Barajas` overlaps with `0` at screen width 400
+   * Text `` overlaps with `3` at screen width 400
+   * Text `` overlaps with `0` at screen width 400
+   * Text `3` overlaps with `0` at screen width 400
+
 
 
 ## sarahgrevy.github.io
@@ -1645,6 +2215,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/)|[![mobile](screenshots/sarahgrevy.github.io/index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-wide-full.jpg)|
+|[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/air)|[![mobile](screenshots/sarahgrevy.github.io/air_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/air_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/air_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/co2_emission)|[![mobile](screenshots/sarahgrevy.github.io/co2_emission_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/co2_emission_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/co2_emission_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/co2_emission_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/co2_emission_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/co2_emission_index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/weather_project)|[![mobile](screenshots/sarahgrevy.github.io/weather_project_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/weather_project_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/weather_project_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/weather_project_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/weather_project_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/weather_project_index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/wordle)|[![mobile](screenshots/sarahgrevy.github.io/wordle_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/wordle_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/wordle_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-wide-full.jpg)|
@@ -1655,6 +2226,75 @@ No issues found! 🎉
 **https://sarahgrevy.github.io/**
 
 No issues found! 🎉
+
+**https://sarahgrevy.github.io/air**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `240` overlaps with `220` at screen width 400
+   * Text `220` overlaps with `200` at screen width 400
+   * Text `200` overlaps with `180` at screen width 400
+   * Text `180` overlaps with `160` at screen width 400
+   * Text `160` overlaps with `140` at screen width 400
+   * Text `Air Quality` overlaps with `Jan` at screen width 400
+   * Text `140` overlaps with `120` at screen width 400
+   * Text `120` overlaps with `100` at screen width 400
+   * Text `100` overlaps with `80` at screen width 400
+   * Text `80` overlaps with `60` at screen width 400
+   * Text `60` overlaps with `40` at screen width 400
+   * Text `NYC & LA` overlaps with `Apr` at screen width 400
+   * Text `NYC & LA` overlaps with `May` at screen width 400
+   * Text `NYC & LA` overlaps with `Jun` at screen width 400
+   * Text `NYC & LA` overlaps with `Jul` at screen width 400
+   * Text `NYC & LA` overlaps with `Aug` at screen width 400
+   * Text `NYC & LA` overlaps with `Sep` at screen width 400
+   * Text `NYC & LA` overlaps with `Oct` at screen width 400
+   * Text `NYC & LA` overlaps with `Nov` at screen width 400
+   * Text `40` overlaps with `20` at screen width 400
+   * Text `40` overlaps with `Mar` at screen width 400
+   * Text `40` overlaps with `Apr` at screen width 400
+   * Text `40` overlaps with `Jan` at screen width 400
+   * Text `40` overlaps with `Feb` at screen width 400
+   * Text `20` overlaps with `0` at screen width 400
+   * Text `20` overlaps with `Mar` at screen width 400
+   * Text `20` overlaps with `Apr` at screen width 400
+   * Text `20` overlaps with `Jan` at screen width 400
+   * Text `20` overlaps with `Feb` at screen width 400
+   * Text `0` overlaps with `Mar` at screen width 400
+   * Text `0` overlaps with `Jan` at screen width 400
+   * Text `0` overlaps with `Feb` at screen width 400
+   * Text `Mar` overlaps with `Apr` at screen width 400
+   * Text `Mar` overlaps with `Jan` at screen width 400
+   * Text `Mar` overlaps with `Feb` at screen width 400
+   * Text `Mar` overlaps with `May` at screen width 400
+   * Text `Apr` overlaps with `Feb` at screen width 400
+   * Text `Apr` overlaps with `May` at screen width 400
+   * Text `Apr` overlaps with `Jun` at screen width 400
+   * Text `Jan` overlaps with `Feb` at screen width 400
+   * Text `May` overlaps with `Jun` at screen width 400
+   * Text `May` overlaps with `Jul` at screen width 400
+   * Text `Jun` overlaps with `Jul` at screen width 400
+   * Text `Jun` overlaps with `Aug` at screen width 400
+   * Text `Jul` overlaps with `Aug` at screen width 400
+   * Text `Jul` overlaps with `Sep` at screen width 400
+   * Text `Aug` overlaps with `Sep` at screen width 400
+   * Text `Aug` overlaps with `Oct` at screen width 400
+   * Text `Sep` overlaps with `Oct` at screen width 400
+   * Text `Sep` overlaps with `Nov` at screen width 400
+   * Text `Oct` overlaps with `Nov` at screen width 400
+   * Text `Oct` overlaps with `Dec` at screen width 400
+   * Text `Nov` overlaps with `Dec` at screen width 400
+   * Text `0` overlaps with `Jan` at screen width 900
+   * Text `0` overlaps with `Feb` at screen width 900
+   * Text `Mar` overlaps with `Feb` at screen width 900
+   * Text `Apr` overlaps with `May` at screen width 900
+   * Text `Jan` overlaps with `Feb` at screen width 900
+   * Text `May` overlaps with `Jun` at screen width 900
+   * Text `Jul` overlaps with `Aug` at screen width 900
+   * Text `Aug` overlaps with `Sep` at screen width 900
+   * Text `Sep` overlaps with `Oct` at screen width 900
+   * Text `Oct` overlaps with `Nov` at screen width 900
+   * Text `Nov` overlaps with `Dec` at screen width 900
+   * Text `0` overlaps with `Jan` at screen width 1300
 
 **https://sarahgrevy.github.io/co2_emission**
 
@@ -1677,8 +2317,9 @@ No issues found! 🎉
 |---|---|---|---|
 |[Susan Merriam](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
 |[First Visual Story](https://semerriam.github.io/nicar_first_visual_story)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj-ec-schools)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
 |[Susan Merriam](https://semerriam.github.io/projects/pj-census-quirks)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
+|[Susan Merriam](https://semerriam.github.io/projects/pj-ec-schools)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
+|[Susan Merriam](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1691,6 +2332,40 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://semerriam.github.io/projects/pj-census-quirks**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `0` is too small at 10px
+   * Text `200` is too small at 10px
+   * Text `400` is too small at 10px
+   * Text `600` is too small at 10px
+   * Text `800` is too small at 10px
+   * Text `1000` is too small at 10px
+   * Text `1200` is too small at 10px
+   * Text `1400` is too small at 10px
+   * Text `1600` is too small at 10px
+   * Text `1800` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `200` is too small at 10px
+   * Text `400` is too small at 10px
+   * Text `600` is too small at 10px
+   * Text `800` is too small at 10px
+   * Text `1000` is too small at 10px
+   * Text `1200` is too small at 10px
+   * Text `1400` is too small at 10px
+   * Text `1600` is too small at 10px
+   * Text `1800` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `200` is too small at 10px
+   * Text `400` is too small at 10px
+   * Text `600` is too small at 10px
+   * Text `800` is too small at 10px
+   * Text `1000` is too small at 10px
+   * Text `1200` is too small at 10px
+   * Text `1400` is too small at 10px
+   * Text `1600` is too small at 10px
+   * Text `1800` is too small at 10px
 
 **https://semerriam.github.io/projects/pj-ec-schools**
 
@@ -1774,39 +2449,127 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
 
-**https://semerriam.github.io/projects/pj-census-quirks**
+**https://semerriam.github.io/projects/pj-infrasound/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `44,083 Hz` is too small at 10px
+   * Text `44,083 Hz` is too small at 10px
+   * Text `7.5` is too small at 6px
+   * Text `7.5` is too small at 6px
+   * Text `5.0` is too small at 6px
+   * Text `5.0` is too small at 6px
+   * Text `2.5` is too small at 6px
+   * Text `2.5` is too small at 6px
+   * Text `0` is too small at 6px
+   * Text `0` is too small at 6px
+   * Text `-2.5` is too small at 6px
+   * Text `-2.5` is too small at 6px
+   * Text `-5.0` is too small at 6px
+   * Text `-5.0` is too small at 6px
+   * Text `-7.5` is too small at 6px
+   * Text `-7.5` is too small at 6px
+   * Text `-10.0` is too small at 6px
+   * Text `-10.0` is too small at 6px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `3:24` is too small at 10px
+   * Text `3:24` is too small at 10px
+   * Text `:46` is too small at 10px
+   * Text `:46` is too small at 10px
+   * Text `44,083 Hz` is too small at 10px
+   * Text `7.5` is too small at 6px
+   * Text `5.0` is too small at 6px
+   * Text `2.5` is too small at 6px
+   * Text `0` is too small at 6px
+   * Text `-2.5` is too small at 6px
+   * Text `-5.0` is too small at 6px
+   * Text `-7.5` is too small at 6px
+   * Text `-10.0` is too small at 6px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `3:24` is too small at 10px
+   * Text `:46` is too small at 10px
+   * Text `44,083 Hz` is too small at 10px
+   * Text `7.5` is too small at 6px
+   * Text `5.0` is too small at 6px
+   * Text `2.5` is too small at 6px
+   * Text `0` is too small at 6px
+   * Text `-2.5` is too small at 6px
+   * Text `-5.0` is too small at 6px
+   * Text `-7.5` is too small at 6px
+   * Text `-10.0` is too small at 6px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `3:24` is too small at 10px
+   * Text `:46` is too small at 10px
+   * Text `30,000` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `1,000` is too small at 10px
+   * Text `10,000` is too small at 10px
+   * Text `15,000` is too small at 10px
+   * Text `20,000 Hz` is too small at 10px
+   * Text `5,000` is too small at 10px
+   * Text `30K` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `5K` is too small at 10px
+   * Text `10K` is too small at 10px
+   * Text `15K` is too small at 10px
+   * Text `20K Hz` is too small at 10px
+   * Text `30,000` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `1,000` is too small at 10px
+   * Text `5,000` is too small at 10px
+   * Text `10,000` is too small at 10px
+   * Text `15,000` is too small at 10px
+   * Text `20,000 Hz` is too small at 10px
+   * Text `30,000` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
    * Text `400` is too small at 10px
    * Text `600` is too small at 10px
    * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
+   * Text `1,000 Hz` is too small at 10px
+   * Text `30K` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
    * Text `400` is too small at 10px
    * Text `600` is too small at 10px
    * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
+   * Text `1,000 Hz` is too small at 10px
+   * Text `30,000` is too small at 10px
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
    * Text `400` is too small at 10px
    * Text `600` is too small at 10px
    * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
+   * Text `1,000 Hz` is too small at 10px
+   * Text `30,000` is too small at 10px
+   * Text `30,000` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `20` is too small at 10px
+   * Text `20` is too small at 10px
+   * Text `1,000 Hz` is too small at 10px
+   * Text `1,000 Hz` is too small at 10px
+   * Text `30K` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `20` is too small at 10px
+   * Text `20` is too small at 10px
+   * Text `1K Hz` is too small at 10px
+   * Text `30,000` is too small at 10px
+   * Text `0` is too small at 10px
+   * Text `20` is too small at 10px
+   * Text `1,000 Hz` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `0` overlaps with `0` at screen width 400
+   * Text `20` overlaps with `20` at screen width 400
+   * Text `0` overlaps with `0` at screen width 900
+   * Text `20` overlaps with `20` at screen width 900
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
 
 
 
@@ -1816,6 +2579,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/)|[![mobile](screenshots/sriharshadevulapalli.github.io/index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-wide-full.jpg)|
+|[This is your title](https://sriharshadevulapalli.github.io/central-vista/)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
 |[This is your title](https://sriharshadevulapalli.github.io/indian-airline-routes/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
 |[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)|[![mobile](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-full.jpg)|
 |[Harsha - Indian Rainfall](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
@@ -1826,6 +2590,183 @@ No issues found! 🎉
 **https://sriharshadevulapalli.github.io/**
 
 No issues found! 🎉
+
+**https://sriharshadevulapalli.github.io/central-vista/**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1930s - 1940s` overlaps with `1950s - 1960s` at screen width 400
+   * Text `1950s - 1960s` overlaps with `1970s-2000s` at screen width 400
+   * Text `1970s-2000s` overlaps with `2000s - Present` at screen width 400
+   * Text `Block` overlaps with `Rashtrapati` at screen width 400
+   * Text `Block` overlaps with `South` at screen width 400
+   * Text `RAJPATH` overlaps with `South` at screen width 400
+   * Text `Rashtrapati` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `War Memorial` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Jaipur` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `During the Second World War, several hutments had emerged around the Viceroy House and Secretariat. These hutments were to serve British Indian soldiers and their horses. The National Museum and Archives were also established during this period.` at screen width 400
+   * Text `Bhawan` overlaps with `Hyderabad` at screen width 400
+   * Text `Bhawan` overlaps with `Patiala` at screen width 400
+   * Text `Hyderabad` overlaps with `Patiala` at screen width 400
+   * Text `House` overlaps with `Patiala` at screen width 400
+   * Text `House` overlaps with `House` at screen width 400
+   * Text `Central` overlaps with `CENTRAL VISTA` at screen width 400
+   * Text `Secretariat` overlaps with `CENTRAL VISTA` at screen width 400
+   * Text `Secretariat` overlaps with `Viceroy` at screen width 400
+   * Text `War Memorial` overlaps with `Bikaner` at screen width 400
+   * Text `Bikaner` overlaps with `Jaipur` at screen width 400
+   * Text `House` overlaps with `House` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `During the Second World War, several hutments had emerged around the Viceroy House and Secretariat. These hutments were to serve British Indian soldiers and their horses. The National Museum and Archives were also established during this period.` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `CENTRAL VISTA` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
+   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Museum` at screen width 400
+   * Text `CENTRAL VISTA` overlaps with `National` at screen width 400
+   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `After Independence, several of these buildings were repurposed to suit the needs of the new democracy. The Viceroy House had become the house of the Indian President. Several new buildings emblematic of post indpendence modern Indian architecture came across the axis.` at screen width 400
+   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `After Independence, several of these buildings were repurposed to suit the needs of the new democracy. The Viceroy House had become the house of the Indian President. Several new buildings emblematic of post indpendence modern Indian architecture came across the axis.` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Shastri` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `RAJPATH` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Nirman` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `From the 1980s, only a few structures were built. The Indira Gandhi Centre for National Arts was built in the mid 80s. The Jawahar Bhawan which houses the Ministry of External Affairs opened up in 2011. The National War Memorial which opened up in 2019 was the latest change to the Central Vista.` at screen width 400
+   * Text `Krishi` overlaps with `Shastri` at screen width 400
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
+   * Text `Bhawan` overlaps with `Rail` at screen width 400
+   * Text `Bhawan` overlaps with `National` at screen width 400
+   * Text `Bhawan` overlaps with `Rail` at screen width 400
+   * Text `Bhawan` overlaps with `National` at screen width 400
+   * Text `Raksha` overlaps with `National` at screen width 400
+   * Text `Bhawan` overlaps with `Archives` at screen width 400
+   * Text `Rail` overlaps with `National` at screen width 400
+   * Text `Bhawan` overlaps with `Archives` at screen width 400
+   * Text `Bhawan` overlaps with `Parliament` at screen width 400
+   * Text `Bhawan` overlaps with `North` at screen width 400
+   * Text `Block` overlaps with `Vayu` at screen width 400
+   * Text `Block` overlaps with `Rashtrapati` at screen width 400
+   * Text `Block` overlaps with `South` at screen width 400
+   * Text `RAJPATH` overlaps with `Vayu` at screen width 400
+   * Text `Vayu` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `Bhawan` overlaps with `National` at screen width 400
+   * Text `Rashtrapati` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `Museum` overlaps with `Udyog` at screen width 400
+   * Text `Museum` overlaps with `Nirman` at screen width 400
+   * Text `Udyog` overlaps with `Nirman` at screen width 400
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
+   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `From the 1980s, only a few structures were built. The Indira Gandhi Centre for National Arts was built in the mid 80s. The Jawahar Bhawan which houses the Ministry of External Affairs opened up in 2011. The National War Memorial which opened up in 2019 was the latest change to the Central Vista.` at screen width 400
+   * Text `India Gate` overlaps with `National` at screen width 400
+   * Text `As part of the redevelopment project, several buildings (marked in yellow) are currently being demolished to build the new Central Vista.` overlaps with `Buildings in Yellow are currently being` at screen width 400
+   * Text `` overlaps with `Buildings in Yellow are currently being` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `National` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Archives` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Block` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` at screen width 400
+   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `RAJPATH` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Museum` at screen width 400
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` at screen width 400
+   * Text `those in the Navy living` overlaps with `North` at screen width 400
+   * Text `those in the Navy living` overlaps with `Block` at screen width 400
+   * Text `those in the Navy living` overlaps with `Rashtrapati` at screen width 400
+   * Text `those in the Navy living` overlaps with `Bhawan` at screen width 400
+   * Text `in these hutments were` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
+   * Text `moved out to make way` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
+   * Text `moved out to make way` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
+   * Text `for the new PM residence` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
+   * Text `for the new PM residence` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
+   * Text `Block` overlaps with `Rashtrapati` at screen width 400
+   * Text `Block` overlaps with `South` at screen width 400
+   * Text `RAJPATH` overlaps with `South` at screen width 400
+   * Text `Rashtrapati` overlaps with `South` at screen width 400
+   * Text `Bhawan` overlaps with `Block` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Central` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Secretariat` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Prime Minister’s` at screen width 400
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Office` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Secretariat` at screen width 400
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `RAJPATH` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `` at screen width 400
+   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Office` at screen width 400
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `The PMO shifts from the South Block to a new building` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `National` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Museum` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Rashtrapati` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Bhawan` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `PM’s Residence` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Office` at screen width 400
+   * Text `The National Museum will shift to the North and South Blocks` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
+   * Text `Central` overlaps with `RAJPATH` at screen width 400
+   * Text `Secretariat` overlaps with `RAJPATH` at screen width 400
+   * Text `Museum` overlaps with `Rashtrapati` at screen width 400
+   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 400
+   * Text `Bhawan` overlaps with `Prime Minister’s` at screen width 400
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 900
+   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 900
+   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 900
+   * Text `Krishi` overlaps with `Shastri` at screen width 900
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
+   * Text `Bhawan` overlaps with `Parliament` at screen width 900
+   * Text `Vayu` overlaps with `South` at screen width 900
+   * Text `Bhawan` overlaps with `South` at screen width 900
+   * Text `Bhawan` overlaps with `Block` at screen width 900
+   * Text `Udyog` overlaps with `Nirman` at screen width 900
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
+   * Text `India Gate` overlaps with `National` at screen width 900
+   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 900
+   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 900
+   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 900
+   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 900
+   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 900
+   * Text `Krishi` overlaps with `Shastri` at screen width 1300
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
+   * Text `Bhawan` overlaps with `Parliament` at screen width 1300
+   * Text `Udyog` overlaps with `Nirman` at screen width 1300
+   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
+   * Text `India Gate` overlaps with `National` at screen width 1300
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+   * `"Source Sans Pro"` font not found, used in 106 text objects. Example: _1930s - 1940s, 1950s - 1960s, 1970s-2000s_
 
 **https://sriharshadevulapalli.github.io/indian-airline-routes/index.html**
 
@@ -2213,6 +3154,7 @@ No issues found! 🎉
 |[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
 |[Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
 |["The Cost of COVID"](https://srjouppi.github.io/covid-gofundme-analysis/)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
+|[nyc-child-psychologists/index.html](https://srjouppi.github.io/nyc-child-psychologists/)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -2229,6 +3171,12 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
+**https://srjouppi.github.io/nyc-child-psychologists/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `Source: health.data.ny.gov “Medicaid Program Enrollment by Month Beginning 2009” - Aug. 2021 enrollment` is too small at 10px
+
 
 
 ## stephenanti.github.io
@@ -2239,6 +3187,7 @@ No issues found! 🎉
 |[Stephen Anti's portfolio](https://stephenanti.github.io/)|[![mobile](screenshots/stephenanti.github.io/index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/index.html-wide-full.jpg)|
 |[brooklyn crashes](https://stephenanti.github.io/brooklyn_crashes.html)|[![mobile](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-full.jpg)|
 |[stories](https://stephenanti.github.io/project_3.html)|[![mobile](screenshots/stephenanti.github.io/project_3.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/project_3.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/project_3.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-wide-full.jpg)|
+|[scrollyprojectAntii.html](https://stephenanti.github.io/scrollyprojectAntii.html)|[![mobile](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-full.jpg)|
 |[Yam prices in Ghana](https://stephenanti.github.io/yam.html)|[![mobile](screenshots/stephenanti.github.io/yam.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/yam.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/yam.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-wide-full.jpg)|
 
 
@@ -2276,6 +3225,13 @@ No issues found! 🎉
    * Text `6000` is too small at 9px
    * Text `8000` is too small at 9px
 
+**https://stephenanti.github.io/scrollyprojectAntii.html**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Move `scrollyprojectAntii.html` into a folder called `scrollyprojectAntii`, then rename the file `index.html`. That way the project can be found at **/scrollyprojectAntii** instead of **/scrollyprojectAntii.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
 **https://stephenanti.github.io/yam.html**
 
 * Move `yam.html` into a folder called `yam`, then rename the file `index.html`. That way the project can be found at **/yam** instead of **/yam.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
@@ -2291,6 +3247,7 @@ No issues found! 🎉
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
 |[Libraries](https://tanazm.github.io/ATLparks/)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
 |[Libraries](https://tanazm.github.io/Libraries/)|[![mobile](screenshots/tanazm.github.io/Libraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/Libraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/Libraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/Libraries_index.html-wide-full.jpg)|
+|[Mapbox Storytelling](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
 |[TXwind/index.html](https://tanazm.github.io/TXwind/)|[![mobile](screenshots/tanazm.github.io/TXwind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/TXwind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/TXwind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/TXwind_index.html-wide-full.jpg)|
 
 
@@ -2314,6 +3271,10 @@ No issues found! 🎉
    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
    * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
+**https://tanazm.github.io/marathonmap/**
+
+No issues found! 🎉
+
 **https://tanazm.github.io/TXwind/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
@@ -2331,6 +3292,7 @@ No issues found! 🎉
 |[football_penalties/index.html](https://vincentvb.github.io/football_penalties/)|[![mobile](screenshots/vincentvb.github.io/football_penalties_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/football_penalties_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/football_penalties_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/football_penalties_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/football_penalties_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/football_penalties_index.html-wide-full.jpg)|
 |[game_reviews/index.html](https://vincentvb.github.io/game_reviews)|[![mobile](screenshots/vincentvb.github.io/game_reviews_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/game_reviews_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/game_reviews_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/game_reviews_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/game_reviews_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/game_reviews_index.html-wide-full.jpg)|
 |[santa_barbara_wine/index.html](https://vincentvb.github.io/santa_barbara_wine/)|[![mobile](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-wide-full.jpg)|
+|[Mapbox Storytelling](https://vincentvb.github.io/ukraine_invasion/)|[![mobile](screenshots/vincentvb.github.io/ukraine_invasion_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/ukraine_invasion_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/ukraine_invasion_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/ukraine_invasion_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/ukraine_invasion_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/ukraine_invasion_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -2356,4 +3318,8 @@ No issues found! 🎉
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+
+**https://vincentvb.github.io/ukraine_invasion/**
+
+* Change URL to use `-` instead of spaces or underscores
 
