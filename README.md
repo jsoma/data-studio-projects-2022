@@ -56,17 +56,22 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `On 21 November 2004, just two minutes after takeoff, the Bombardier CRJ-200ER fell from the sky and crashed into a lake in Nanhai Park, next to the airport, killing all 53 people on board and two more on the ground.` is too small at 9px
-   * Text ` ` is too small at 9px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `Fatality` is too small at 8px
+   * Text `1` is too small at 8px
+   * Text `160` is too small at 8px
+   * Text `On Nov. 21, 2004, a plane stalled and crashed into a lake less than one minute after taking off from Baotou Airport.` is too small at 10px
+   * Text ` ` is too small at 10px
    * Text `Kunming` is too small at 6px
    * Text `Guangzhou` is too small at 6px
-   * Text `On June 6, 1994, an aircraft broke up in-flight after violent shaking above the suburb of  Mingdu, Shannxi Province. All 146 passengers and 14 crew died.` is too small at 9px
-   * Text ` ` is too small at 9px
-   * Text `At 2:22 pm on March 22, a Boeing 737-800 operated by China Eastern Airlines crashed in the mountains of Teng County, Guangxi province.` is too small at 9px
-   * Text ` ` is too small at 9px
-   * Text `On March 26, Chinese authorities officially confirmed that all 132 people on board were dead.` is too small at 9px
-   * Text ` ` is too small at 9px
+   * Text `On June 6, 1994, an aircraft broke up in-flight after violent shaking above the suburb of  Mingdu, Shannxi Province. ` is too small at 10px
+   * Text `On March 22, a Boeing 737-800 operated by China Eastern Airlines crashed in the mountains of Teng County, Guangxi province. ` is too small at 10px
+   * Text ` ` is too small at 10px
+   * Text `Four days later,  Chinese authorities officially confirmed that all 132 people on board were dead.` is too small at 10px
+   * Text ` ` is too small at 10px
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
@@ -216,74 +221,7 @@ No issues found! 🎉
    * Text `Moderna` is too small at 10px
    * Text `Other` is too small at 10px
    * Text `Pfizer` is too small at 10px
-   * Text `Pfizer` is too small at 8px
-   * Text `95% effective` is too small at 8px
-   * Text `Four` is too small at 10px
-   * Text `common` is too small at 10px
-   * Text `ingredients` is too small at 10px
-   * Text `Johnson & Johnson` is too small at 8px
-   * Text `66.3% effective` is too small at 8px
-   * Text `Moderna` is too small at 8px
-   * Text `94% effective` is too small at 8px
    * Text `Source: CDC` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Pfizer` overlaps with `common` at screen width 400
-   * Text `Pfizer` overlaps with `Johnson & Johnson` at screen width 400
-   * Text `Pfizer` overlaps with `Moderna` at screen width 400
-   * Text `Pfizer` overlaps with `Source: CDC` at screen width 400
-   * Text `95% effective` overlaps with `common` at screen width 400
-   * Text `95% effective` overlaps with `66.3% effective` at screen width 400
-   * Text `95% effective` overlaps with `94% effective` at screen width 400
-   * Text `95% effective` overlaps with `Source: CDC` at screen width 400
-   * Text `common` overlaps with `Johnson & Johnson` at screen width 400
-   * Text `common` overlaps with `66.3% effective` at screen width 400
-   * Text `common` overlaps with `Moderna` at screen width 400
-   * Text `common` overlaps with `94% effective` at screen width 400
-   * Text `common` overlaps with `Source: CDC` at screen width 400
-   * Text `Johnson & Johnson` overlaps with `Moderna` at screen width 400
-   * Text `Johnson & Johnson` overlaps with `Source: CDC` at screen width 400
-   * Text `66.3% effective` overlaps with `94% effective` at screen width 400
-   * Text `66.3% effective` overlaps with `Source: CDC` at screen width 400
-   * Text `Moderna` overlaps with `Source: CDC` at screen width 400
-   * Text `94% effective` overlaps with `Source: CDC` at screen width 400
-   * Text `Pfizer` overlaps with `common` at screen width 900
-   * Text `Pfizer` overlaps with `Johnson & Johnson` at screen width 900
-   * Text `Pfizer` overlaps with `Moderna` at screen width 900
-   * Text `Pfizer` overlaps with `Source: CDC` at screen width 900
-   * Text `95% effective` overlaps with `common` at screen width 900
-   * Text `95% effective` overlaps with `66.3% effective` at screen width 900
-   * Text `95% effective` overlaps with `94% effective` at screen width 900
-   * Text `95% effective` overlaps with `Source: CDC` at screen width 900
-   * Text `common` overlaps with `Johnson & Johnson` at screen width 900
-   * Text `common` overlaps with `66.3% effective` at screen width 900
-   * Text `common` overlaps with `Moderna` at screen width 900
-   * Text `common` overlaps with `94% effective` at screen width 900
-   * Text `common` overlaps with `Source: CDC` at screen width 900
-   * Text `Johnson & Johnson` overlaps with `Moderna` at screen width 900
-   * Text `Johnson & Johnson` overlaps with `Source: CDC` at screen width 900
-   * Text `66.3% effective` overlaps with `94% effective` at screen width 900
-   * Text `66.3% effective` overlaps with `Source: CDC` at screen width 900
-   * Text `Moderna` overlaps with `Source: CDC` at screen width 900
-   * Text `94% effective` overlaps with `Source: CDC` at screen width 900
-   * Text `Pfizer` overlaps with `common` at screen width 1300
-   * Text `Pfizer` overlaps with `Johnson & Johnson` at screen width 1300
-   * Text `Pfizer` overlaps with `Moderna` at screen width 1300
-   * Text `Pfizer` overlaps with `Source: CDC` at screen width 1300
-   * Text `95% effective` overlaps with `common` at screen width 1300
-   * Text `95% effective` overlaps with `66.3% effective` at screen width 1300
-   * Text `95% effective` overlaps with `94% effective` at screen width 1300
-   * Text `95% effective` overlaps with `Source: CDC` at screen width 1300
-   * Text `common` overlaps with `Johnson & Johnson` at screen width 1300
-   * Text `common` overlaps with `66.3% effective` at screen width 1300
-   * Text `common` overlaps with `Moderna` at screen width 1300
-   * Text `common` overlaps with `94% effective` at screen width 1300
-   * Text `common` overlaps with `Source: CDC` at screen width 1300
-   * Text `Johnson & Johnson` overlaps with `Moderna` at screen width 1300
-   * Text `Johnson & Johnson` overlaps with `Source: CDC` at screen width 1300
-   * Text `66.3% effective` overlaps with `94% effective` at screen width 1300
-   * Text `66.3% effective` overlaps with `Source: CDC` at screen width 1300
-   * Text `Moderna` overlaps with `Source: CDC` at screen width 1300
-   * Text `94% effective` overlaps with `Source: CDC` at screen width 1300
 
 
 
@@ -308,105 +246,103 @@ No issues found! 🎉
 **https://ilenapeng.github.io/nyc-languages**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `0` is too small at 2px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Speakers of non-English languages` overlaps with `Brooklyn has 35K fewer Spanish` at screen width 400
-   * Text `Speakers of non-English languages` overlaps with `Percent change from 2005 to 2019` at screen width 400
-   * Text `dropped between 2015 and 2019` overlaps with `speakers than roughly 15 years ago` at screen width 400
-   * Text `Brooklyn has 35K fewer Spanish` overlaps with `Percent change from 2005 to 2019` at screen width 400
-   * Text `< -10%` overlaps with `-5` at screen width 400
-   * Text `< -10%` overlaps with `Languages with the greatest changes` at screen width 400
-   * Text `< -10%` overlaps with `Number of language speakers over time` at screen width 400
-   * Text `0` overlaps with `Languages with the greatest changes` at screen width 400
-   * Text `0` overlaps with `Number of language speakers over time` at screen width 400
-   * Text `5` overlaps with `>10` at screen width 400
-   * Text `5` overlaps with `Languages with the greatest changes` at screen width 400
-   * Text `5` overlaps with `Number of language speakers over time` at screen width 400
-   * Text `-5` overlaps with `Languages with the greatest changes` at screen width 400
-   * Text `-5` overlaps with `Number of language speakers over time` at screen width 400
-   * Text `>10` overlaps with `Languages with the greatest changes` at screen width 400
-   * Text `>10` overlaps with `Number of language speakers over time` at screen width 400
-   * Text `Languages with the greatest changes` overlaps with `Number of language speakers over time` at screen width 400
-   * Text `in speakers from 2005 to 2019` overlaps with `in Brooklyn` at screen width 400
-   * Text `1.2M` overlaps with `< -100%` at screen width 400
-   * Text `0` overlaps with `Lines indicate the change` at screen width 400
-   * Text `< -100%` overlaps with `Lines indicate the change` at screen width 400
-   * Text `>100` overlaps with `Lines indicate the change` at screen width 400
-   * Text `in number of speakers in` overlaps with `Spanish -35.2K` at screen width 400
-   * Text `in number of speakers in` overlaps with `Italian` at screen width 400
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Russian` at screen width 400
-   * Text `2005, 2010, 2015 & 2019` overlaps with `600K` at screen width 400
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Polish` at screen width 400
-   * Text `Russian` overlaps with `600K` at screen width 400
-   * Text `+6.8%` overlaps with `Chinese 47.9K` at screen width 400
-   * Text `+6.8%` overlaps with `0` at screen width 400
-   * Text `Arabic` overlaps with `15` at screen width 400
-   * Text `Arabic` overlaps with `19` at screen width 400
-   * Text `Speakers of non-English languages` overlaps with `Brooklyn has 35K fewer Spanish` at screen width 900
-   * Text `Speakers of non-English languages` overlaps with `Percent change from 2005 to 2019` at screen width 900
-   * Text `dropped between 2015 and 2019` overlaps with `speakers than roughly 15 years ago` at screen width 900
-   * Text `Brooklyn has 35K fewer Spanish` overlaps with `Percent change from 2005 to 2019` at screen width 900
-   * Text `< -10%` overlaps with `-5` at screen width 900
-   * Text `< -10%` overlaps with `Languages with the greatest changes` at screen width 900
-   * Text `< -10%` overlaps with `Number of language speakers over time` at screen width 900
-   * Text `0` overlaps with `Languages with the greatest changes` at screen width 900
-   * Text `0` overlaps with `Number of language speakers over time` at screen width 900
-   * Text `5` overlaps with `>10` at screen width 900
-   * Text `5` overlaps with `Languages with the greatest changes` at screen width 900
-   * Text `5` overlaps with `Number of language speakers over time` at screen width 900
-   * Text `-5` overlaps with `Languages with the greatest changes` at screen width 900
-   * Text `-5` overlaps with `Number of language speakers over time` at screen width 900
-   * Text `>10` overlaps with `Languages with the greatest changes` at screen width 900
-   * Text `>10` overlaps with `Number of language speakers over time` at screen width 900
-   * Text `Languages with the greatest changes` overlaps with `Number of language speakers over time` at screen width 900
-   * Text `in speakers from 2005 to 2019` overlaps with `in Brooklyn` at screen width 900
-   * Text `1.2M` overlaps with `< -100%` at screen width 900
-   * Text `0` overlaps with `Lines indicate the change` at screen width 900
-   * Text `< -100%` overlaps with `Lines indicate the change` at screen width 900
-   * Text `>100` overlaps with `Lines indicate the change` at screen width 900
-   * Text `in number of speakers in` overlaps with `Spanish -35.2K` at screen width 900
-   * Text `in number of speakers in` overlaps with `Italian` at screen width 900
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Italian` at screen width 900
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Russian` at screen width 900
-   * Text `2005, 2010, 2015 & 2019` overlaps with `600K` at screen width 900
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Polish` at screen width 900
-   * Text `+6.8%` overlaps with `Chinese 47.9K` at screen width 900
-   * Text `+6.8%` overlaps with `0` at screen width 900
-   * Text `Arabic` overlaps with `15` at screen width 900
-   * Text `Arabic` overlaps with `19` at screen width 900
-   * Text `Speakers of non-English languages` overlaps with `Brooklyn has 35K fewer Spanish` at screen width 1300
-   * Text `Speakers of non-English languages` overlaps with `Percent change from 2005 to 2019` at screen width 1300
-   * Text `dropped between 2015 and 2019` overlaps with `speakers than roughly 15 years ago` at screen width 1300
-   * Text `Brooklyn has 35K fewer Spanish` overlaps with `Percent change from 2005 to 2019` at screen width 1300
-   * Text `< -10%` overlaps with `-5` at screen width 1300
-   * Text `< -10%` overlaps with `Languages with the greatest changes` at screen width 1300
-   * Text `< -10%` overlaps with `Number of language speakers over time` at screen width 1300
-   * Text `0` overlaps with `Languages with the greatest changes` at screen width 1300
-   * Text `0` overlaps with `Number of language speakers over time` at screen width 1300
-   * Text `5` overlaps with `>10` at screen width 1300
-   * Text `5` overlaps with `Languages with the greatest changes` at screen width 1300
-   * Text `5` overlaps with `Number of language speakers over time` at screen width 1300
-   * Text `-5` overlaps with `Languages with the greatest changes` at screen width 1300
-   * Text `-5` overlaps with `Number of language speakers over time` at screen width 1300
-   * Text `>10` overlaps with `Languages with the greatest changes` at screen width 1300
-   * Text `>10` overlaps with `Number of language speakers over time` at screen width 1300
-   * Text `Languages with the greatest changes` overlaps with `Number of language speakers over time` at screen width 1300
-   * Text `in speakers from 2005 to 2019` overlaps with `in Brooklyn` at screen width 1300
-   * Text `1.2M` overlaps with `< -100%` at screen width 1300
-   * Text `0` overlaps with `Lines indicate the change` at screen width 1300
-   * Text `< -100%` overlaps with `Lines indicate the change` at screen width 1300
-   * Text `>100` overlaps with `Lines indicate the change` at screen width 1300
-   * Text `in number of speakers in` overlaps with `Spanish -35.2K` at screen width 1300
-   * Text `in number of speakers in` overlaps with `Italian` at screen width 1300
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Italian` at screen width 1300
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Russian` at screen width 1300
-   * Text `2005, 2010, 2015 & 2019` overlaps with `600K` at screen width 1300
-   * Text `2005, 2010, 2015 & 2019` overlaps with `Polish` at screen width 1300
-   * Text `+6.8%` overlaps with `Chinese 47.9K` at screen width 1300
-   * Text `+6.8%` overlaps with `0` at screen width 1300
-   * Text `Arabic` overlaps with `15` at screen width 1300
-   * Text `Arabic` overlaps with `19` at screen width 1300
+   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 400
+   * Text `it did a decade and a half ago` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `2005 to 2019` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `Spanish -35.2K` at screen width 400
+   * Text `Italian -15.4K` overlaps with `` at screen width 400
+   * Text `` overlaps with `Chinese 47.9K` at screen width 400
+   * Text `` overlaps with `Chinese 47.9K` at screen width 400
+   * Text `Arabic 3.3K` overlaps with `` at screen width 400
+   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 900
+   * Text `it did a decade and a half ago` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `2005 to 2019` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `Spanish -35.2K` at screen width 900
+   * Text `Italian -15.4K` overlaps with `` at screen width 900
+   * Text `` overlaps with `Chinese 47.9K` at screen width 900
+   * Text `` overlaps with `Chinese 47.9K` at screen width 900
+   * Text `Arabic 3.3K` overlaps with `` at screen width 900
+   * Text `Brooklyn has 35K fewer Spanish speakers than` overlaps with `` at screen width 1300
+   * Text `it did a decade and a half ago` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `Languages with the greatest changes in speakers from` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `2005 to 2019` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Spanish -35.2K` at screen width 1300
+   * Text `Italian -15.4K` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Chinese 47.9K` at screen width 1300
+   * Text `` overlaps with `Chinese 47.9K` at screen width 1300
+   * Text `Arabic 3.3K` overlaps with `` at screen width 1300
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -2050,8 +1986,6 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Nigeria` overlaps with `Yemen` at screen width 900
-   * Text `894,72` overlaps with `880,507` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
    * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
