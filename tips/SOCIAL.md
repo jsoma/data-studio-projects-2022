@@ -57,7 +57,7 @@ Remember you'll <em>also</em> need a title tag in there, so yes you'll be duplic
 
 Push your page up to your site, then use the Facebook and Twitter debugging tools to preview your page and make sure it looks all right:
 
-* [Facebook preview/debug tool](https://developers.facebook.com/tools/debug/)
+* [Facebook preview/debug tool](https://developers.facebook.com/tools/debug/) (notice the **scrape again** button to refresh the results)
 * [Twitter preview/debug tool](https://cards-dev.twitter.com/validator)
 
 I've found that images can be especially tricky. Good luck!
