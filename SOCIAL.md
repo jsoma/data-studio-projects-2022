@@ -1,3 +1,0 @@
-# Social meta tags
-
-TODO

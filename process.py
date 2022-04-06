@@ -76,7 +76,7 @@ class Website:
         metas = '<br>'.join([f":x: {key}" for key, value in self.meta.items() if value is None])
 
         if metas:
-            desc = f"|{page_link}<br>{metas}<br>[more info](SOCIAL.md)|"
+            desc = f"|{page_link}<br>{metas}<br>[how to fix](tips/SOCIAL.md)|"
         else:
             desc = f"|{page_link}|"
         return desc
