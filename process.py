@@ -69,6 +69,8 @@ class Website:
 
     def build_desc(self):
         title = self.page.title() or self.urlpath
+        for character in ['|', '[', ']']:
+            title = title.replace(character, "")
         page_link = f"[{title}]({self.url})"
 
         self.get_all_meta_tags()
