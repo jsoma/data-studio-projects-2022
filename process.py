@@ -57,7 +57,8 @@ class Website:
 
     def get_meta(self, property, property_type='property'):
         try:
-            return self.page.locator(f"meta[{property_type}='{property}']").get_attribute('content')
+            logger.info(f"Getting {property}")
+            return self.page.query_selector(f"meta[{property_type}='{property}']").get_attribute('content')
         except:
             return None
 
@@ -72,7 +73,7 @@ class Website:
 
         self.get_all_meta_tags()
         
-        metas = '<br>'.join([f":x: missing `{key}`" for key, value in self.meta if value is None])
+        metas = '<br>'.join([f":x: {key}" for key, value in self.meta.items() if value is None])
 
         if metas:
             desc = f"|{page_link}<br>{metas}<br>[more info](SOCIAL.md)|"
@@ -121,7 +122,6 @@ class Website:
     def run_checks(self):
         logger.info(f"{self.url}: Running automatic checks")
         self.issues = []
-
         tiny_text = self.page.evaluate("""
         () => [...document.querySelectorAll(".ai2html p")]
             .filter(d => window.getComputedStyle(d)['font-size'].indexOf("px") != -1)
