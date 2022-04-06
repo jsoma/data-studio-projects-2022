@@ -47,15 +47,43 @@ class Website:
         )
         time.sleep(2)
 
+    def get_all_meta_tags(self):
+        self.meta = {}
+        self.meta['og:title'] = self.get_meta("og:title")
+        self.meta['og:type'] = self.get_meta("og:type")
+        self.meta['og:description'] = self.get_meta("og:description")
+        self.meta['og:image'] = self.get_meta("og:image")
+        self.meta['twitter:card'] = self.get_meta("twitter:card", "name")
+
+    def get_meta(self, property, property_type='property'):
+        try:
+            return self.page.locator(f"meta[{property_type}='{property}']").get_attribute('content')
+        except:
+            return None
+
     def screenshot(self):
         """Take a screenshot at each screen size"""
         for size in SIZES.keys():
             self.screenshot_one(size)
 
+    def build_desc(self):
+        title = self.page.title() or self.urlpath
+        page_link = f"[{title}]({self.url})"
+
+        self.get_all_meta_tags()
+        
+        metas = '<br>'.join([f":x: missing `{key}`" for key, value in self.meta if value is None])
+
+        if metas:
+            desc = f"|{page_link}<br>{metas}<br>[more info](SOCIAL.md)|"
+        else:
+            desc = f"|{page_link}|"
+        return desc
+
+
     def get_table_row(self):
         """Markdown display of screenshots for this web page"""
-        title = self.page.title() or self.urlpath
-        desc = f"|[{title}]({self.url})|"
+        desc = self.build_desc()
         if self.successful_request:
             images = [
                 f"[![{size}]({self.shot_path(size, 'thumb')})]({self.shot_path(size)})"
@@ -254,7 +282,7 @@ with sync_playwright() as p:
     readme_md += issues_md
 
     readme_md = (
-        "# Data Studio 2022 Responsiveness Test Page\n\n" +
+        "# Data Studio 2022 Personal Projects Test Page\n\n" +
         "Quick checks to make sure your pages are looking their best.\n\n" +
         toc_md +
         "\n\n" +
