@@ -57,20 +57,20 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
+   * Text `Kunming` is too small at 10px
+   * Text `Guangzhou` is too small at 10px
    * Text `Fatality` is too small at 8px
    * Text `1` is too small at 8px
    * Text `160` is too small at 8px
-   * Text `On Nov. 21, 2004, a plane stalled and crashed into a lake less than one minute after taking off from Baotou Airport.` is too small at 10px
-   * Text ` ` is too small at 10px
-   * Text `Kunming` is too small at 6px
-   * Text `Guangzhou` is too small at 6px
-   * Text `On June 6, 1994, an aircraft broke up in-flight after violent shaking above the suburb of  Mingdu, Shannxi Province. ` is too small at 10px
-   * Text `On March 22, a Boeing 737-800 operated by China Eastern Airlines crashed in the mountains of Teng County, Guangxi province. ` is too small at 10px
-   * Text ` ` is too small at 10px
-   * Text `Four days later,  Chinese authorities officially confirmed that all 132 people on board were dead.` is too small at 10px
-   * Text ` ` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `` is too small at 6px
+   * Text `` is too small at 6px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
+   * Text `` is too small at 10px
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
@@ -234,124 +234,83 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
+   * Text `` overlaps with `Brooklyn had 35K fewer people speaking` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `Spanish at home in 2019 than 2005` at screen width 400
    * Text `` overlaps with `` at screen width 400
    * Text `` overlaps with `` at screen width 400
    * Text `` overlaps with `Percent change` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Percent change` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `< -100%` at screen width 400
-   * Text `` overlaps with `>100` at screen width 400
+   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
+   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
+   * Text `` overlaps with `Percent change` at screen width 400
+   * Text `< -100%` overlaps with `` at screen width 400
+   * Text `>100` overlaps with `` at screen width 400
    * Text `Spanish -35.2K` overlaps with `` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
+   * Text `` overlaps with `Italian -15.4K` at screen width 400
    * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
+   * Text `Italian -15.4K` overlaps with `` at screen width 400
+   * Text `Italian -15.4K` overlaps with `` at screen width 400
+   * Text `Italian -15.4K` overlaps with `` at screen width 400
+   * Text `Italian -15.4K` overlaps with `` at screen width 400
    * Text `` overlaps with `` at screen width 400
    * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `Italian` overlaps with `Russian` at screen width 400
-   * Text `` overlaps with `Russian` at screen width 400
-   * Text `Polish` overlaps with `Other Indic` at screen width 400
-   * Text `Other Indic` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
+   * Text `Other Indic -11.9K` overlaps with `` at screen width 400
    * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `Other Asian` at screen width 400
-   * Text `` overlaps with `Other African` at screen width 400
-   * Text `` overlaps with `Brooklyn` at screen width 400
-   * Text `` overlaps with `Arabic` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Urdu` overlaps with `Other Asian` at screen width 400
-   * Text `Other Asian` overlaps with `Other African` at screen width 400
-   * Text `Other African` overlaps with `Arabic` at screen width 400
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 900
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 900
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 900
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 900
+   * Text `Urdu 9.9K` overlaps with `` at screen width 400
+   * Text `` overlaps with `Other Asian 6.5K` at screen width 400
+   * Text `` overlaps with `Other African 3.4K` at screen width 400
+   * Text `` overlaps with `Brooklyn had 35K fewer people speaking` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `` overlaps with `Spanish at home in 2019 than 2005` at screen width 900
    * Text `` overlaps with `` at screen width 900
    * Text `` overlaps with `` at screen width 900
    * Text `` overlaps with `Percent change` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `Percent change` overlaps with `` at screen width 900
-   * Text `` overlaps with `< -100%` at screen width 900
-   * Text `` overlaps with `>100` at screen width 900
+   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 900
+   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 900
+   * Text `` overlaps with `Percent change` at screen width 900
+   * Text `< -100%` overlaps with `` at screen width 900
+   * Text `>100` overlaps with `` at screen width 900
    * Text `Spanish -35.2K` overlaps with `` at screen width 900
-   * Text `Spanish -35.2K` overlaps with `` at screen width 900
-   * Text `Spanish -35.2K` overlaps with `` at screen width 900
+   * Text `` overlaps with `Italian -15.4K` at screen width 900
+   * Text `` overlaps with `` at screen width 900
+   * Text `Italian -15.4K` overlaps with `` at screen width 900
+   * Text `Italian -15.4K` overlaps with `` at screen width 900
+   * Text `Italian -15.4K` overlaps with `` at screen width 900
+   * Text `Italian -15.4K` overlaps with `` at screen width 900
    * Text `` overlaps with `` at screen width 900
    * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
+   * Text `Other Indic -11.9K` overlaps with `` at screen width 900
    * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Urdu` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Urdu` at screen width 900
-   * Text `` overlaps with `Other Asian` at screen width 900
-   * Text `` overlaps with `Other African` at screen width 900
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 1300
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 1300
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 1300
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 1300
+   * Text `Urdu 9.9K` overlaps with `` at screen width 900
+   * Text `` overlaps with `Other Asian 6.5K` at screen width 900
+   * Text `` overlaps with `Other African 3.4K` at screen width 900
+   * Text `` overlaps with `Brooklyn had 35K fewer people speaking` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Spanish at home in 2019 than 2005` at screen width 1300
    * Text `` overlaps with `` at screen width 1300
    * Text `` overlaps with `` at screen width 1300
    * Text `` overlaps with `Percent change` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `Percent change` overlaps with `` at screen width 1300
-   * Text `` overlaps with `< -100%` at screen width 1300
-   * Text `` overlaps with `>100` at screen width 1300
+   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 1300
+   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Percent change` at screen width 1300
+   * Text `< -100%` overlaps with `` at screen width 1300
+   * Text `>100` overlaps with `` at screen width 1300
    * Text `Spanish -35.2K` overlaps with `` at screen width 1300
-   * Text `Spanish -35.2K` overlaps with `` at screen width 1300
-   * Text `Spanish -35.2K` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Italian -15.4K` at screen width 1300
+   * Text `` overlaps with `` at screen width 1300
+   * Text `Italian -15.4K` overlaps with `` at screen width 1300
+   * Text `Italian -15.4K` overlaps with `` at screen width 1300
+   * Text `Italian -15.4K` overlaps with `` at screen width 1300
+   * Text `Italian -15.4K` overlaps with `` at screen width 1300
    * Text `` overlaps with `` at screen width 1300
    * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Italian` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Italian` at screen width 1300
-   * Text `` overlaps with `Italian` at screen width 1300
+   * Text `Other Indic -11.9K` overlaps with `` at screen width 1300
    * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Urdu` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Urdu` at screen width 1300
-   * Text `` overlaps with `Other Asian` at screen width 1300
-   * Text `` overlaps with `Other African` at screen width 1300
+   * Text `Urdu 9.9K` overlaps with `` at screen width 1300
+   * Text `` overlaps with `Other Asian 6.5K` at screen width 1300
+   * Text `` overlaps with `Other African 3.4K` at screen width 1300
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -1553,10 +1512,20 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/trains/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
+   * Text `Jun` overlaps with `Feb` at screen width 900
+   * Text `2021` overlaps with `2022` at screen width 900
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
+   * Text `Jun` overlaps with `Feb` at screen width 1300
+   * Text `2021` overlaps with `2022` at screen width 1300
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
