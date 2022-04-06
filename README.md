@@ -176,8 +176,9 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Areena Arora](https://areenaarora.com/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/index.html-medium-thumb.jpg)](screenshots/areenaarora.com/index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/index.html-wide-thumb.jpg)](screenshots/areenaarora.com/index.html-wide-full.jpg)|
-|[Page Not Found](https://areenaarora.com/artboards)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/responsive-dev-hw)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Uttarakhand-floods](https://areenaarora.com/stories/uttarakhand-floods/)<br>:x: og:title<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-wide-full.jpg)|
+|[Inside r/place](https://areenaarora.com/stories/r-place/)<br>:x: og:title<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_r-place_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_r-place_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_r-place_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_r-place_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_r-place_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_r-place_index.html-wide-full.jpg)|
+|[Style-Guides](https://areenaarora.com/stories/style-guides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_style-guides_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_style-guides_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_style-guides_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_style-guides_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_style-guides_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_style-guides_index.html-wide-full.jpg)|
 |[Best Biryani](https://areenaarora.com/stories/biryani/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_biryani_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_biryani_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_biryani_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-wide-full.jpg)|
 |[New York State spills](https://areenaarora.com/stories/ny-state-spills/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_ny-state-spills_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_ny-state-spills_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_ny-state-spills_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-wide-full.jpg)|
 |[COVID-vaccines](https://areenaarora.com/stories/vaccines/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_vaccines_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_vaccines_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_vaccines_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-wide-full.jpg)|
@@ -189,13 +190,17 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://areenaarora.com/artboards**
+**https://areenaarora.com/stories/uttarakhand-floods/**
 
-* Could not access the page - if you moved it, let me know
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://areenaarora.com/responsive-dev-hw**
+**https://areenaarora.com/stories/r-place/**
 
-* Could not access the page - if you moved it, let me know
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://areenaarora.com/stories/style-guides/**
+
+No issues found! 🎉
 
 **https://areenaarora.com/stories/biryani/**
 
@@ -1323,7 +1328,7 @@ No issues found! 🎉
 |[One person is driving up 311 calls about air quality in Manhattan  Prinz Magtulis](https://pmagtulis.github.io/projects/air-quality/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Duterte sets record in conflict killings due to siege in South  Prinz Magtulis](https://pmagtulis.github.io/projects/ph-conflict/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
 |[Here are the vote-rich areas for the 2022 Philippine polls  Prinz Magtulis](https://pmagtulis.github.io/projects/polls-ph/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
-|[New York City's trains are likely to be so slow again  Prinz Magtulis](https://pmagtulis.github.io/projects/trains/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-full.jpg)|
+|[New York City's trains are likely to be so slow again  Prinz Magtulis](https://pmagtulis.github.io/projects/trains/)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-full.jpg)|
 |[A game ditched joysticks and was a pandemic hit in Japan  Prinz Magtulis](https://pmagtulis.github.io/projects/video-games/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_video-games_index.html-wide-full.jpg)|
 
 
@@ -1500,7 +1505,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Caloocan` is too small at 8px
    * Text `700,279` is too small at 8px
