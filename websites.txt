@@ -9,8 +9,9 @@ https://annerquaye.github.io/projects/responsive_pages/responsive.html
 https://annerquaye.github.io/projects/ricestory.html
 https://annerquaye.github.io/projects/scrolly.html
 https://areenaarora.com/
-https://areenaarora.com/artboards
-https://areenaarora.com/responsive-dev-hw
+https://areenaarora.com/stories/uttarakhand-floods/
+https://areenaarora.com/stories/r-place/
+https://areenaarora.com/stories/style-guides/
 https://areenaarora.com/stories/biryani/
 https://areenaarora.com/stories/ny-state-spills/
 https://areenaarora.com/stories/vaccines/
