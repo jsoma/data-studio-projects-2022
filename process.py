@@ -50,10 +50,10 @@ class Website:
     def get_all_meta_tags(self):
         self.meta = {}
         self.meta['og:title'] = self.get_meta("og:title")
-        self.meta['og:type'] = self.get_meta("og:type")
+        # self.meta['og:type'] = self.get_meta("og:type")
         self.meta['og:description'] = self.get_meta("og:description")
         self.meta['og:image'] = self.get_meta("og:image")
-        self.meta['twitter:card'] = self.get_meta("twitter:card", "name")
+        # self.meta['twitter:card'] = self.get_meta("twitter:card", "name")
 
     def get_meta(self, property, property_type='property'):
         try:
