@@ -26,7 +26,7 @@ Let's start with a basic template. You'll replace the `content` attributes with 
 * `og:type` should be **article** for an article and **website** for your homepage
 * `og:image` should be an image from your story. For ai2html graphics, [take a screenshot](https://www.theverge.com/2019/11/8/20953522/how-to-take-screenshot-mac-windows-pc-iphone-android) since the .png image doesn't include text. *Note that you need the full image URL: `https://example.com/proj-one/screenshot.png`, not just `screenshot.png`.*
 * `twitter:creator` is your twitter username, with the @
-* `twitter:card` shows a nice big image so people want to click your article. If you don't want a nice big image, you can also do `summary` instead of `summary_large_image`.
+* `twitter:card` should be either `summary` or `summary_large_image`. The latter (obviously) shows a bigger image.
 
 ## Using your tags
 
