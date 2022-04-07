@@ -238,14 +238,7 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
-   * Text `Italian` overlaps with `Russian` at screen width 400
-   * Text `Polish` overlaps with `Other Indic` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
-   * Text `Urdu` overlaps with `Other Asian` at screen width 400
-   * Text `Other Asian` overlaps with `Other African` at screen width 400
-   * Text `Other African` overlaps with `Arabic` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -813,6 +806,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Complaints about air` is too small at 10px
     * Text `quality hit a record-high` is too small at 10px
@@ -823,14 +817,14 @@ No issues found! 🎉
     * Text `400` is too small at 8px
     * *and 55 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * *and 68 more*
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * *and 65 more*
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
