@@ -162,7 +162,7 @@ class Website:
                         const e1 = elements[i];
                         for(let j = i+1; j < elements.length; j++) {
                             const e2 = elements[j];
-                            if(overlaps(e1, e2)) {
+                            if(overlaps(e1, e2) && e1.innerText !== '' && e2.innerText !== '') {
                                 overlappingElements.push({
                                     text1: e1.innerText,
                                     text2: e2.innerText,
@@ -237,7 +237,8 @@ class Website:
         if tiny_text:
             self.issues.append("* Minimum font size should be 12px, enlarge text in Illustrator")
             for text in tiny_text[:10]:
-                self.issues.append(f"   * Text `{text['text']}` is too small at {text['size']}")
+                if text['text'] != "":
+                    self.issues.append(f"   * Text `{text['text']}` is too small at {text['size']}")
             if len(tiny_text) > 10:
                 self.issues.append(f"   * *and {len(tiny_text) - 10} more*")
 
