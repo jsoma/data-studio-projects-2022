@@ -162,7 +162,7 @@ class Website:
                         const e1 = elements[i];
                         for(let j = i+1; j < elements.length; j++) {
                             const e2 = elements[j];
-                            if(overlaps(e1, e2) && e1.innerText !== '' && e2.innerText !== '') {
+                            if(overlaps(e1, e2) && e1.innerText.trim() !== '' && e2.innerText.trim() !== '') {
                                 overlappingElements.push({
                                     text1: e1.innerText,
                                     text2: e2.innerText,
@@ -211,7 +211,7 @@ class Website:
 
         datawrapper_charts = self.page.query_selector_all(".dw-chart")
         for chart in datawrapper_charts:
-            if len(chart.query_selector_all(".sr-only")) == 0:
+            if not chart.query_selector_all(".sr-only"):
                 self.issues.append("* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
 
         if not self.successful_request:
@@ -237,18 +237,18 @@ class Website:
 
         if tiny_text:
             self.issues.append("* Minimum font size should be 12px, enlarge text in Illustrator")
-            for text in tiny_text[:10]:
+            for text in tiny_text[:7]:
                 if text['text'] != "":
                     self.issues.append(f"    * Text `{text['text']}` is too small at {text['size']}")
-            if len(tiny_text) > 10:
-                self.issues.append(f"    * *and {len(tiny_text) - 10} more*")
+            if len(tiny_text) > 7:
+                self.issues.append(f"    * *and {len(tiny_text) - 7} more*")
 
         if overlapping_elements:
             self.issues.append("* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size")
-            for overlap in overlapping_elements[:10]:
+            for overlap in overlapping_elements[:7]:
                 self.issues.append(f"   * Text `{overlap['text1']}` overlaps with `{overlap['text2']}` at screen width {overlap['width']}")
-            if len(overlapping_elements) > 10:
-                self.issues.append(f"   * *and {len(overlapping_elements) - 10} more*")
+            if len(overlapping_elements) > 7:
+                self.issues.append(f"   * *and {len(overlapping_elements) - 7} more*")
 
         if missing_fonts:
             self.issues.append("* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)")
