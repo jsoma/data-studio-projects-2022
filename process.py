@@ -205,8 +205,9 @@ class Website:
 
         img_missing_alt_tags = self.page.query_selector_all('img:not([alt])')
         if img_missing_alt_tags:
+            self.issues.append(f"* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
             for img in img_missing_alt_tags:
-                self.issues.append(f"* Image `{img.get_attribute('src')}` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
+                self.issues.append(f"    * Image `{img.get_attribute('src')}` missing `alt` tag")
 
         datawrapper_charts = self.page.query_selector_all(".dw-chart")
         for chart in datawrapper_charts:
@@ -238,9 +239,9 @@ class Website:
             self.issues.append("* Minimum font size should be 12px, enlarge text in Illustrator")
             for text in tiny_text[:10]:
                 if text['text'] != "":
-                    self.issues.append(f"   * Text `{text['text']}` is too small at {text['size']}")
+                    self.issues.append(f"    * Text `{text['text']}` is too small at {text['size']}")
             if len(tiny_text) > 10:
-                self.issues.append(f"   * *and {len(tiny_text) - 10} more*")
+                self.issues.append(f"    * *and {len(tiny_text) - 10} more*")
 
         if overlapping_elements:
             self.issues.append("* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size")
@@ -252,7 +253,7 @@ class Website:
         if missing_fonts:
             self.issues.append("* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)")
             for key, values in missing_fonts.items():
-                self.issues.append(f"   * `{key}` font not found, used in {len(values)} text objects. Example: _{', '.join([v['text'] for v in values[:3]])}_")
+                self.issues.append(f"    * `{key}` font not found, used in {len(values)} text objects. Example: _{', '.join([v['text'] for v in values[:3]])}_")
 
 websites = [w for w in Path("websites.txt").read_text().split("\n") if w != ""]
 
