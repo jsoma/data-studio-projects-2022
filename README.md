@@ -830,7 +830,7 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * *and 67 more*
+   * *and 68 more*
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -872,6 +872,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
