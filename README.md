@@ -645,6 +645,7 @@ No issues found! 🎉
    * Text `Australia` overlaps with `Nigeria` at screen width 1300
    * Text `Kenya` overlaps with `Nigeria` at screen width 1300
    * Text `$244 million` overlaps with `354.8 million` at screen width 1300
+   * Text `Africa` overlaps with `0.6` at screen width 1300
    * Text ` ` overlaps with `$145.6 million` at screen width 1300
    * Text ` ` overlaps with `$95.2 million` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
