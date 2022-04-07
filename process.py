@@ -207,12 +207,12 @@ class Website:
         if img_missing_alt_tags:
             self.issues.append(f"* Missing alt tags for {len(img_missing_alt_tags)} images")
             for img in img_missing_alt_tags:
-                self.issues.append(f"   {img.get_attribute('src')}")
+                self.issues.append(f"   * {img.get_attribute('src')}, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
 
         datawrapper_charts = self.page.query_selector_all(".dw-chart")
         for chart in datawrapper_charts:
-            if not chart.query_selector(".sr-only"):
-                self.issues.append("* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab")
+            if len(chart.query_selector_all(".sr-only")) == 0:
+                self.issues.append("* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)")
 
         if not self.successful_request:
             self.issues.append("* Could not access the page - if you moved it, let me know")
