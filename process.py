@@ -99,7 +99,7 @@ class Website:
 
     def shot_path(self, size, version="full"):
         """Returns the file path for a given screenshot size and version"""
-        basename = self.urlpath.replace("/", "_")
+        basename = self.urlpath.replace("/", "_").replace(" ", "%20")
         filename = f"{basename}-{size}-{version}.jpg"
         return Path(OUTPUT_DIR).joinpath(self.hostname).joinpath(filename)
 
