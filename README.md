@@ -655,8 +655,6 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `There are over 26,000 dollar stores across the US` is too small at 8px
-   * Text `1 dot= 1 dollar store` is too small at 8px
    * Text `1 dot = 1 dollar store` is too small at 10px
    * Text `blue dots = dollar stores` is too small at 10px
    * Text `red dots = vaccination sites` is too small at 10px
@@ -688,18 +686,33 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+   * Text `Irpin` is too small at 10px
+   * Text `Kyiv` is too small at 9px
+   * Text `100 ft` is too small at 10px
+   * Text `UKRAINE` is too small at 7px
+   * Text `Irpin` is too small at 7px
+   * Text `Kyiv` is too small at 7px
+   * Text `UKRAINE` is too small at 8px
+   * Text `100 ft` is too small at 7px
+   * Text `Evacuees huddled under ` is too small at 10px
+   * Text `destroyed bridge, one of ` is too small at 10px
+   * Text `the main escape routes out of Irpin` is too small at 10px
+   * Text `At least four people` is too small at 10px
+   * Text `including two children ` is too small at 10px
+   * Text `were killed by a mortar shell.` is too small at 10px
+   * Text `PS30 road` is too small at 10px
+   * Text `Evacuation route ` is too small at 10px
+   * Text `toward Kyiv` is too small at 10px
+   * Text `Irpin` is too small at 6px
+   * Text `Kyiv` is too small at 6px
+   * Text `UKRAINE` is too small at 8px
+   * Text `100 ft` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `Irpin River` overlaps with `destroyed bridge, one of` at screen width 400
-   * Text `destroyed bridge, one of` overlaps with `IRPIN` at screen width 400
-   * Text `the main escape routes out of Irpin` overlaps with `IRPIN` at screen width 400
-   * Text `the main escape routes out of Irpin` overlaps with `At least four people` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
-   * Text `were killed by a mortar shell.` overlaps with `PS30 road` at screen width 400
    * Text `Irpin` overlaps with `Kyiv` at screen width 400
-   * Text `Irpin` overlaps with `UKRAINE` at screen width 400
-   * Text `Kyiv` overlaps with `UKRAINE` at screen width 400
    * Text `Irpin` overlaps with `Kyiv` at screen width 900
+   * Text `Irpin` overlaps with `Kyiv` at screen width 1300
 
 
 
@@ -1956,12 +1969,14 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 1300
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
    * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
+   * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed , any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
    * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
