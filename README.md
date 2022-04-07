@@ -645,7 +645,6 @@ No issues found! 🎉
    * Text `Australia` overlaps with `Nigeria` at screen width 1300
    * Text `Kenya` overlaps with `Nigeria` at screen width 1300
    * Text `$244 million` overlaps with `354.8 million` at screen width 1300
-   * Text `Africa` overlaps with `0.6` at screen width 1300
    * Text ` ` overlaps with `$145.6 million` at screen width 1300
    * Text ` ` overlaps with `$95.2 million` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
@@ -710,9 +709,10 @@ No issues found! 🎉
    * Text `UKRAINE` is too small at 8px
    * Text `100 ft` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
    * Text `Irpin` overlaps with `Kyiv` at screen width 400
-   * Text `Irpin` overlaps with `Kyiv` at screen width 900
-   * Text `Irpin` overlaps with `Kyiv` at screen width 1300
+   * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
+   * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
 
 
@@ -1969,14 +1969,12 @@ No issues found! 🎉
    * Text `Latvia` is too small at 10px
    * Text `578,806` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 1300
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
    * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed , any sanction., Stronger colors for countries that _
+   * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
    * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
 
