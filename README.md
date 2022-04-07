@@ -56,6 +56,7 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `` is too small at 10px
    * Text `` is too small at 10px
@@ -67,10 +68,7 @@ No issues found! 🎉
    * Text `Kunming` is too small at 6px
    * Text `Guangzhou` is too small at 6px
    * Text `On June 6, 1994, an aircraft broke up in-flight after violent shaking above the suburb of  Mingdu, Shannxi Province. ` is too small at 10px
-   * Text `On March 22, a Boeing 737-800 operated by China Eastern Airlines crashed in the mountains of Teng County, Guangxi province. ` is too small at 10px
-   * Text ` ` is too small at 10px
-   * Text `Four days later,  Chinese authorities officially confirmed that all 132 people on board were dead.` is too small at 10px
-   * Text ` ` is too small at 10px
+   * *and 4 more*
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
@@ -88,8 +86,7 @@ No issues found! 🎉
    * Text `gender ratio` overlaps with `92.29` at screen width 400
    * Text `92.29` overlaps with `of marriageable age` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 400
-   * Text `97.59` overlaps with `Hebei` at screen width 900
-   * Text `97.59` overlaps with `Hebei` at screen width 1300
+   * *and 2 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Open Sans"` font not found, used in 143 text objects. Example: _Hebei: 116, Shandong: 137, Henan: 298_
 
@@ -116,14 +113,14 @@ No issues found! 🎉
 **https://annerquaye.github.io/projects/oscars.html**
 
 * Missing alt tags for 1 images
-   oscars/oscars.jpeg
+   * oscars/oscars.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
 * Missing alt tags for 1 images
-   ../../img/remittance.png
+   * ../../img/remittance.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -137,42 +134,21 @@ No issues found! 🎉
    * Text `10.0` is too small at 7px
    * Text `7.5` is too small at 7px
    * Text `5.0` is too small at 7px
-   * Text `2.5` is too small at 7px
-   * Text `2016` is too small at 8px
-   * Text `2017` is too small at 8px
-   * Text `2018` is too small at 8px
-   * Text `2019` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `The pandemic also shot inflation to a 3-year high` is too small at 10px
-   * Text `Inflation` is too small at 9px
-   * Text `Gdp Growth` is too small at 9px
-   * Text `17.5 %` is too small at 10px
-   * Text `The pandemic saw the economy hit rock bottom` is too small at 8px
-   * Text `15.0` is too small at 10px
-   * Text `12.5` is too small at 10px
-   * Text `10.0` is too small at 10px
-   * Text `7.5` is too small at 10px
-   * Text `5.0` is too small at 10px
-   * Text `2.5` is too small at 10px
-   * Text `2016` is too small at 10px
-   * Text `2017` is too small at 10px
-   * Text `2018` is too small at 10px
-   * Text `2019` is too small at 10px
-   * Text `2020` is too small at 10px
+   * *and 22 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Inflation` overlaps with `Gdp Growth` at screen width 400
 
 **https://annerquaye.github.io/projects/ricestory.html**
 
 * Missing alt tags for 1 images
-   rice_project/volta.png
+   * rice_project/volta.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/ricestory.html` into a folder called `ricestory`, then rename the file `index.html`. That way the project can be found at **/ricestory** instead of **/ricestory.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/scrolly.html**
 
 * Missing alt tags for 1 images
-   ../img/cover-01.jpg
+   * ../img/cover-01.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/scrolly.html` into a folder called `scrolly`, then rename the file `index.html`. That way the project can be found at **/scrolly** instead of **/scrolly.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
@@ -200,15 +176,15 @@ No issues found! 🎉
 **https://areenaarora.com/stories/uttarakhand-floods/**
 
 * Missing alt tags for 2 images
-   kedarnath-temple.jpg
-   uttarakhand.jpg
+   * kedarnath-temple.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * uttarakhand.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/r-place/**
 
 * Missing alt tags for 2 images
-   final-rplace.png
-   final.png
+   * final-rplace.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * final.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/style-guides/**
@@ -218,14 +194,14 @@ No issues found! 🎉
 **https://areenaarora.com/stories/biryani/**
 
 * Missing alt tags for 1 images
-   biryani-new.jpg
+   * biryani-new.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/ny-state-spills/**
 
 * Missing alt tags for 2 images
-   food-spill.png
-   queens-spills.png
+   * food-spill.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * queens-spills.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/vaccines/**
@@ -255,145 +231,37 @@ No issues found! 🎉
 **https://ilenapeng.github.io/**
 
 * Missing alt tags for 15 images
-   https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true
-   images/bbg-ukraine-aslyum.png
-   images/wells-map.png
-   images/judges-education-map.png
-   https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png
-   https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg
-   images/FallClasses.png
-   images/yagp.png
-   images/chopin.png
-   https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true
-   https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png
-   https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png
-   https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png
-   https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true
-   https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png
+   * https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * images/bbg-ukraine-aslyum.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * images/wells-map.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * images/judges-education-map.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * images/FallClasses.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * images/yagp.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * images/chopin.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://ilenapeng.github.io/nyc-languages**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
+   * Text `` overlaps with `Brooklyn had 35K fewer people speaking` at screen width 400
+   * Text `` overlaps with `` at screen width 400
+   * Text `` overlaps with `Spanish at home in 2019 than 2005` at screen width 400
    * Text `` overlaps with `` at screen width 400
    * Text `` overlaps with `` at screen width 400
    * Text `` overlaps with `Percent change` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Percent change` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `< -100%` at screen width 400
-   * Text `` overlaps with `>100` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `` at screen width 400
-   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `` overlaps with `Italian` at screen width 400
-   * Text `Italian` overlaps with `Russian` at screen width 400
-   * Text `` overlaps with `Russian` at screen width 400
-   * Text `Polish` overlaps with `Other Indic` at screen width 400
-   * Text `Other Indic` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `Urdu` at screen width 400
-   * Text `` overlaps with `Other Asian` at screen width 400
-   * Text `` overlaps with `Other African` at screen width 400
-   * Text `` overlaps with `Brooklyn` at screen width 400
-   * Text `` overlaps with `Arabic` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Urdu` overlaps with `Other Asian` at screen width 400
-   * Text `Other Asian` overlaps with `Other African` at screen width 400
-   * Text `Other African` overlaps with `Arabic` at screen width 400
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 900
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 900
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 900
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Percent change` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `Percent change` overlaps with `` at screen width 900
-   * Text `` overlaps with `< -100%` at screen width 900
-   * Text `` overlaps with `>100` at screen width 900
-   * Text `Spanish -35.2K` overlaps with `` at screen width 900
-   * Text `Spanish -35.2K` overlaps with `` at screen width 900
-   * Text `Spanish -35.2K` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
-   * Text `` overlaps with `Italian` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `Chinese 47.9K` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Urdu` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `` at screen width 900
-   * Text `` overlaps with `Urdu` at screen width 900
-   * Text `` overlaps with `Other Asian` at screen width 900
-   * Text `` overlaps with `Other African` at screen width 900
-   * Text `` overlaps with `Arabic` at screen width 900
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 1300
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 1300
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 1300
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Percent change` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `Percent change` overlaps with `` at screen width 1300
-   * Text `` overlaps with `< -100%` at screen width 1300
-   * Text `` overlaps with `>100` at screen width 1300
-   * Text `Spanish -35.2K` overlaps with `` at screen width 1300
-   * Text `Spanish -35.2K` overlaps with `` at screen width 1300
-   * Text `Spanish -35.2K` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Italian` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Italian` at screen width 1300
-   * Text `` overlaps with `Italian` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `Chinese 47.9K` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Urdu` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `` at screen width 1300
-   * Text `` overlaps with `Urdu` at screen width 1300
-   * Text `` overlaps with `Other Asian` at screen width 1300
-   * Text `` overlaps with `Other African` at screen width 1300
+   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
+   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
+   * Text `` overlaps with `Percent change` at screen width 400
+   * Text `< -100%` overlaps with `` at screen width 400
+   * *and 65 more*
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -478,7 +346,7 @@ No issues found! 🎉
 **https://juisarwate.github.io/nyc-recycling-distribution/**
 
 * Missing alt tags for 1 images
-   pexels-photo-802221.jpeg
+   * pexels-photo-802221.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -494,7 +362,7 @@ No issues found! 🎉
 **https://juisarwate.github.io/Sarwate_Project1/**
 
 * Missing alt tags for 1 images
-   yosemite-national-park-landscape-california-144251.jpeg
+   * yosemite-national-park-landscape-california-144251.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
@@ -527,7 +395,7 @@ No issues found! 🎉
 **https://juliaingram.github.io/citibike/**
 
 * Missing alt tags for 1 images
-   citibike-thames.png
+   * citibike-thames.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -544,71 +412,7 @@ No issues found! 🎉
    * Text `Ohio` is too small at 9px
    * Text `Maine` is too small at 9px
    * Text `Minnesota` is too small at 9px
-   * Text `Mississippi` is too small at 9px
-   * Text `Montana` is too small at 9px
-   * Text `Idaho` is too small at 9px
-   * Text `Louisiana` is too small at 9px
-   * Text `South Carolina` is too small at 9px
-   * Text `Utah` is too small at 9px
-   * Text `Washington` is too small at 9px
-   * Text `Wyoming` is too small at 9px
-   * Text `Source: National Conference of State Legislatures` is too small at 9px
-   * Text `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` is too small at 10px
-   * Text `standard time, and five states have competing bills for which way to end clock-switching.` is too small at 10px
-   * Text `Enacted` is too small at 9px
-   * Text `Pending` is too small at 9px
-   * Text `Failed` is too small at 9px
-   * Text `2020` is too small at 9px
-   * Text `2021` is too small at 9px
-   * Text `2022` is too small at 9px
-   * Text `Alaska` is too small at 9px
-   * Text `California` is too small at 9px
-   * Text `Iowa` is too small at 9px
-   * Text `Kansas` is too small at 9px
-   * Text `Kentucky` is too small at 9px
-   * Text `Maryland` is too small at 9px
-   * Text `Massachusetts` is too small at 9px
-   * Text `Michigan` is too small at 9px
-   * Text `Daylight` is too small at 9px
-   * Text `time` is too small at 9px
-   * Text `Minnesota` is too small at 9px
-   * Text `Nebraska` is too small at 9px
-   * Text `New Hampshire` is too small at 9px
-   * Text `New Jersey` is too small at 9px
-   * Text `North Carolina` is too small at 9px
-   * Text `Ohio` is too small at 9px
-   * Text `South Carolina` is too small at 9px
-   * Text `South Dakota` is too small at 9px
-   * Text `Utah` is too small at 9px
-   * Text `Colorado` is too small at 9px
-   * Text `Missouri` is too small at 9px
-   * Text `Standard` is too small at 9px
-   * Text `time` is too small at 9px
-   * Text `Vermont` is too small at 9px
-   * Text `Virginia` is too small at 9px
-   * Text `Washington` is too small at 9px
-   * Text `West Virginia` is too small at 9px
-   * Text `Georgia` is too small at 9px
-   * Text `Illinois` is too small at 9px
-   * Text `Competing` is too small at 9px
-   * Text `bills` is too small at 9px
-   * Text `New York` is too small at 9px
-   * Text `Oklahoma` is too small at 9px
-   * Text `Pennsylvania` is too small at 9px
-   * Text `Source: National Conference of State Legislatures` is too small at 9px
-   * Text `later` is too small at 10px
-   * Text `earlier` is too small at 10px
-   * Text `Sunrise could have been as late as` is too small at 10px
-   * Text `9:42 a.m. in Williston, North Dakota` is too small at 10px
-   * Text `but as early as 7:37 in` is too small at 10px
-   * Text `Panama City, Florida` is too small at 10px
-   * Text `The earliest sunset would` is too small at 10px
-   * Text `have been at 5:01 p.m., in` is too small at 10px
-   * Text `later` is too small at 10px
-   * Text `earlier` is too small at 10px
-   * Text `Bonners Ferry, Idaho` is too small at 10px
-   * Text `and the latest as 6:58 p.m.` is too small at 10px
-   * Text `in Odessa, Texas` is too small at 10px
+   * *and 65 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Enacted` overlaps with `Failed` at screen width 400
    * Text `Enacted` overlaps with `Pending` at screen width 400
@@ -620,17 +424,12 @@ No issues found! 🎉
    * Text `Enacted` overlaps with `Failed` at screen width 900
    * Text `Enacted` overlaps with `Pending` at screen width 900
    * Text `Pending` overlaps with `Failed` at screen width 900
-   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 1300
-   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 1300
-   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 1300
-   * Text `Enacted` overlaps with `Failed` at screen width 1300
-   * Text `Enacted` overlaps with `Pending` at screen width 1300
-   * Text `Pending` overlaps with `Failed` at screen width 1300
+   * *and 6 more*
 
 **https://juliaingram.github.io/therapy-apps/**
 
 * Missing alt tags for 1 images
-   talkspace-phone.png
+   * talkspace-phone.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -653,7 +452,7 @@ No issues found! 🎉
 **https://kfalayi.github.io/**
 
 * Missing alt tags for 1 images
-   /images/kay.jpeg
+   * /images/kay.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://kfalayi.github.io/agritech-investment/**
 
@@ -668,24 +467,7 @@ No issues found! 🎉
    * Text `Israel` is too small at 9px
    * Text `China` is too small at 9px
    * Text `South Korea` is too small at 9px
-   * Text `France` is too small at 9px
-   * Text `Ireland` is too small at 9px
-   * Text `United` is too small at 9px
-   * Text `United` is too small at 9px
-   * Text `Germany` is too small at 9px
-   * Text `Kingdom` is too small at 9px
-   * Text `Kingdom` is too small at 9px
-   * Text `Netherlands` is too small at 9px
-   * Text `Canada` is too small at 9px
-   * Text `South` is too small at 7px
-   * Text `Africa` is too small at 7px
-   * Text `Australia` is too small at 9px
-   * Text `tralia` is too small at 9px
-   * Text `Kenya` is too small at 7px
-   * Text `Nigeria` is too small at 7px
-   * Text `Chile` is too small at 9px
-   * Text `Brazil` is too small at 9px
-   * Text `Colombia` is too small at 9px
+   * *and 18 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `ASIA` overlaps with `$6.7 billion` at screen width 400
    * Text `Indonesia` overlaps with `Israel` at screen width 400
@@ -697,42 +479,7 @@ No issues found! 🎉
    * Text `Africa` overlaps with `Colombia` at screen width 400
    * Text `Australia` overlaps with `tralia` at screen width 400
    * Text `Australia` overlaps with `Kenya` at screen width 400
-   * Text `Australia` overlaps with `Nigeria` at screen width 400
-   * Text `tralia` overlaps with `Nigeria` at screen width 400
-   * Text `Kenya` overlaps with `Nigeria` at screen width 400
-   * Text `AFRICA` overlaps with `OCEANIA` at screen width 400
-   * Text `AFRICA` overlaps with `$244 million` at screen width 400
-   * Text `OCEANIA` overlaps with `$244 million` at screen width 400
-   * Text `SOUTH AMERICA` overlaps with `$1 billion` at screen width 400
-   * Text `$244 million` overlaps with `354.8 million` at screen width 400
-   * Text `$37.8 billion` overlaps with `Africa` at screen width 400
-   * Text `Africa` overlaps with `0.6` at screen width 400
-   * Text `South Africa` overlaps with `$145.6 million` at screen width 400
-   * Text ` ` overlaps with `$145.6 million` at screen width 400
-   * Text ` ` overlaps with `$95.2 million` at screen width 400
-   * Text `Europe` overlaps with `Asia` at screen width 400
-   * Text `$2 billion` overlaps with `$1.5` at screen width 400
-   * Text `bn` overlaps with `North America` at screen width 400
-   * Text `South America` overlaps with `$541.6 million` at screen width 400
-   * Text `United` overlaps with `United` at screen width 900
-   * Text `Kingdom` overlaps with `Kingdom` at screen width 900
-   * Text `South` overlaps with `Kenya` at screen width 900
-   * Text `Australia` overlaps with `tralia` at screen width 900
-   * Text `Australia` overlaps with `Nigeria` at screen width 900
-   * Text `Kenya` overlaps with `Nigeria` at screen width 900
-   * Text `$244 million` overlaps with `354.8 million` at screen width 900
-   * Text `Africa` overlaps with `0.6` at screen width 900
-   * Text ` ` overlaps with `$145.6 million` at screen width 900
-   * Text ` ` overlaps with `$95.2 million` at screen width 900
-   * Text `United` overlaps with `United` at screen width 1300
-   * Text `Kingdom` overlaps with `Kingdom` at screen width 1300
-   * Text `South` overlaps with `Kenya` at screen width 1300
-   * Text `Australia` overlaps with `tralia` at screen width 1300
-   * Text `Australia` overlaps with `Nigeria` at screen width 1300
-   * Text `Kenya` overlaps with `Nigeria` at screen width 1300
-   * Text `$244 million` overlaps with `354.8 million` at screen width 1300
-   * Text ` ` overlaps with `$145.6 million` at screen width 1300
-   * Text ` ` overlaps with `$95.2 million` at screen width 1300
+   * *and 37 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -750,14 +497,7 @@ No issues found! 🎉
    * Text `1 dot = 1 dollar store` is too small at 6px
    * Text `blue dots = dollar stores` is too small at 6px
    * Text `red dots = vaccination sites` is too small at 6px
-   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 3px
-   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 5px
-   * Text `Areas within a 10-mins drive of dollar stores` is too small at 8px
-   * Text `but outside 10-mins drive of vaccination sites` is too small at 8px
-   * Text `Red dots are vaccination sites` is too small at 8px
-   * Text `Areas within a 10-mins drive of dollar stores ` is too small at 4px
-   * Text `but outside 10-mins drive of vaccination sites` is too small at 4px
-   * Text `Red dots are vaccination sites` is too small at 4px
+   * *and 8 more*
 
 **https://kfalayi.github.io/Food_price_Nigeria/**
 
@@ -782,27 +522,7 @@ No issues found! 🎉
    * Text `Irpin River` is too small at 9px
    * Text `At least four people` is too small at 9px
    * Text `including two children ` is too small at 9px
-   * Text `were killed by a mortar shell.` is too small at 9px
-   * Text `PS30 road` is too small at 9px
-   * Text `Irpin` is too small at 7px
-   * Text `Evacuation route ` is too small at 9px
-   * Text `toward Kyiv` is too small at 9px
-   * Text `Kyiv` is too small at 7px
-   * Text `UKRAINE` is too small at 8px
-   * Text `100 ft` is too small at 7px
-   * Text `Evacuees huddled under ` is too small at 10px
-   * Text `destroyed bridge, one of ` is too small at 10px
-   * Text `the main escape routes out of Irpin` is too small at 10px
-   * Text `At least four people` is too small at 10px
-   * Text `including two children ` is too small at 10px
-   * Text `were killed by a mortar shell.` is too small at 10px
-   * Text `PS30 road` is too small at 10px
-   * Text `Irpin` is too small at 6px
-   * Text `Evacuation route ` is too small at 10px
-   * Text `toward Kyiv` is too small at 10px
-   * Text `Kyiv` is too small at 6px
-   * Text `UKRAINE` is too small at 8px
-   * Text `100 ft` is too small at 6px
+   * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
    * Text `IRPIN` overlaps with `Irpin River` at screen width 400
@@ -828,19 +548,19 @@ No issues found! 🎉
 **https://luizftoledo.github.io/**
 
 * Missing alt tags for 13 images
-   clo.jpeg
-   lux.jpg
-   tob.jpeg
-   voo.jpeg
-   dis.jpg
-   enem.png
-   haddad.jpeg
-   unesp.jpeg
-   enemrac.jpeg
-   cloro.jpeg
-   bolsodad.jpeg
-   scrap.jpeg
-   eddie.jpeg
+   * clo.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * lux.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * tob.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * voo.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * dis.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * enem.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * haddad.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * unesp.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * enemrac.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * cloro.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * bolsodad.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * scrap.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * eddie.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
@@ -861,40 +581,7 @@ No issues found! 🎉
    * Text `11k` is too small at 7px
    * Text `10k` is too small at 7px
    * Text `9k` is too small at 7px
-   * Text `8k` is too small at 7px
-   * Text `2013` is too small at 7px
-   * Text `2014` is too small at 7px
-   * Text `2015` is too small at 7px
-   * Text `2016` is too small at 7px
-   * Text `2017` is too small at 7px
-   * Text `2018` is too small at 7px
-   * Text `2019` is too small at 7px
-   * Text `2020` is too small at 7px
-   * Text `2021` is too small at 7px
-   * Text `18k` is too small at 4px
-   * Text `17k` is too small at 4px
-   * Text `-9.23%` is too small at 6px
-   * Text `16k` is too small at 4px
-   * Text `15k` is too small at 4px
-   * Text `14k` is too small at 4px
-   * Text `13k` is too small at 4px
-   * Text `12k` is too small at 4px
-   * Text `-26.82%` is too small at 6px
-   * Text `11k` is too small at 4px
-   * Text `10k` is too small at 4px
-   * Text `-16.98%` is too small at 6px
-   * Text `9k` is too small at 4px
-   * Text `8.9k fines` is too small at 6px
-   * Text `8k` is too small at 4px
-   * Text `2013` is too small at 4px
-   * Text `2014` is too small at 4px
-   * Text `2015` is too small at 4px
-   * Text `2016` is too small at 4px
-   * Text `2017` is too small at 4px
-   * Text `2018` is too small at 4px
-   * Text `2019` is too small at 4px
-   * Text `2020` is too small at 4px
-   * Text `2021` is too small at 4px
+   * *and 34 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -914,97 +601,7 @@ No issues found! 🎉
    * Text `Bolsonaro is ` is too small at 6px
    * Text `elected` is too small at 6px
    * Text `5 K` is too small at 6px
-   * Text `0` is too small at 6px
-   * Text `2019` is too small at 6px
-   * Text `1990` is too small at 6px
-   * Text `2018` is too small at 6px
-   * Text `USA and Austria are the countries of origin for most of the ` is too small at 10px
-   * Text `foreign seized weapons in Brazil` is too small at 10px
-   * Text `Data is from 2013 to 2021` is too small at 8px
-   * Text `United States` is too small at 8px
-   * Text `Austria` is too small at 8px
-   * Text `Turkey` is too small at 8px
-   * Text `Argentina` is too small at 8px
-   * Text `Czech Republic` is too small at 8px
-   * Text `Italy` is too small at 8px
-   * Text `Germany` is too small at 8px
-   * Text `Israel` is too small at 8px
-   * Text `Croatia` is too small at 8px
-   * Text `Belgium` is too small at 8px
-   * Text `Russia` is too small at 8px
-   * Text `Spain` is too small at 8px
-   * Text `Mexico` is too small at 8px
-   * Text `Serbia` is too small at 8px
-   * Text `China` is too small at 8px
-   * Text `Philippines` is too small at 8px
-   * Text `Romania` is too small at 8px
-   * Text `Montenegro` is too small at 8px
-   * Text `Hungary` is too small at 8px
-   * Text `Bolivia` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `1200` is too small at 8px
-   * Text `Source: Brazilian Federal Police / FOIA request` is too small at 8px
-   * Text `Revolver is the most common seized weapon` is too small at 8px
-   * Text ` from other countries` is too small at 8px
-   * Text `Revólver` is too small at 6px
-   * Text `Fuzil` is too small at 6px
-   * Text `Espingarda` is too small at 6px
-   * Text `Rifle` is too small at 6px
-   * Text `Carabina` is too small at 6px
-   * Text `Metralhadora` is too small at 6px
-   * Text `Não definido` is too small at 6px
-   * Text `Escopeta` is too small at 6px
-   * Text `Artesanal` is too small at 6px
-   * Text `Mosquete` is too small at 6px
-   * Text `Garrucha` is too small at 6px
-   * Text `Source: Brazilian Federal Police / FOIA` is too small at 6px
-   * Text `Glock` is too small at 7px
-   * Text `Smith & Wesson` is too small at 7px
-   * Text `Canik` is too small at 7px
-   * Text `Colt` is too small at 7px
-   * Text `Beretta` is too small at 7px
-   * Text `Cz` is too small at 7px
-   * Text `Girsan` is too small at 7px
-   * Text `Ruger` is too small at 7px
-   * Text `Winchester` is too small at 7px
-   * Text `0` is too small at 7px
-   * Text `200` is too small at 7px
-   * Text `400` is too small at 7px
-   * Text `600` is too small at 7px
-   * Text `800` is too small at 7px
-   * Text `1,000` is too small at 7px
-   * Text `1,200` is too small at 7px
-   * Text `Source: Brazilian Federal Police / FOIA request` is too small at 7px
-   * Text `Glock is the most common foreign weapon ` is too small at 8px
-   * Text `seized by the Brazilian Federal Police` is too small at 8px
-   * Text `Glock` is too small at 4px
-   * Text `One out of for foreign weapons` is too small at 6px
-   * Text `seized by the Federal Police in` is too small at 6px
-   * Text `Brazil is a Glock` is too small at 6px
-   * Text `Smith & Wesson` is too small at 4px
-   * Text `Canik` is too small at 4px
-   * Text `Colt` is too small at 4px
-   * Text `Beretta` is too small at 4px
-   * Text `Cz` is too small at 4px
-   * Text `Girsan` is too small at 4px
-   * Text `Ruger` is too small at 4px
-   * Text `Winchester` is too small at 4px
-   * Text `0` is too small at 4px
-   * Text `200` is too small at 4px
-   * Text `400` is too small at 4px
-   * Text `600` is too small at 4px
-   * Text `800` is too small at 4px
-   * Text `1,000` is too small at 4px
-   * Text `1,200` is too small at 4px
-   * Text `Source: Brazilian Federal Police / FOIA request` is too small at 4px
-   * Text `Paraná leads in weapon seized by the Federal Police` is too small at 10px
-   * Text `Foz de Iguaçu city (state of Paraná),` is too small at 5px
-   * Text ` on the border with Paraguay, ` is too small at 5px
-   * Text `makes the state have ` is too small at 5px
-   * Text `the highest number of guns seizures` is too small at 5px
-   * Text `Source: Brazilian Federal Police / FOIA request` is too small at 8px
+   * *and 91 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2019` overlaps with `2018` at screen width 400
    * Text `2019` overlaps with `2018` at screen width 900
@@ -1038,7 +635,7 @@ No issues found! 🎉
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
 * Missing alt tags for 1 images
-   shot.png
+   * shot.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1059,16 +656,7 @@ No issues found! 🎉
    * Text `Private Room` is too small at 8px
    * Text `39.6` is too small at 10px
    * Text `Shared room` is too small at 8px
-   * Text `43.8` is too small at 10px
-   * Text `Hotel room` is too small at 8px
-   * Text `Entire home/apt` is too small at 8px
-   * Text `34.3%` is too small at 10px
-   * Text `53.7` is too small at 10px
-   * Text `Private Room` is too small at 8px
-   * Text `56.9` is too small at 10px
-   * Text `Shared room` is too small at 8px
-   * Text `80.4` is too small at 10px
-   * Text `Hotel room` is too small at 8px
+   * *and 10 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `14.2%` overlaps with `34.3%` at screen width 400
    * Text `14.2%` overlaps with `34.3%` at screen width 400
@@ -1080,19 +668,12 @@ No issues found! 🎉
    * Text `14.2%` overlaps with `34.3%` at screen width 900
    * Text `34.3%` overlaps with `34.3%` at screen width 900
    * Text `25.2` overlaps with `53.7` at screen width 900
-   * Text `39.6` overlaps with `56.9` at screen width 900
-   * Text `43.8` overlaps with `80.4` at screen width 900
-   * Text `14.2%` overlaps with `34.3%` at screen width 1300
-   * Text `14.2%` overlaps with `34.3%` at screen width 1300
-   * Text `34.3%` overlaps with `34.3%` at screen width 1300
-   * Text `25.2` overlaps with `53.7` at screen width 1300
-   * Text `39.6` overlaps with `56.9` at screen width 1300
-   * Text `43.8` overlaps with `80.4` at screen width 1300
+   * *and 8 more*
 
 **https://mishavaid7.github.io/Wordle-Webpage/**
 
 * Missing alt tags for 1 images
-   pink.png
+   * pink.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1115,17 +696,17 @@ No issues found! 🎉
 **https://msc-joel.github.io/**
 
 * Missing alt tags for 4 images
-   profile-image.png
-   fb.png
-   twitter.png
-   linkedin.png
+   * profile-image.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * fb.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * twitter.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * linkedin.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article1.html**
 
 * Missing alt tags for 2 images
-   inflation-pic.jpg
-   inflation-graph.png
+   * inflation-pic.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * inflation-graph.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 **https://msc-joel.github.io/main-article3.html**
@@ -1147,38 +728,7 @@ No issues found! 🎉
    * Text `Latvia` is too small at 9px
    * Text `Spain` is too small at 9px
    * Text `Ireland` is too small at 9px
-   * Text `Portugal` is too small at 9px
-   * Text `Italy` is too small at 9px
-   * Text `Cyprus` is too small at 9px
-   * Text `Luxembourg` is too small at 9px
-   * Text `Malta` is too small at 9px
-   * Text `0%` is too small at 10px
-   * Text `Top ten EU countries by percentage of total imports from Russia in 2020` is too small at 9px
-   * Text `97%` is too small at 7px
-   * Text `97%` is too small at 7px
-   * Text `95%` is too small at 7px
-   * Text `95%` is too small at 7px
-   * Text `93%` is too small at 7px
-   * Text `93%` is too small at 7px
-   * Text `80%` is too small at 9px
-   * Text `78%` is too small at 7px
-   * Text `78%` is too small at 7px
-   * Text `77%` is too small at 7px
-   * Text `77%` is too small at 7px
-   * Text `75%` is too small at 7px
-   * Text `75%` is too small at 7px
-   * Text `75%` is too small at 7px
-   * Text `75%` is too small at 7px
-   * Text `74%` is too small at 7px
-   * Text `74%` is too small at 7px
-   * Text `74%` is too small at 7px
-   * Text `74%` is too small at 7px
-   * Text `72%` is too small at 7px
-   * Text `72%` is too small at 7px
-   * Text `60%` is too small at 9px
-   * Text `40%` is too small at 9px
-   * Text `20%` is too small at 9px
-   * Text `0%` is too small at 9px
+   * *and 32 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `` overlaps with `on Russia in the last two decades` at screen width 400
    * Text `34%` overlaps with `34%` at screen width 400
@@ -1190,153 +740,12 @@ No issues found! 🎉
    * Text `51%` overlaps with `51%` at screen width 400
    * Text `48%` overlaps with `48%` at screen width 400
    * Text `55%` overlaps with `55%` at screen width 400
-   * Text `42%` overlaps with `42%` at screen width 400
-   * Text `61%` overlaps with `61%` at screen width 400
-   * Text `44%` overlaps with `44%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `77%` overlaps with `77%` at screen width 400
-   * Text `69%` overlaps with `69%` at screen width 400
-   * Text `85%` overlaps with `85%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `85%` overlaps with `85%` at screen width 400
-   * Text `87%` overlaps with `87%` at screen width 400
-   * Text `77%` overlaps with `77%` at screen width 400
-   * Text `93%` overlaps with `93%` at screen width 400
-   * Text `98%` overlaps with `98%` at screen width 400
-   * Text `95%` overlaps with `95%` at screen width 400
-   * Text `99%` overlaps with `99%` at screen width 400
-   * Text `100%` overlaps with `100%` at screen width 400
-   * Text `97%` overlaps with `97%` at screen width 400
-   * Text `Many EU countries rely` overlaps with `Many EU countries rely` at screen width 400
-   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
-   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
-   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
-   * Text `Many EU countries rely` overlaps with `heavily on Russian` at screen width 400
-   * Text `heavily on Russian` overlaps with `heavily on Russian` at screen width 400
-   * Text `heavily on Russian` overlaps with `energy` at screen width 400
-   * Text `heavily on Russian` overlaps with `energy` at screen width 400
-   * Text `heavily on Russian` overlaps with `energy` at screen width 400
-   * Text `heavily on Russian` overlaps with `energy` at screen width 400
-   * Text `energy` overlaps with `energy` at screen width 400
-   * Text `97%` overlaps with `97%` at screen width 400
-   * Text `95%` overlaps with `95%` at screen width 400
-   * Text `93%` overlaps with `93%` at screen width 400
-   * Text `78%` overlaps with `78%` at screen width 400
-   * Text `77%` overlaps with `77%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `75%` overlaps with `75%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `74%` overlaps with `74%` at screen width 400
-   * Text `72%` overlaps with `72%` at screen width 400
-   * Text `` overlaps with `on Russia in the last two decades` at screen width 900
-   * Text `34%` overlaps with `34%` at screen width 900
-   * Text `5%` overlaps with `5%` at screen width 900
-   * Text `30%` overlaps with `30%` at screen width 900
-   * Text `39%` overlaps with `39%` at screen width 900
-   * Text `38%` overlaps with `38%` at screen width 900
-   * Text `46%` overlaps with `46%` at screen width 900
-   * Text `51%` overlaps with `51%` at screen width 900
-   * Text `48%` overlaps with `48%` at screen width 900
-   * Text `55%` overlaps with `55%` at screen width 900
-   * Text `42%` overlaps with `42%` at screen width 900
-   * Text `61%` overlaps with `61%` at screen width 900
-   * Text `44%` overlaps with `44%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `77%` overlaps with `77%` at screen width 900
-   * Text `69%` overlaps with `69%` at screen width 900
-   * Text `85%` overlaps with `85%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `85%` overlaps with `85%` at screen width 900
-   * Text `87%` overlaps with `87%` at screen width 900
-   * Text `77%` overlaps with `77%` at screen width 900
-   * Text `93%` overlaps with `93%` at screen width 900
-   * Text `98%` overlaps with `98%` at screen width 900
-   * Text `95%` overlaps with `95%` at screen width 900
-   * Text `99%` overlaps with `99%` at screen width 900
-   * Text `100%` overlaps with `100%` at screen width 900
-   * Text `97%` overlaps with `97%` at screen width 900
-   * Text `Many EU countries rely` overlaps with `Many EU countries rely` at screen width 900
-   * Text `heavily on Russian` overlaps with `heavily on Russian` at screen width 900
-   * Text `energy` overlaps with `energy` at screen width 900
-   * Text `97%` overlaps with `97%` at screen width 900
-   * Text `95%` overlaps with `95%` at screen width 900
-   * Text `93%` overlaps with `93%` at screen width 900
-   * Text `78%` overlaps with `78%` at screen width 900
-   * Text `77%` overlaps with `77%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `75%` overlaps with `75%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `74%` overlaps with `74%` at screen width 900
-   * Text `72%` overlaps with `72%` at screen width 900
-   * Text `` overlaps with `on Russia in the last two decades` at screen width 1300
-   * Text `34%` overlaps with `34%` at screen width 1300
-   * Text `5%` overlaps with `5%` at screen width 1300
-   * Text `30%` overlaps with `30%` at screen width 1300
-   * Text `39%` overlaps with `39%` at screen width 1300
-   * Text `38%` overlaps with `38%` at screen width 1300
-   * Text `46%` overlaps with `46%` at screen width 1300
-   * Text `51%` overlaps with `51%` at screen width 1300
-   * Text `48%` overlaps with `48%` at screen width 1300
-   * Text `55%` overlaps with `55%` at screen width 1300
-   * Text `42%` overlaps with `42%` at screen width 1300
-   * Text `61%` overlaps with `61%` at screen width 1300
-   * Text `44%` overlaps with `44%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `77%` overlaps with `77%` at screen width 1300
-   * Text `69%` overlaps with `69%` at screen width 1300
-   * Text `85%` overlaps with `85%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `85%` overlaps with `85%` at screen width 1300
-   * Text `87%` overlaps with `87%` at screen width 1300
-   * Text `77%` overlaps with `77%` at screen width 1300
-   * Text `93%` overlaps with `93%` at screen width 1300
-   * Text `98%` overlaps with `98%` at screen width 1300
-   * Text `95%` overlaps with `95%` at screen width 1300
-   * Text `99%` overlaps with `99%` at screen width 1300
-   * Text `100%` overlaps with `100%` at screen width 1300
-   * Text `97%` overlaps with `97%` at screen width 1300
-   * Text `Many EU countries rely` overlaps with `Many EU countries rely` at screen width 1300
-   * Text `heavily on Russian` overlaps with `heavily on Russian` at screen width 1300
-   * Text `energy` overlaps with `energy` at screen width 1300
-   * Text `97%` overlaps with `97%` at screen width 1300
-   * Text `95%` overlaps with `95%` at screen width 1300
-   * Text `93%` overlaps with `93%` at screen width 1300
-   * Text `78%` overlaps with `78%` at screen width 1300
-   * Text `77%` overlaps with `77%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `75%` overlaps with `75%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `74%` overlaps with `74%` at screen width 1300
-   * Text `72%` overlaps with `72%` at screen width 1300
+   * *and 142 more*
 
 **https://msc-joel.github.io/main-article5.html**
 
 * Missing alt tags for 1 images
-   Russian_energy.jpg
+   * Russian_energy.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Needs a title, add a `<title>` tag to the `<head>`
 * Move `main-article5.html` into a folder called `main-article5`, then rename the file `index.html`. That way the project can be found at **/main-article5** instead of **/main-article5.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1351,16 +760,7 @@ No issues found! 🎉
    * Text `74%` is too small at 9px
    * Text `74%` is too small at 9px
    * Text `72%` is too small at 9px
-   * Text `Luxenbourg` is too small at 9px
-   * Text `Malta` is too small at 9px
-   * Text `Belgium` is too small at 9px
-   * Text `Greece` is too small at 9px
-   * Text `Spain` is too small at 9px
-   * Text `Lithuania` is too small at 9px
-   * Text `Portugal` is too small at 9px
-   * Text `Italy` is too small at 9px
-   * Text `Austria` is too small at 9px
-   * Text `Cyprus` is too small at 9px
+   * *and 10 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `97%` overlaps with `95%` at screen width 400
    * Text `95%` overlaps with `93%` at screen width 400
@@ -1397,7 +797,7 @@ No issues found! 🎉
 **https://naokatoh.github.io/figure_skate_music/**
 
 * Missing alt tags for 1 images
-   https://gh-card.dev/repos/naokatoh/figure_skate_music.svg
+   * https://gh-card.dev/repos/naokatoh/figure_skate_music.svg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 
 **https://naokatoh.github.io/nycrats/**
@@ -1413,7 +813,7 @@ No issues found! 🎉
 **https://naokatoh.github.io/sea_urchin/**
 
 * Missing alt tags for 1 images
-   https://gh-card.dev/repos/naokatoh/sea_urchin.svg
+   * https://gh-card.dev/repos/naokatoh/sea_urchin.svg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1430,24 +830,7 @@ No issues found! 🎉
    * Text `Turkmenistan` is too small at 9px
    * Text `9734` is too small at 8px
    * Text `9979` is too small at 9px
-   * Text `India` is too small at 9px
-   * Text `Uzbekistan` is too small at 9px
-   * Text `Jordan` is too small at 9px
-   * Text `Uzbekistan` is too small at 9px
-   * Text `4773` is too small at 8px
-   * Text ` ` is too small at 10px
-   * Text `Nigeria` is too small at 10px
-   * Text `Israel` is too small at 10px
-   * Text `Turkmenistan` is too small at 10px
-   * Text `China` is too small at 10px
-   * Text `Morocco` is too small at 10px
-   * Text `5721` is too small at 9px
-   * Text `14383` is too small at 9px
-   * Text `Turkey` is too small at 10px
-   * Text `Azerbaijan` is too small at 10px
-   * Text `Jordan` is too small at 10px
-   * Text `4718` is too small at 9px
-   * Text `Egypt` is too small at 10px
+   * *and 18 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Nigeria` overlaps with `Nigeria` at screen width 400
    * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 400
@@ -1481,15 +864,16 @@ No issues found! 🎉
 **https://pmagtulis.github.io/projects/**
 
 * Missing alt tags for 5 images
-   https://pmagtulis.github.io/charts/nyc_trainpic.jpeg
-   https://pmagtulis.github.io/charts/port.jpeg
-   https://pmagtulis.github.io/charts/franchise_games.png
-   https://pmagtulis.github.io/charts/voters_map.png
-   https://pmagtulis.github.io/charts/marawi_siege.png
+   * https://pmagtulis.github.io/charts/nyc_trainpic.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://pmagtulis.github.io/charts/port.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://pmagtulis.github.io/charts/franchise_games.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://pmagtulis.github.io/charts/voters_map.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://pmagtulis.github.io/charts/marawi_siege.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Complaints about air` is too small at 10px
    * Text `quality hit a record-high` is too small at 10px
@@ -1501,133 +885,19 @@ No issues found! 🎉
    * Text `200` is too small at 8px
    * Text `0` is too small at 8px
    * Text `2008` is too small at 8px
-   * Text `2004` is too small at 8px
-   * Text `2012` is too small at 8px
-   * Text `2016` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `2004` is too small at 8px
-   * Text `2008` is too small at 8px
-   * Text `2012` is too small at 8px
-   * Text `2016` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `complaints` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `2004` is too small at 8px
-   * Text `2008` is too small at 8px
-   * Text `2012` is too small at 8px
-   * Text `2016` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `2004` is too small at 8px
-   * Text `2008` is too small at 8px
-   * Text `2012` is too small at 8px
-   * Text `2016` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `Complaints about air quality` is too small at 8px
-   * Text `surge in January 2022 ` is too small at 8px
-   * Text `complaints` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `2004` is too small at 8px
-   * Text `2008` is too small at 8px
-   * Text `2012` is too small at 8px
-   * Text `2016` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `800` is too small at 8px
-   * Text `complaints` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `2008` is too small at 8px
-   * Text `2004` is too small at 8px
-   * Text `2012` is too small at 8px
-   * Text `2016` is too small at 8px
-   * Text `2020` is too small at 8px
-   * Text `Complaints about air` is too small at 10px
-   * Text `quality hit a record-high` is too small at 10px
-   * Text `in January 2022` is too small at 10px
+   * *and 52 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2008` overlaps with `2004` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `Complaints about air quality` overlaps with `complaints` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2008` overlaps with `2004` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2008` overlaps with `2004` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `Complaints about air quality` overlaps with `complaints` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2008` overlaps with `2004` at screen width 900
-   * Text `2008` overlaps with `2012` at screen width 900
-   * Text `2012` overlaps with `2016` at screen width 900
-   * Text `2016` overlaps with `2020` at screen width 900
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2004` overlaps with `2008` at screen width 1300
-   * Text `2008` overlaps with `2012` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
-   * Text `2012` overlaps with `2016` at screen width 1300
-   * Text `2016` overlaps with `2020` at screen width 1300
+   * *and 62 more*
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -1672,6 +942,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -1694,10 +965,10 @@ No issues found! 🎉
 **https://pmartisa.github.io/**
 
 * Missing alt tags for 4 images
-   ./project_three/oil_russian.png
-   ./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg
-   ./website/271681803_470688881345369_9114073044683232908_n.jpeg
-   ./project_two/complaints_pct.png
+   * ./project_three/oil_russian.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./website/271681803_470688881345369_9114073044683232908_n.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./project_two/complaints_pct.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 9px
@@ -1710,37 +981,7 @@ No issues found! 🎉
    * Text `3.0` is too small at 9px
    * Text `2012` is too small at 9px
    * Text `1.5` is too small at 9px
-   * Text `2010` is too small at 9px
-   * Text `0.4` is too small at 9px
-   * Text `2008` is too small at 9px
-   * Text `11.0` is too small at 9px
-   * Text `2006` is too small at 9px
-   * Text `10.2` is too small at 9px
-   * Text `2004` is too small at 9px
-   * Text `2.6` is too small at 9px
-   * Text `2002` is too small at 9px
-   * Text `0.2` is too small at 9px
-   * Text `2000` is too small at 9px
-   * Text `4.8` is too small at 9px
-   * Text `5.9` is too small at 9px
-   * Text `1998` is too small at 9px
-   * Text `3.5` is too small at 9px
-   * Text `1996` is too small at 9px
-   * Text `3.6` is too small at 9px
-   * Text `1994` is too small at 9px
-   * Text `8.7` is too small at 9px
-   * Text `1992` is too small at 9px
-   * Text `4.0` is too small at 9px
-   * Text `1990` is too small at 9px
-   * Text ` ` is too small at 9px
-   * Text `Values represent the average of all polls between 220 and 420 days before an election.` is too small at 9px
-   * Text ` ` is too small at 9px
-   * Text `By The New York Times` is too small at 9px
-   * Text `.` is too small at 6px
-   * Text `.` is too small at 6px
-   * Text `.` is too small at 6px
-   * Text `.` is too small at 6px
-   * Text `0` is too small at 10px
+   * *and 31 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2018` at screen width 400
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `+13.4 pts.` at screen width 400
@@ -1752,248 +993,7 @@ No issues found! 🎉
    * Text ` ` overlaps with `1.5` at screen width 400
    * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `2012` at screen width 400
    * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `1.5` at screen width 400
-   * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `2010` at screen width 400
-   * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `0.4` at screen width 400
-   * Text `2016` overlaps with `1.2` at screen width 400
-   * Text `2010` overlaps with `0.4` at screen width 400
-   * Text `2002` overlaps with `0.2` at screen width 400
-   * Text ` ` overlaps with `Incumbents Are Tough to Beat, Even in a Wave` at screen width 400
-   * Text `By The New York Times` overlaps with `Incumbents Are Tough to Beat, Even in a Wave` at screen width 400
-   * Text `Incumbents Are Tough to Beat, Even in a Wave` overlaps with `Incumbent` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `Incumbent` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `Survives` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `Incumbent Defeated` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `.` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `.` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `.` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `.` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `C+7 or greater` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `24` at screen width 400
-   * Text `Incumbents are typically favored to win, even in difficult districts in a wave election.` overlaps with `76%` at screen width 400
-   * Text ` ` overlaps with `C+3 to C+7` at screen width 400
-   * Text ` ` overlaps with `63` at screen width 400
-   * Text ` ` overlaps with `37` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `C+1 to C+3` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `61` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `39` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `I+1 to C+1` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `65` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `35` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `25` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `I+1 to I+3` at screen width 400
-   * Text `Winning percentage for incumbents representing the president’s party in 2006 and 2010, by their party’s advantage in Cook P.V.I.` overlaps with `75` at screen width 400
-   * Text `Survives` overlaps with `.` at screen width 400
-   * Text `Survives` overlaps with `24` at screen width 400
-   * Text `Incumbent Defeated` overlaps with `.` at screen width 400
-   * Text `Incumbent Defeated` overlaps with `.` at screen width 400
-   * Text `I+5 to I+10` overlaps with `7` at screen width 400
-   * Text `France` overlaps with `31.5%` at screen width 400
-   * Text `France` overlaps with `Finland` at screen width 400
-   * Text `France` overlaps with `30.8` at screen width 400
-   * Text `31.5%` overlaps with `Finland` at screen width 400
-   * Text `31.5%` overlaps with `30.8` at screen width 400
-   * Text `Finland` overlaps with `30.8` at screen width 400
-   * Text `Finland` overlaps with `Belgium` at screen width 400
-   * Text `Finland` overlaps with `29.0` at screen width 400
-   * Text `30.8` overlaps with `Belgium` at screen width 400
-   * Text `30.8` overlaps with `29.0` at screen width 400
-   * Text `Belgium` overlaps with `29.0` at screen width 400
-   * Text `Belgium` overlaps with `Italy` at screen width 400
-   * Text `Belgium` overlaps with `28.9` at screen width 400
-   * Text `29.0` overlaps with `Italy` at screen width 400
-   * Text `29.0` overlaps with `28.9` at screen width 400
-   * Text `Italy` overlaps with `28.9` at screen width 400
-   * Text `Italy` overlaps with `Denmark` at screen width 400
-   * Text `Italy` overlaps with `28.7` at screen width 400
-   * Text `28.9` overlaps with `Denmark` at screen width 400
-   * Text `28.9` overlaps with `28.7` at screen width 400
-   * Text `Denmark` overlaps with `28.7` at screen width 400
-   * Text `Denmark` overlaps with `Austria` at screen width 400
-   * Text `Denmark` overlaps with `27.8` at screen width 400
-   * Text `28.7` overlaps with `Austria` at screen width 400
-   * Text `28.7` overlaps with `27.8` at screen width 400
-   * Text `Austria` overlaps with `27.8` at screen width 400
-   * Text `Austria` overlaps with `Sweden` at screen width 400
-   * Text `Austria` overlaps with `27.1` at screen width 400
-   * Text `27.8` overlaps with `Sweden` at screen width 400
-   * Text `27.8` overlaps with `27.1` at screen width 400
-   * Text `Sweden` overlaps with `27.1` at screen width 400
-   * Text `Sweden` overlaps with `Greece` at screen width 400
-   * Text `Sweden` overlaps with `27.0` at screen width 400
-   * Text `27.1` overlaps with `Greece` at screen width 400
-   * Text `27.1` overlaps with `27.0` at screen width 400
-   * Text `Greece` overlaps with `27.0` at screen width 400
-   * Text `Greece` overlaps with `Germany` at screen width 400
-   * Text `Greece` overlaps with `25.3` at screen width 400
-   * Text `27.0` overlaps with `Germany` at screen width 400
-   * Text `27.0` overlaps with `25.3` at screen width 400
-   * Text `Germany` overlaps with `25.3` at screen width 400
-   * Text `Germany` overlaps with `Norway` at screen width 400
-   * Text `Germany` overlaps with `25.1` at screen width 400
-   * Text `25.3` overlaps with `Norway` at screen width 400
-   * Text `25.3` overlaps with `25.1` at screen width 400
-   * Text `Norway` overlaps with `25.1` at screen width 400
-   * Text `Norway` overlaps with `Spain` at screen width 400
-   * Text `Norway` overlaps with `24.6` at screen width 400
-   * Text `25.1` overlaps with `Spain` at screen width 400
-   * Text `25.1` overlaps with `24.6` at screen width 400
-   * Text `Spain` overlaps with `24.6` at screen width 400
-   * Text `Spain` overlaps with `Portugal` at screen width 400
-   * Text `Spain` overlaps with `24.1` at screen width 400
-   * Text `24.6` overlaps with `Portugal` at screen width 400
-   * Text `24.6` overlaps with `24.1` at screen width 400
-   * Text `Portugal` overlaps with `24.1` at screen width 400
-   * Text `Portugal` overlaps with `Japan` at screen width 400
-   * Text `Portugal` overlaps with `23.1` at screen width 400
-   * Text `24.1` overlaps with `Japan` at screen width 400
-   * Text `24.1` overlaps with `23.1` at screen width 400
-   * Text `Japan` overlaps with `23.1` at screen width 400
-   * Text `Japan` overlaps with `Slovenia` at screen width 400
-   * Text `Japan` overlaps with `22.8` at screen width 400
-   * Text `23.1` overlaps with `Slovenia` at screen width 400
-   * Text `23.1` overlaps with `22.8` at screen width 400
-   * Text `Slovenia` overlaps with `22.8` at screen width 400
-   * Text `Slovenia` overlaps with `Netherlands` at screen width 400
-   * Text `Slovenia` overlaps with `22.0` at screen width 400
-   * Text `22.8` overlaps with `Netherlands` at screen width 400
-   * Text `22.8` overlaps with `22.0` at screen width 400
-   * Text `Netherlands` overlaps with `22.0` at screen width 400
-   * Text `Netherlands` overlaps with `Luxembourg` at screen width 400
-   * Text `Netherlands` overlaps with `21.8` at screen width 400
-   * Text `22.0` overlaps with `Luxembourg` at screen width 400
-   * Text `22.0` overlaps with `21.8` at screen width 400
-   * Text `Luxembourg` overlaps with `21.8` at screen width 400
-   * Text `Luxembourg` overlaps with `Britain` at screen width 400
-   * Text `Luxembourg` overlaps with `21.5` at screen width 400
-   * Text `21.8` overlaps with `Britain` at screen width 400
-   * Text `21.8` overlaps with `21.5` at screen width 400
-   * Text `Britain` overlaps with `21.5` at screen width 400
-   * Text `Britain` overlaps with `O.E.C.D. avg.` at screen width 400
-   * Text `Britain` overlaps with `21.0` at screen width 400
-   * Text `21.5` overlaps with `O.E.C.D. avg.` at screen width 400
-   * Text `21.5` overlaps with `21.0` at screen width 400
-   * Text `O.E.C.D. avg.` overlaps with `21.0` at screen width 400
-   * Text `O.E.C.D. avg.` overlaps with `Hungary` at screen width 400
-   * Text `O.E.C.D. avg.` overlaps with `20.6` at screen width 400
-   * Text `21.0` overlaps with `Hungary` at screen width 400
-   * Text `21.0` overlaps with `20.6` at screen width 400
-   * Text `Hungary` overlaps with `20.6` at screen width 400
-   * Text `Hungary` overlaps with `Poland` at screen width 400
-   * Text `Hungary` overlaps with `20.2` at screen width 400
-   * Text `20.6` overlaps with `Poland` at screen width 400
-   * Text `20.6` overlaps with `20.2` at screen width 400
-   * Text `Poland` overlaps with `20.2` at screen width 400
-   * Text `Poland` overlaps with `Switzerland` at screen width 400
-   * Text `Poland` overlaps with `19.7` at screen width 400
-   * Text `20.2` overlaps with `Switzerland` at screen width 400
-   * Text `20.2` overlaps with `19.7` at screen width 400
-   * Text `Switzerland` overlaps with `19.7` at screen width 400
-   * Text `Switzerland` overlaps with `New Zealand` at screen width 400
-   * Text `Switzerland` overlaps with `19.5` at screen width 400
-   * Text `19.7` overlaps with `New Zealand` at screen width 400
-   * Text `19.7` overlaps with `19.5` at screen width 400
-   * Text `New Zealand` overlaps with `19.5` at screen width 400
-   * Text `New Zealand` overlaps with `Czech Republic` at screen width 400
-   * Text `New Zealand` overlaps with `19.4` at screen width 400
-   * Text `19.5` overlaps with `Czech Republic` at screen width 400
-   * Text `19.5` overlaps with `19.4` at screen width 400
-   * Text `Czech Republic` overlaps with `19.4` at screen width 400
-   * Text `Czech Republic` overlaps with `United States` at screen width 400
-   * Text `Czech Republic` overlaps with `19.3` at screen width 400
-   * Text `19.4` overlaps with `United States` at screen width 400
-   * Text `19.4` overlaps with `19.3` at screen width 400
-   * Text `United States` overlaps with `19.3` at screen width 400
-   * Text `United States` overlaps with `Australia` at screen width 400
-   * Text `United States` overlaps with `19.1` at screen width 400
-   * Text `19.3` overlaps with `Australia` at screen width 400
-   * Text `19.3` overlaps with `19.1` at screen width 400
-   * Text `Australia` overlaps with `19.1` at screen width 400
-   * Text `Australia` overlaps with `Slovakia` at screen width 400
-   * Text `Australia` overlaps with `18.6` at screen width 400
-   * Text `19.1` overlaps with `Slovakia` at screen width 400
-   * Text `19.1` overlaps with `18.6` at screen width 400
-   * Text `Slovakia` overlaps with `18.6` at screen width 400
-   * Text `Slovakia` overlaps with `Estonia` at screen width 400
-   * Text `Slovakia` overlaps with `17.4` at screen width 400
-   * Text `18.6` overlaps with `Estonia` at screen width 400
-   * Text `18.6` overlaps with `17.4` at screen width 400
-   * Text `Estonia` overlaps with `17.4` at screen width 400
-   * Text `Estonia` overlaps with `Canada` at screen width 400
-   * Text `Estonia` overlaps with `17.2` at screen width 400
-   * Text `17.4` overlaps with `Canada` at screen width 400
-   * Text `17.4` overlaps with `17.2` at screen width 400
-   * Text `Canada` overlaps with `17.2` at screen width 400
-   * Text `Canada` overlaps with `Ireland` at screen width 400
-   * Text `Canada` overlaps with `16.1` at screen width 400
-   * Text `17.2` overlaps with `Ireland` at screen width 400
-   * Text `17.2` overlaps with `16.1` at screen width 400
-   * Text `Ireland` overlaps with `16.1` at screen width 400
-   * Text `Ireland` overlaps with `Israel` at screen width 400
-   * Text `Ireland` overlaps with `16.1` at screen width 400
-   * Text `16.1` overlaps with `Israel` at screen width 400
-   * Text `16.1` overlaps with `16.1` at screen width 400
-   * Text `Israel` overlaps with `16.1` at screen width 400
-   * Text `Israel` overlaps with `Iceland` at screen width 400
-   * Text `Israel` overlaps with `15.2` at screen width 400
-   * Text `16.1` overlaps with `Iceland` at screen width 400
-   * Text `16.1` overlaps with `15.2` at screen width 400
-   * Text `Iceland` overlaps with `15.2` at screen width 400
-   * Text `Iceland` overlaps with `Latvia` at screen width 400
-   * Text `Iceland` overlaps with `14.5` at screen width 400
-   * Text `15.2` overlaps with `Latvia` at screen width 400
-   * Text `15.2` overlaps with `14.5` at screen width 400
-   * Text `Latvia` overlaps with `14.5` at screen width 400
-   * Text `Latvia` overlaps with `Turkey` at screen width 400
-   * Text `Latvia` overlaps with `13.5` at screen width 400
-   * Text `14.5` overlaps with `Turkey` at screen width 400
-   * Text `14.5` overlaps with `13.5` at screen width 400
-   * Text `Turkey` overlaps with `13.5` at screen width 400
-   * Text `Turkey` overlaps with `Chile` at screen width 400
-   * Text `Turkey` overlaps with `11.2` at screen width 400
-   * Text `13.5` overlaps with `Chile` at screen width 400
-   * Text `13.5` overlaps with `11.2` at screen width 400
-   * Text `Chile` overlaps with `11.2` at screen width 400
-   * Text `Chile` overlaps with `South Korea` at screen width 400
-   * Text `Chile` overlaps with `10.4` at screen width 400
-   * Text `11.2` overlaps with `South Korea` at screen width 400
-   * Text `11.2` overlaps with `10.4` at screen width 400
-   * Text `South Korea` overlaps with `10.4` at screen width 400
-   * Text `South Korea` overlaps with `Mexico` at screen width 400
-   * Text `South Korea` overlaps with `7.5` at screen width 400
-   * Text `10.4` overlaps with `Mexico` at screen width 400
-   * Text `10.4` overlaps with `7.5` at screen width 400
-   * Text `Mexico` overlaps with `7.5` at screen width 400
-   * Text ` ` overlaps with `Delta wave` at screen width 400
-   * Text ` ` overlaps with `Omicron wave` at screen width 400
-   * Text ` ` overlaps with `Jan. 2021 peak` at screen width 400
-   * Text ` ` overlaps with `600k` at screen width 400
-   * Text `Jan. 2021 peak` overlaps with `Delta wave` at screen width 400
-   * Text `Jan. 2021 peak` overlaps with `Omicron wave` at screen width 400
-   * Text `Jan. 2021 peak` overlaps with `Jan. 2021 peak` at screen width 400
-   * Text `Jan. 2021 peak` overlaps with `600k` at screen width 400
-   * Text `Jan. 2021 peak` overlaps with `600k` at screen width 400
-   * Text `0` overlaps with `Dec. 1, 2020` at screen width 400
-   * Text `Aug. 1. 2021` overlaps with `Oct. 1, 2021` at screen width 400
-   * Text `Oct. 1, 2021` overlaps with `Jan. 5, 2022` at screen width 400
-   * Text `Nigel Richard's Performance At Nationals` overlaps with `Average scores for 2013 National Scrabble Championship` at screen width 400
-   * Text `DIVISION` overlaps with `1` at screen width 400
-   * Text `440` overlaps with `WORSE` at screen width 400
-   * Text `320` overlaps with `340` at screen width 400
-   * Text `340` overlaps with `360` at screen width 400
-   * Text `360` overlaps with `380` at screen width 400
-   * Text `360` overlaps with `Points for` at screen width 400
-   * Text `380` overlaps with `400` at screen width 400
-   * Text `380` overlaps with `Points for` at screen width 400
-   * Text `400` overlaps with `420` at screen width 400
-   * Text `400` overlaps with `Points for` at screen width 400
-   * Text `420` overlaps with `440` at screen width 400
-   * Text `420` overlaps with `Points for` at screen width 400
-   * Text `Turkey` overlaps with `13.5` at screen width 900
-   * Text `Chile` overlaps with `11.2` at screen width 900
-   * Text `DIVISION` overlaps with `1` at screen width 900
-   * Text `Turkey` overlaps with `13.5` at screen width 1300
-   * Text `Chile` overlaps with `11.2` at screen width 1300
-   * Text `DIVISION` overlaps with `1` at screen width 1300
+   * *and 242 more*
 
 **https://pmartisa.github.io/project_one/**
 
@@ -2016,95 +1016,7 @@ No issues found! 🎉
    * Text `Belarus` is too small at 10px
    * Text `297,000` is too small at 9px
    * Text `barrels/day` is too small at 9px
-   * Text `Germany` is too small at 10px
-   * Text `Poland` is too small at 10px
-   * Text `300,000` is too small at 9px
-   * Text `barrels/day` is too small at 9px
-   * Text `Rep. of Korea` is too small at 10px
-   * Text `Italy` is too small at 10px
-   * Text `186,000` is too small at 9px
-   * Text `barrels/day` is too small at 9px
-   * Text `Finland` is too small at 10px
-   * Text `Japan` is too small at 10px
-   * Text `Slovakia` is too small at 10px
-   * Text `Turkey` is too small at 10px
-   * Text `Stronger colors for countries that ` is too small at 5px
-   * Text `haven’t imposed ` is too small at 5px
-   * Text `any sanction.` is too small at 5px
-   * Text `China` is too small at 7px
-   * Text `2018` is too small at 10px
-   * Text `more than 1.5 ` is too small at 6px
-   * Text `million barrels ` is too small at 6px
-   * Text `per day` is too small at 6px
-   * Text `Netherlands` is too small at 7px
-   * Text `640,000` is too small at 6px
-   * Text `barrels/day` is too small at 6px
-   * Text `2019` is too small at 10px
-   * Text `Belarus` is too small at 7px
-   * Text `297,000` is too small at 6px
-   * Text `barrels/day` is too small at 6px
-   * Text `Germany` is too small at 7px
-   * Text `Poland` is too small at 7px
-   * Text `300,000` is too small at 6px
-   * Text `barrels/day` is too small at 6px
-   * Text `Rep. of Korea` is too small at 7px
-   * Text `2020` is too small at 10px
-   * Text `Italy` is too small at 7px
-   * Text `186,000` is too small at 6px
-   * Text ` barrels/day` is too small at 6px
-   * Text `Finland` is too small at 7px
-   * Text `Japan` is too small at 7px
-   * Text `Slovakia` is too small at 7px
-   * Text `Turkey` is too small at 7px
-   * Text `Stronger colors for countries that haven’t imposed ` is too small at 7px
-   * Text `any sanction.` is too small at 7px
-   * Text `China` is too small at 9px
-   * Text `more than 1.5 million barrels per day` is too small at 7px
-   * Text `Netherlands` is too small at 9px
-   * Text `640,000` is too small at 7px
-   * Text `barrels/day` is too small at 7px
-   * Text `297,000` is too small at 7px
-   * Text `barrels/day` is too small at 7px
-   * Text `Belarus` is too small at 9px
-   * Text `Germany` is too small at 9px
-   * Text `Poland` is too small at 9px
-   * Text `300,000` is too small at 7px
-   * Text `barrels/day` is too small at 7px
-   * Text `Rep. of Korea` is too small at 9px
-   * Text `Italy` is too small at 9px
-   * Text `186,000` is too small at 7px
-   * Text ` barrels/day` is too small at 7px
-   * Text `Finland` is too small at 9px
-   * Text `Japan` is too small at 9px
-   * Text `Slovakia` is too small at 9px
-   * Text `Turkey` is too small at 9px
-   * Text `1,94` is too small at 10px
-   * Text `8.25 million metric tonnes ` is too small at 10px
-   * Text `1,38` is too small at 10px
-   * Text `1,33` is too small at 10px
-   * Text `Yemen` is too small at 10px
-   * Text `796,10` is too small at 9px
-   * Text `1,17` is too small at 10px
-   * Text `Tanzania` is too small at 10px
-   * Text `700,911` is too small at 9px
-   * Text `Nigeria` is too small at 10px
-   * Text `United Arab ` is too small at 9px
-   * Text `Emirates` is too small at 9px
-   * Text `998,13` is too small at 9px
-   * Text `674,558` is too small at 8px
-   * Text `Azerbaijan` is too small at 9px
-   * Text `2,58` is too small at 10px
-   * Text `1,28` is too small at 10px
-   * Text `United Arab ` is too small at 10px
-   * Text `Emirates` is too small at 10px
-   * Text `986,95` is too small at 10px
-   * Text `736,156` is too small at 10px
-   * Text `Viet Nam` is too small at 10px
-   * Text `604,543` is too small at 10px
-   * Text `894,72` is too small at 10px
-   * Text `880,507` is too small at 9px
-   * Text `Latvia` is too small at 10px
-   * Text `578,806` is too small at 10px
+   * *and 89 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
@@ -2118,8 +1030,8 @@ No issues found! 🎉
 **https://pmartisa.github.io/project_two/index.html**
 
 * Missing alt tags for 2 images
-   pct_killing.png
-   complaints_pct.png
+   * pct_killing.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * complaints_pct.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 
@@ -2138,137 +1050,7 @@ No issues found! 🎉
    * Text `Puente de vallecas` overlaps with `Tetuan` at screen width 400
    * Text `Puente de vallecas` overlaps with `` at screen width 400
    * Text `` overlaps with `` at screen width 400
-   * Text `43` overlaps with `39` at screen width 400
-   * Text `Tetuan` overlaps with `Usera` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Usera` overlaps with `Centro` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `32` overlaps with `31` at screen width 400
-   * Text `Centro` overlaps with `Ciudad lineal` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `31` overlaps with `28` at screen width 400
-   * Text `Ciudad lineal` overlaps with `` at screen width 400
-   * Text `Ciudad lineal` overlaps with `Latina` at screen width 400
-   * Text `Ciudad lineal` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `28` overlaps with `27` at screen width 400
-   * Text `Latina` overlaps with `Arganzuela` at screen width 400
-   * Text `` overlaps with `Arganzuela` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `27` overlaps with `24` at screen width 400
-   * Text `Arganzuela` overlaps with `` at screen width 400
-   * Text `Arganzuela` overlaps with `Chamberi` at screen width 400
-   * Text `Arganzuela` overlaps with `` at screen width 400
-   * Text `` overlaps with `Chamberi` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `24` overlaps with `21` at screen width 400
-   * Text `Chamberi` overlaps with `` at screen width 400
-   * Text `Chamberi` overlaps with `Villaverde` at screen width 400
-   * Text `Chamberi` overlaps with `` at screen width 400
-   * Text `` overlaps with `Villaverde` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `21` overlaps with `20` at screen width 400
-   * Text `Villaverde` overlaps with `` at screen width 400
-   * Text `Villaverde` overlaps with `Salamanca` at screen width 400
-   * Text `Villaverde` overlaps with `` at screen width 400
-   * Text `` overlaps with `Salamanca` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `20` overlaps with `16` at screen width 400
-   * Text `Salamanca` overlaps with `` at screen width 400
-   * Text `Salamanca` overlaps with `San blas-canillejas` at screen width 400
-   * Text `Salamanca` overlaps with `` at screen width 400
-   * Text `` overlaps with `San blas-canillejas` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `16` overlaps with `San blas-canillejas` at screen width 400
-   * Text `16` overlaps with `13` at screen width 400
-   * Text `San blas-canillejas` overlaps with `` at screen width 400
-   * Text `San blas-canillejas` overlaps with `13` at screen width 400
-   * Text `San blas-canillejas` overlaps with `Chamartin` at screen width 400
-   * Text `San blas-canillejas` overlaps with `` at screen width 400
-   * Text `San blas-canillejas` overlaps with `12` at screen width 400
-   * Text `` overlaps with `Chamartin` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `13` overlaps with `12` at screen width 400
-   * Text `Chamartin` overlaps with `` at screen width 400
-   * Text `Chamartin` overlaps with `Fuencarral-el pardo` at screen width 400
-   * Text `Chamartin` overlaps with `` at screen width 400
-   * Text `` overlaps with `Fuencarral-el pardo` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `10` at screen width 400
-   * Text `12` overlaps with `Fuencarral-el pardo` at screen width 400
-   * Text `12` overlaps with `10` at screen width 400
-   * Text `Fuencarral-el pardo` overlaps with `` at screen width 400
-   * Text `Fuencarral-el pardo` overlaps with `10` at screen width 400
-   * Text `Fuencarral-el pardo` overlaps with `Vicalvaro` at screen width 400
-   * Text `Fuencarral-el pardo` overlaps with `` at screen width 400
-   * Text `Fuencarral-el pardo` overlaps with `9` at screen width 400
-   * Text `` overlaps with `Vicalvaro` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `10` overlaps with `9` at screen width 400
-   * Text `Vicalvaro` overlaps with `` at screen width 400
-   * Text `Vicalvaro` overlaps with `Hortaleza` at screen width 400
-   * Text `Vicalvaro` overlaps with `` at screen width 400
-   * Text `Vicalvaro` overlaps with `7` at screen width 400
-   * Text `` overlaps with `Hortaleza` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `9` overlaps with `7` at screen width 400
-   * Text `Hortaleza` overlaps with `` at screen width 400
-   * Text `Hortaleza` overlaps with `7` at screen width 400
-   * Text `Hortaleza` overlaps with `Retiro` at screen width 400
-   * Text `Hortaleza` overlaps with `7` at screen width 400
-   * Text `Hortaleza` overlaps with `` at screen width 400
-   * Text `` overlaps with `Retiro` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `7` overlaps with `7` at screen width 400
-   * Text `7` overlaps with `` at screen width 400
-   * Text `Retiro` overlaps with `` at screen width 400
-   * Text `Retiro` overlaps with `Villa de vallecas` at screen width 400
-   * Text `Retiro` overlaps with `` at screen width 400
-   * Text `7` overlaps with `` at screen width 400
-   * Text `7` overlaps with `Villa de vallecas` at screen width 400
-   * Text `7` overlaps with `7` at screen width 400
-   * Text `` overlaps with `Villa de vallecas` at screen width 400
-   * Text `` overlaps with `7` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `Villa de vallecas` overlaps with `7` at screen width 400
-   * Text `Villa de vallecas` overlaps with `` at screen width 400
-   * Text `Villa de vallecas` overlaps with `Moratalaz` at screen width 400
-   * Text `Villa de vallecas` overlaps with `` at screen width 400
-   * Text `Villa de vallecas` overlaps with `5` at screen width 400
-   * Text `7` overlaps with `Moratalaz` at screen width 400
-   * Text `7` overlaps with `5` at screen width 400
-   * Text `` overlaps with `Moratalaz` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `5` at screen width 400
-   * Text `Moratalaz` overlaps with `` at screen width 400
-   * Text `Moratalaz` overlaps with `5` at screen width 400
-   * Text `Moratalaz` overlaps with `Moncloa-aravaca` at screen width 400
-   * Text `Moratalaz` overlaps with `4` at screen width 400
-   * Text `Moratalaz` overlaps with `` at screen width 400
-   * Text `` overlaps with `5` at screen width 400
-   * Text `` overlaps with `Moncloa-aravaca` at screen width 400
-   * Text `` overlaps with `4` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `5` overlaps with `Moncloa-aravaca` at screen width 400
-   * Text `5` overlaps with `4` at screen width 400
-   * Text `5` overlaps with `` at screen width 400
-   * Text `Moncloa-aravaca` overlaps with `4` at screen width 400
-   * Text `Moncloa-aravaca` overlaps with `` at screen width 400
-   * Text `Moncloa-aravaca` overlaps with `Barajas` at screen width 400
-   * Text `Moncloa-aravaca` overlaps with `` at screen width 400
-   * Text `Moncloa-aravaca` overlaps with `3` at screen width 400
-   * Text `4` overlaps with `` at screen width 400
-   * Text `4` overlaps with `Barajas` at screen width 400
-   * Text `4` overlaps with `3` at screen width 400
-   * Text `` overlaps with `Barajas` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `3` at screen width 400
-   * Text `Barajas` overlaps with `` at screen width 400
-   * Text `Barajas` overlaps with `3` at screen width 400
-   * Text `Barajas` overlaps with `0` at screen width 400
-   * Text `` overlaps with `3` at screen width 400
-   * Text `` overlaps with `0` at screen width 400
-   * Text `3` overlaps with `0` at screen width 400
+   * *and 131 more*
 
 
 
@@ -2303,61 +1085,7 @@ No issues found! 🎉
    * Text `120` overlaps with `100` at screen width 400
    * Text `100` overlaps with `80` at screen width 400
    * Text `80` overlaps with `60` at screen width 400
-   * Text `60` overlaps with `40` at screen width 400
-   * Text `NYC & LA` overlaps with `Apr` at screen width 400
-   * Text `NYC & LA` overlaps with `May` at screen width 400
-   * Text `NYC & LA` overlaps with `Jun` at screen width 400
-   * Text `NYC & LA` overlaps with `Jul` at screen width 400
-   * Text `NYC & LA` overlaps with `Aug` at screen width 400
-   * Text `NYC & LA` overlaps with `Sep` at screen width 400
-   * Text `NYC & LA` overlaps with `Oct` at screen width 400
-   * Text `NYC & LA` overlaps with `Nov` at screen width 400
-   * Text `40` overlaps with `20` at screen width 400
-   * Text `40` overlaps with `Mar` at screen width 400
-   * Text `40` overlaps with `Apr` at screen width 400
-   * Text `40` overlaps with `Jan` at screen width 400
-   * Text `40` overlaps with `Feb` at screen width 400
-   * Text `20` overlaps with `0` at screen width 400
-   * Text `20` overlaps with `Mar` at screen width 400
-   * Text `20` overlaps with `Apr` at screen width 400
-   * Text `20` overlaps with `Jan` at screen width 400
-   * Text `20` overlaps with `Feb` at screen width 400
-   * Text `0` overlaps with `Mar` at screen width 400
-   * Text `0` overlaps with `Jan` at screen width 400
-   * Text `0` overlaps with `Feb` at screen width 400
-   * Text `Mar` overlaps with `Apr` at screen width 400
-   * Text `Mar` overlaps with `Jan` at screen width 400
-   * Text `Mar` overlaps with `Feb` at screen width 400
-   * Text `Mar` overlaps with `May` at screen width 400
-   * Text `Apr` overlaps with `Feb` at screen width 400
-   * Text `Apr` overlaps with `May` at screen width 400
-   * Text `Apr` overlaps with `Jun` at screen width 400
-   * Text `Jan` overlaps with `Feb` at screen width 400
-   * Text `May` overlaps with `Jun` at screen width 400
-   * Text `May` overlaps with `Jul` at screen width 400
-   * Text `Jun` overlaps with `Jul` at screen width 400
-   * Text `Jun` overlaps with `Aug` at screen width 400
-   * Text `Jul` overlaps with `Aug` at screen width 400
-   * Text `Jul` overlaps with `Sep` at screen width 400
-   * Text `Aug` overlaps with `Sep` at screen width 400
-   * Text `Aug` overlaps with `Oct` at screen width 400
-   * Text `Sep` overlaps with `Oct` at screen width 400
-   * Text `Sep` overlaps with `Nov` at screen width 400
-   * Text `Oct` overlaps with `Nov` at screen width 400
-   * Text `Oct` overlaps with `Dec` at screen width 400
-   * Text `Nov` overlaps with `Dec` at screen width 400
-   * Text `0` overlaps with `Jan` at screen width 900
-   * Text `0` overlaps with `Feb` at screen width 900
-   * Text `Mar` overlaps with `Feb` at screen width 900
-   * Text `Apr` overlaps with `May` at screen width 900
-   * Text `Jan` overlaps with `Feb` at screen width 900
-   * Text `May` overlaps with `Jun` at screen width 900
-   * Text `Jul` overlaps with `Aug` at screen width 900
-   * Text `Aug` overlaps with `Sep` at screen width 900
-   * Text `Sep` overlaps with `Oct` at screen width 900
-   * Text `Oct` overlaps with `Nov` at screen width 900
-   * Text `Nov` overlaps with `Dec` at screen width 900
-   * Text `0` overlaps with `Jan` at screen width 1300
+   * *and 55 more*
 
 **https://sarahgrevy.github.io/co2_emission**
 
@@ -2370,7 +1098,7 @@ No issues found! 🎉
 **https://sarahgrevy.github.io/wordle**
 
 * Missing alt tags for 1 images
-   ./img/wordle-bar2.svg
+   * ./img/wordle-bar2.svg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 
 
@@ -2391,39 +1119,39 @@ No issues found! 🎉
 **https://semerriam.github.io/**
 
 * Missing alt tags for 18 images
-   imgs/capd.jpg
-   imgs/pj-infrasound-thumbnail.png
-   imgs/census-quirks-thumbnail.png
-   imgs/ec-thumbnail.png
-   imgs/Critics'_Choice_map_screenshot.png
-   imgs/crt1_sm.png
-   projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png
-   projects/pj-mylla/imgs/pj-mylla4-thumbnail.png
-   imgs/election_2020polls_sm.jpg
-   imgs/fastco_10-18-20.png
-   imgs/vox_05-15-19.png
-   imgs/fastco_09-12-19.png
-   imgs/nbc_04-13-19.png
-   imgs/washpo_11-19-18.png
-   imgs/hyperallergic_11-20-18.png
-   imgs/wmarch1.jpg
-   imgs/sem_paris2sm.jpg
-   imgs/graph2.jpg
+   * imgs/capd.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/pj-infrasound-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/census-quirks-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/Critics'_Choice_map_screenshot.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/crt1_sm.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * projects/pj-mylla/imgs/pj-mylla4-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/election_2020polls_sm.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/fastco_10-18-20.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/vox_05-15-19.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/fastco_09-12-19.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/nbc_04-13-19.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/washpo_11-19-18.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/hyperallergic_11-20-18.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/wmarch1.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/sem_paris2sm.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/graph2.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://semerriam.github.io/nicar_first_visual_story**
 
 * Missing alt tags for 1 images
-   https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png
+   * https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
 * Missing alt tags for 4 images
-   imgs/census-quirks-img2.png
-   imgs/census-quirks-img3.png
-   imgs/census-quirks-img4.png
-   imgs/census-quirks-img5.png
+   * imgs/census-quirks-img2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/census-quirks-img3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/census-quirks-img4.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/census-quirks-img5.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -2435,40 +1163,21 @@ No issues found! 🎉
    * Text `1400` is too small at 10px
    * Text `1600` is too small at 10px
    * Text `1800` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
+   * *and 20 more*
 
 **https://semerriam.github.io/projects/pj-ec-schools**
 
 * Missing alt tags for 10 images
-   imgs/ec-16.png
-   imgs/ec-17.png
-   imgs/ec-8.png
-   imgs/ec-10.png
-   imgs/ec-9.png
-   imgs/ec-3.png
-   imgs/ec-13.png
-   imgs/ec-15.png
-   imgs/ec-14.png
-   imgs/ec-12.png
+   * imgs/ec-16.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-17.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-8.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-10.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-9.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-13.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-15.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-14.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/ec-12.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `150k` is too small at 9px
@@ -2481,66 +1190,7 @@ No issues found! 🎉
    * Text `0` is too small at 9px
    * Text `0` is too small at 9px
    * Text `10` is too small at 9px
-   * Text `20` is too small at 9px
-   * Text `30mi` is too small at 9px
-   * Text `0` is too small at 9px
-   * Text `10` is too small at 9px
-   * Text `20` is too small at 9px
-   * Text `30mi` is too small at 9px
-   * Text `Student Population` is too small at 10px
-   * Text `Lawrence: 12,786` is too small at 10px
-   * Text `N. Andover: 4,493` is too small at 10px
-   * Text `Andover: 5,456` is too small at 10px
-   * Text `150k` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `Distance: 1.6 mi —` is too small at 10px
-   * Text `Driving Distance: 3.9 mi, 9 min. —` is too small at 10px
-   * Text `30mi` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `150k` is too small at 10px
-   * Text `0k` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `30mi` is too small at 10px
-   * Text `Driving Distance: 3.9 mi, 9 min. —` is too small at 10px
-   * Text `Distance: 1.6 mi —` is too small at 10px
-   * Text `Student Population` is too small at 10px
-   * Text `Lawrence: 12,786` is too small at 10px
-   * Text `N. Andover: 4,493` is too small at 10px
-   * Text `Andover: 5,456` is too small at 10px
-   * Text `White` is too small at 9px
-   * Text `Hispanic` is too small at 9px
-   * Text `Asian` is too small at 9px
-   * Text `Black` is too small at 9px
-   * Text `Two or more races` is too small at 9px
-   * Text `American Indian / Alaska Native` is too small at 9px
-   * Text `Native Hawaiian / Pacific Islander` is too small at 9px
-   * Text `Andover` is too small at 9px
-   * Text `1,195` is too small at 9px
-   * Text `341` is too small at 9px
-   * Text `Lawrence` is too small at 9px
-   * Text `2,946` is too small at 9px
-   * Text `North Andover` is too small at 9px
-   * Text `1,048` is too small at 9px
-   * Text `The total student population is distributed according to the current size of the school to achieve “racial balance.” For example, white students represent 37 percent of the total student population for the three schools. Lawrence High School would have 1,161 white students (37%) of the total 3,126 school population, gaining 1,082 white students from the other two schools.` is too small at 9px
-   * Text `Andover` is too small at 9px
-   * Text `650` is too small at 9px
-   * Text `904` is too small at 9px
-   * Text `Lawrence` is too small at 9px
-   * Text `1,161` is too small at 9px
-   * Text `1,613` is too small at 9px
-   * Text `North Andover` is too small at 9px
-   * Text `511` is too small at 9px
-   * Text `710` is too small at 9px
-   * Text `The total student population is distributed equally between the three schools to achieve “racial balance” ` is too small at 9px
-   * Text `Andover` is too small at 9px
-   * Text `774` is too small at 9px
-   * Text `1,076` is too small at 9px
-   * Text `Lawrence` is too small at 9px
-   * Text `774` is too small at 9px
-   * Text `1,076` is too small at 9px
-   * Text `North Andover` is too small at 9px
-   * Text `774` is too small at 9px
-   * Text `1,076` is too small at 9px
+   * *and 60 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `North Andover` overlaps with `1,048` at screen width 400
    * Text `North Andover` overlaps with `511` at screen width 400
@@ -2552,16 +1202,16 @@ No issues found! 🎉
 **https://semerriam.github.io/projects/pj-infrasound/**
 
 * Missing alt tags for 10 images
-   imgs/infrasound-10-1.png
-   imgs/infrasound-10-2.png
-   imgs/infrasound-10-3.png
-   imgs/infrasound-10-4.png
-   imgs/infrasound-10-5.png
-   imgs/infrasound-10-6.png
-   imgs/infrasound-10-7.png
-   imgs/infrasound-10-8.png
-   imgs/infrasound-10-9.png
-   imgs/infrasound-10-10.png
+   * imgs/infrasound-10-1.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-4.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-5.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-6.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-7.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-8.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-9.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * imgs/infrasound-10-10.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `44,083 Hz` is too small at 10px
    * Text `44,083 Hz` is too small at 10px
@@ -2573,107 +1223,7 @@ No issues found! 🎉
    * Text `2.5` is too small at 6px
    * Text `0` is too small at 6px
    * Text `0` is too small at 6px
-   * Text `-2.5` is too small at 6px
-   * Text `-2.5` is too small at 6px
-   * Text `-5.0` is too small at 6px
-   * Text `-5.0` is too small at 6px
-   * Text `-7.5` is too small at 6px
-   * Text `-7.5` is too small at 6px
-   * Text `-10.0` is too small at 6px
-   * Text `-10.0` is too small at 6px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `3:24` is too small at 10px
-   * Text `3:24` is too small at 10px
-   * Text `:46` is too small at 10px
-   * Text `:46` is too small at 10px
-   * Text `44,083 Hz` is too small at 10px
-   * Text `7.5` is too small at 6px
-   * Text `5.0` is too small at 6px
-   * Text `2.5` is too small at 6px
-   * Text `0` is too small at 6px
-   * Text `-2.5` is too small at 6px
-   * Text `-5.0` is too small at 6px
-   * Text `-7.5` is too small at 6px
-   * Text `-10.0` is too small at 6px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `3:24` is too small at 10px
-   * Text `:46` is too small at 10px
-   * Text `44,083 Hz` is too small at 10px
-   * Text `7.5` is too small at 6px
-   * Text `5.0` is too small at 6px
-   * Text `2.5` is too small at 6px
-   * Text `0` is too small at 6px
-   * Text `-2.5` is too small at 6px
-   * Text `-5.0` is too small at 6px
-   * Text `-7.5` is too small at 6px
-   * Text `-10.0` is too small at 6px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `3:24` is too small at 10px
-   * Text `:46` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `1,000` is too small at 10px
-   * Text `10,000` is too small at 10px
-   * Text `15,000` is too small at 10px
-   * Text `20,000 Hz` is too small at 10px
-   * Text `5,000` is too small at 10px
-   * Text `30K` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `5K` is too small at 10px
-   * Text `10K` is too small at 10px
-   * Text `15K` is too small at 10px
-   * Text `20K Hz` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `1,000` is too small at 10px
-   * Text `5,000` is too small at 10px
-   * Text `10,000` is too small at 10px
-   * Text `15,000` is too small at 10px
-   * Text `20,000 Hz` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1,000 Hz` is too small at 10px
-   * Text `30K` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1,000 Hz` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1,000 Hz` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `20` is too small at 10px
-   * Text `20` is too small at 10px
-   * Text `1,000 Hz` is too small at 10px
-   * Text `1,000 Hz` is too small at 10px
-   * Text `30K` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `20` is too small at 10px
-   * Text `20` is too small at 10px
-   * Text `1K Hz` is too small at 10px
-   * Text `30,000` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `20` is too small at 10px
-   * Text `1,000 Hz` is too small at 10px
+   * *and 101 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `0` overlaps with `0` at screen width 400
    * Text `20` overlaps with `20` at screen width 400
@@ -2715,167 +1265,7 @@ No issues found! 🎉
    * Text `Bhawan` overlaps with `Block` at screen width 400
    * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
    * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `War Memorial` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Jaipur` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `During the Second World War, several hutments had emerged around the Viceroy House and Secretariat. These hutments were to serve British Indian soldiers and their horses. The National Museum and Archives were also established during this period.` at screen width 400
-   * Text `Bhawan` overlaps with `Hyderabad` at screen width 400
-   * Text `Bhawan` overlaps with `Patiala` at screen width 400
-   * Text `Hyderabad` overlaps with `Patiala` at screen width 400
-   * Text `House` overlaps with `Patiala` at screen width 400
-   * Text `House` overlaps with `House` at screen width 400
-   * Text `Central` overlaps with `CENTRAL VISTA` at screen width 400
-   * Text `Secretariat` overlaps with `CENTRAL VISTA` at screen width 400
-   * Text `Secretariat` overlaps with `Viceroy` at screen width 400
-   * Text `War Memorial` overlaps with `Bikaner` at screen width 400
-   * Text `Bikaner` overlaps with `Jaipur` at screen width 400
-   * Text `House` overlaps with `House` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `During the Second World War, several hutments had emerged around the Viceroy House and Secretariat. These hutments were to serve British Indian soldiers and their horses. The National Museum and Archives were also established during this period.` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `CENTRAL VISTA` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Museum` at screen width 400
-   * Text `CENTRAL VISTA` overlaps with `National` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `After Independence, several of these buildings were repurposed to suit the needs of the new democracy. The Viceroy House had become the house of the Indian President. Several new buildings emblematic of post indpendence modern Indian architecture came across the axis.` at screen width 400
-   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `After Independence, several of these buildings were repurposed to suit the needs of the new democracy. The Viceroy House had become the house of the Indian President. Several new buildings emblematic of post indpendence modern Indian architecture came across the axis.` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Shastri` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `RAJPATH` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Nirman` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `From the 1980s, only a few structures were built. The Indira Gandhi Centre for National Arts was built in the mid 80s. The Jawahar Bhawan which houses the Ministry of External Affairs opened up in 2011. The National War Memorial which opened up in 2019 was the latest change to the Central Vista.` at screen width 400
-   * Text `Krishi` overlaps with `Shastri` at screen width 400
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
-   * Text `Bhawan` overlaps with `Rail` at screen width 400
-   * Text `Bhawan` overlaps with `National` at screen width 400
-   * Text `Bhawan` overlaps with `Rail` at screen width 400
-   * Text `Bhawan` overlaps with `National` at screen width 400
-   * Text `Raksha` overlaps with `National` at screen width 400
-   * Text `Bhawan` overlaps with `Archives` at screen width 400
-   * Text `Rail` overlaps with `National` at screen width 400
-   * Text `Bhawan` overlaps with `Archives` at screen width 400
-   * Text `Bhawan` overlaps with `Parliament` at screen width 400
-   * Text `Bhawan` overlaps with `North` at screen width 400
-   * Text `Block` overlaps with `Vayu` at screen width 400
-   * Text `Block` overlaps with `Rashtrapati` at screen width 400
-   * Text `Block` overlaps with `South` at screen width 400
-   * Text `RAJPATH` overlaps with `Vayu` at screen width 400
-   * Text `Vayu` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `Bhawan` overlaps with `National` at screen width 400
-   * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `Museum` overlaps with `Udyog` at screen width 400
-   * Text `Museum` overlaps with `Nirman` at screen width 400
-   * Text `Udyog` overlaps with `Nirman` at screen width 400
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
-   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `From the 1980s, only a few structures were built. The Indira Gandhi Centre for National Arts was built in the mid 80s. The Jawahar Bhawan which houses the Ministry of External Affairs opened up in 2011. The National War Memorial which opened up in 2019 was the latest change to the Central Vista.` at screen width 400
-   * Text `India Gate` overlaps with `National` at screen width 400
-   * Text `As part of the redevelopment project, several buildings (marked in yellow) are currently being demolished to build the new Central Vista.` overlaps with `Buildings in Yellow are currently being` at screen width 400
-   * Text `` overlaps with `Buildings in Yellow are currently being` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `National` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Archives` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Block` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `RAJPATH` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Museum` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` at screen width 400
-   * Text `those in the Navy living` overlaps with `North` at screen width 400
-   * Text `those in the Navy living` overlaps with `Block` at screen width 400
-   * Text `those in the Navy living` overlaps with `Rashtrapati` at screen width 400
-   * Text `those in the Navy living` overlaps with `Bhawan` at screen width 400
-   * Text `in these hutments were` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
-   * Text `moved out to make way` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
-   * Text `moved out to make way` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
-   * Text `for the new PM residence` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
-   * Text `for the new PM residence` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
-   * Text `Block` overlaps with `Rashtrapati` at screen width 400
-   * Text `Block` overlaps with `South` at screen width 400
-   * Text `RAJPATH` overlaps with `South` at screen width 400
-   * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Central` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Secretariat` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Prime Minister’s` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Office` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Secretariat` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `RAJPATH` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Office` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `The PMO shifts from the South Block to a new building` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `National` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Museum` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Rashtrapati` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Bhawan` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `PM’s Residence` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Office` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
-   * Text `Central` overlaps with `RAJPATH` at screen width 400
-   * Text `Secretariat` overlaps with `RAJPATH` at screen width 400
-   * Text `Museum` overlaps with `Rashtrapati` at screen width 400
-   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 400
-   * Text `Bhawan` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 900
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 900
-   * Text `Krishi` overlaps with `Shastri` at screen width 900
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
-   * Text `Bhawan` overlaps with `Parliament` at screen width 900
-   * Text `Vayu` overlaps with `South` at screen width 900
-   * Text `Bhawan` overlaps with `South` at screen width 900
-   * Text `Bhawan` overlaps with `Block` at screen width 900
-   * Text `Udyog` overlaps with `Nirman` at screen width 900
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
-   * Text `India Gate` overlaps with `National` at screen width 900
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 900
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 900
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `The Central Vista Redevelopment Project is slated to be completed by 2024. This will mark the greatest set of changes to the vista since it was built.` at screen width 900
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 900
-   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 900
-   * Text `Krishi` overlaps with `Shastri` at screen width 1300
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
-   * Text `Bhawan` overlaps with `Parliament` at screen width 1300
-   * Text `Udyog` overlaps with `Nirman` at screen width 1300
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
-   * Text `India Gate` overlaps with `National` at screen width 1300
+   * *and 161 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Source Sans Pro"` font not found, used in 106 text objects. Example: _1930s - 1940s, 1950s - 1960s, 1970s-2000s_
 
@@ -2892,51 +1282,7 @@ No issues found! 🎉
    * Text `Bengaluru` is too small at 10px
    * Text `Chennai` is too small at 10px
    * Text `Kochi` is too small at 10px
-   * Text `The national` is too small at 10px
-   * Text `carrier ` is too small at 10px
-   * Text `has  the` is too small at 10px
-   * Text `most ` is too small at 10px
-   * Text `extensive` is too small at 10px
-   * Text `network` is too small at 10px
-   * Text `Delhi` is too small at 9px
-   * Text `Guwahati` is too small at 9px
-   * Text `Ahmedabad` is too small at 9px
-   * Text `Kolkata` is too small at 9px
-   * Text `Mumbai` is too small at 9px
-   * Text `Pune` is too small at 9px
-   * Text `Hyderabad` is too small at 9px
-   * Text `Bengaluru` is too small at 9px
-   * Text `Chennai` is too small at 9px
-   * Text `Kochi` is too small at 9px
-   * Text `Delhi` is too small at 10px
-   * Text `Jaipur` is too small at 10px
-   * Text `Ahmedabad` is too small at 10px
-   * Text `Mumbai` is too small at 10px
-   * Text `Pune` is too small at 10px
-   * Text `Hyderabad` is too small at 10px
-   * Text `Bengaluru` is too small at 10px
-   * Text `Chennai` is too small at 10px
-   * Text `Delhi` is too small at 10px
-   * Text `Jaipur` is too small at 10px
-   * Text `Ahmedabad` is too small at 10px
-   * Text `Mumbai` is too small at 10px
-   * Text `Pune` is too small at 10px
-   * Text `Hyderabad` is too small at 10px
-   * Text `Bengaluru` is too small at 10px
-   * Text `Chennai` is too small at 10px
-   * Text `Spicejet has` is too small at 10px
-   * Text `largely` is too small at 10px
-   * Text `focused ` is too small at 10px
-   * Text `on the Southern` is too small at 10px
-   * Text `region of India` is too small at 10px
-   * Text `Delhi` is too small at 9px
-   * Text `Jaipur` is too small at 9px
-   * Text `Ahmedabad` is too small at 9px
-   * Text `Mumbai` is too small at 9px
-   * Text `Pune` is too small at 9px
-   * Text `Hyderabad` is too small at 9px
-   * Text `Bengaluru` is too small at 9px
-   * Text `Chennai` is too small at 9px
+   * *and 45 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1930s - 1940s` overlaps with `1950s - 1960s` at screen width 400
    * Text `1950s - 1960s` overlaps with `1970s-2000s` at screen width 400
@@ -2948,295 +1294,7 @@ No issues found! 🎉
    * Text `Bhawan` overlaps with `Block` at screen width 400
    * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
    * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `War Memorial` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Jaipur` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Irwin` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Amphitheatre` at screen width 400
-   * Text `Bhawan` overlaps with `Hyderabad` at screen width 400
-   * Text `Bhawan` overlaps with `Patiala` at screen width 400
-   * Text `Hyderabad` overlaps with `Patiala` at screen width 400
-   * Text `House` overlaps with `Patiala` at screen width 400
-   * Text `House` overlaps with `House` at screen width 400
-   * Text `Central` overlaps with `CENTRAL VISTA` at screen width 400
-   * Text `Secretariat` overlaps with `CENTRAL VISTA` at screen width 400
-   * Text `Secretariat` overlaps with `Viceroy` at screen width 400
-   * Text `War Memorial` overlaps with `Bikaner` at screen width 400
-   * Text `Bikaner` overlaps with `Jaipur` at screen width 400
-   * Text `House` overlaps with `House` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `CENTRAL VISTA` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Museum` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Krishi` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Shastri` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Rail` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `RAJPATH` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Vayu` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Museum` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Udyog` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Nirman` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Bhawan` at screen width 400
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
-   * Text `CENTRAL VISTA` overlaps with `National` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Krishi` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Shastri` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `National` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Archives` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `RAJPATH` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `National` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Museum` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Udyog` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Nirman` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Bhawan` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Indira Gandhi National` at screen width 400
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Centre for Arts` at screen width 400
-   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `North` at screen width 400
-   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `Block` at screen width 400
-   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `Rashtrapati` at screen width 400
-   * Text `These temporary hutments were constructed during the 2nd World War for soldiers.` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Shastri` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `RAJPATH` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Nirman` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Indira Gandhi National` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Centre for Arts` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `RAJPATH` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Jawahar` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Admin` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Offices` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `The National Archives Building will not be torn down but its larger annexe will be.` at screen width 400
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 400
-   * Text `Krishi` overlaps with `Shastri` at screen width 400
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
-   * Text `Bhawan` overlaps with `Rail` at screen width 400
-   * Text `Bhawan` overlaps with `National` at screen width 400
-   * Text `Bhawan` overlaps with `Rail` at screen width 400
-   * Text `Bhawan` overlaps with `National` at screen width 400
-   * Text `Raksha` overlaps with `National` at screen width 400
-   * Text `Bhawan` overlaps with `Archives` at screen width 400
-   * Text `Rail` overlaps with `National` at screen width 400
-   * Text `Bhawan` overlaps with `Archives` at screen width 400
-   * Text `Bhawan` overlaps with `Parliament` at screen width 400
-   * Text `Bhawan` overlaps with `North` at screen width 400
-   * Text `Block` overlaps with `Vayu` at screen width 400
-   * Text `Block` overlaps with `Rashtrapati` at screen width 400
-   * Text `Block` overlaps with `South` at screen width 400
-   * Text `RAJPATH` overlaps with `Vayu` at screen width 400
-   * Text `Vayu` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `Bhawan` overlaps with `National` at screen width 400
-   * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `Museum` overlaps with `Udyog` at screen width 400
-   * Text `Museum` overlaps with `Nirman` at screen width 400
-   * Text `Udyog` overlaps with `Nirman` at screen width 400
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 400
-   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Indira Gandhi National` at screen width 400
-   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Centre for Arts` at screen width 400
-   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `RAJPATH` at screen width 400
-   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Jawahar` at screen width 400
-   * Text `The Vice Presidential House was built in 1962 and Zakir Hussain was the first VP to live in it.` overlaps with `Bhawan` at screen width 400
-   * Text `India Gate` overlaps with `National` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `National` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Archives` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Block` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `National` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Museum` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `PM’s Residence` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Office` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `RAJPATH` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Museum` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` at screen width 400
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
-   * Text `those in the Navy living` overlaps with `North` at screen width 400
-   * Text `those in the Navy living` overlaps with `Block` at screen width 400
-   * Text `those in the Navy living` overlaps with `Rashtrapati` at screen width 400
-   * Text `those in the Navy living` overlaps with `Bhawan` at screen width 400
-   * Text `in these hutments were` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
-   * Text `in these hutments were` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
-   * Text `moved out to make way` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
-   * Text `moved out to make way` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
-   * Text `moved out to make way` overlaps with `Rashtrapati` at screen width 400
-   * Text `for the new PM residence` overlaps with `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` at screen width 400
-   * Text `for the new PM residence` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
-   * Text `for the new PM residence` overlaps with `Bhawan` at screen width 400
-   * Text `for the new PM residence` overlaps with `PM’s Residence` at screen width 400
-   * Text `for the new PM residence` overlaps with `Prime Minister’s` at screen width 400
-   * Text `for the new PM residence` overlaps with `Office` at screen width 400
-   * Text `for the new PM residence` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
-   * Text `Block` overlaps with `Rashtrapati` at screen width 400
-   * Text `Block` overlaps with `South` at screen width 400
-   * Text `RAJPATH` overlaps with `South` at screen width 400
-   * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Central` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Secretariat` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Prime Minister’s` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Office` at screen width 400
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The PMO shifts from the South Block to a new building` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Secretariat` at screen width 400
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `RAJPATH` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `National` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Museum` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Rashtrapati` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Bhawan` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `PM’s Residence` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Prime Minister’s` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `Office` at screen width 400
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Office` at screen width 400
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `The PMO shifts from the South Block to a new building` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `National` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Museum` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Rashtrapati` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Bhawan` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `PM’s Residence` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `Office` at screen width 400
-   * Text `The National Museum will shift to the North and South Blocks` overlaps with `The PM’s new official residence will be closer to the Rashtrapati Bhawan` at screen width 400
-   * Text `Central` overlaps with `RAJPATH` at screen width 400
-   * Text `Secretariat` overlaps with `RAJPATH` at screen width 400
-   * Text `Museum` overlaps with `Rashtrapati` at screen width 400
-   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 400
-   * Text `Bhawan` overlaps with `Prime Minister’s` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 900
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 900
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 900
-   * Text `Bhawan` overlaps with `Hyderabad` at screen width 900
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 900
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 900
-   * Text `CENTRAL VISTA` overlaps with `National` at screen width 900
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 900
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Krishi` at screen width 900
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Shastri` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 900
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 900
-   * Text `Krishi` overlaps with `Shastri` at screen width 900
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
-   * Text `Bhawan` overlaps with `Parliament` at screen width 900
-   * Text `Vayu` overlaps with `South` at screen width 900
-   * Text `Bhawan` overlaps with `Block` at screen width 900
-   * Text `Udyog` overlaps with `Nirman` at screen width 900
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 900
-   * Text `India Gate` overlaps with `National` at screen width 900
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 900
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 900
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 900
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 900
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 900
-   * Text `moved out to make way` overlaps with `Rashtrapati` at screen width 900
-   * Text `moved out to make way` overlaps with `Bhawan` at screen width 900
-   * Text `for the new PM residence` overlaps with `Bhawan` at screen width 900
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 900
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 900
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 900
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 900
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 900
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 900
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 900
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 900
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 900
-   * Text `Central` overlaps with `RAJPATH` at screen width 900
-   * Text `Secretariat` overlaps with `RAJPATH` at screen width 900
-   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 900
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Patiala` at screen width 1300
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `House` at screen width 1300
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `All India` at screen width 1300
-   * Text `Bhawan` overlaps with `Hyderabad` at screen width 1300
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `National` at screen width 1300
-   * Text `In 1931, Lord Irwin, British India’s viceroy had officially inaugrated New Delhi as the capital of India. The Central Vista or Kingsway was built as the main axis of the new capital.` overlaps with `Archives` at screen width 1300
-   * Text `CENTRAL VISTA` overlaps with `National` at screen width 1300
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` at screen width 1300
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Krishi` at screen width 1300
-   * Text `The National Archives and the National Museum were among the first government buildings to be built on the Central Vista` overlaps with `Shastri` at screen width 1300
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Raksha` at screen width 1300
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Bhawan` at screen width 1300
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 1300
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Archives` at screen width 1300
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `National` at screen width 1300
-   * Text `Some of Independent India’s first large scale government buildings came up along the Rajpath : These were buildings meant for ministries such as rail, agriculture and employment` overlaps with `Museum` at screen width 1300
-   * Text `Krishi` overlaps with `Shastri` at screen width 1300
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
-   * Text `Bhawan` overlaps with `Parliament` at screen width 1300
-   * Text `Vayu` overlaps with `South` at screen width 1300
-   * Text `Bhawan` overlaps with `Block` at screen width 1300
-   * Text `Udyog` overlaps with `Nirman` at screen width 1300
-   * Text `Bhawan` overlaps with `Bhawan` at screen width 1300
-   * Text `India Gate` overlaps with `National` at screen width 1300
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `Parliament` at screen width 1300
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `RAJPATH` at screen width 1300
-   * Text `The Rail Bhavan and its complement the Vayu Bhavan designed by MS Gill will be redesigned to fit the new aesthetics` overlaps with `South` at screen width 1300
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `National` at screen width 1300
-   * Text `The National Archives Building will not be torn down but its larger annexe will be.` overlaps with `Archives` at screen width 1300
-   * Text `moved out to make way` overlaps with `Rashtrapati` at screen width 1300
-   * Text `moved out to make way` overlaps with `Bhawan` at screen width 1300
-   * Text `for the new PM residence` overlaps with `Bhawan` at screen width 1300
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` at screen width 1300
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `Parliament` at screen width 1300
-   * Text `Udyog Bhavan, Jawahar Bhavan, Nirman Bhavan, Krishi Bhavan, and Shastri Bhavan will all be torn down and replaced by a larger Common Central Secretariat` overlaps with `RAJPATH` at screen width 1300
-   * Text `The National Museum - an iconic post modern building in Independent India will be torn down. The exhibits will be moving into the North and South Blocks` overlaps with `Central` at screen width 1300
-   * Text `These hutments will be soon replaced by the new Executive Enclave which will house the new PM Office` overlaps with `The National Museum will shift to the North and South Blocks` at screen width 1300
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Parliament` at screen width 1300
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Central` at screen width 1300
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `Secretariat` at screen width 1300
-   * Text `The Parliament will move across to the triangular structure - large enough to accomodate 800+ members` overlaps with `RAJPATH` at screen width 1300
-   * Text `Central` overlaps with `RAJPATH` at screen width 1300
-   * Text `Secretariat` overlaps with `RAJPATH` at screen width 1300
-   * Text `Bhawan` overlaps with `PM’s Residence` at screen width 1300
+   * *and 289 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Source Sans Pro"` font not found, used in 204 text objects. Example: _Air India, The national, carrier has the_
 
@@ -3273,12 +1331,12 @@ No issues found! 🎉
 **https://srjouppi.github.io/**
 
 * Missing alt tags for 6 images
-   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png
-   https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png
-   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png
-   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png
-   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png
-   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png
+   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/colorado-parks-mobility/**
@@ -3313,20 +1371,20 @@ No issues found! 🎉
 **https://stephenanti.github.io/**
 
 * Missing alt tags for 5 images
-   profile-pic.png
-   twitter-icon.png
-   instagram-icon.png
-   linkedin-icon.png
-   email-icon.png
+   * profile-pic.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * twitter-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * instagram-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * linkedin-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * email-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
 * Missing alt tags for 4 images
-   brooklyn.jpeg
-   graph1.png
-   graph2.png
-   graph3.png
+   * brooklyn.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * graph1.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * graph2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * graph3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -3347,11 +1405,7 @@ No issues found! 🎉
    * Text `30` is too small at 9px
    * Text `20` is too small at 9px
    * Text `10` is too small at 9px
-   * Text `0` is too small at 9px
-   * Text `2000` is too small at 9px
-   * Text `4000` is too small at 9px
-   * Text `6000` is too small at 9px
-   * Text `8000` is too small at 9px
+   * *and 5 more*
 
 **https://stephenanti.github.io/scrollyprojectAntii.html**
 
@@ -3384,15 +1438,15 @@ No issues found! 🎉
 **https://tanazm.github.io/**
 
 * Missing alt tags for 3 images
-   assets/portfolio/filter.png
-   assets/portfolio/analysis.png
-   assets/portfolio/infographic.png
+   * assets/portfolio/filter.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/portfolio/analysis.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/portfolio/infographic.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
 * Missing alt tags for 1 images
-   assets/piedmont_park.png
+   * assets/piedmont_park.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -3406,9 +1460,9 @@ No issues found! 🎉
 **https://tanazm.github.io/marathonmap/**
 
 * Missing alt tags for 3 images
-   ./images/park.png
-   ./images/dumbo.png
-   ./images/elevation.png
+   * ./images/park.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./images/dumbo.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./images/elevation.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://tanazm.github.io/TXwind/**
 
@@ -3436,10 +1490,10 @@ No issues found! 🎉
 **https://vincentvb.github.io/**
 
 * Missing alt tags for 4 images
-   https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif
-   ./football_penalties/assets/raiders_penalty_categories.png
-   ./assets/glass_room.gif
-   ./santa_barbara_wine/assets/santa_barbara_yelp.png
+   * https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./football_penalties/assets/raiders_penalty_categories.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./assets/glass_room.gif, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * ./santa_barbara_wine/assets/santa_barbara_yelp.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://vincentvb.github.io/football_penalties/**
 
@@ -3462,11 +1516,11 @@ No issues found! 🎉
 **https://vincentvb.github.io/ukraine_invasion/**
 
 * Missing alt tags for 6 images
-   assets/ukraine_2014.jpeg
-   assets/putin_speech.jpeg
-   assets/kyiv.jpeg
-   assets/kharkav.jpeg
-   assets/kherson.jpeg
-   assets/tank.jpeg
+   * assets/ukraine_2014.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/putin_speech.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/kyiv.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/kharkav.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/kherson.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+   * assets/tank.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 
