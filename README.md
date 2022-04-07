@@ -56,10 +56,7 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `` is too small at 10px
-   * Text `` is too small at 10px
    * Text `Fatality` is too small at 8px
    * Text `1` is too small at 8px
    * Text `160` is too small at 8px
@@ -112,15 +109,13 @@ No issues found! 🎉
 
 **https://annerquaye.github.io/projects/oscars.html**
 
-* Missing alt tags for 1 images
-   * oscars/oscars.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `oscars/oscars.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
-* Missing alt tags for 1 images
-   * ../../img/remittance.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `../../img/remittance.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -140,15 +135,13 @@ No issues found! 🎉
 
 **https://annerquaye.github.io/projects/ricestory.html**
 
-* Missing alt tags for 1 images
-   * rice_project/volta.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `rice_project/volta.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/ricestory.html` into a folder called `ricestory`, then rename the file `index.html`. That way the project can be found at **/ricestory** instead of **/ricestory.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/scrolly.html**
 
-* Missing alt tags for 1 images
-   * ../img/cover-01.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `../img/cover-01.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `projects/scrolly.html` into a folder called `scrolly`, then rename the file `index.html`. That way the project can be found at **/scrolly** instead of **/scrolly.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
@@ -175,16 +168,14 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/uttarakhand-floods/**
 
-* Missing alt tags for 2 images
-   * kedarnath-temple.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * uttarakhand.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `kedarnath-temple.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `uttarakhand.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/r-place/**
 
-* Missing alt tags for 2 images
-   * final-rplace.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * final.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `final-rplace.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `final.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/style-guides/**
@@ -193,15 +184,13 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/biryani/**
 
-* Missing alt tags for 1 images
-   * biryani-new.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `biryani-new.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/ny-state-spills/**
 
-* Missing alt tags for 2 images
-   * food-spill.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * queens-spills.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `food-spill.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `queens-spills.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/vaccines/**
@@ -230,38 +219,32 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/**
 
-* Missing alt tags for 15 images
-   * https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * images/bbg-ukraine-aslyum.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * images/wells-map.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * images/judges-education-map.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * images/FallClasses.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * images/yagp.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * images/chopin.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `images/bbg-ukraine-aslyum.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `images/wells-map.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `images/judges-education-map.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `images/FallClasses.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `images/yagp.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `images/chopin.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `` overlaps with `Brooklyn had 35K fewer people speaking` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Spanish at home in 2019 than 2005` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * Text `` overlaps with `Percent change` at screen width 400
-   * Text `Brooklyn had 35K fewer people speaking` overlaps with `` at screen width 400
-   * Text `Spanish at home in 2019 than 2005` overlaps with `` at screen width 400
-   * Text `` overlaps with `Percent change` at screen width 400
-   * Text `< -100%` overlaps with `` at screen width 400
-   * *and 65 more*
+   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
+   * Text `Italian` overlaps with `Russian` at screen width 400
+   * Text `Polish` overlaps with `Other Indic` at screen width 400
+   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
+   * Text `Urdu` overlaps with `Other Asian` at screen width 400
+   * Text `Other Asian` overlaps with `Other African` at screen width 400
+   * Text `Other African` overlaps with `Arabic` at screen width 400
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -345,8 +328,7 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/nyc-recycling-distribution/**
 
-* Missing alt tags for 1 images
-   * pexels-photo-802221.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `pexels-photo-802221.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -361,8 +343,7 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/Sarwate_Project1/**
 
-* Missing alt tags for 1 images
-   * yosemite-national-park-landscape-california-144251.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `yosemite-national-park-landscape-california-144251.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
@@ -394,8 +375,7 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/citibike/**
 
-* Missing alt tags for 1 images
-   * citibike-thames.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `citibike-thames.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -428,8 +408,7 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/therapy-apps/**
 
-* Missing alt tags for 1 images
-   * talkspace-phone.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `talkspace-phone.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -451,8 +430,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/**
 
-* Missing alt tags for 1 images
-   * /images/kay.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `/images/kay.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://kfalayi.github.io/agritech-investment/**
 
@@ -479,7 +457,7 @@ No issues found! 🎉
    * Text `Africa` overlaps with `Colombia` at screen width 400
    * Text `Australia` overlaps with `tralia` at screen width 400
    * Text `Australia` overlaps with `Kenya` at screen width 400
-   * *and 37 more*
+   * *and 35 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -547,20 +525,19 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/**
 
-* Missing alt tags for 13 images
-   * clo.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * lux.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * tob.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * voo.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * dis.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * enem.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * haddad.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * unesp.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * enemrac.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * cloro.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * bolsodad.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * scrap.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * eddie.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `clo.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `lux.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `tob.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `voo.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `dis.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `enem.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `haddad.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `unesp.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `enemrac.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `cloro.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `bolsodad.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `scrap.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `eddie.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
@@ -569,7 +546,6 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `18k` is too small at 7px
    * Text `17k` is too small at 7px
@@ -634,8 +610,7 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
-* Missing alt tags for 1 images
-   * shot.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `shot.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -672,8 +647,7 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/Wordle-Webpage/**
 
-* Missing alt tags for 1 images
-   * pink.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `pink.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -695,18 +669,16 @@ No issues found! 🎉
 
 **https://msc-joel.github.io/**
 
-* Missing alt tags for 4 images
-   * profile-image.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * fb.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * twitter.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * linkedin.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `profile-image.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `fb.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `twitter.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `linkedin.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article1.html**
 
-* Missing alt tags for 2 images
-   * inflation-pic.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * inflation-graph.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `inflation-pic.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `inflation-graph.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 **https://msc-joel.github.io/main-article3.html**
@@ -730,7 +702,6 @@ No issues found! 🎉
    * Text `Ireland` is too small at 9px
    * *and 32 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `` overlaps with `on Russia in the last two decades` at screen width 400
    * Text `34%` overlaps with `34%` at screen width 400
    * Text `5%` overlaps with `5%` at screen width 400
    * Text `30%` overlaps with `30%` at screen width 400
@@ -740,12 +711,12 @@ No issues found! 🎉
    * Text `51%` overlaps with `51%` at screen width 400
    * Text `48%` overlaps with `48%` at screen width 400
    * Text `55%` overlaps with `55%` at screen width 400
-   * *and 142 more*
+   * Text `42%` overlaps with `42%` at screen width 400
+   * *and 139 more*
 
 **https://msc-joel.github.io/main-article5.html**
 
-* Missing alt tags for 1 images
-   * Russian_energy.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `Russian_energy.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Needs a title, add a `<title>` tag to the `<head>`
 * Move `main-article5.html` into a folder called `main-article5`, then rename the file `index.html`. That way the project can be found at **/main-article5** instead of **/main-article5.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -796,8 +767,7 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure_skate_music/**
 
-* Missing alt tags for 1 images
-   * https://gh-card.dev/repos/naokatoh/figure_skate_music.svg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://gh-card.dev/repos/naokatoh/figure_skate_music.svg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 
 **https://naokatoh.github.io/nycrats/**
@@ -812,8 +782,7 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/sea_urchin/**
 
-* Missing alt tags for 1 images
-   * https://gh-card.dev/repos/naokatoh/sea_urchin.svg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://gh-card.dev/repos/naokatoh/sea_urchin.svg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -863,17 +832,15 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/**
 
-* Missing alt tags for 5 images
-   * https://pmagtulis.github.io/charts/nyc_trainpic.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://pmagtulis.github.io/charts/port.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://pmagtulis.github.io/charts/franchise_games.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://pmagtulis.github.io/charts/voters_map.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://pmagtulis.github.io/charts/marawi_siege.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://pmagtulis.github.io/charts/nyc_trainpic.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://pmagtulis.github.io/charts/port.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://pmagtulis.github.io/charts/franchise_games.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://pmagtulis.github.io/charts/voters_map.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://pmagtulis.github.io/charts/marawi_siege.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Complaints about air` is too small at 10px
    * Text `quality hit a record-high` is too small at 10px
@@ -887,21 +854,20 @@ No issues found! 🎉
    * Text `2008` is too small at 8px
    * *and 52 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2004` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
    * Text `2016` overlaps with `2020` at screen width 400
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
-   * *and 62 more*
+   * Text `2012` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2020` at screen width 400
+   * Text `2004` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2012` at screen width 400
+   * *and 64 more*
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Deaths per 100,000 population ` is too small at 8px
    * Text `(2016-2019)` is too small at 8px
@@ -913,6 +879,13 @@ No issues found! 🎉
    * Text `120` is too small at 7px
    * Text `40` is too small at 7px
    * Text `20` is too small at 7px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `1995` at screen width 400
+   * Text `2015` overlaps with `2019` at screen width 400
+   * Text `1990` overlaps with `1995` at screen width 900
+   * Text `2015` overlaps with `2019` at screen width 900
+   * Text `1990` overlaps with `1995` at screen width 1300
+   * Text `2015` overlaps with `2019` at screen width 1300
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -942,7 +915,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 10px
 
@@ -964,11 +936,10 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/**
 
-* Missing alt tags for 4 images
-   * ./project_three/oil_russian.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./website/271681803_470688881345369_9114073044683232908_n.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./project_two/complaints_pct.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./project_three/oil_russian.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./website/271681803_470688881345369_9114073044683232908_n.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./project_two/complaints_pct.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 9px
@@ -1004,7 +975,6 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
    * Text `any sanction.` is too small at 8px
@@ -1018,20 +988,21 @@ No issues found! 🎉
    * Text `barrels/day` is too small at 9px
    * *and 89 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
+   * Text `Nigeria` overlaps with `Yemen` at screen width 400
+   * Text `894,72` overlaps with `880,507` at screen width 400
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
-   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
-   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
+   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
 
 **https://pmartisa.github.io/project_two/index.html**
 
-* Missing alt tags for 2 images
-   * pct_killing.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * complaints_pct.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `pct_killing.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `complaints_pct.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 
@@ -1040,17 +1011,17 @@ No issues found! 🎉
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Carabanchel` overlaps with `` at screen width 400
    * Text `Carabanchel` overlaps with `Puente de vallecas` at screen width 400
-   * Text `Carabanchel` overlaps with `` at screen width 400
-   * Text `` overlaps with `Puente de vallecas` at screen width 400
-   * Text `` overlaps with `` at screen width 400
    * Text `47` overlaps with `43` at screen width 400
-   * Text `Puente de vallecas` overlaps with `` at screen width 400
    * Text `Puente de vallecas` overlaps with `Tetuan` at screen width 400
-   * Text `Puente de vallecas` overlaps with `` at screen width 400
-   * Text `` overlaps with `` at screen width 400
-   * *and 131 more*
+   * Text `43` overlaps with `39` at screen width 400
+   * Text `Tetuan` overlaps with `Usera` at screen width 400
+   * Text `Usera` overlaps with `Centro` at screen width 400
+   * Text `32` overlaps with `31` at screen width 400
+   * Text `Centro` overlaps with `Ciudad lineal` at screen width 400
+   * Text `31` overlaps with `28` at screen width 400
+   * Text `Ciudad lineal` overlaps with `Latina` at screen width 400
+   * *and 51 more*
 
 
 
@@ -1097,8 +1068,7 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/wordle**
 
-* Missing alt tags for 1 images
-   * ./img/wordle-bar2.svg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./img/wordle-bar2.svg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 
 
@@ -1118,40 +1088,37 @@ No issues found! 🎉
 
 **https://semerriam.github.io/**
 
-* Missing alt tags for 18 images
-   * imgs/capd.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/pj-infrasound-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/census-quirks-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/Critics'_Choice_map_screenshot.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/crt1_sm.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * projects/pj-mylla/imgs/pj-mylla4-thumbnail.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/election_2020polls_sm.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/fastco_10-18-20.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/vox_05-15-19.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/fastco_09-12-19.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/nbc_04-13-19.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/washpo_11-19-18.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/hyperallergic_11-20-18.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/wmarch1.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/sem_paris2sm.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/graph2.jpg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/capd.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/pj-infrasound-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/census-quirks-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/Critics'_Choice_map_screenshot.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/crt1_sm.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `projects/pj-mylla/imgs/pj-mylla4-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/election_2020polls_sm.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/fastco_10-18-20.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/vox_05-15-19.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/fastco_09-12-19.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/nbc_04-13-19.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/washpo_11-19-18.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/hyperallergic_11-20-18.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/wmarch1.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/sem_paris2sm.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/graph2.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://semerriam.github.io/nicar_first_visual_story**
 
-* Missing alt tags for 1 images
-   * https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
-* Missing alt tags for 4 images
-   * imgs/census-quirks-img2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/census-quirks-img3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/census-quirks-img4.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/census-quirks-img5.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/census-quirks-img2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/census-quirks-img3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/census-quirks-img4.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/census-quirks-img5.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -1167,17 +1134,16 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-ec-schools**
 
-* Missing alt tags for 10 images
-   * imgs/ec-16.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-17.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-8.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-10.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-9.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-13.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-15.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-14.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/ec-12.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-16.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-17.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-8.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-10.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-9.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-13.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-15.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-14.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/ec-12.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `150k` is too small at 9px
@@ -1201,17 +1167,16 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
-* Missing alt tags for 10 images
-   * imgs/infrasound-10-1.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-4.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-5.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-6.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-7.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-8.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-9.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * imgs/infrasound-10-10.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-1.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-4.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-5.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-6.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-7.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-8.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-9.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `imgs/infrasound-10-10.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `44,083 Hz` is too small at 10px
    * Text `44,083 Hz` is too small at 10px
@@ -1229,8 +1194,13 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
+   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
+   * Text `7.5` overlaps with `7.5` at screen width 1300
+   * Text `5.0` overlaps with `5.0` at screen width 1300
+   * Text `2.5` overlaps with `2.5` at screen width 1300
    * Text `0` overlaps with `0` at screen width 1300
-   * Text `20` overlaps with `20` at screen width 1300
+   * Text `-2.5` overlaps with `-2.5` at screen width 1300
+   * *and 11 more*
 
 
 
@@ -1265,7 +1235,7 @@ No issues found! 🎉
    * Text `Bhawan` overlaps with `Block` at screen width 400
    * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
    * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
-   * *and 161 more*
+   * *and 156 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
    * `"Source Sans Pro"` font not found, used in 106 text objects. Example: _1930s - 1940s, 1950s - 1960s, 1970s-2000s_
 
@@ -1330,13 +1300,12 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/**
 
-* Missing alt tags for 6 images
-   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/colorado-parks-mobility/**
@@ -1345,7 +1314,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
@@ -1370,21 +1339,19 @@ No issues found! 🎉
 
 **https://stephenanti.github.io/**
 
-* Missing alt tags for 5 images
-   * profile-pic.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * twitter-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * instagram-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * linkedin-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * email-icon.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `profile-pic.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `twitter-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `instagram-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `linkedin-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `email-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
-* Missing alt tags for 4 images
-   * brooklyn.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * graph1.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * graph2.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * graph3.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `brooklyn.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `graph1.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `graph2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `graph3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1437,16 +1404,14 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
-* Missing alt tags for 3 images
-   * assets/portfolio/filter.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/portfolio/analysis.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/portfolio/infographic.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/portfolio/filter.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/portfolio/analysis.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/portfolio/infographic.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
-* Missing alt tags for 1 images
-   * assets/piedmont_park.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/piedmont_park.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1459,10 +1424,9 @@ No issues found! 🎉
 
 **https://tanazm.github.io/marathonmap/**
 
-* Missing alt tags for 3 images
-   * ./images/park.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./images/dumbo.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./images/elevation.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./images/park.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./images/dumbo.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./images/elevation.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://tanazm.github.io/TXwind/**
 
@@ -1489,11 +1453,10 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/**
 
-* Missing alt tags for 4 images
-   * https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./football_penalties/assets/raiders_penalty_categories.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./assets/glass_room.gif, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * ./santa_barbara_wine/assets/santa_barbara_yelp.png, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./football_penalties/assets/raiders_penalty_categories.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./assets/glass_room.gif` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `./santa_barbara_wine/assets/santa_barbara_yelp.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 
 **https://vincentvb.github.io/football_penalties/**
 
@@ -1515,12 +1478,11 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/ukraine_invasion/**
 
-* Missing alt tags for 6 images
-   * assets/ukraine_2014.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/putin_speech.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/kyiv.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/kharkav.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/kherson.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-   * assets/tank.jpeg, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/ukraine_2014.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/putin_speech.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/kyiv.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/kharkav.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/kherson.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image `assets/tank.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Change URL to use `-` instead of spaces or underscores
 
