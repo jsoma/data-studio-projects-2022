@@ -115,11 +115,15 @@ No issues found! 🎉
 
 **https://annerquaye.github.io/projects/oscars.html**
 
+* Missing alt tags for 1 images
+   oscars/oscars.jpeg
 * Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
+* Missing alt tags for 1 images
+   ../../img/remittance.png
 * Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
@@ -160,11 +164,15 @@ No issues found! 🎉
 
 **https://annerquaye.github.io/projects/ricestory.html**
 
+* Missing alt tags for 1 images
+   rice_project/volta.png
 * Move `projects/ricestory.html` into a folder called `ricestory`, then rename the file `index.html`. That way the project can be found at **/ricestory** instead of **/ricestory.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/scrolly.html**
 
+* Missing alt tags for 1 images
+   ../img/cover-01.jpg
 * Move `projects/scrolly.html` into a folder called `scrolly`, then rename the file `index.html`. That way the project can be found at **/scrolly** instead of **/scrolly.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
@@ -191,10 +199,16 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/uttarakhand-floods/**
 
+* Missing alt tags for 2 images
+   kedarnath-temple.jpg
+   uttarakhand.jpg
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/r-place/**
 
+* Missing alt tags for 2 images
+   final-rplace.png
+   final.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/style-guides/**
@@ -203,10 +217,15 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/biryani/**
 
+* Missing alt tags for 1 images
+   biryani-new.jpg
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/ny-state-spills/**
 
+* Missing alt tags for 2 images
+   food-spill.png
+   queens-spills.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/vaccines/**
@@ -235,7 +254,22 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/**
 
-No issues found! 🎉
+* Missing alt tags for 15 images
+   https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true
+   images/bbg-ukraine-aslyum.png
+   images/wells-map.png
+   images/judges-education-map.png
+   https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png
+   https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg
+   images/FallClasses.png
+   images/yagp.png
+   images/chopin.png
+   https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true
+   https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png
+   https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png
+   https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png
+   https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true
+   https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png
 
 **https://ilenapeng.github.io/nyc-languages**
 
@@ -443,6 +477,8 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/nyc-recycling-distribution/**
 
+* Missing alt tags for 1 images
+   pexels-photo-802221.jpeg
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -457,6 +493,8 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/Sarwate_Project1/**
 
+* Missing alt tags for 1 images
+   yosemite-national-park-landscape-california-144251.jpeg
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
@@ -488,6 +526,8 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/citibike/**
 
+* Missing alt tags for 1 images
+   citibike-thames.png
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -589,6 +629,8 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/therapy-apps/**
 
+* Missing alt tags for 1 images
+   talkspace-phone.png
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 
@@ -602,7 +644,7 @@ No issues found! 🎉
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/agritech-investment/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics in america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics in america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics in america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics in america_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 
 
@@ -610,7 +652,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/**
 
-No issues found! 🎉
+* Missing alt tags for 1 images
+   /images/kay.jpeg
 
 **https://kfalayi.github.io/agritech-investment/**
 
@@ -732,8 +775,18 @@ No issues found! 🎉
    * Text `Irpin` is too small at 10px
    * Text `Kyiv` is too small at 9px
    * Text `100 ft` is too small at 10px
-   * Text `UKRAINE` is too small at 7px
+   * Text `Irpin River` is too small at 9px
+   * Text `Evacuees huddled under ` is too small at 9px
+   * Text `destroyed bridge, one of ` is too small at 9px
+   * Text `the main escape routes out of Irpin` is too small at 9px
+   * Text `Irpin River` is too small at 9px
+   * Text `At least four people` is too small at 9px
+   * Text `including two children ` is too small at 9px
+   * Text `were killed by a mortar shell.` is too small at 9px
+   * Text `PS30 road` is too small at 9px
    * Text `Irpin` is too small at 7px
+   * Text `Evacuation route ` is too small at 9px
+   * Text `toward Kyiv` is too small at 9px
    * Text `Kyiv` is too small at 7px
    * Text `UKRAINE` is too small at 8px
    * Text `100 ft` is too small at 7px
@@ -744,15 +797,15 @@ No issues found! 🎉
    * Text `including two children ` is too small at 10px
    * Text `were killed by a mortar shell.` is too small at 10px
    * Text `PS30 road` is too small at 10px
+   * Text `Irpin` is too small at 6px
    * Text `Evacuation route ` is too small at 10px
    * Text `toward Kyiv` is too small at 10px
-   * Text `Irpin` is too small at 6px
    * Text `Kyiv` is too small at 6px
    * Text `UKRAINE` is too small at 8px
    * Text `100 ft` is too small at 6px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `Irpin` overlaps with `Kyiv` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -774,7 +827,20 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/**
 
-No issues found! 🎉
+* Missing alt tags for 13 images
+   clo.jpeg
+   lux.jpg
+   tob.jpeg
+   voo.jpeg
+   dis.jpg
+   enem.png
+   haddad.jpeg
+   unesp.jpeg
+   enemrac.jpeg
+   cloro.jpeg
+   bolsodad.jpeg
+   scrap.jpeg
+   eddie.jpeg
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
@@ -783,6 +849,7 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `18k` is too small at 7px
    * Text `17k` is too small at 7px
@@ -970,6 +1037,8 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
+* Missing alt tags for 1 images
+   shot.png
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1022,6 +1091,8 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/Wordle-Webpage/**
 
+* Missing alt tags for 1 images
+   pink.png
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1043,10 +1114,18 @@ No issues found! 🎉
 
 **https://msc-joel.github.io/**
 
+* Missing alt tags for 4 images
+   profile-image.png
+   fb.png
+   twitter.png
+   linkedin.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article1.html**
 
+* Missing alt tags for 2 images
+   inflation-pic.jpg
+   inflation-graph.png
 * Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 **https://msc-joel.github.io/main-article3.html**
@@ -1256,6 +1335,8 @@ No issues found! 🎉
 
 **https://msc-joel.github.io/main-article5.html**
 
+* Missing alt tags for 1 images
+   Russian_energy.jpg
 * Needs a title, add a `<title>` tag to the `<head>`
 * Move `main-article5.html` into a folder called `main-article5`, then rename the file `index.html`. That way the project can be found at **/main-article5** instead of **/main-article5.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1315,6 +1396,8 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure_skate_music/**
 
+* Missing alt tags for 1 images
+   https://gh-card.dev/repos/naokatoh/figure_skate_music.svg
 * Change URL to use `-` instead of spaces or underscores
 
 **https://naokatoh.github.io/nycrats/**
@@ -1329,6 +1412,8 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/sea_urchin/**
 
+* Missing alt tags for 1 images
+   https://gh-card.dev/repos/naokatoh/sea_urchin.svg
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1395,6 +1480,12 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/**
 
+* Missing alt tags for 5 images
+   https://pmagtulis.github.io/charts/nyc_trainpic.jpeg
+   https://pmagtulis.github.io/charts/port.jpeg
+   https://pmagtulis.github.io/charts/franchise_games.png
+   https://pmagtulis.github.io/charts/voters_map.png
+   https://pmagtulis.github.io/charts/marawi_siege.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/air-quality/**
@@ -1540,6 +1631,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `Deaths per 100,000 population ` is too small at 8px
    * Text `(2016-2019)` is too small at 8px
@@ -1551,13 +1643,6 @@ No issues found! 🎉
    * Text `120` is too small at 7px
    * Text `40` is too small at 7px
    * Text `20` is too small at 7px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1608,6 +1693,11 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/**
 
+* Missing alt tags for 4 images
+   ./project_three/oil_russian.png
+   ./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg
+   ./website/271681803_470688881345369_9114073044683232908_n.jpeg
+   ./project_two/complaints_pct.png
 * Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text ` ` is too small at 9px
@@ -2027,6 +2117,9 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/project_two/index.html**
 
+* Missing alt tags for 2 images
+   pct_killing.png
+   complaints_pct.png
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 
@@ -2276,7 +2369,8 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/wordle**
 
-No issues found! 🎉
+* Missing alt tags for 1 images
+   ./img/wordle-bar2.svg
 
 
 
@@ -2296,15 +2390,40 @@ No issues found! 🎉
 
 **https://semerriam.github.io/**
 
-No issues found! 🎉
+* Missing alt tags for 18 images
+   imgs/capd.jpg
+   imgs/pj-infrasound-thumbnail.png
+   imgs/census-quirks-thumbnail.png
+   imgs/ec-thumbnail.png
+   imgs/Critics'_Choice_map_screenshot.png
+   imgs/crt1_sm.png
+   projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png
+   projects/pj-mylla/imgs/pj-mylla4-thumbnail.png
+   imgs/election_2020polls_sm.jpg
+   imgs/fastco_10-18-20.png
+   imgs/vox_05-15-19.png
+   imgs/fastco_09-12-19.png
+   imgs/nbc_04-13-19.png
+   imgs/washpo_11-19-18.png
+   imgs/hyperallergic_11-20-18.png
+   imgs/wmarch1.jpg
+   imgs/sem_paris2sm.jpg
+   imgs/graph2.jpg
 
 **https://semerriam.github.io/nicar_first_visual_story**
 
+* Missing alt tags for 1 images
+   https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
+* Missing alt tags for 4 images
+   imgs/census-quirks-img2.png
+   imgs/census-quirks-img3.png
+   imgs/census-quirks-img4.png
+   imgs/census-quirks-img5.png
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `0` is too small at 10px
    * Text `200` is too small at 10px
@@ -2339,6 +2458,17 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-ec-schools**
 
+* Missing alt tags for 10 images
+   imgs/ec-16.png
+   imgs/ec-17.png
+   imgs/ec-8.png
+   imgs/ec-10.png
+   imgs/ec-9.png
+   imgs/ec-3.png
+   imgs/ec-13.png
+   imgs/ec-15.png
+   imgs/ec-14.png
+   imgs/ec-12.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `150k` is too small at 9px
@@ -2421,6 +2551,17 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
+* Missing alt tags for 10 images
+   imgs/infrasound-10-1.png
+   imgs/infrasound-10-2.png
+   imgs/infrasound-10-3.png
+   imgs/infrasound-10-4.png
+   imgs/infrasound-10-5.png
+   imgs/infrasound-10-6.png
+   imgs/infrasound-10-7.png
+   imgs/infrasound-10-8.png
+   imgs/infrasound-10-9.png
+   imgs/infrasound-10-10.png
 * Minimum font size should be 12px, enlarge text in Illustrator
    * Text `44,083 Hz` is too small at 10px
    * Text `44,083 Hz` is too small at 10px
@@ -3131,6 +3272,13 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/**
 
+* Missing alt tags for 6 images
+   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png
+   https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png
+   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png
+   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png
+   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png
+   https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/colorado-parks-mobility/**
@@ -3139,7 +3287,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
@@ -3164,10 +3312,21 @@ No issues found! 🎉
 
 **https://stephenanti.github.io/**
 
+* Missing alt tags for 5 images
+   profile-pic.png
+   twitter-icon.png
+   instagram-icon.png
+   linkedin-icon.png
+   email-icon.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
+* Missing alt tags for 4 images
+   brooklyn.jpeg
+   graph1.png
+   graph2.png
+   graph3.png
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -3224,10 +3383,16 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
+* Missing alt tags for 3 images
+   assets/portfolio/filter.png
+   assets/portfolio/analysis.png
+   assets/portfolio/infographic.png
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
+* Missing alt tags for 1 images
+   assets/piedmont_park.png
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -3240,7 +3405,10 @@ No issues found! 🎉
 
 **https://tanazm.github.io/marathonmap/**
 
-No issues found! 🎉
+* Missing alt tags for 3 images
+   ./images/park.png
+   ./images/dumbo.png
+   ./images/elevation.png
 
 **https://tanazm.github.io/TXwind/**
 
@@ -3267,7 +3435,11 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/**
 
-No issues found! 🎉
+* Missing alt tags for 4 images
+   https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif
+   ./football_penalties/assets/raiders_penalty_categories.png
+   ./assets/glass_room.gif
+   ./santa_barbara_wine/assets/santa_barbara_yelp.png
 
 **https://vincentvb.github.io/football_penalties/**
 
@@ -3289,5 +3461,12 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/ukraine_invasion/**
 
+* Missing alt tags for 6 images
+   assets/ukraine_2014.jpeg
+   assets/putin_speech.jpeg
+   assets/kyiv.jpeg
+   assets/kharkav.jpeg
+   assets/kherson.jpeg
+   assets/tank.jpeg
 * Change URL to use `-` instead of spaces or underscores
 
