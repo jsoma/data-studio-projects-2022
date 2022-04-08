@@ -56,6 +56,7 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -237,14 +238,7 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
-   * Text `Italian` overlaps with `Russian` at screen width 400
-   * Text `Polish` overlaps with `Other Indic` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
-   * Text `Urdu` overlaps with `Other Asian` at screen width 400
-   * Text `Other Asian` overlaps with `Other African` at screen width 400
-   * Text `Other African` overlaps with `Arabic` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -786,7 +780,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Prinz Magtulis](https://pmagtulis.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
 |[One person is driving up 311 calls about air quality in Manhattan  Prinz Magtulis](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Duterte sets record in conflict killings due to siege in South  Prinz Magtulis](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
 |[Here are the vote-rich areas for the 2022 Philippine polls  Prinz Magtulis](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
@@ -829,20 +823,11 @@ No issues found! 🎉
    * Text `2004` overlaps with `2008` at screen width 400
    * Text `2008` overlaps with `2012` at screen width 400
    * Text `2012` overlaps with `2016` at screen width 400
-   * *and 67 more*
+   * *and 68 more*
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Deaths per 100,000 population ` is too small at 8px
-    * Text `(2016-2019)` is too small at 8px
-    * Text `120` is too small at 7px
-    * Text `40` is too small at 7px
-    * Text `20` is too small at 7px
-    * Text `Deaths per 100,000 population ` is too small at 8px
-    * Text `(2016-2019)` is too small at 8px
-    * *and 3 more*
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -871,6 +856,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -926,6 +912,7 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
     * Text `any sanction.` is too small at 8px
@@ -936,12 +923,10 @@ No issues found! 🎉
     * Text `barrels/day` is too small at 9px
     * *and 92 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
-   * Text `Nigeria` overlaps with `Yemen` at screen width 400
-   * Text `894,72` overlaps with `880,507` at screen width 400
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
+   * Text `Nigeria` overlaps with `Yemen` at screen width 1300
+   * Text `894,72` overlaps with `880,507` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
     * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
@@ -1134,10 +1119,8 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
-   * Text `7.5` overlaps with `7.5` at screen width 1300
-   * Text `5.0` overlaps with `5.0` at screen width 1300
-   * *and 14 more*
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
 
 
 
@@ -1243,7 +1226,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
