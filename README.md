@@ -238,7 +238,14 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
+   * Text `Italian` overlaps with `Russian` at screen width 400
+   * Text `Polish` overlaps with `Other Indic` at screen width 400
+   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
+   * Text `Urdu` overlaps with `Other Asian` at screen width 400
+   * Text `Other Asian` overlaps with `Other African` at screen width 400
+   * Text `Other African` overlaps with `Arabic` at screen width 400
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -866,7 +873,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
