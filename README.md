@@ -56,7 +56,6 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -857,6 +856,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./scrollytelling_project/gambling_bar.png` missing `alt` tag
     * Image `./project_three/oil_russian.png` missing `alt` tag
     * Image `./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg` missing `alt` tag
     * Image `./website/271681803_470688881345369_9114073044683232908_n.jpeg` missing `alt` tag
