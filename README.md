@@ -902,6 +902,7 @@ No issues found! 🎉
    * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
    * Text `Nigeria` overlaps with `Yemen` at screen width 400
    * Text `894,72` overlaps with `880,507` at screen width 400
+   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
@@ -1096,10 +1097,8 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
-   * Text `7.5` overlaps with `7.5` at screen width 1300
-   * Text `5.0` overlaps with `5.0` at screen width 1300
-   * *and 14 more*
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
 
 
 
