@@ -480,6 +480,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -491,7 +492,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -724,11 +724,11 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
-|[Music in Men's Figure Skating](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/figure_skate_music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure_skate_music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure_skate_music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Rodents complaints](https://naokatoh.github.io/nycrats/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
 |[Where to Find Uni in the US](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-full.jpg)|
-|[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
+|[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -739,9 +739,10 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure_skate_music/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://gh-card.dev/repos/naokatoh/figure_skate_music.svg` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://naokatoh.github.io/nycrats/**
 
@@ -762,22 +763,12 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/ukraine/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Morocco` is too small at 9px
-    * Text `Iraq` is too small at 9px
-    * Text `Nigeria` is too small at 9px
-    * Text `Nigeria` is too small at 9px
-    * Text `Russia` is too small at 9px
-    * Text `Turkey` is too small at 9px
-    * Text `Azerbaijan` is too small at 9px
-    * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Nigeria` overlaps with `Nigeria` at screen width 400
-   * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 400
-   * Text `Nigeria` overlaps with `Nigeria` at screen width 900
-   * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 900
-   * Text `Nigeria` overlaps with `Nigeria` at screen width 1300
-   * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 1300
+   * Text `Turkey` overlaps with `Azerbaijan` at screen width 400
+   * Text `Turkmenistan` overlaps with `China` at screen width 900
+   * Text `Turkey` overlaps with `Azerbaijan` at screen width 900
+   * Text `Turkmenistan` overlaps with `China` at screen width 1300
+   * Text `Turkey` overlaps with `Azerbaijan` at screen width 1300
 
 
 
@@ -803,7 +794,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
