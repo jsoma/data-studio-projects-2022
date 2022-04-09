@@ -56,6 +56,7 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -237,14 +238,7 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
-   * Text `Italian` overlaps with `Russian` at screen width 400
-   * Text `Polish` overlaps with `Other Indic` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
-   * Text `Urdu` overlaps with `Other Asian` at screen width 400
-   * Text `Other Asian` overlaps with `Other African` at screen width 400
-   * Text `Other African` overlaps with `Arabic` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -450,7 +444,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 33 more*
+   * *and 34 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -726,7 +720,7 @@ No issues found! 🎉
 |[Page not found · GitHub Pages](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Rodents complaints](https://naokatoh.github.io/nycrats/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
-|[Where to Find Uni in the US](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
 
 
@@ -755,10 +749,10 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/sea_urchin/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://gh-card.dev/repos/naokatoh/sea_urchin.svg` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://naokatoh.github.io/ukraine/**
 
@@ -832,10 +826,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `units sold` overlaps with `Super Mario Bros. released` at screen width 400
 
 
 
@@ -856,7 +849,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./scrollytelling_project/gambling_bar.png` missing `alt` tag
+    * Image `./viz_writing_data/casinos.png` missing `alt` tag
     * Image `./project_three/oil_russian.png` missing `alt` tag
     * Image `./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg` missing `alt` tag
     * Image `./website/271681803_470688881345369_9114073044683232908_n.jpeg` missing `alt` tag
@@ -901,6 +894,8 @@ No issues found! 🎉
     * Text `barrels/day` is too small at 9px
     * *and 92 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Nigeria` overlaps with `Yemen` at screen width 400
+   * Text `894,72` overlaps with `880,507` at screen width 400
    * Text `Nigeria` overlaps with `Yemen` at screen width 900
    * Text `894,72` overlaps with `880,507` at screen width 900
    * Text `Nigeria` overlaps with `Yemen` at screen width 1300
@@ -1069,6 +1064,8 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
+   * Text `North Andover` overlaps with `1,048` at screen width 1300
+   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1179,8 +1176,8 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
-|[Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
+|[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
+|[Shelby Jouppi - Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
 |["The Cost of COVID"](https://srjouppi.github.io/covid-gofundme-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
 |[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
 
@@ -1196,11 +1193,11 @@ No issues found! 🎉
     * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png` missing `alt` tag
     * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png` missing `alt` tag
     * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/colorado-parks-mobility/**
 
-No issues found! 🎉
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `deer-creek-trail.png` missing `alt` tag
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
