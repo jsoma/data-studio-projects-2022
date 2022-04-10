@@ -207,33 +207,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Ilena Peng](https://ilenapeng.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
-|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
-|[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
-|[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
-|[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
+|[Ilena Peng](https://ilenapeng.github.io/)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
+|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
+|[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
+|[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
+|[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://ilenapeng.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true` missing `alt` tag
-    * Image `images/bbg-ukraine-aslyum.png` missing `alt` tag
-    * Image `images/wells-map.png` missing `alt` tag
-    * Image `images/judges-education-map.png` missing `alt` tag
-    * Image `https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png` missing `alt` tag
-    * Image `https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg` missing `alt` tag
-    * Image `images/FallClasses.png` missing `alt` tag
-    * Image `images/yagp.png` missing `alt` tag
-    * Image `images/chopin.png` missing `alt` tag
-    * Image `https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true` missing `alt` tag
-    * Image `https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png` missing `alt` tag
-    * Image `https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png` missing `alt` tag
-    * Image `https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png` missing `alt` tag
-    * Image `https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true` missing `alt` tag
-    * Image `https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png` missing `alt` tag
+No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
@@ -433,7 +418,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 34 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -517,6 +502,7 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `18k` is too small at 7px
     * Text `17k` is too small at 7px
@@ -779,19 +765,11 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -830,9 +808,9 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[index.html](https://pmartisa.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
+|[Patricia's website](https://pmartisa.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
 |[Article on the Olympics](https://pmartisa.github.io/project_one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-wide-full.jpg)|
-|[Article about Russian exports of oil and wheat](https://pmartisa.github.io/project_three/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_three_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_three_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_three_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://pmartisa.github.io/project_three/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[project_two/index.html](https://pmartisa.github.io/project_two/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_two_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_two_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_two_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-wide-full.jpg)|
 |[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
 
@@ -843,11 +821,7 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./viz_writing_data/casinos.png` missing `alt` tag
-    * Image `./project_three/oil_russian.png` missing `alt` tag
-    * Image `./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg` missing `alt` tag
-    * Image `./website/271681803_470688881345369_9114073044683232908_n.jpeg` missing `alt` tag
     * Image `./project_two/complaints_pct.png` missing `alt` tag
-* Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
@@ -873,29 +847,10 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/project_three/index.html**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
-    * Text `any sanction.` is too small at 8px
-    * Text `China` is too small at 10px
-    * Text `more than 1.5 million barrels per day` is too small at 9px
-    * Text `Netherlands` is too small at 10px
-    * Text `640,000` is too small at 9px
-    * Text `barrels/day` is too small at 9px
-    * *and 92 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Stronger colors for countries that haven’t imposed` overlaps with `more than 1.5 million barrels per day` at screen width 400
-   * Text `any sanction.` overlaps with `more than 1.5 million barrels per day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8.25 million metric tonnes` overlaps with `Azerbaijan` at screen width 400
-   * Text `Azerbaijan` overlaps with `Sudan` at screen width 400
-   * Text `Yemen` overlaps with `Pakistan` at screen width 400
-   * Text `Pakistan` overlaps with `796,10` at screen width 400
-   * *and 17 more*
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
-    * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-    * `"Times Roman"` font not found, used in 153 text objects. Example: _ Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient _
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmartisa.github.io/project_two/index.html**
 
@@ -1084,10 +1039,8 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
-   * Text `7.5` overlaps with `7.5` at screen width 1300
-   * Text `5.0` overlaps with `5.0` at screen width 1300
-   * *and 14 more*
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
 
 
 
@@ -1193,7 +1146,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
