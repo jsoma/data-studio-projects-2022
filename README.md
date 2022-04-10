@@ -242,8 +242,7 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Source: October 2021 Transportation Alternatives report` is too small at 10px
+No issues found! 🎉
 
 **https://ilenapeng.github.io/path-to-principal/**
 
@@ -775,9 +774,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -812,8 +809,6 @@ No issues found! 🎉
 
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `units sold` overlaps with `Super Mario Bros. released` at screen width 400
 
 
 
@@ -1161,8 +1156,8 @@ No issues found! 🎉
 |---|---|---|---|
 |[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
 |[Shelby Jouppi - Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
-|["The Cost of COVID"](https://srjouppi.github.io/covid-gofundme-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
-|[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
+|[Shelby Jouppi - The Cost of COVID](https://srjouppi.github.io/covid-gofundme-analysis/)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
+|[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1188,8 +1183,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Source: health.data.ny.gov “Medicaid Program Enrollment by Month Beginning 2009” - Aug. 2021 enrollment` is too small at 10px
+No issues found! 🎉
 
 
 
