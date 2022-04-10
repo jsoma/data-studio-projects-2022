@@ -251,10 +251,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Jessie Blaeser's Portfolio](https://jessieblaeser.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/jessieblaeser.github.io/index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-wide-full.jpg)|
-|[Dams in Georgia](https://jessieblaeser.github.io/pj_georgia_dams.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_georgia_dams.html-wide-full.jpg)|
-|[Most Expensive Pipeline Incidents](https://jessieblaeser.github.io/pj_pipelines.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/jessieblaeser.github.io/pj_pipelines.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_pipelines.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_pipelines.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_pipelines.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_pipelines.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_pipelines.html-wide-full.jpg)|
-|[Ticket to Ride Analysis](https://jessieblaeser.github.io/pj_ticket_to_ride.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_ticket_to_ride.html-wide-full.jpg)|
-|[Trae Young Hawks Analysis](https://jessieblaeser.github.io/pj_trae_young.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/jessieblaeser.github.io/pj_trae_young.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_trae_young.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pj_trae_young.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_trae_young.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pj_trae_young.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pj_trae_young.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_georgia_dams.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_pipelines.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_ticket_to_ride.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_trae_young.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -265,30 +265,35 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/pj_georgia_dams.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `pj_georgia_dams.html` into a folder called `pj_georgia_dams`, then rename the file `index.html`. That way the project can be found at **/pj_georgia_dams** instead of **/pj_georgia_dams.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://jessieblaeser.github.io/pj_pipelines.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `pj_pipelines.html` into a folder called `pj_pipelines`, then rename the file `index.html`. That way the project can be found at **/pj_pipelines** instead of **/pj_pipelines.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
-    * Text `Graphic by Jessie Blaeser` is too small at 8px
-    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety
-                                    Administration` is too small at 8px
-    * Text `Graphic by Jessie Blaeser` is too small at 8px
 
 **https://jessieblaeser.github.io/pj_ticket_to_ride.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `pj_ticket_to_ride.html` into a folder called `pj_ticket_to_ride`, then rename the file `index.html`. That way the project can be found at **/pj_ticket_to_ride** instead of **/pj_ticket_to_ride.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://jessieblaeser.github.io/pj_trae_young.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `pj_trae_young.html` into a folder called `pj_trae_young`, then rename the file `index.html`. That way the project can be found at **/pj_trae_young** instead of **/pj_trae_young.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -439,7 +444,6 @@ No issues found! 🎉
 
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/hispanics in america/**
 
@@ -502,7 +506,6 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `18k` is too small at 7px
     * Text `17k` is too small at 7px
@@ -691,10 +694,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Music in Men's Figure Skating](https://naokatoh.github.io/figure-skate-music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-full.jpg)|
 |[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Where to Find Uni in the US](https://naokatoh.github.io/sea-urchin/)|[![mobile](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-full.jpg)|
 |[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
 
 
@@ -704,12 +707,10 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://naokatoh.github.io/figure_skate_music/**
+**https://naokatoh.github.io/figure-skate-music/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `https://gh-card.dev/repos/naokatoh/figure_skate_music.svg` missing `alt` tag
 
 **https://naokatoh.github.io/nycrats/**
 
@@ -721,12 +722,9 @@ No issues found! 🎉
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` Not Disney/ Pixar` is too small at 10px
 
-**https://naokatoh.github.io/sea_urchin/**
+**https://naokatoh.github.io/sea-urchin/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://naokatoh.github.io/ukraine/**
 
@@ -765,7 +763,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -1146,7 +1146,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
