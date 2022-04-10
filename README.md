@@ -56,6 +56,7 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -352,10 +353,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Julia Ingram's portfolio](https://juliaingram.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/index.html-wide-full.jpg)|
-|[California Utility Fires](https://juliaingram.github.io/ca-utility-fires/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
-|[Citi Bike](https://juliaingram.github.io/citibike/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
-|[Daylight Saving](https://juliaingram.github.io/daylight-saving/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
-|[Therapy Apps](https://juliaingram.github.io/therapy-apps/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
+|[California Utility Fires](https://juliaingram.github.io/ca-utility-fires/)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
+|[Citi Bike](https://juliaingram.github.io/citibike/)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
+|[Daylight Saving](https://juliaingram.github.io/daylight-saving/)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
+|[Therapy Apps](https://juliaingram.github.io/therapy-apps/)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -374,18 +375,9 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/daylight-saving/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `later` is too small at 10px
-    * Text `earlier` is too small at 10px
-    * Text `Sunrise could have been as late as` is too small at 10px
-    * Text `9:42 a.m. in Williston, North Dakota` is too small at 10px
-    * Text `but as early as 7:37 in` is too small at 10px
-    * Text `Panama City, Florida` is too small at 10px
-    * Text `The earliest sunset would` is too small at 10px
-    * *and 6 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Pending` overlaps with `Enacted` at screen width 400
-   * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 400
+   * Text `earlier` overlaps with `The earliest sunset would` at screen width 400
    * Text `Enacted` overlaps with `Failed` at screen width 900
    * Text `Failed` overlaps with `2020` at screen width 900
    * Text `Enacted` overlaps with `Failed` at screen width 1300
