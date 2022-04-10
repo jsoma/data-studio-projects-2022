@@ -32,8 +32,8 @@ Quick checks to make sure your pages are looking their best.
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Chuqin Jiang's Incredible Portfolio](https://angelinejcq.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-wide-full.jpg)|
-|[Welcome to my bubble tea shop project](https://angelinejcq.github.io/bubble-tea-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-full.jpg)|
+|[Chuqin Jiang's Incredible Portfolio](https://angelinejcq.github.io/)|[![mobile](screenshots/angelinejcq.github.io/index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-wide-full.jpg)|
+|[Welcome to my bubble tea shop project](https://angelinejcq.github.io/bubble-tea-project/)|[![mobile](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-full.jpg)|
 |[Welcome to my NEO project](https://angelinejcq.github.io/near-earth-objects-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-full.jpg)|
 |[project-plane-crash/index.html](https://angelinejcq.github.io/project-plane-crash/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-full.jpg)|
 |[Women trafficking in China](https://angelinejcq.github.io/woman-trafficking-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-full.jpg)|
@@ -56,6 +56,7 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -250,7 +251,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Jessie Blaeser's Portfolio](https://jessieblaeser.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/jessieblaeser.github.io/index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-wide-full.jpg)|
+|[Jessie Blaeser's Portfolio](https://jessieblaeser.github.io/)|[![mobile](screenshots/jessieblaeser.github.io/index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_georgia_dams.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_pipelines.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://jessieblaeser.github.io/pj_ticket_to_ride.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
@@ -506,6 +507,7 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `18k` is too small at 7px
     * Text `17k` is too small at 7px
@@ -694,7 +696,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
-|[Music in Men's Figure Skating](https://naokatoh.github.io/figure-skate-music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-full.jpg)|
+|[Music in Men's Figure Skating](https://naokatoh.github.io/figure-skate-music/)|[![mobile](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-full.jpg)|
 |[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
 |[Where to Find Uni in the US](https://naokatoh.github.io/sea-urchin/)|[![mobile](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-full.jpg)|
@@ -709,8 +711,7 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure-skate-music/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://gh-card.dev/repos/naokatoh/figure_skate_music.svg` missing `alt` tag
+No issues found! 🎉
 
 **https://naokatoh.github.io/nycrats/**
 
@@ -798,6 +799,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1146,7 +1148,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
