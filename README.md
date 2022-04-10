@@ -56,7 +56,6 @@ No issues found! 🎉
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -353,7 +352,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Julia Ingram's portfolio](https://juliaingram.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/index.html-wide-full.jpg)|
-|[ca-utility-fires/index.html](https://juliaingram.github.io/ca-utility-fires/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
+|[California Utility Fires](https://juliaingram.github.io/ca-utility-fires/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
 |[Citi Bike](https://juliaingram.github.io/citibike/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
 |[Daylight Saving](https://juliaingram.github.io/daylight-saving/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
 |[Therapy Apps](https://juliaingram.github.io/therapy-apps/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
@@ -367,41 +366,34 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/ca-utility-fires/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+No issues found! 🎉
 
 **https://juliaingram.github.io/citibike/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `citibike-thames.png` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://juliaingram.github.io/daylight-saving/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `All successful bills call for a year-round daylight time pending Congressional approval.` is too small at 10px
-    * Text `Enacted` is too small at 9px
-    * Text `Failed` is too small at 9px
-    * Text `2021` is too small at 9px
-    * Text `2020` is too small at 9px
-    * Text `Alabama` is too small at 9px
-    * Text `Georgia` is too small at 9px
-    * *and 68 more*
+    * Text `later` is too small at 10px
+    * Text `earlier` is too small at 10px
+    * Text `Sunrise could have been as late as` is too small at 10px
+    * Text `9:42 a.m. in Williston, North Dakota` is too small at 10px
+    * Text `but as early as 7:37 in` is too small at 10px
+    * Text `Panama City, Florida` is too small at 10px
+    * Text `The earliest sunset would` is too small at 10px
+    * *and 6 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Enacted` overlaps with `Failed` at screen width 400
-   * Text `Enacted` overlaps with `Pending` at screen width 400
-   * Text `Pending` overlaps with `Failed` at screen width 400
+   * Text `Pending` overlaps with `Enacted` at screen width 400
    * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 400
-   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 900
-   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 900
-   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 900
-   * *and 9 more*
+   * Text `Enacted` overlaps with `Failed` at screen width 900
+   * Text `Failed` overlaps with `2020` at screen width 900
+   * Text `Enacted` overlaps with `Failed` at screen width 1300
+   * Text `Failed` overlaps with `2020` at screen width 1300
 
 **https://juliaingram.github.io/therapy-apps/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `talkspace-phone.png` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 
 
@@ -444,7 +436,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 34 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -718,7 +710,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Rodents complaints](https://naokatoh.github.io/nycrats/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
+|[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
@@ -739,7 +731,7 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/nycrats/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://naokatoh.github.io/oscar-anime/**
 
@@ -826,9 +818,10 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `units sold` overlaps with `Super Mario Bros. released` at screen width 400
 
 
 
@@ -1064,8 +1057,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
