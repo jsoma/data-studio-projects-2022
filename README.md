@@ -57,21 +57,18 @@ No issues found! 🎉
 
 * Needs a title, add a `<title>` tag to the `<head>`
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Fatality` is too small at 8px
-   * Text `1` is too small at 8px
-   * Text `160` is too small at 8px
-   * Text `On Nov. 21, 2004, a plane stalled and crashed into a lake less than one minute after taking off from Baotou Airport.` is too small at 10px
-   * Text ` ` is too small at 10px
-   * Text `Kunming` is too small at 6px
-   * Text `Guangzhou` is too small at 6px
-   * Text `On June 6, 1994, an aircraft broke up in-flight after violent shaking above the suburb of  Mingdu, Shannxi Province. ` is too small at 10px
-   * *and 4 more*
+    * Text `Fatality` is too small at 8px
+    * Text `1` is too small at 8px
+    * Text `160` is too small at 8px
+    * Text `On Nov. 21, 2004, a plane stalled and crashed into a lake less than one minute after taking off from Baotou Airport.` is too small at 10px
+    * Text ` ` is too small at 10px
+    * *and 7 more*
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `|` is too small at 8px
-   * Text `|` is too small at 8px
+    * Text `|` is too small at 8px
+    * Text `|` is too small at 8px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Guizhou:` overlaps with `Yunnan:` at screen width 400
    * Text `115` overlaps with `Yunnan:` at screen width 400
@@ -80,12 +77,9 @@ No issues found! 🎉
    * Text `176` overlaps with `Guangxi:` at screen width 400
    * Text `176` overlaps with `107` at screen width 400
    * Text `107` overlaps with `Fujian: 303` at screen width 400
-   * Text `gender ratio` overlaps with `92.29` at screen width 400
-   * Text `92.29` overlaps with `of marriageable age` at screen width 400
-   * Text `97.59` overlaps with `Hebei` at screen width 400
-   * *and 2 more*
+   * *and 5 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Open Sans"` font not found, used in 143 text objects. Example: _Hebei: 116, Shandong: 137, Henan: 298_
+    * `"Open Sans"` font not found, used in 143 text objects. Example: _Hebei: 116, Shandong: 137, Henan: 298_
 
 
 
@@ -109,39 +103,40 @@ No issues found! 🎉
 
 **https://annerquaye.github.io/projects/oscars.html**
 
-* Image `oscars/oscars.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `oscars/oscars.jpeg` missing `alt` tag
 * Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/responsive_pages/responsive.html**
 
-* Image `../../img/remittance.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `../../img/remittance.png` missing `alt` tag
 * Move `projects/responsive_pages/responsive.html` into a folder called `responsive`, then rename the file `index.html`. That way the project can be found at **/responsive** instead of **/responsive.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `The pandemic also shot inflation to a 3-year high` is too small at 9px
-   * Text `Inflation` is too small at 8px
-   * Text `Gdp Growth` is too small at 8px
-   * Text `17.5 %` is too small at 7px
-   * Text `The pandemic saw the economy hit rock bottom` is too small at 7px
-   * Text `15.0` is too small at 7px
-   * Text `12.5` is too small at 7px
-   * Text `10.0` is too small at 7px
-   * Text `7.5` is too small at 7px
-   * Text `5.0` is too small at 7px
-   * *and 22 more*
+    * Text `The pandemic also shot inflation to a 3-year high` is too small at 9px
+    * Text `Inflation` is too small at 8px
+    * Text `Gdp Growth` is too small at 8px
+    * Text `17.5 %` is too small at 7px
+    * Text `The pandemic saw the economy hit rock bottom` is too small at 7px
+    * Text `15.0` is too small at 7px
+    * Text `12.5` is too small at 7px
+    * *and 25 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Inflation` overlaps with `Gdp Growth` at screen width 400
 
 **https://annerquaye.github.io/projects/ricestory.html**
 
-* Image `rice_project/volta.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `rice_project/volta.png` missing `alt` tag
 * Move `projects/ricestory.html` into a folder called `ricestory`, then rename the file `index.html`. That way the project can be found at **/ricestory** instead of **/ricestory.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://annerquaye.github.io/projects/scrolly.html**
 
-* Image `../img/cover-01.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `../img/cover-01.jpg` missing `alt` tag
 * Move `projects/scrolly.html` into a folder called `scrolly`, then rename the file `index.html`. That way the project can be found at **/scrolly** instead of **/scrolly.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 
@@ -168,14 +163,16 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/uttarakhand-floods/**
 
-* Image `kedarnath-temple.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `uttarakhand.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `kedarnath-temple.jpg` missing `alt` tag
+    * Image `uttarakhand.jpg` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/r-place/**
 
-* Image `final-rplace.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `final.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `final-rplace.png` missing `alt` tag
+    * Image `final.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/style-guides/**
@@ -184,22 +181,24 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/biryani/**
 
-* Image `biryani-new.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `biryani-new.jpg` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/ny-state-spills/**
 
-* Image `food-spill.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `queens-spills.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `food-spill.png` missing `alt` tag
+    * Image `queens-spills.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://areenaarora.com/stories/vaccines/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Pfizer` is too small at 10px
-   * Text `0` is too small at 10px
-   * Text `Source: CDC` is too small at 10px
+    * Text `Pfizer` is too small at 10px
+    * Text `0` is too small at 10px
+    * Text `Source: CDC` is too small at 10px
 
 
 
@@ -208,32 +207,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Ilena Peng](https://ilenapeng.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
-|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
-|[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
-|[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
-|[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
+|[Ilena Peng](https://ilenapeng.github.io/)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
+|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
+|[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
+|[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
+|[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://ilenapeng.github.io/**
 
-* Image `https://github.com/ilenapeng/chinatown/blob/main/graphics/pctchange-map.png?raw=true` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `images/bbg-ukraine-aslyum.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `images/wells-map.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `images/judges-education-map.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://raw.githubusercontent.com/ilenapeng/path-to-principal/main/nycb-plot.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://ilenapeng.github.io/nyc-open-streets/map-medium.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `images/FallClasses.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `images/yagp.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `images/chopin.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://github.com/ilenapeng/dvs-2021/blob/main/dvs-2021-static.png?raw=true` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://www.gwhatchet.com/wp-content/uploads/2020/09/BLM-rallies.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://github.com/ilenapeng/tidytuesday/raw/main/2022/week02_bees/w02_bees.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://github.com/ilenapeng/tidytuesday/raw/main/2021/week20_broadband/w20_broadband_2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://github.com/ilenapeng/tidytuesday/blob/main/2021/week30_droughts/w30_droughts.png?raw=true` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://github.com/ilenapeng/tidytuesday/raw/main/2021/week02_transitcosts/w02_transitcosts.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
@@ -248,8 +233,7 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Source: October 2021 Transportation Alternatives report` is too small at 10px
+No issues found! 🎉
 
 **https://ilenapeng.github.io/path-to-principal/**
 
@@ -290,11 +274,11 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
-   * Text `Graphic by Jessie Blaeser` is too small at 8px
-   * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety
+    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety Administration` is too small at 8px
+    * Text `Graphic by Jessie Blaeser` is too small at 8px
+    * Text `Data Source: U.S. DOT Pipeline and Hazardous Materials Safety
                                     Administration` is too small at 8px
-   * Text `Graphic by Jessie Blaeser` is too small at 8px
+    * Text `Graphic by Jessie Blaeser` is too small at 8px
 
 **https://jessieblaeser.github.io/pj_ticket_to_ride.html**
 
@@ -328,7 +312,8 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/nyc-recycling-distribution/**
 
-* Image `pexels-photo-802221.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `pexels-photo-802221.jpeg` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -343,7 +328,8 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/Sarwate_Project1/**
 
-* Image `yosemite-national-park-landscape-california-144251.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `yosemite-national-park-landscape-california-144251.jpeg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
@@ -357,10 +343,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Julia Ingram's portfolio](https://juliaingram.github.io)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/index.html-wide-full.jpg)|
-|[ca-utility-fires/index.html](https://juliaingram.github.io/ca-utility-fires/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
-|[Citi Bike](https://juliaingram.github.io/citibike/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
-|[Daylight Saving](https://juliaingram.github.io/daylight-saving/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
-|[Therapy Apps](https://juliaingram.github.io/therapy-apps/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
+|[California Utility Fires](https://juliaingram.github.io/ca-utility-fires/)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
+|[Citi Bike](https://juliaingram.github.io/citibike/)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
+|[Daylight Saving](https://juliaingram.github.io/daylight-saving/)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
+|[Therapy Apps](https://juliaingram.github.io/therapy-apps/)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -371,45 +357,25 @@ No issues found! 🎉
 
 **https://juliaingram.github.io/ca-utility-fires/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+No issues found! 🎉
 
 **https://juliaingram.github.io/citibike/**
 
-* Image `citibike-thames.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://juliaingram.github.io/daylight-saving/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `All successful bills call for a year-round daylight time pending Congressional approval.` is too small at 10px
-   * Text `Enacted` is too small at 9px
-   * Text `Failed` is too small at 9px
-   * Text `2021` is too small at 9px
-   * Text `2020` is too small at 9px
-   * Text `Alabama` is too small at 9px
-   * Text `Georgia` is too small at 9px
-   * Text `Ohio` is too small at 9px
-   * Text `Maine` is too small at 9px
-   * Text `Minnesota` is too small at 9px
-   * *and 65 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Enacted` overlaps with `Failed` at screen width 400
-   * Text `Enacted` overlaps with `Pending` at screen width 400
-   * Text `Pending` overlaps with `Failed` at screen width 400
-   * Text `If the U.S. observed nationwide daylight saving time, on Jan. 1, 2022 this is when` overlaps with `cities would have seen the sun rise and set` at screen width 400
-   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `28 states are considering legislation on Daylight Saving Time in 2022` at screen width 900
-   * Text `17 states have adopted or enacted legislation on Daylight Saving` overlaps with `Most states have introduced legislation to move to year-round DST. Six states introduced bills to only use` at screen width 900
-   * Text `Time over the past two years` overlaps with `standard time, and five states have competing bills for which way to end clock-switching.` at screen width 900
+   * Text `Pending` overlaps with `Enacted` at screen width 400
+   * Text `earlier` overlaps with `The earliest sunset would` at screen width 400
    * Text `Enacted` overlaps with `Failed` at screen width 900
-   * Text `Enacted` overlaps with `Pending` at screen width 900
-   * Text `Pending` overlaps with `Failed` at screen width 900
-   * *and 6 more*
+   * Text `Failed` overlaps with `2020` at screen width 900
+   * Text `Enacted` overlaps with `Failed` at screen width 1300
+   * Text `Failed` overlaps with `2020` at screen width 1300
 
 **https://juliaingram.github.io/therapy-apps/**
 
-* Image `talkspace-phone.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 
 
@@ -430,22 +396,20 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/**
 
-* Image `/images/kay.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `/images/kay.jpeg` missing `alt` tag
 
 **https://kfalayi.github.io/agritech-investment/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `South ` is too small at 10px
-   * Text `Africa` is too small at 10px
-   * Text `Kenya` is too small at 10px
-   * Text `Nigeria` is too small at 10px
-   * Text `India` is too small at 9px
-   * Text `United States` is too small at 9px
-   * Text `Indonesia` is too small at 9px
-   * Text `Israel` is too small at 9px
-   * Text `China` is too small at 9px
-   * Text `South Korea` is too small at 9px
-   * *and 18 more*
+    * Text `South ` is too small at 10px
+    * Text `Africa` is too small at 10px
+    * Text `Kenya` is too small at 10px
+    * Text `Nigeria` is too small at 10px
+    * Text `India` is too small at 9px
+    * Text `United States` is too small at 9px
+    * Text `Indonesia` is too small at 9px
+    * *and 21 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `ASIA` overlaps with `$6.7 billion` at screen width 400
    * Text `Indonesia` overlaps with `Israel` at screen width 400
@@ -454,28 +418,22 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * Text `Africa` overlaps with `Colombia` at screen width 400
-   * Text `Australia` overlaps with `tralia` at screen width 400
-   * Text `Australia` overlaps with `Kenya` at screen width 400
-   * *and 35 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
+    * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
 **https://kfalayi.github.io/bloomberg/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `1 dot = 1 dollar store` is too small at 10px
-   * Text `blue dots = dollar stores` is too small at 10px
-   * Text `red dots = vaccination sites` is too small at 10px
-   * Text `1 dot = 1 dollar store` is too small at 9px
-   * Text `blue dots = dollar stores` is too small at 9px
-   * Text `red dots = vaccination sites` is too small at 9px
-   * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 10px
-   * Text `1 dot = 1 dollar store` is too small at 6px
-   * Text `blue dots = dollar stores` is too small at 6px
-   * Text `red dots = vaccination sites` is too small at 6px
-   * *and 8 more*
+    * Text `1 dot = 1 dollar store` is too small at 10px
+    * Text `blue dots = dollar stores` is too small at 10px
+    * Text `red dots = vaccination sites` is too small at 10px
+    * Text `1 dot = 1 dollar store` is too small at 9px
+    * Text `blue dots = dollar stores` is too small at 9px
+    * Text `red dots = vaccination sites` is too small at 9px
+    * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 10px
+    * *and 11 more*
 
 **https://kfalayi.github.io/Food_price_Nigeria/**
 
@@ -490,17 +448,14 @@ No issues found! 🎉
 **https://kfalayi.github.io/irpin/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Irpin` is too small at 10px
-   * Text `Kyiv` is too small at 9px
-   * Text `100 ft` is too small at 10px
-   * Text `Irpin River` is too small at 9px
-   * Text `Evacuees huddled under ` is too small at 9px
-   * Text `destroyed bridge, one of ` is too small at 9px
-   * Text `the main escape routes out of Irpin` is too small at 9px
-   * Text `Irpin River` is too small at 9px
-   * Text `At least four people` is too small at 9px
-   * Text `including two children ` is too small at 9px
-   * *and 21 more*
+    * Text `Irpin` is too small at 10px
+    * Text `Kyiv` is too small at 9px
+    * Text `100 ft` is too small at 10px
+    * Text `Irpin River` is too small at 9px
+    * Text `Evacuees huddled under ` is too small at 9px
+    * Text `destroyed bridge, one of ` is too small at 9px
+    * Text `the main escape routes out of Irpin` is too small at 9px
+    * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
    * Text `IRPIN` overlaps with `Irpin River` at screen width 400
@@ -525,19 +480,20 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/**
 
-* Image `clo.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `lux.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `tob.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `voo.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `dis.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `enem.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `haddad.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `unesp.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `enemrac.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `cloro.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `bolsodad.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `scrap.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `eddie.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `clo.jpeg` missing `alt` tag
+    * Image `lux.jpg` missing `alt` tag
+    * Image `tob.jpeg` missing `alt` tag
+    * Image `voo.jpeg` missing `alt` tag
+    * Image `dis.jpg` missing `alt` tag
+    * Image `enem.png` missing `alt` tag
+    * Image `haddad.jpeg` missing `alt` tag
+    * Image `unesp.jpeg` missing `alt` tag
+    * Image `enemrac.jpeg` missing `alt` tag
+    * Image `cloro.jpeg` missing `alt` tag
+    * Image `bolsodad.jpeg` missing `alt` tag
+    * Image `scrap.jpeg` missing `alt` tag
+    * Image `eddie.jpeg` missing `alt` tag
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
@@ -546,18 +502,16 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `18k` is too small at 7px
-   * Text `17k` is too small at 7px
-   * Text `16k` is too small at 7px
-   * Text `15k` is too small at 7px
-   * Text `14k` is too small at 7px
-   * Text `13k` is too small at 7px
-   * Text `12k` is too small at 7px
-   * Text `11k` is too small at 7px
-   * Text `10k` is too small at 7px
-   * Text `9k` is too small at 7px
-   * *and 34 more*
+    * Text `18k` is too small at 7px
+    * Text `17k` is too small at 7px
+    * Text `16k` is too small at 7px
+    * Text `15k` is too small at 7px
+    * Text `14k` is too small at 7px
+    * Text `13k` is too small at 7px
+    * Text `12k` is too small at 7px
+    * *and 37 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -567,17 +521,14 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `20 K` is too small at 6px
-   * Text `15 K` is too small at 6px
-   * Text `10.7 K` is too small at 5px
-   * Text `Gun ownership ` is too small at 5px
-   * Text `rules change` is too small at 5px
-   * Text `10 K` is too small at 6px
-   * Text `4.5 K` is too small at 6px
-   * Text `Bolsonaro is ` is too small at 6px
-   * Text `elected` is too small at 6px
-   * Text `5 K` is too small at 6px
-   * *and 91 more*
+    * Text `20 K` is too small at 6px
+    * Text `15 K` is too small at 6px
+    * Text `10.7 K` is too small at 5px
+    * Text `Gun ownership ` is too small at 5px
+    * Text `rules change` is too small at 5px
+    * Text `10 K` is too small at 6px
+    * Text `4.5 K` is too small at 6px
+    * *and 94 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2019` overlaps with `2018` at screen width 400
    * Text `2019` overlaps with `2018` at screen width 900
@@ -610,7 +561,8 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
-* Image `shot.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `shot.png` missing `alt` tag
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -621,17 +573,14 @@ No issues found! 🎉
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Entire home/apt` is too small at 8px
-   * Text `Private Room` is too small at 8px
-   * Text `Shared room` is too small at 8px
-   * Text `Hotel room` is too small at 8px
-   * Text `14.2%` is too small at 10px
-   * Text `Entire home/apt` is too small at 8px
-   * Text `25.2` is too small at 10px
-   * Text `Private Room` is too small at 8px
-   * Text `39.6` is too small at 10px
-   * Text `Shared room` is too small at 8px
-   * *and 10 more*
+    * Text `Entire home/apt` is too small at 8px
+    * Text `Private Room` is too small at 8px
+    * Text `Shared room` is too small at 8px
+    * Text `Hotel room` is too small at 8px
+    * Text `14.2%` is too small at 10px
+    * Text `Entire home/apt` is too small at 8px
+    * Text `25.2` is too small at 10px
+    * *and 13 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `14.2%` overlaps with `34.3%` at screen width 400
    * Text `14.2%` overlaps with `34.3%` at screen width 400
@@ -640,14 +589,12 @@ No issues found! 🎉
    * Text `39.6` overlaps with `56.9` at screen width 400
    * Text `43.8` overlaps with `80.4` at screen width 400
    * Text `14.2%` overlaps with `34.3%` at screen width 900
-   * Text `14.2%` overlaps with `34.3%` at screen width 900
-   * Text `34.3%` overlaps with `34.3%` at screen width 900
-   * Text `25.2` overlaps with `53.7` at screen width 900
-   * *and 8 more*
+   * *and 11 more*
 
 **https://mishavaid7.github.io/Wordle-Webpage/**
 
-* Image `pink.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `pink.png` missing `alt` tag
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -669,16 +616,18 @@ No issues found! 🎉
 
 **https://msc-joel.github.io/**
 
-* Image `profile-image.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `fb.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `twitter.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `linkedin.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `profile-image.png` missing `alt` tag
+    * Image `fb.png` missing `alt` tag
+    * Image `twitter.png` missing `alt` tag
+    * Image `linkedin.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article1.html**
 
-* Image `inflation-pic.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `inflation-graph.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `inflation-pic.jpg` missing `alt` tag
+    * Image `inflation-graph.png` missing `alt` tag
 * Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 **https://msc-joel.github.io/main-article3.html**
@@ -690,17 +639,14 @@ No issues found! 🎉
 * Move `main-article4.html` into a folder called `main-article4`, then rename the file `index.html`. That way the project can be found at **/main-article4** instead of **/main-article4.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `5%` is too small at 8px
-   * Text `5%` is too small at 8px
-   * Text `Estonia` is too small at 9px
-   * Text `Sweden` is too small at 9px
-   * Text `Bulgaria` is too small at 9px
-   * Text `France` is too small at 9px
-   * Text `Finland` is too small at 9px
-   * Text `Latvia` is too small at 9px
-   * Text `Spain` is too small at 9px
-   * Text `Ireland` is too small at 9px
-   * *and 32 more*
+    * Text `5%` is too small at 8px
+    * Text `5%` is too small at 8px
+    * Text `Estonia` is too small at 9px
+    * Text `Sweden` is too small at 9px
+    * Text `Bulgaria` is too small at 9px
+    * Text `France` is too small at 9px
+    * Text `Finland` is too small at 9px
+    * *and 35 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `34%` overlaps with `34%` at screen width 400
    * Text `5%` overlaps with `5%` at screen width 400
@@ -709,29 +655,24 @@ No issues found! 🎉
    * Text `38%` overlaps with `38%` at screen width 400
    * Text `46%` overlaps with `46%` at screen width 400
    * Text `51%` overlaps with `51%` at screen width 400
-   * Text `48%` overlaps with `48%` at screen width 400
-   * Text `55%` overlaps with `55%` at screen width 400
-   * Text `42%` overlaps with `42%` at screen width 400
-   * *and 139 more*
+   * *and 142 more*
 
 **https://msc-joel.github.io/main-article5.html**
 
-* Image `Russian_energy.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `Russian_energy.jpg` missing `alt` tag
 * Needs a title, add a `<title>` tag to the `<head>`
 * Move `main-article5.html` into a folder called `main-article5`, then rename the file `index.html`. That way the project can be found at **/main-article5** instead of **/main-article5.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `97%` is too small at 9px
-   * Text `95%` is too small at 9px
-   * Text `93%` is too small at 9px
-   * Text `78%` is too small at 9px
-   * Text `77%` is too small at 9px
-   * Text `75%` is too small at 9px
-   * Text `75%` is too small at 9px
-   * Text `74%` is too small at 9px
-   * Text `74%` is too small at 9px
-   * Text `72%` is too small at 9px
-   * *and 10 more*
+    * Text `97%` is too small at 9px
+    * Text `95%` is too small at 9px
+    * Text `93%` is too small at 9px
+    * Text `78%` is too small at 9px
+    * Text `77%` is too small at 9px
+    * Text `75%` is too small at 9px
+    * Text `75%` is too small at 9px
+    * *and 13 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `97%` overlaps with `95%` at screen width 400
    * Text `95%` overlaps with `93%` at screen width 400
@@ -740,9 +681,7 @@ No issues found! 🎉
    * Text `75%` overlaps with `75%` at screen width 400
    * Text `75%` overlaps with `74%` at screen width 400
    * Text `74%` overlaps with `74%` at screen width 400
-   * Text `74%` overlaps with `72%` at screen width 400
-   * Text `75%` overlaps with `74%` at screen width 900
-   * Text `75%` overlaps with `74%` at screen width 1300
+   * *and 3 more*
 
 
 
@@ -752,11 +691,11 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
-|[Music in Men's Figure Skating](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/figure_skate_music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure_skate_music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure_skate_music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure_skate_music_index.html-wide-full.jpg)|
-|[Rodents complaints](https://naokatoh.github.io/nycrats/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://naokatoh.github.io/figure_skate_music/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
-|[Where to Find Uni in the US](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea_urchin_index.html-wide-full.jpg)|
-|[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://naokatoh.github.io/sea_urchin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -767,46 +706,36 @@ No issues found! 🎉
 
 **https://naokatoh.github.io/figure_skate_music/**
 
-* Image `https://gh-card.dev/repos/naokatoh/figure_skate_music.svg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://naokatoh.github.io/nycrats/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://naokatoh.github.io/oscar-anime/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text ` Not Disney/ Pixar` is too small at 10px
+    * Text ` Not Disney/ Pixar` is too small at 10px
 
 **https://naokatoh.github.io/sea_urchin/**
 
-* Image `https://gh-card.dev/repos/naokatoh/sea_urchin.svg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://naokatoh.github.io/ukraine/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Morocco` is too small at 9px
-   * Text `Iraq` is too small at 9px
-   * Text `Nigeria` is too small at 9px
-   * Text `Nigeria` is too small at 9px
-   * Text `Russia` is too small at 9px
-   * Text `Turkey` is too small at 9px
-   * Text `Azerbaijan` is too small at 9px
-   * Text `Turkmenistan` is too small at 9px
-   * Text `9734` is too small at 8px
-   * Text `9979` is too small at 9px
-   * *and 18 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Nigeria` overlaps with `Nigeria` at screen width 400
-   * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 400
-   * Text `Nigeria` overlaps with `Nigeria` at screen width 900
-   * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 900
-   * Text `Nigeria` overlaps with `Nigeria` at screen width 1300
-   * Text `Uzbekistan` overlaps with `Uzbekistan` at screen width 1300
+   * Text `Turkey` overlaps with `Azerbaijan` at screen width 400
+   * Text `Turkmenistan` overlaps with `China` at screen width 900
+   * Text `Turkey` overlaps with `Azerbaijan` at screen width 900
+   * Text `Turkmenistan` overlaps with `China` at screen width 1300
+   * Text `Turkey` overlaps with `Azerbaijan` at screen width 1300
 
 
 
@@ -815,8 +744,8 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Prinz Magtulis](https://pmagtulis.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
-|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
+|[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
+|[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
 |[One person is driving up 311 calls about air quality in Manhattan  Prinz Magtulis](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
 |[Duterte sets record in conflict killings due to siege in South  Prinz Magtulis](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
 |[Here are the vote-rich areas for the 2022 Philippine polls  Prinz Magtulis](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
@@ -832,73 +761,28 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/**
 
-* Image `https://pmagtulis.github.io/charts/nyc_trainpic.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://pmagtulis.github.io/charts/port.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://pmagtulis.github.io/charts/franchise_games.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://pmagtulis.github.io/charts/voters_map.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://pmagtulis.github.io/charts/marawi_siege.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Complaints about air` is too small at 10px
-   * Text `quality hit a record-high` is too small at 10px
-   * Text `in January 2022 ` is too small at 10px
-   * Text `800` is too small at 8px
-   * Text `complaints` is too small at 8px
-   * Text `600` is too small at 8px
-   * Text `400` is too small at 8px
-   * Text `200` is too small at 8px
-   * Text `0` is too small at 8px
-   * Text `2008` is too small at 8px
-   * *and 52 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2008` overlaps with `2004` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2020` at screen width 400
-   * Text `2004` overlaps with `2008` at screen width 400
-   * Text `2008` overlaps with `2012` at screen width 400
-   * *and 64 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Deaths per 100,000 population ` is too small at 8px
-   * Text `(2016-2019)` is too small at 8px
-   * Text `120` is too small at 7px
-   * Text `40` is too small at 7px
-   * Text `20` is too small at 7px
-   * Text `Deaths per 100,000 population ` is too small at 8px
-   * Text `(2016-2019)` is too small at 8px
-   * Text `120` is too small at 7px
-   * Text `40` is too small at 7px
-   * Text `20` is too small at 7px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Caloocan` is too small at 8px
-   * Text `700,279` is too small at 8px
-   * Text `Quezon City` is too small at 8px
-   * Text `1,403,895` is too small at 8px
-   * Text `Manila` is too small at 8px
-   * Text `1,112,081` is too small at 8px
-   * Text `Entire NCR:` is too small at 8px
-   * Text `7,301,393` is too small at 8px
+    * Text `Caloocan` is too small at 8px
+    * Text `700,279` is too small at 8px
+    * Text `Quezon City` is too small at 8px
+    * Text `1,403,895` is too small at 8px
+    * Text `Manila` is too small at 8px
+    * Text `1,112,081` is too small at 8px
+    * Text `Entire NCR:` is too small at 8px
+    * *and 1 more*
 
 **https://pmagtulis.github.io/projects/trains/**
 
@@ -910,13 +794,12 @@ No issues found! 🎉
    * Text `Jun` overlaps with `Feb` at screen width 900
    * Text `2021` overlaps with `2022` at screen width 900
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
-   * Text `Jun` overlaps with `Feb` at screen width 1300
-   * Text `2021` overlaps with `2022` at screen width 1300
+   * *and 2 more*
 
 **https://pmagtulis.github.io/projects/video-games/**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text ` ` is too small at 10px
+    * Text ` ` is too small at 10px
 
 
 
@@ -925,9 +808,9 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[index.html](https://pmartisa.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
-|[project_one/index.html](https://pmartisa.github.io/project_one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-wide-full.jpg)|
-|[project_three/index.html](https://pmartisa.github.io/project_three/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_three_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_three_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_three_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_three_index.html-wide-full.jpg)|
+|[Patricia's website](https://pmartisa.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
+|[Article on the Olympics](https://pmartisa.github.io/project_one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://pmartisa.github.io/project_three/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[project_two/index.html](https://pmartisa.github.io/project_two/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_two_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_two_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_two_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-wide-full.jpg)|
 |[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
 
@@ -936,23 +819,18 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/**
 
-* Image `./project_three/oil_russian.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./website/CGW63ZFEXC5BOMMJ7GSPLKVNFY.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./website/271681803_470688881345369_9114073044683232908_n.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./project_two/complaints_pct.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Needs a title, add a `<title>` tag to the `<head>`
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./viz_writing_data/casinos.png` missing `alt` tag
+    * Image `./project_two/complaints_pct.png` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text ` ` is too small at 9px
-   * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
-   * Text `2018` is too small at 9px
-   * Text `+13.4 pts.` is too small at 9px
-   * Text `2016` is too small at 9px
-   * Text `1.2` is too small at 9px
-   * Text `2014` is too small at 9px
-   * Text `3.0` is too small at 9px
-   * Text `2012` is too small at 9px
-   * Text `1.5` is too small at 9px
-   * *and 31 more*
+    * Text ` ` is too small at 9px
+    * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
+    * Text `2018` is too small at 9px
+    * Text `+13.4 pts.` is too small at 9px
+    * Text `2016` is too small at 9px
+    * Text `1.2` is too small at 9px
+    * Text `2014` is too small at 9px
+    * *and 34 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2018` at screen width 400
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `+13.4 pts.` at screen width 400
@@ -960,49 +838,25 @@ No issues found! 🎉
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `1.2` at screen width 400
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2014` at screen width 400
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `3.0` at screen width 400
-   * Text ` ` overlaps with `2012` at screen width 400
-   * Text ` ` overlaps with `1.5` at screen width 400
    * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `2012` at screen width 400
-   * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `1.5` at screen width 400
-   * *and 242 more*
+   * *and 235 more*
 
 **https://pmartisa.github.io/project_one/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 
 **https://pmartisa.github.io/project_three/index.html**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Stronger colors for countries that haven’t imposed` is too small at 8px
-   * Text `any sanction.` is too small at 8px
-   * Text `China` is too small at 10px
-   * Text `more than 1.5 million barrels per day` is too small at 9px
-   * Text `Netherlands` is too small at 10px
-   * Text `640,000` is too small at 9px
-   * Text `barrels/day` is too small at 9px
-   * Text `Belarus` is too small at 10px
-   * Text `297,000` is too small at 9px
-   * Text `barrels/day` is too small at 9px
-   * *and 89 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 400
-   * Text `Nigeria` overlaps with `Yemen` at screen width 400
-   * Text `894,72` overlaps with `880,507` at screen width 400
-   * Text `Azerbaijan` overlaps with `Bangladesh` at screen width 900
-   * Text `Nigeria` overlaps with `Yemen` at screen width 900
-   * Text `894,72` overlaps with `880,507` at screen width 900
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Myriad Concept Roman"` font not found, used in 7 text objects. Example: _Stronger colors for countries that haven’t imposed, any sanction., Stronger colors for countries that _
-   * `"Myriad Pro"` font not found, used in 29 text objects. Example: _more than 1.5 million barrels per day, 640,000, barrels/day_
-   * `"Times Roman"` font not found, used in 153 text objects. Example: _Moderately Low (10% - 20%), Very High (above 40%), Prevalence of insufficient_
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmartisa.github.io/project_two/index.html**
 
-* Image `pct_killing.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `complaints_pct.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `pct_killing.png` missing `alt` tag
+    * Image `complaints_pct.png` missing `alt` tag
 * Needs a title, add a `<title>` tag to the `<head>`
 * Change URL to use `-` instead of spaces or underscores
 
@@ -1018,10 +872,7 @@ No issues found! 🎉
    * Text `Tetuan` overlaps with `Usera` at screen width 400
    * Text `Usera` overlaps with `Centro` at screen width 400
    * Text `32` overlaps with `31` at screen width 400
-   * Text `Centro` overlaps with `Ciudad lineal` at screen width 400
-   * Text `31` overlaps with `28` at screen width 400
-   * Text `Ciudad lineal` overlaps with `Latina` at screen width 400
-   * *and 51 more*
+   * *and 54 more*
 
 
 
@@ -1053,10 +904,7 @@ No issues found! 🎉
    * Text `160` overlaps with `140` at screen width 400
    * Text `Air Quality` overlaps with `Jan` at screen width 400
    * Text `140` overlaps with `120` at screen width 400
-   * Text `120` overlaps with `100` at screen width 400
-   * Text `100` overlaps with `80` at screen width 400
-   * Text `80` overlaps with `60` at screen width 400
-   * *and 55 more*
+   * *and 58 more*
 
 **https://sarahgrevy.github.io/co2_emission**
 
@@ -1068,7 +916,8 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/wordle**
 
-* Image `./img/wordle-bar2.svg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./img/wordle-bar2.svg` missing `alt` tag
 
 
 
@@ -1088,75 +937,73 @@ No issues found! 🎉
 
 **https://semerriam.github.io/**
 
-* Image `imgs/capd.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/pj-infrasound-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/census-quirks-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/Critics'_Choice_map_screenshot.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/crt1_sm.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `projects/pj-mylla/imgs/pj-mylla4-thumbnail.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/election_2020polls_sm.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/fastco_10-18-20.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/vox_05-15-19.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/fastco_09-12-19.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/nbc_04-13-19.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/washpo_11-19-18.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/hyperallergic_11-20-18.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/wmarch1.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/sem_paris2sm.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/graph2.jpg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/capd.jpg` missing `alt` tag
+    * Image `imgs/pj-infrasound-thumbnail.png` missing `alt` tag
+    * Image `imgs/census-quirks-thumbnail.png` missing `alt` tag
+    * Image `imgs/ec-thumbnail.png` missing `alt` tag
+    * Image `imgs/Critics'_Choice_map_screenshot.png` missing `alt` tag
+    * Image `imgs/crt1_sm.png` missing `alt` tag
+    * Image `projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png` missing `alt` tag
+    * Image `projects/pj-mylla/imgs/pj-mylla4-thumbnail.png` missing `alt` tag
+    * Image `imgs/election_2020polls_sm.jpg` missing `alt` tag
+    * Image `imgs/fastco_10-18-20.png` missing `alt` tag
+    * Image `imgs/vox_05-15-19.png` missing `alt` tag
+    * Image `imgs/fastco_09-12-19.png` missing `alt` tag
+    * Image `imgs/nbc_04-13-19.png` missing `alt` tag
+    * Image `imgs/washpo_11-19-18.png` missing `alt` tag
+    * Image `imgs/hyperallergic_11-20-18.png` missing `alt` tag
+    * Image `imgs/wmarch1.jpg` missing `alt` tag
+    * Image `imgs/sem_paris2sm.jpg` missing `alt` tag
+    * Image `imgs/graph2.jpg` missing `alt` tag
 
 **https://semerriam.github.io/nicar_first_visual_story**
 
-* Image `https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://semerriam.github.io/projects/pj-census-quirks**
 
-* Image `imgs/census-quirks-img2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/census-quirks-img3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/census-quirks-img4.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/census-quirks-img5.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/census-quirks-img2.png` missing `alt` tag
+    * Image `imgs/census-quirks-img3.png` missing `alt` tag
+    * Image `imgs/census-quirks-img4.png` missing `alt` tag
+    * Image `imgs/census-quirks-img5.png` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `0` is too small at 10px
-   * Text `200` is too small at 10px
-   * Text `400` is too small at 10px
-   * Text `600` is too small at 10px
-   * Text `800` is too small at 10px
-   * Text `1000` is too small at 10px
-   * Text `1200` is too small at 10px
-   * Text `1400` is too small at 10px
-   * Text `1600` is too small at 10px
-   * Text `1800` is too small at 10px
-   * *and 20 more*
+    * Text `0` is too small at 10px
+    * Text `200` is too small at 10px
+    * Text `400` is too small at 10px
+    * Text `600` is too small at 10px
+    * Text `800` is too small at 10px
+    * Text `1000` is too small at 10px
+    * Text `1200` is too small at 10px
+    * *and 23 more*
 
 **https://semerriam.github.io/projects/pj-ec-schools**
 
-* Image `imgs/ec-16.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-17.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-8.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-10.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-9.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-13.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-15.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-14.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/ec-12.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/ec-16.png` missing `alt` tag
+    * Image `imgs/ec-17.png` missing `alt` tag
+    * Image `imgs/ec-8.png` missing `alt` tag
+    * Image `imgs/ec-10.png` missing `alt` tag
+    * Image `imgs/ec-9.png` missing `alt` tag
+    * Image `imgs/ec-3.png` missing `alt` tag
+    * Image `imgs/ec-13.png` missing `alt` tag
+    * Image `imgs/ec-15.png` missing `alt` tag
+    * Image `imgs/ec-14.png` missing `alt` tag
+    * Image `imgs/ec-12.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `150k` is too small at 9px
-   * Text `150k` is too small at 9px
-   * Text `100 ` is too small at 9px
-   * Text `100 ` is too small at 9px
-   * Text `50` is too small at 9px
-   * Text `50` is too small at 9px
-   * Text `0` is too small at 9px
-   * Text `0` is too small at 9px
-   * Text `0` is too small at 9px
-   * Text `10` is too small at 9px
-   * *and 60 more*
+    * Text `150k` is too small at 9px
+    * Text `150k` is too small at 9px
+    * Text `100 ` is too small at 9px
+    * Text `100 ` is too small at 9px
+    * Text `50` is too small at 9px
+    * Text `50` is too small at 9px
+    * Text `0` is too small at 9px
+    * *and 63 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `North Andover` overlaps with `1,048` at screen width 400
    * Text `North Andover` overlaps with `511` at screen width 400
@@ -1167,40 +1014,33 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
-* Image `imgs/infrasound-10-1.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-4.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-5.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-6.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-7.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-8.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-9.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `imgs/infrasound-10-10.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/infrasound-10-1.png` missing `alt` tag
+    * Image `imgs/infrasound-10-2.png` missing `alt` tag
+    * Image `imgs/infrasound-10-3.png` missing `alt` tag
+    * Image `imgs/infrasound-10-4.png` missing `alt` tag
+    * Image `imgs/infrasound-10-5.png` missing `alt` tag
+    * Image `imgs/infrasound-10-6.png` missing `alt` tag
+    * Image `imgs/infrasound-10-7.png` missing `alt` tag
+    * Image `imgs/infrasound-10-8.png` missing `alt` tag
+    * Image `imgs/infrasound-10-9.png` missing `alt` tag
+    * Image `imgs/infrasound-10-10.png` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `44,083 Hz` is too small at 10px
-   * Text `44,083 Hz` is too small at 10px
-   * Text `7.5` is too small at 6px
-   * Text `7.5` is too small at 6px
-   * Text `5.0` is too small at 6px
-   * Text `5.0` is too small at 6px
-   * Text `2.5` is too small at 6px
-   * Text `2.5` is too small at 6px
-   * Text `0` is too small at 6px
-   * Text `0` is too small at 6px
-   * *and 101 more*
+    * Text `44,083 Hz` is too small at 10px
+    * Text `44,083 Hz` is too small at 10px
+    * Text `7.5` is too small at 6px
+    * Text `7.5` is too small at 6px
+    * Text `5.0` is too small at 6px
+    * Text `5.0` is too small at 6px
+    * Text `2.5` is too small at 6px
+    * *and 104 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `0` overlaps with `0` at screen width 400
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
-   * Text `7.5` overlaps with `7.5` at screen width 1300
-   * Text `5.0` overlaps with `5.0` at screen width 1300
-   * Text `2.5` overlaps with `2.5` at screen width 1300
    * Text `0` overlaps with `0` at screen width 1300
-   * Text `-2.5` overlaps with `-2.5` at screen width 1300
-   * *and 11 more*
+   * Text `20` overlaps with `20` at screen width 1300
 
 
 
@@ -1232,27 +1072,21 @@ No issues found! 🎉
    * Text `Block` overlaps with `South` at screen width 400
    * Text `RAJPATH` overlaps with `South` at screen width 400
    * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
-   * *and 156 more*
+   * *and 159 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Source Sans Pro"` font not found, used in 106 text objects. Example: _1930s - 1940s, 1950s - 1960s, 1970s-2000s_
+    * `"Source Sans Pro"` font not found, used in 106 text objects. Example: _1930s - 1940s, 1950s - 1960s, 1970s-2000s_
 
 **https://sriharshadevulapalli.github.io/indian-airline-routes/index.html**
 
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Delhi` is too small at 10px
-   * Text `Guwahati` is too small at 10px
-   * Text `Ahmedabad` is too small at 10px
-   * Text `Kolkata` is too small at 10px
-   * Text `Mumbai` is too small at 10px
-   * Text `Pune` is too small at 10px
-   * Text `Hyderabad` is too small at 10px
-   * Text `Bengaluru` is too small at 10px
-   * Text `Chennai` is too small at 10px
-   * Text `Kochi` is too small at 10px
-   * *and 45 more*
+    * Text `Delhi` is too small at 10px
+    * Text `Guwahati` is too small at 10px
+    * Text `Ahmedabad` is too small at 10px
+    * Text `Kolkata` is too small at 10px
+    * Text `Mumbai` is too small at 10px
+    * Text `Pune` is too small at 10px
+    * Text `Hyderabad` is too small at 10px
+    * *and 48 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1930s - 1940s` overlaps with `1950s - 1960s` at screen width 400
    * Text `1950s - 1960s` overlaps with `1970s-2000s` at screen width 400
@@ -1261,12 +1095,9 @@ No issues found! 🎉
    * Text `Block` overlaps with `South` at screen width 400
    * Text `RAJPATH` overlaps with `South` at screen width 400
    * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * Text `Bhawan` overlaps with `Block` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Baroda` at screen width 400
-   * Text `The six most powerful princely states in the Empire were given plots of land to build their embassies in the capital of the empire.` overlaps with `Bhawan` at screen width 400
-   * *and 289 more*
+   * *and 292 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-   * `"Source Sans Pro"` font not found, used in 204 text objects. Example: _Air India, The national, carrier has the_
+    * `"Source Sans Pro"` font not found, used in 204 text objects. Example: _Air India, The national, carrier has the_
 
 **https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/**
 
@@ -1290,36 +1121,36 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
-|[Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
-|["The Cost of COVID"](https://srjouppi.github.io/covid-gofundme-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
-|[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
+|[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
+|[Shelby Jouppi - Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
+|[Shelby Jouppi - The Cost of COVID](https://srjouppi.github.io/covid-gofundme-analysis/)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
+|[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://srjouppi.github.io/**
 
-* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png` missing `alt` tag
+    * Image `https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png` missing `alt` tag
+    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png` missing `alt` tag
+    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png` missing `alt` tag
+    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png` missing `alt` tag
+    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png` missing `alt` tag
 
 **https://srjouppi.github.io/colorado-parks-mobility/**
 
-No issues found! 🎉
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `deer-creek-trail.png` missing `alt` tag
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `Source: health.data.ny.gov “Medicaid Program Enrollment by Month Beginning 2009” - Aug. 2021 enrollment` is too small at 10px
+No issues found! 🎉
 
 
 
@@ -1339,19 +1170,21 @@ No issues found! 🎉
 
 **https://stephenanti.github.io/**
 
-* Image `profile-pic.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `twitter-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `instagram-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `linkedin-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `email-icon.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `profile-pic.png` missing `alt` tag
+    * Image `twitter-icon.png` missing `alt` tag
+    * Image `instagram-icon.png` missing `alt` tag
+    * Image `linkedin-icon.png` missing `alt` tag
+    * Image `email-icon.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
-* Image `brooklyn.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `graph1.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `graph2.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `graph3.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `brooklyn.jpeg` missing `alt` tag
+    * Image `graph1.png` missing `alt` tag
+    * Image `graph2.png` missing `alt` tag
+    * Image `graph3.png` missing `alt` tag
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1362,17 +1195,14 @@ No issues found! 🎉
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-   * Text `9` is too small at 9px
-   * Text `8` is too small at 9px
-   * Text `7` is too small at 9px
-   * Text `6` is too small at 9px
-   * Text `54` is too small at 9px
-   * Text `52` is too small at 9px
-   * Text `51` is too small at 9px
-   * Text `30` is too small at 9px
-   * Text `20` is too small at 9px
-   * Text `10` is too small at 9px
-   * *and 5 more*
+    * Text `9` is too small at 9px
+    * Text `8` is too small at 9px
+    * Text `7` is too small at 9px
+    * Text `6` is too small at 9px
+    * Text `54` is too small at 9px
+    * Text `52` is too small at 9px
+    * Text `51` is too small at 9px
+    * *and 8 more*
 
 **https://stephenanti.github.io/scrollyprojectAntii.html**
 
@@ -1404,14 +1234,16 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
-* Image `assets/portfolio/filter.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/portfolio/analysis.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/portfolio/infographic.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `assets/portfolio/filter.png` missing `alt` tag
+    * Image `assets/portfolio/analysis.png` missing `alt` tag
+    * Image `assets/portfolio/infographic.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
-* Image `assets/piedmont_park.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `assets/piedmont_park.png` missing `alt` tag
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
@@ -1424,9 +1256,10 @@ No issues found! 🎉
 
 **https://tanazm.github.io/marathonmap/**
 
-* Image `./images/park.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./images/dumbo.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./images/elevation.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./images/park.png` missing `alt` tag
+    * Image `./images/dumbo.png` missing `alt` tag
+    * Image `./images/elevation.png` missing `alt` tag
 
 **https://tanazm.github.io/TXwind/**
 
@@ -1453,10 +1286,11 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/**
 
-* Image `https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./football_penalties/assets/raiders_penalty_categories.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./assets/glass_room.gif` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `./santa_barbara_wine/assets/santa_barbara_yelp.png` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif` missing `alt` tag
+    * Image `./football_penalties/assets/raiders_penalty_categories.png` missing `alt` tag
+    * Image `./assets/glass_room.gif` missing `alt` tag
+    * Image `./santa_barbara_wine/assets/santa_barbara_yelp.png` missing `alt` tag
 
 **https://vincentvb.github.io/football_penalties/**
 
@@ -1478,11 +1312,12 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/ukraine_invasion/**
 
-* Image `assets/ukraine_2014.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/putin_speech.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/kyiv.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/kharkav.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/kherson.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image `assets/tank.jpeg` missing `alt` tag, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `assets/ukraine_2014.jpeg` missing `alt` tag
+    * Image `assets/putin_speech.jpeg` missing `alt` tag
+    * Image `assets/kyiv.jpeg` missing `alt` tag
+    * Image `assets/kharkav.jpeg` missing `alt` tag
+    * Image `assets/kherson.jpeg` missing `alt` tag
+    * Image `assets/tank.jpeg` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 
