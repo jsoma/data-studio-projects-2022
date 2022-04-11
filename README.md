@@ -365,9 +365,9 @@ No issues found! 🎉
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/agritech-investment/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://kfalayi.github.io/Food_price_Nigeria/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -415,8 +415,11 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/Food_price_Nigeria/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/hispanics in america/**
 
@@ -424,7 +427,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -436,6 +438,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -479,7 +482,6 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `18k` is too small at 7px
     * Text `17k` is too small at 7px
@@ -736,7 +738,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -757,14 +761,15 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/trains/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
    * Text `Jun` overlaps with `Feb` at screen width 900
    * Text `2021` overlaps with `2022` at screen width 900
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
-   * Text `Jun` overlaps with `Feb` at screen width 1300
-   * Text `2021` overlaps with `2022` at screen width 1300
+   * *and 2 more*
 
 **https://pmagtulis.github.io/projects/video-games/**
 
@@ -782,7 +787,7 @@ No issues found! 🎉
 |[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
 |[Article focused on Russian oil and wheat exports](https://pmartisa.github.io/project-russia-exports/)|[![mobile](screenshots/pmartisa.github.io/project-russia-exports_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-russia-exports_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-russia-exports_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-wide-full.jpg)|
 |[Article focused on domestic violence in Spain](https://pmartisa.github.io/project-domestic-violence/)|[![mobile](screenshots/pmartisa.github.io/project-domestic-violence_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-domestic-violence_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-domestic-violence_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-domestic-violence_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-domestic-violence_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-domestic-violence_index.html-wide-full.jpg)|
-|[Article on the Olympics](https://pmartisa.github.io/project-olympics/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project-olympics_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-olympics_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-olympics_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-wide-full.jpg)|
+|[Article on the Olympics](https://pmartisa.github.io/project-olympics/)|[![mobile](screenshots/pmartisa.github.io/project-olympics_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-olympics_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-olympics_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -792,24 +797,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./viz_writing_data/casinos.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text ` ` is too small at 9px
-    * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
-    * Text `2018` is too small at 9px
-    * Text `+13.4 pts.` is too small at 9px
-    * Text `2016` is too small at 9px
-    * Text `1.2` is too small at 9px
-    * Text `2014` is too small at 9px
-    * *and 34 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2018` at screen width 400
-   * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `+13.4 pts.` at screen width 400
-   * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2016` at screen width 400
-   * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `1.2` at screen width 400
-   * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2014` at screen width 400
-   * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `3.0` at screen width 400
-   * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `2012` at screen width 400
-   * *and 305 more*
 
 **https://pmartisa.github.io/scrollytelling_project/**
 
@@ -828,7 +815,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -839,16 +825,15 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `barrels/day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
-   * Text `297,000` overlaps with `barrels/day` at screen width 900
-   * Text `Slovakia` overlaps with `Turkey` at screen width 900
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
-   * Text `297,000` overlaps with `barrels/day` at screen width 1300
-   * *and 2 more*
+   * Text `297,000` overlaps with `640,000` at screen width 400
+   * Text `297,000` overlaps with `300,000` at screen width 400
+   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
+   * Text `297,000` overlaps with `640,000` at screen width 900
+   * Text `297,000` overlaps with `300,000` at screen width 900
+   * Text `297,000` overlaps with `640,000` at screen width 1300
+   * Text `297,000` overlaps with `300,000` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
@@ -1127,7 +1112,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
