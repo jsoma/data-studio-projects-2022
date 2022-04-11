@@ -479,6 +479,7 @@ No issues found! 🎉
 **https://luizftoledo.github.io/ibama_sanctions/**
 
 * Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `18k` is too small at 7px
     * Text `17k` is too small at 7px
@@ -1141,7 +1142,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
