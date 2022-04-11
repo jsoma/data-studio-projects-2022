@@ -100,9 +100,9 @@ https://stephenanti.github.io/scrollyprojectAntii.html
 https://stephenanti.github.io/yam.html
 https://tanazm.github.io/
 https://tanazm.github.io/ATLparks/
-https://tanazm.github.io/Libraries/
+https://tanazm.github.io/publiclibraries/
 https://tanazm.github.io/marathonmap/
-https://tanazm.github.io/TXwind/
+https://tanazm.github.io/texaswind/
 https://vincentvb.github.io/
 https://vincentvb.github.io/football_penalties/
 https://vincentvb.github.io/game_reviews
