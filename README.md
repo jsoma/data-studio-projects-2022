@@ -362,10 +362,10 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/agritech-investment/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
-|[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/agritech-investment/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/bloomberg/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
+|[Kunle Falayi's Portfolio](https://kfalayi.github.io/Food_price_Nigeria/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food_price_Nigeria_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/hispanics in america/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics%20in%20america_index.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 
@@ -424,6 +424,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -435,7 +436,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -736,9 +736,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -759,15 +757,14 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/trains/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
    * Text `Jun` overlaps with `Feb` at screen width 900
    * Text `2021` overlaps with `2022` at screen width 900
    * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
-   * *and 2 more*
+   * Text `Jun` overlaps with `Feb` at screen width 1300
+   * Text `2021` overlaps with `2022` at screen width 1300
 
 **https://pmagtulis.github.io/projects/video-games/**
 
@@ -1236,10 +1233,7 @@ No issues found! 🎉
 
 **https://tanazm.github.io/marathonmap/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./images/park.png` missing `alt` tag
-    * Image `./images/dumbo.png` missing `alt` tag
-    * Image `./images/elevation.png` missing `alt` tag
+No issues found! 🎉
 
 **https://tanazm.github.io/texaswind/**
 
