@@ -831,6 +831,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -841,15 +842,16 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `640,000` at screen width 400
-   * Text `297,000` overlaps with `300,000` at screen width 400
-   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
-   * Text `297,000` overlaps with `640,000` at screen width 900
-   * Text `297,000` overlaps with `300,000` at screen width 900
-   * Text `297,000` overlaps with `640,000` at screen width 1300
-   * Text `297,000` overlaps with `300,000` at screen width 1300
+   * Text `297,000` overlaps with `barrels/day` at screen width 400
+   * Text `Slovakia` overlaps with `Turkey` at screen width 400
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `barrels/day` at screen width 900
+   * Text `Slovakia` overlaps with `Turkey` at screen width 900
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * *and 2 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
@@ -1053,10 +1055,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/)|[![mobile](screenshots/sriharshadevulapalli.github.io/index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-wide-full.jpg)|
-|[This is your title](https://sriharshadevulapalli.github.io/central-vista/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
-|[This is your title](https://sriharshadevulapalli.github.io/indian-airline-routes/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
-|[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-full.jpg)|
-|[Harsha - Indian Rainfall](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
+|[This is your title](https://sriharshadevulapalli.github.io/central-vista/)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
+|[This is your title](https://sriharshadevulapalli.github.io/indian-airline-routes/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
+|[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)|[![mobile](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-full.jpg)|
+|[This is your title](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1089,18 +1091,9 @@ No issues found! 🎉
     * Text `Mumbai` is too small at 10px
     * Text `Pune` is too small at 10px
     * Text `Hyderabad` is too small at 10px
-    * *and 48 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1930s - 1940s` overlaps with `1950s - 1960s` at screen width 400
-   * Text `1950s - 1960s` overlaps with `1970s-2000s` at screen width 400
-   * Text `1970s-2000s` overlaps with `2000s - Present` at screen width 400
-   * Text `Block` overlaps with `Rashtrapati` at screen width 400
-   * Text `Block` overlaps with `South` at screen width 400
-   * Text `RAJPATH` overlaps with `South` at screen width 400
-   * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * *and 292 more*
+    * *and 35 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Source Sans Pro"` font not found, used in 204 text objects. Example: _Air India, The national, carrier has the_
+    * `"Source Sans Pro"` font not found, used in 84 text objects. Example: _Air India, The national, carrier has the_
 
 **https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/**
 
@@ -1108,14 +1101,9 @@ No issues found! 🎉
 
 **https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `compared to historical average (1950-2000)` overlaps with `Extreme Deficient` at screen width 400
-   * Text `The Gangetic Plain ranging from Haryana to West Bengal has seen a decline in annual rainfall in the 2010s compared to their historical average` overlaps with `Lucknow` at screen width 400
-   * Text `The Gangetic Plain ranging from Haryana to West Bengal has seen a decline in annual rainfall in the 2010s compared to their historical average` overlaps with `Guwahati` at screen width 400
-   * Text `The Gangetic Plain ranging from Haryana to West Bengal has seen a decline in annual rainfall in the 2010s compared to their historical average` overlaps with `Patna` at screen width 400
-   * Text `The Gangetic Plain ranging from Haryana to West Bengal has seen a decline in annual rainfall in the 2010s compared to their historical average` overlaps with `Kolkata` at screen width 400
-   * Text `The Gangetic Plain ranging from Haryana to West Bengal has seen a decline in annual rainfall in the 2010s compared to their historical average` overlaps with `Source : Pai D.S., Latha Sridhar, Rajeevan M., Sreejith O.P., Satbhai N.S. and Mukhopadhyay B., 2014: Development of a new high spatial resolution (0.25° X 0.25°)Long period (1901-2010) daily gridded rainfall data set over India and its comparison with existing data sets over the region; MAUSAM, 65, 1(January 2014), pp1-18.` at screen width 400
-   * Text `Bengaluru` overlaps with `Chennai` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"Source Sans Pro"` font not found, used in 57 text objects. Example: _Change in Annual Rainfall (2010s), compared to historical average (1950-2000), Extreme Deficient_
 
 
 
@@ -1142,7 +1130,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
@@ -1220,34 +1208,27 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
-|[ATL parks](https://tanazm.github.io/ATLparks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/ATLparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/ATLparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/ATLparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/ATLparks_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://tanazm.github.io/ATLparks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Libraries](https://tanazm.github.io/publiclibraries/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
 |[Mapbox Storytelling](https://tanazm.github.io/marathonmap/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
-|[texaswind/index.html](https://tanazm.github.io/texaswind/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
+|[Texas wind energy](https://tanazm.github.io/texaswind/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://tanazm.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `assets/portfolio/filter.png` missing `alt` tag
-    * Image `assets/portfolio/analysis.png` missing `alt` tag
-    * Image `assets/portfolio/infographic.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/ATLparks/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `assets/piedmont_park.png` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/publiclibraries/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `assets/publiclibrary.png` missing `alt` tag
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
@@ -1262,8 +1243,7 @@ No issues found! 🎉
 
 **https://tanazm.github.io/texaswind/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 
 
@@ -1273,48 +1253,43 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Vincent Van Buskirk](https://vincentvb.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/index.html-wide-full.jpg)|
-|[football_penalties/index.html](https://vincentvb.github.io/football_penalties/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/football_penalties_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/football_penalties_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/football_penalties_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/football_penalties_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/football_penalties_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/football_penalties_index.html-wide-full.jpg)|
-|[game_reviews/index.html](https://vincentvb.github.io/game_reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/game_reviews_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/game_reviews_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/game_reviews_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/game_reviews_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/game_reviews_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/game_reviews_index.html-wide-full.jpg)|
-|[santa_barbara_wine/index.html](https://vincentvb.github.io/santa_barbara_wine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/santa_barbara_wine_index.html-wide-full.jpg)|
-|[Mapbox Storytelling](https://vincentvb.github.io/ukraine_invasion/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/ukraine_invasion_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/ukraine_invasion_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/ukraine_invasion_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/ukraine_invasion_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/ukraine_invasion_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/ukraine_invasion_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://vincentvb.github.io/football_penalties/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://vincentvb.github.io/game_reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://vincentvb.github.io/santa_barbara_wine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://vincentvb.github.io/ukraine_invasion/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://vincentvb.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://media.giphy.com/media/z2CoJ2yWu1TndW4h6k/giphy.gif` missing `alt` tag
-    * Image `./football_penalties/assets/raiders_penalty_categories.png` missing `alt` tag
-    * Image `./assets/glass_room.gif` missing `alt` tag
-    * Image `./santa_barbara_wine/assets/santa_barbara_yelp.png` missing `alt` tag
+No issues found! 🎉
 
 **https://vincentvb.github.io/football_penalties/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://vincentvb.github.io/game_reviews**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://vincentvb.github.io/santa_barbara_wine/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://vincentvb.github.io/ukraine_invasion/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `assets/ukraine_2014.jpeg` missing `alt` tag
-    * Image `assets/putin_speech.jpeg` missing `alt` tag
-    * Image `assets/kyiv.jpeg` missing `alt` tag
-    * Image `assets/kharkav.jpeg` missing `alt` tag
-    * Image `assets/kherson.jpeg` missing `alt` tag
-    * Image `assets/tank.jpeg` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
