@@ -35,8 +35,8 @@ Quick checks to make sure your pages are looking their best.
 |[Chuqin Jiang's Incredible Portfolio](https://angelinejcq.github.io/)|[![mobile](screenshots/angelinejcq.github.io/index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-wide-full.jpg)|
 |[Welcome to my bubble tea shop project](https://angelinejcq.github.io/bubble-tea-project/)|[![mobile](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-full.jpg)|
 |[Welcome to my NEO project](https://angelinejcq.github.io/near-earth-objects-project/)|[![mobile](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-full.jpg)|
-|[project-plane-crash/index.html](https://angelinejcq.github.io/project-plane-crash/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-full.jpg)|
-|[Women trafficking in China](https://angelinejcq.github.io/woman-trafficking-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-full.jpg)|
+|[Welcome to my plane crash project](https://angelinejcq.github.io/project-plane-crash/)|[![mobile](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-full.jpg)|
+|[Women trafficking in China](https://angelinejcq.github.io/woman-trafficking-project/)|[![mobile](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -55,31 +55,21 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/project-plane-crash/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Fatality` is too small at 8px
+    * Text `Fatalities` is too small at 8px
     * Text `1` is too small at 8px
     * Text `160` is too small at 8px
-    * Text `On Nov. 21, 2004, a plane stalled and crashed into a lake less than one minute after taking off from Baotou Airport.` is too small at 10px
-    * Text ` ` is too small at 10px
-    * *and 7 more*
+    * Text `Guangzhou` is too small at 10px
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `|` is too small at 8px
-    * Text `|` is too small at 8px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Guizhou:` overlaps with `Yunnan:` at screen width 400
-   * Text `115` overlaps with `Yunnan:` at screen width 400
-   * Text `115` overlaps with `Guangxi:` at screen width 400
-   * Text `Yunnan:` overlaps with `Guangxi:` at screen width 400
-   * Text `176` overlaps with `Guangxi:` at screen width 400
-   * Text `176` overlaps with `107` at screen width 400
-   * Text `107` overlaps with `Fujian: 303` at screen width 400
-   * *and 5 more*
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Open Sans"` font not found, used in 143 text objects. Example: _Hebei: 116, Shandong: 137, Henan: 298_
+   * Text `gender ratio` overlaps with `92.29` at screen width 400
+   * Text `92.29` overlaps with `of marriageable age` at screen width 400
+   * Text `97.59` overlaps with `Hebei` at screen width 400
+   * Text `97.59` overlaps with `Hebei` at screen width 900
+   * Text `97.59` overlaps with `Hebei` at screen width 1300
 
 
 
@@ -878,8 +868,8 @@ No issues found! 🎉
 |---|---|---|---|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/air)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/air_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/air_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/air_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-wide-full.jpg)|
-|[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/co2_emission)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/co2_emission_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/co2_emission_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/co2_emission_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/co2_emission_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/co2_emission_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/co2_emission_index.html-wide-full.jpg)|
-|[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/weather_project)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/weather_project_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/weather_project_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/weather_project_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/weather_project_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/weather_project_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/weather_project_index.html-wide-full.jpg)|
+|[Annie Wu - 404](https://sarahgrevy.github.io/co2_emission)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Annie Wu - 404](https://sarahgrevy.github.io/weather_project)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/wordle)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/wordle_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/wordle_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/wordle_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-wide-full.jpg)|
 
 
@@ -903,16 +893,19 @@ No issues found! 🎉
 
 **https://sarahgrevy.github.io/co2_emission**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://sarahgrevy.github.io/weather_project**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://sarahgrevy.github.io/wordle**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `./img/wordle-bar2.svg` missing `alt` tag
+No issues found! 🎉
 
 
 
@@ -1126,18 +1119,11 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/child-mind-01.png` missing `alt` tag
-    * Image `https://raw.githubusercontent.com/srjouppi/michigan-air-polluters-dataset-map/main/screenshots/violations-map-alt-2.png` missing `alt` tag
-    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/covid-gofundme-analysis/covid-go-fund-me-cropped.png` missing `alt` tag
-    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/colorado-parks-usage.png` missing `alt` tag
-    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/ukrainian-schools-nyc.png` missing `alt` tag
-    * Image `https://raw.githubusercontent.com/srjouppi/srjouppi.github.io/main/images/indoctrination-chart.png` missing `alt` tag
+No issues found! 🎉
 
 **https://srjouppi.github.io/colorado-parks-mobility/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `deer-creek-trail.png` missing `alt` tag
+No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
@@ -1204,7 +1190,6 @@ No issues found! 🎉
 * Needs a title, add a `<title>` tag to the `<head>`
 * Move `scrollyprojectAntii.html` into a folder called `scrollyprojectAntii`, then rename the file `index.html`. That way the project can be found at **/scrollyprojectAntii** instead of **/scrollyprojectAntii.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/yam.html**
 
