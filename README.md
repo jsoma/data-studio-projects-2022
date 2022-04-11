@@ -34,7 +34,7 @@ Quick checks to make sure your pages are looking their best.
 |---|---|---|---|
 |[Chuqin Jiang's Incredible Portfolio](https://angelinejcq.github.io/)|[![mobile](screenshots/angelinejcq.github.io/index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-wide-full.jpg)|
 |[Welcome to my bubble tea shop project](https://angelinejcq.github.io/bubble-tea-project/)|[![mobile](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-full.jpg)|
-|[Welcome to my NEO project](https://angelinejcq.github.io/near-earth-objects-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-full.jpg)|
+|[Welcome to my NEO project](https://angelinejcq.github.io/near-earth-objects-project/)|[![mobile](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-full.jpg)|
 |[project-plane-crash/index.html](https://angelinejcq.github.io/project-plane-crash/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-full.jpg)|
 |[Women trafficking in China](https://angelinejcq.github.io/woman-trafficking-project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-full.jpg)|
 
@@ -51,12 +51,11 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/near-earth-objects-project/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
 
 **https://angelinejcq.github.io/project-plane-crash/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Fatality` is too small at 8px
     * Text `1` is too small at 8px
@@ -223,14 +222,7 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-languages**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Spanish -35.2K` overlaps with `Italian` at screen width 400
-   * Text `Italian` overlaps with `Russian` at screen width 400
-   * Text `Polish` overlaps with `Other Indic` at screen width 400
-   * Text `Chinese 47.9K` overlaps with `Urdu` at screen width 400
-   * Text `Urdu` overlaps with `Other Asian` at screen width 400
-   * Text `Other Asian` overlaps with `Other African` at screen width 400
-   * Text `Other African` overlaps with `Arabic` at screen width 400
+No issues found! 🎉
 
 **https://ilenapeng.github.io/nyc-open-streets/**
 
@@ -695,10 +687,10 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Nao Hidaka Kato](https://naokatoh.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
+|[Nao Hidaka Kato](https://naokatoh.github.io/)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
 |[Music in Men's Figure Skating](https://naokatoh.github.io/figure-skate-music/)|[![mobile](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-full.jpg)|
 |[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
-|[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
+|[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
 |[Where to Find Uni in the US](https://naokatoh.github.io/sea-urchin/)|[![mobile](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-full.jpg)|
 |[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
 
@@ -721,7 +713,7 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text ` Not Disney/ Pixar` is too small at 10px
+    * Text `Not Disney/ Pixar` is too small at 10px
 
 **https://naokatoh.github.io/sea-urchin/**
 
@@ -799,7 +791,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -810,10 +801,10 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Patricia's website](https://pmartisa.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
-|[Article on the Olympics](https://pmartisa.github.io/project_one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_one_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_one_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_one_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_one_index.html-wide-full.jpg)|
+|[Patricia's website](https://pmartisa.github.io/)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://pmartisa.github.io/project_one/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://pmartisa.github.io/project_three/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[project_two/index.html](https://pmartisa.github.io/project_two/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/project_two_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project_two_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project_two_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project_two_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://pmartisa.github.io/project_two/index.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
 
 
@@ -823,7 +814,7 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./viz_writing_data/casinos.png` missing `alt` tag
-    * Image `./project_two/complaints_pct.png` missing `alt` tag
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `Average lead in early generic polls for the party in power or the party out of power .` is too small at 10px
@@ -841,11 +832,14 @@ No issues found! 🎉
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `2014` at screen width 400
    * Text `2018 Doesn’t Look Quite Like Other Election Cycles` overlaps with `3.0` at screen width 400
    * Text `Average lead in early generic polls for the party in power or the party out of power .` overlaps with `2012` at screen width 400
-   * *and 235 more*
+   * *and 305 more*
 
 **https://pmartisa.github.io/project_one/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmartisa.github.io/project_three/index.html**
 
@@ -856,11 +850,10 @@ No issues found! 🎉
 
 **https://pmartisa.github.io/project_two/index.html**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `pct_killing.png` missing `alt` tag
-    * Image `complaints_pct.png` missing `alt` tag
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmartisa.github.io/scrollytelling_project/**
 
@@ -1148,7 +1141,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
