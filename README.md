@@ -471,15 +471,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -706,9 +698,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -783,6 +773,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -793,15 +784,16 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `640,000` at screen width 400
-   * Text `297,000` overlaps with `300,000` at screen width 400
-   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
-   * Text `297,000` overlaps with `640,000` at screen width 900
-   * Text `297,000` overlaps with `300,000` at screen width 900
-   * Text `297,000` overlaps with `640,000` at screen width 1300
-   * Text `297,000` overlaps with `300,000` at screen width 1300
+   * Text `297,000` overlaps with `barrels/day` at screen width 400
+   * Text `Slovakia` overlaps with `Turkey` at screen width 400
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `barrels/day` at screen width 900
+   * Text `Slovakia` overlaps with `Turkey` at screen width 900
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * *and 2 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
@@ -881,37 +873,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Susan Merriam](https://semerriam.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
+|[Susan Merriam Portfolio](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
 |[First Visual Story](https://semerriam.github.io/nicar_first_visual_story)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj-census-quirks)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj-ec-schools)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
-|[Susan Merriam](https://semerriam.github.io/projects/pj-infrasound/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
+|[Census Peculiarities in Incarcerated Populations](https://semerriam.github.io/projects/pj-census-quirks)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
+|[Investigating Inequalities of Essex County](https://semerriam.github.io/projects/pj-ec-schools)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
+|[The Horror of Infrasound](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://semerriam.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `imgs/capd.jpg` missing `alt` tag
-    * Image `imgs/pj-infrasound-thumbnail.png` missing `alt` tag
-    * Image `imgs/census-quirks-thumbnail.png` missing `alt` tag
-    * Image `imgs/ec-thumbnail.png` missing `alt` tag
-    * Image `imgs/pj-weather-thumbnail.png` missing `alt` tag
-    * Image `imgs/Critics'_Choice_map_screenshot.png` missing `alt` tag
-    * Image `imgs/crt1_sm.png` missing `alt` tag
-    * Image `projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png` missing `alt` tag
-    * Image `projects/pj-mylla/imgs/pj-mylla4-thumbnail.png` missing `alt` tag
-    * Image `imgs/election_2020polls_sm.jpg` missing `alt` tag
-    * Image `imgs/fastco_10-18-20.png` missing `alt` tag
-    * Image `imgs/vox_05-15-19.png` missing `alt` tag
-    * Image `imgs/fastco_09-12-19.png` missing `alt` tag
-    * Image `imgs/nbc_04-13-19.png` missing `alt` tag
-    * Image `imgs/washpo_11-19-18.png` missing `alt` tag
-    * Image `imgs/hyperallergic_11-20-18.png` missing `alt` tag
-    * Image `imgs/wmarch1.jpg` missing `alt` tag
-    * Image `imgs/sem_paris2sm.jpg` missing `alt` tag
-    * Image `imgs/graph2.jpg` missing `alt` tag
+No issues found! 🎉
 
 **https://semerriam.github.io/nicar_first_visual_story**
 
@@ -1061,7 +1034,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
