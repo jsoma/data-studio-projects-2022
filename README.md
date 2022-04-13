@@ -396,7 +396,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 34 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -452,31 +452,18 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
-|[Brazilian people are paying for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
-|[Under Bolsonaro, Brazil has sanctioned less companies for environmental crimes](https://luizftoledo.github.io/ibama_sanctions/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama_sanctions_index.html-wide-full.jpg)|
-|[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
-|[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
+|[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
+|[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://luizftoledo.github.io/ibama_sanctions/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
+|[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://luizftoledo.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `clo.jpeg` missing `alt` tag
-    * Image `lux.jpg` missing `alt` tag
-    * Image `tob.jpeg` missing `alt` tag
-    * Image `voo.jpeg` missing `alt` tag
-    * Image `dis.jpg` missing `alt` tag
-    * Image `enem.png` missing `alt` tag
-    * Image `haddad.jpeg` missing `alt` tag
-    * Image `unesp.jpeg` missing `alt` tag
-    * Image `enemrac.jpeg` missing `alt` tag
-    * Image `cloro.jpeg` missing `alt` tag
-    * Image `bolsodad.jpeg` missing `alt` tag
-    * Image `scrap.jpeg` missing `alt` tag
-    * Image `eddie.jpeg` missing `alt` tag
+No issues found! 🎉
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
@@ -484,20 +471,14 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama_sanctions/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `18k` is too small at 7px
-    * Text `17k` is too small at 7px
-    * Text `16k` is too small at 7px
-    * Text `15k` is too small at 7px
-    * Text `14k` is too small at 7px
-    * Text `13k` is too small at 7px
-    * Text `12k` is too small at 7px
-    * *and 37 more*
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://luizftoledo.github.io/weapons-seized/**
 
@@ -523,10 +504,10 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Misha Vaid](https://mishavaid7.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-wide-full.jpg)|
-|[Airbnb Story](https://mishavaid7.github.io/Airbnb-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-full.jpg)|
-|[NYC Restaurant Grade Story](https://mishavaid7.github.io/NYCRestaurants-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-wide-full.jpg)|
-|[Airbnb Story](https://mishavaid7.github.io/Project-4/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Project-4_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Project-4_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Project-4_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-wide-full.jpg)|
+|[Misha Vaid](https://mishavaid7.github.io/)|[![mobile](screenshots/mishavaid7.github.io/index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://mishavaid7.github.io/Airbnb-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://mishavaid7.github.io/NYCRestaurants-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://mishavaid7.github.io/Project-4/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Wordle Cheaters](https://mishavaid7.github.io/Wordle-Webpage/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-full.jpg)|
 
 
@@ -534,44 +515,28 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://mishavaid7.github.io/Airbnb-Story/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `shot.png` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://mishavaid7.github.io/Project-4/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Entire home/apt` is too small at 8px
-    * Text `Private Room` is too small at 8px
-    * Text `Shared room` is too small at 8px
-    * Text `Hotel room` is too small at 8px
-    * Text `14.2%` is too small at 10px
-    * Text `Entire home/apt` is too small at 8px
-    * Text `25.2` is too small at 10px
-    * *and 13 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `14.2%` overlaps with `34.3%` at screen width 400
-   * Text `14.2%` overlaps with `34.3%` at screen width 400
-   * Text `34.3%` overlaps with `34.3%` at screen width 400
-   * Text `25.2` overlaps with `53.7` at screen width 400
-   * Text `39.6` overlaps with `56.9` at screen width 400
-   * Text `43.8` overlaps with `80.4` at screen width 400
-   * Text `14.2%` overlaps with `34.3%` at screen width 900
-   * *and 11 more*
 
 **https://mishavaid7.github.io/Wordle-Webpage/**
 
@@ -598,11 +563,6 @@ No issues found! 🎉
 
 **https://msc-joel.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `profile-image.png` missing `alt` tag
-    * Image `fb.png` missing `alt` tag
-    * Image `twitter.png` missing `alt` tag
-    * Image `linkedin.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article1.html**
@@ -611,10 +571,12 @@ No issues found! 🎉
     * Image `inflation-pic.jpg` missing `alt` tag
     * Image `inflation-graph.png` missing `alt` tag
 * Move `main-article1.html` into a folder called `main-article1`, then rename the file `index.html`. That way the project can be found at **/main-article1** instead of **/main-article1.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article3.html**
 
 * Move `main-article3.html` into a folder called `main-article3`, then rename the file `index.html`. That way the project can be found at **/main-article3** instead of **/main-article3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://msc-joel.github.io/main-article4.html**
 
@@ -637,7 +599,7 @@ No issues found! 🎉
    * Text `38%` overlaps with `38%` at screen width 400
    * Text `46%` overlaps with `46%` at screen width 400
    * Text `51%` overlaps with `51%` at screen width 400
-   * *and 142 more*
+   * *and 134 more*
 
 **https://msc-joel.github.io/main-article5.html**
 
@@ -737,7 +699,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
@@ -931,6 +893,7 @@ No issues found! 🎉
     * Image `imgs/pj-infrasound-thumbnail.png` missing `alt` tag
     * Image `imgs/census-quirks-thumbnail.png` missing `alt` tag
     * Image `imgs/ec-thumbnail.png` missing `alt` tag
+    * Image `imgs/pj-weather-thumbnail.png` missing `alt` tag
     * Image `imgs/Critics'_Choice_map_screenshot.png` missing `alt` tag
     * Image `imgs/crt1_sm.png` missing `alt` tag
     * Image `projects/pj-women-entrepreneurs/imgs/pj-women-entrepreneurs-thumbnail.png` missing `alt` tag
@@ -1039,10 +1002,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/)|[![mobile](screenshots/sriharshadevulapalli.github.io/index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-wide-full.jpg)|
-|[Evolution of the Central Vista](https://sriharshadevulapalli.github.io/central-vista/)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
+|[This is your title](https://sriharshadevulapalli.github.io/central-vista/)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
 |[Indian Airline Routes](https://sriharshadevulapalli.github.io/indian-airline-routes/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
 |[Indian Food in New York City](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)|[![mobile](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-full.jpg)|
-|[Rainfall Patterns in India](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
+|[Central Vista](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1053,29 +1016,13 @@ No issues found! 🎉
 
 **https://sriharshadevulapalli.github.io/central-vista/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1930s - 1940s` overlaps with `1950s - 1960s` at screen width 400
-   * Text `1950s - 1960s` overlaps with `1970s-2000s` at screen width 400
-   * Text `1970s-2000s` overlaps with `2000s - Present` at screen width 400
-   * Text `Block` overlaps with `Rashtrapati` at screen width 400
-   * Text `Block` overlaps with `South` at screen width 400
-   * Text `RAJPATH` overlaps with `South` at screen width 400
-   * Text `Rashtrapati` overlaps with `South` at screen width 400
-   * *and 159 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Source Sans Pro"` font not found, used in 106 text objects. Example: _1930s - 1940s, 1950s - 1960s, 1970s-2000s_
+    * `"Source Sans Pro"` font not found, used in 51 text objects. Example: _2000s - Present, 1930s - 1940s, 1950s - 1960s_
 
 **https://sriharshadevulapalli.github.io/indian-airline-routes/index.html**
 
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Delhi` is too small at 9px
-    * Text `Guwahati` is too small at 9px
-    * Text `Ahmedabad` is too small at 9px
-    * Text `Kolkata` is too small at 9px
-    * Text `Mumbai` is too small at 9px
-    * Text `Pune` is too small at 9px
-    * Text `Hyderabad` is too small at 9px
-    * *and 3 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"Source Sans Pro"` font not found, used in 56 text objects. Example: _Air India, The national, carrier has the_
 
 **https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/**
 
@@ -1110,7 +1057,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
@@ -1134,12 +1081,6 @@ No issues found! 🎉
 
 **https://stephenanti.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `profile-pic.png` missing `alt` tag
-    * Image `twitter-icon.png` missing `alt` tag
-    * Image `instagram-icon.png` missing `alt` tag
-    * Image `linkedin-icon.png` missing `alt` tag
-    * Image `email-icon.png` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
@@ -1187,11 +1128,11 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Tanaz Meghjani's portfolio](https://tanazm.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://tanazm.github.io/ATLparks/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Libraries](https://tanazm.github.io/publiclibraries/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
-|[Mapbox Storytelling](https://tanazm.github.io/marathonmap/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
-|[Texas wind energy](https://tanazm.github.io/texaswind/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
+|[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
+|[Atlanta parks](https://tanazm.github.io/atlantaparks/)|[![mobile](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/atlantaparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/atlantaparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/publiclibraries/)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
+|[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
+|[Texas wind energy](https://tanazm.github.io/texaswind/)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1200,12 +1141,9 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://tanazm.github.io/ATLparks/**
+**https://tanazm.github.io/atlantaparks/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://tanazm.github.io/publiclibraries/**
 
@@ -1229,7 +1167,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Vincent Van Buskirk](https://vincentvb.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/index.html-wide-full.jpg)|
+|[Vincent Van Buskirk](https://vincentvb.github.io/)|[![mobile](screenshots/vincentvb.github.io/index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/index.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://vincentvb.github.io/football_penalties/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://vincentvb.github.io/game_reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page not found · GitHub Pages](https://vincentvb.github.io/santa_barbara_wine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
