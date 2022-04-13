@@ -430,7 +430,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -442,6 +441,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -505,7 +505,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Misha Vaid](https://mishavaid7.github.io/)|[![mobile](screenshots/mishavaid7.github.io/index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-wide-full.jpg)|
-|[Airbnb Story](https://mishavaid7.github.io/Airbnb-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-full.jpg)|
+|[Airbnb Story](https://mishavaid7.github.io/Airbnb-Story/)|[![mobile](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Airbnb-Story_index.html-wide-full.jpg)|
 |[NYC Restaurant Grade Story](https://mishavaid7.github.io/NYCRestaurants-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/NYCRestaurants-Story_index.html-wide-full.jpg)|
 |[Airbnb Story](https://mishavaid7.github.io/Project-4/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Project-4_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Project-4_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Project-4_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Project-4_index.html-wide-full.jpg)|
 |[Wordle Cheaters](https://mishavaid7.github.io/Wordle-Webpage/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-full.jpg)|
@@ -520,7 +520,6 @@ No issues found! 🎉
 **https://mishavaid7.github.io/Airbnb-Story/**
 
 * Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 
 **https://mishavaid7.github.io/NYCRestaurants-Story/**
 
