@@ -454,7 +454,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
 |[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://luizftoledo.github.io/ibama_sanctions/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Under Bolsonaro, Brazil has sanctioned less companies for environmental crimes](https://luizftoledo.github.io/ibama-sanctions/)|[![mobile](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-full.jpg)|
 |[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
 |[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
 
@@ -469,11 +469,8 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://luizftoledo.github.io/ibama_sanctions/**
+**https://luizftoledo.github.io/ibama-sanctions/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
@@ -505,10 +502,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Misha Vaid](https://mishavaid7.github.io/)|[![mobile](screenshots/mishavaid7.github.io/index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://mishavaid7.github.io/Airbnb-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://mishavaid7.github.io/NYCRestaurants-Story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://mishavaid7.github.io/Project-4/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Wordle Cheaters](https://mishavaid7.github.io/Wordle-Webpage/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/Wordle-Webpage_index.html-wide-full.jpg)|
+|[Airbnb Story](https://mishavaid7.github.io/airbnb-story/)|[![mobile](screenshots/mishavaid7.github.io/airbnb-story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/airbnb-story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/airbnb-story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-story_index.html-wide-full.jpg)|
+|[NYC Restaurant Grade Story](https://mishavaid7.github.io/rest-story/)|[![mobile](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/rest-story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/rest-story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-wide-full.jpg)|
+|[Airbnb Story](https://mishavaid7.github.io/airbnb-update/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/airbnb-update_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/airbnb-update_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/airbnb-update_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-wide-full.jpg)|
+|[Wordle Cheaters](https://mishavaid7.github.io/wordle/)|[![mobile](screenshots/mishavaid7.github.io/wordle_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/wordle_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/wordle_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -517,33 +514,31 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://mishavaid7.github.io/Airbnb-Story/**
+**https://mishavaid7.github.io/airbnb-story/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
+
+**https://mishavaid7.github.io/rest-story/**
+
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://mishavaid7.github.io/NYCRestaurants-Story/**
+**https://mishavaid7.github.io/airbnb-update/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `14.2%` overlaps with `34.3%` at screen width 400
+   * Text `25.2` overlaps with `53.7` at screen width 400
+   * Text `56.9` overlaps with `39.6` at screen width 400
+   * Text `43.8` overlaps with `80.4` at screen width 400
+   * Text `14.2%` overlaps with `34.3%` at screen width 900
+   * Text `25.2` overlaps with `53.7` at screen width 900
+   * Text `56.9` overlaps with `39.6` at screen width 900
+   * *and 5 more*
 
-**https://mishavaid7.github.io/Project-4/**
-
-* Could not access the page - if you moved it, let me know
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-**https://mishavaid7.github.io/Wordle-Webpage/**
+**https://mishavaid7.github.io/wordle/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `pink.png` missing `alt` tag
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+    * Image `pink.png alt=` missing `alt` tag
 
 
 
@@ -703,9 +698,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -738,6 +731,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -780,6 +774,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -790,19 +785,21 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `640,000` at screen width 400
-   * Text `297,000` overlaps with `300,000` at screen width 400
-   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
-   * Text `297,000` overlaps with `640,000` at screen width 900
-   * Text `297,000` overlaps with `300,000` at screen width 900
-   * Text `297,000` overlaps with `640,000` at screen width 1300
-   * Text `297,000` overlaps with `300,000` at screen width 1300
+   * Text `297,000` overlaps with `barrels/day` at screen width 400
+   * Text `Slovakia` overlaps with `Turkey` at screen width 400
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `barrels/day` at screen width 900
+   * Text `Slovakia` overlaps with `Turkey` at screen width 900
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * *and 2 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `The Basque ` is too small at 10px
     * Text `Country` is too small at 10px
@@ -813,14 +810,14 @@ No issues found! 🎉
     * Text `La Rioja` is too small at 10px
     * *and 137 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `The Basque` overlaps with `Cantabria` at screen width 400
    * Text `Country` overlaps with `Cantabria` at screen width 400
    * Text `0` overlaps with `-` at screen width 400
    * Text `0` overlaps with `0` at screen width 400
    * Text `0` overlaps with `.` at screen width 400
    * Text `0` overlaps with `2` at screen width 400
-   * Text `0` overlaps with `%` at screen width 400
-   * *and 341 more*
+   * Text `-` overlaps with `0` at screen width 400
+   * Text `-` overlaps with `.` at screen width 400
+   * *and 323 more*
 
 **https://pmartisa.github.io/project-olympics/**
 
@@ -1057,7 +1054,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
