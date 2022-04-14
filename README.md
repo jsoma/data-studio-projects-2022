@@ -136,13 +136,13 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Areena Arora](https://areenaarora.com/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/index.html-medium-thumb.jpg)](screenshots/areenaarora.com/index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/index.html-wide-thumb.jpg)](screenshots/areenaarora.com/index.html-wide-full.jpg)|
-|[Uttarakhand-floods](https://areenaarora.com/stories/uttarakhand-floods/)<br>:x: og:title<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_uttarakhand-floods_index.html-wide-full.jpg)|
-|[Inside r/place](https://areenaarora.com/stories/r-place/)<br>:x: og:title<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_r-place_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_r-place_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_r-place_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_r-place_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_r-place_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_r-place_index.html-wide-full.jpg)|
-|[Style-Guides](https://areenaarora.com/stories/style-guides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_style-guides_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_style-guides_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_style-guides_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_style-guides_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_style-guides_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_style-guides_index.html-wide-full.jpg)|
-|[Best Biryani](https://areenaarora.com/stories/biryani/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_biryani_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_biryani_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_biryani_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_biryani_index.html-wide-full.jpg)|
-|[New York State spills](https://areenaarora.com/stories/ny-state-spills/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_ny-state-spills_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_ny-state-spills_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_ny-state-spills_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_ny-state-spills_index.html-wide-full.jpg)|
-|[COVID-vaccines](https://areenaarora.com/stories/vaccines/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/stories_vaccines_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_vaccines_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_vaccines_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_vaccines_index.html-wide-full.jpg)|
+|[Areena Arora](https://areenaarora.com/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/index.html-medium-thumb.jpg)](screenshots/areenaarora.com/index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/index.html-wide-thumb.jpg)](screenshots/areenaarora.com/index.html-wide-full.jpg)|
+|[Page Not Found](https://areenaarora.com/stories/uttarakhand-floods/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/r-place/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/style-guides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/biryani/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/ny-state-spills/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/vaccines/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
@@ -153,42 +153,27 @@ No issues found! 🎉
 
 **https://areenaarora.com/stories/uttarakhand-floods/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `kedarnath-temple.jpg` missing `alt` tag
-    * Image `uttarakhand.jpg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Could not access the page - if you moved it, let me know
 
 **https://areenaarora.com/stories/r-place/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `final-rplace.png` missing `alt` tag
-    * Image `final.png` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Could not access the page - if you moved it, let me know
 
 **https://areenaarora.com/stories/style-guides/**
 
-No issues found! 🎉
+* Could not access the page - if you moved it, let me know
 
 **https://areenaarora.com/stories/biryani/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `biryani-new.jpg` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Could not access the page - if you moved it, let me know
 
 **https://areenaarora.com/stories/ny-state-spills/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `food-spill.png` missing `alt` tag
-    * Image `queens-spills.png` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Could not access the page - if you moved it, let me know
 
 **https://areenaarora.com/stories/vaccines/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Pfizer` is too small at 10px
-    * Text `0` is too small at 10px
-    * Text `Source: CDC` is too small at 10px
+* Could not access the page - if you moved it, let me know
 
 
 
@@ -473,15 +458,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -708,9 +685,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -785,6 +760,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -795,19 +771,21 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `640,000` at screen width 400
-   * Text `297,000` overlaps with `300,000` at screen width 400
-   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
-   * Text `297,000` overlaps with `640,000` at screen width 900
-   * Text `297,000` overlaps with `300,000` at screen width 900
-   * Text `297,000` overlaps with `640,000` at screen width 1300
-   * Text `297,000` overlaps with `300,000` at screen width 1300
+   * Text `297,000` overlaps with `barrels/day` at screen width 400
+   * Text `Slovakia` overlaps with `Turkey` at screen width 400
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `barrels/day` at screen width 900
+   * Text `Slovakia` overlaps with `Turkey` at screen width 900
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * *and 2 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `The Basque ` is too small at 10px
     * Text `Country` is too small at 10px
@@ -818,14 +796,14 @@ No issues found! 🎉
     * Text `La Rioja` is too small at 10px
     * *and 137 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `The Basque` overlaps with `Cantabria` at screen width 400
    * Text `Country` overlaps with `Cantabria` at screen width 400
    * Text `0` overlaps with `-` at screen width 400
    * Text `0` overlaps with `0` at screen width 400
    * Text `0` overlaps with `.` at screen width 400
    * Text `0` overlaps with `2` at screen width 400
-   * Text `0` overlaps with `%` at screen width 400
-   * *and 341 more*
+   * Text `-` overlaps with `0` at screen width 400
+   * Text `-` overlaps with `.` at screen width 400
+   * *and 323 more*
 
 **https://pmartisa.github.io/project-olympics/**
 
@@ -1042,7 +1020,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
