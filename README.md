@@ -419,6 +419,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -430,7 +431,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -1126,8 +1126,8 @@ No issues found! 🎉
 |---|---|---|---|
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
 |[Atlanta parks](https://tanazm.github.io/atlantaparks/)|[![mobile](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/atlantaparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/atlantaparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-wide-full.jpg)|
-|[Libraries](https://tanazm.github.io/publiclibraries/)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
-|[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/publiclibraries/)|request failed|request failed|request failed|
+|[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|request failed|request failed|request failed|
 |[Texas wind energy](https://tanazm.github.io/texaswind/)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
 
 
@@ -1143,14 +1143,15 @@ No issues found! 🎉
 
 **https://tanazm.github.io/publiclibraries/**
 
+* Could not access the page - if you moved it, let me know
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
+    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away, from public libraries, Residents of southern states live further away _
     * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
 **https://tanazm.github.io/marathonmap/**
 
-No issues found! 🎉
+* Could not access the page - if you moved it, let me know
 
 **https://tanazm.github.io/texaswind/**
 
