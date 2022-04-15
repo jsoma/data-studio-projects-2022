@@ -388,7 +388,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 33 more*
+   * *and 34 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -460,7 +460,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -687,7 +695,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -762,7 +772,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -773,16 +782,15 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `barrels/day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
-   * Text `297,000` overlaps with `barrels/day` at screen width 900
-   * Text `Slovakia` overlaps with `Turkey` at screen width 900
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
-   * Text `297,000` overlaps with `barrels/day` at screen width 1300
-   * *and 2 more*
+   * Text `297,000` overlaps with `640,000` at screen width 400
+   * Text `297,000` overlaps with `300,000` at screen width 400
+   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
+   * Text `297,000` overlaps with `640,000` at screen width 900
+   * Text `297,000` overlaps with `300,000` at screen width 900
+   * Text `297,000` overlaps with `640,000` at screen width 1300
+   * Text `297,000` overlaps with `300,000` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
@@ -1053,7 +1061,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
@@ -1126,8 +1134,8 @@ No issues found! 🎉
 |---|---|---|---|
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
 |[Atlanta parks](https://tanazm.github.io/atlantaparks/)|[![mobile](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/atlantaparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/atlantaparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-wide-full.jpg)|
-|[Libraries](https://tanazm.github.io/publiclibraries/)|request failed|request failed|request failed|
-|[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|request failed|request failed|request failed|
+|[Libraries](https://tanazm.github.io/publiclibraries/)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
+|[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
 |[Texas wind energy](https://tanazm.github.io/texaswind/)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
 
 
@@ -1143,15 +1151,14 @@ No issues found! 🎉
 
 **https://tanazm.github.io/publiclibraries/**
 
-* Could not access the page - if you moved it, let me know
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away, from public libraries, Residents of southern states live further away _
+    * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
     * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
 **https://tanazm.github.io/marathonmap/**
 
-* Could not access the page - if you moved it, let me know
+No issues found! 🎉
 
 **https://tanazm.github.io/texaswind/**
 
