@@ -69,7 +69,7 @@ No issues found! 🎉
    * Text `92.29` overlaps with `of marriageable age` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 900
-   * Text `97.59` overlaps with `Hebei` at screen width 1300
+   * Text `92.29` overlaps with `Anhui` at screen width 1300
 
 
 
@@ -419,6 +419,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -430,7 +431,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -701,13 +701,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -973,8 +967,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1003,8 +995,10 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `0` overlaps with `0` at screen width 1300
-   * Text `20` overlaps with `20` at screen width 1300
+   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
+   * Text `7.5` overlaps with `7.5` at screen width 1300
+   * Text `5.0` overlaps with `5.0` at screen width 1300
+   * *and 14 more*
 
 
 
