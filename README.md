@@ -722,7 +722,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -913,8 +912,10 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `0` overlaps with `0` at screen width 1300
-   * Text `20` overlaps with `20` at screen width 1300
+   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
+   * Text `7.5` overlaps with `7.5` at screen width 1300
+   * Text `5.0` overlaps with `5.0` at screen width 1300
+   * *and 14 more*
 
 **https://semerriam.github.io/projects/pj-census-quirks/**
 
@@ -1056,7 +1057,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
@@ -1127,7 +1128,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
+|[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|request failed|request failed|request failed|
 |[Atlanta parks](https://tanazm.github.io/atlantaparks/)|[![mobile](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/atlantaparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/atlantaparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-wide-full.jpg)|
 |[Libraries](https://tanazm.github.io/publiclibraries/)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
 |[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
@@ -1138,6 +1139,7 @@ No issues found! 🎉
 
 **https://tanazm.github.io/**
 
+* Could not access the page - if you moved it, let me know
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/atlantaparks/**
