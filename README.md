@@ -385,7 +385,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 33 more*
+   * *and 34 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -439,7 +439,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
-|[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|request failed|request failed|request failed|
+|[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
 |[Under Bolsonaro, Brazil has sanctioned less companies for environmental crimes](https://luizftoledo.github.io/ibama-sanctions/)|[![mobile](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-full.jpg)|
 |[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
 |[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
@@ -453,7 +453,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
-* Could not access the page - if you moved it, let me know
+No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
@@ -761,6 +761,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -771,15 +772,16 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `640,000` at screen width 400
-   * Text `297,000` overlaps with `300,000` at screen width 400
-   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
-   * Text `297,000` overlaps with `640,000` at screen width 900
-   * Text `297,000` overlaps with `300,000` at screen width 900
-   * Text `297,000` overlaps with `640,000` at screen width 1300
-   * Text `297,000` overlaps with `300,000` at screen width 1300
+   * Text `297,000` overlaps with `barrels/day` at screen width 400
+   * Text `Slovakia` overlaps with `Turkey` at screen width 400
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `barrels/day` at screen width 900
+   * Text `Slovakia` overlaps with `Turkey` at screen width 900
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * *and 2 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
@@ -957,8 +959,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
