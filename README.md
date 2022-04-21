@@ -719,7 +719,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -744,25 +743,24 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./viz_writing_data/casinos.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
     * Text `All dead are a conservative estimation. The number of killed encompasses both security officials and civilians. Small deadly episodes such as regains of territory by Ethiopian Government or Tigray forces in 2021 haven’t been labeled. Source: ACLED. Patricia MS.` is too small at 10px
     * Text `For years the second most populous country in Africa has faced military and police crackdowns and civilian repression` is too small at 10px
     * Text `4,800 dead` is too small at 8px
-    * Text `in 935 clashes` is too small at 8px
+    * Text `in 935 clashes ` is too small at 8px
     * Text `amid conflict` is too small at 8px
     * Text ` ` is too small at 6px
     * *and 54 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
-   * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
-   * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
    * Text `close to 500 killed` overlaps with `1,000 killed after months of` at screen width 400
    * Text `after security officials` overlaps with `anti-government protets` at screen width 400
    * Text `used excessive force` overlaps with `in 146 clashes in Oromia` at screen width 400
    * Text `civilians` overlaps with `1,575 killed` at screen width 400
-   * *and 17 more*
+   * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
+   * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
+   * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
+   * *and 7 more*
 
 **https://pmartisa.github.io/scrollytelling_project/**
 
