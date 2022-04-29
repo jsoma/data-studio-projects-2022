@@ -83,9 +83,10 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `92.29` overlaps with `Anhui` at screen width 400
+   * Text `gender ratio` overlaps with `92.29` at screen width 400
+   * Text `92.29` overlaps with `of marriageable age` at screen width 400
+   * Text `97.59` overlaps with `Hebei` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 900
    * Text `97.59` overlaps with `Hebei` at screen width 1300
 
@@ -532,7 +533,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 33 more*
+   * *and 32 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -552,7 +553,6 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -563,12 +563,14 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `United Kingdom` overlaps with `France` at screen width 400
+   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `France` overlaps with `France` at screen width 900
-   * Text `Germany` overlaps with `US` at screen width 900
-   * Text `France` overlaps with `France` at screen width 1300
-   * Text `Germany` overlaps with `US` at screen width 1300
+   * Text `2016` overlaps with `2014` at screen width 400
+   * Text `2016` overlaps with `2018` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 39 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -613,7 +615,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
 
 
 
@@ -1019,7 +1022,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Caloocan` is too small at 8px
     * Text `700,279` is too small at 8px
