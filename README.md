@@ -34,6 +34,7 @@ Quick checks to make sure your pages are looking their best.
 |---|---|---|---|
 |[Chuqin Jiang's Incredible Portfolio](https://angelinejcq.github.io/)|[![mobile](screenshots/angelinejcq.github.io/index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/index.html-wide-full.jpg)|
 |[Welcome to my bubble tea shop project](https://angelinejcq.github.io/bubble-tea-project/)|[![mobile](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/bubble-tea-project_index.html-wide-full.jpg)|
+|[An exploration of fancy charts](https://angelinejcq.github.io/fancy-chart)|[![mobile](screenshots/angelinejcq.github.io/fancy-chart_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/fancy-chart_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/fancy-chart_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/fancy-chart_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/fancy-chart_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/fancy-chart_index.html-wide-full.jpg)|
 |[Welcome to my NEO project](https://angelinejcq.github.io/near-earth-objects-project/)|[![mobile](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/near-earth-objects-project_index.html-wide-full.jpg)|
 |[Welcome to my plane crash project](https://angelinejcq.github.io/project-plane-crash/)|[![mobile](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/project-plane-crash_index.html-wide-full.jpg)|
 |[Women trafficking in China](https://angelinejcq.github.io/woman-trafficking-project/)|[![mobile](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-mobile-full.jpg)|[![medium](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-medium-full.jpg)|[![wide](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-thumb.jpg)](screenshots/angelinejcq.github.io/woman-trafficking-project_index.html-wide-full.jpg)|
@@ -48,6 +49,27 @@ No issues found! 🎉
 **https://angelinejcq.github.io/bubble-tea-project/**
 
 No issues found! 🎉
+
+**https://angelinejcq.github.io/fancy-chart**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `MIT` is too small at 10px
+    * Text `Harvard` is too small at 10px
+    * Text `Cornell` is too small at 10px
+    * Text `Yale` is too small at 10px
+    * Text `Marketing and Policy office` is too small at 10px
+    * Text `Microsoft` is too small at 10px
+    * Text `Apple Inc.` is too small at 10px
+    * *and 6 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `MIT` overlaps with `78% of China Telecom entries` at screen width 400
+   * Text `are Data Centre` overlaps with `Harvard` at screen width 400
+   * Text `Harvard` overlaps with `54% of Huawei entries` at screen width 400
+   * Text `Harvard` overlaps with `are Research Partnership` at screen width 400
+   * Text `are Research Partnership` overlaps with `Cornell` at screen width 400
+   * Text `Telecom` overlaps with `Huawei` at screen width 400
+   * Text `Cornell` overlaps with `Huawei` at screen width 400
+   * *and 40 more*
 
 **https://angelinejcq.github.io/near-earth-objects-project/**
 
@@ -76,10 +98,12 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
+|[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/data-viz/gasoline.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/oscars.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_oscars.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_oscars.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_oscars.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/responsive_pages/responsive.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/ricestory.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_ricestory.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_ricestory.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/scrolly.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_scrolly.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_scrolly.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_scrolly.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_scrolly.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_scrolly.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_scrolly.html-wide-full.jpg)|
+|[Fancy chart on Messi-Ronaldo dominance](https://annerquaye.github.io/projects/visualization/maps/fancy.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_visualization_maps_fancy.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_visualization_maps_fancy.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_visualization_maps_fancy.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_visualization_maps_fancy.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_visualization_maps_fancy.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_visualization_maps_fancy.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -87,6 +111,31 @@ No issues found! 🎉
 **https://annerquaye.github.io**
 
 No issues found! 🎉
+
+**https://annerquaye.github.io/projects/data-viz/gasoline.html**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `../../img/inflation.jpeg` missing `alt` tag
+* Move `projects/data-viz/gasoline.html` into a folder called `gasoline`, then rename the file `index.html`. That way the project can be found at **/gasoline** instead of **/gasoline.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Rate of wages growth sensitive to economic performance` is too small at 9px
+    * Text `Covid recession` is too small at 9px
+    * Text `2020` is too small at 9px
+    * Text `Great Recession` is too small at 9px
+    * Text `2007-2009` is too small at 9px
+    * Text `3%` is too small at 10px
+    * Text `Early 2000s ` is too small at 9px
+    * *and 39 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `3%` overlaps with `Early 2000s` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * Text `2004` overlaps with `2006` at screen width 400
+   * Text `2006` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2010` at screen width 400
+   * Text `2010` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2014` at screen width 400
+   * *and 3 more*
 
 **https://annerquaye.github.io/projects/oscars.html**
 
@@ -126,6 +175,30 @@ No issues found! 🎉
     * Image `../img/cover-01.jpg` missing `alt` tag
 * Move `projects/scrolly.html` into a folder called `scrolly`, then rename the file `index.html`. That way the project can be found at **/scrolly** instead of **/scrolly.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
+**https://annerquaye.github.io/projects/visualization/maps/fancy.html**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `../../../img/messinado.jpeg` missing `alt` tag
+* Move `projects/visualization/maps/fancy.html` into a folder called `fancy`, then rename the file `index.html`. That way the project can be found at **/fancy** instead of **/fancy.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `pace` is too small at 7px
+    * Text `80` is too small at 7px
+    * Text `physic` is too small at 7px
+    * Text `shooting` is too small at 7px
+    * Text `60` is too small at 7px
+    * Text `40` is too small at 7px
+    * Text `20` is too small at 7px
+    * *and 34 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Bayern’s Lewandowski breaks Messi-Ronaldo duopoly of EA Fifa top player rankings` overlaps with `The two players have continuously shut out any player from the top two positions for nearly a decade` at screen width 400
+   * Text `Bayern’s Lewandowski breaks Messi-Ronaldo duopoly of EA Fifa top player rankings` overlaps with `L. Messi` at screen width 400
+   * Text `pace` overlaps with `The two players have continuously shut out any player from the top two positions for nearly a decade` at screen width 400
+   * Text `pace` overlaps with `Overall rankings are based on the player ratings on selected attributes` at screen width 400
+   * Text `pace` overlaps with `L. Messi` at screen width 400
+   * Text `The two players have continuously shut out any player from the top two positions for nearly a decade` overlaps with `L. Messi` at screen width 400
+   * Text `80` overlaps with `Overall rankings are based on the player ratings on selected attributes` at screen width 400
+   * *and 128 more*
+
 
 
 ## areenaarora.com
@@ -134,11 +207,13 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Areena Arora](https://areenaarora.com/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/areenaarora.com/index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/index.html-medium-thumb.jpg)](screenshots/areenaarora.com/index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/index.html-wide-thumb.jpg)](screenshots/areenaarora.com/index.html-wide-full.jpg)|
-|[Page Not Found](https://areenaarora.com/stories/uttarakhand-floods/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/biryani/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[New York City council's discretionary funding — analyzed!](https://areenaarora.com/stories/data-viz/discretionary-funds)|[![mobile](screenshots/areenaarora.com/stories_data-viz_discretionary-funds_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_data-viz_discretionary-funds_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_data-viz_discretionary-funds_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_data-viz_discretionary-funds_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_data-viz_discretionary-funds_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_data-viz_discretionary-funds_index.html-wide-full.jpg)|
+|[NYC Salaries](https://areenaarora.com/stories/data-viz/salaries/)|[![mobile](screenshots/areenaarora.com/stories_data-viz_salaries_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/stories_data-viz_salaries_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/stories_data-viz_salaries_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/stories_data-viz_salaries_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/stories_data-viz_salaries_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/stories_data-viz_salaries_index.html-wide-full.jpg)|
+|[Page Not Found](https://areenaarora.com/stories/ny-state-spills/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page Not Found](https://areenaarora.com/stories/r-place/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page Not Found](https://areenaarora.com/stories/style-guides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/biryani/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/ny-state-spills/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page Not Found](https://areenaarora.com/stories/uttarakhand-floods/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Page Not Found](https://areenaarora.com/stories/vaccines/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
@@ -148,7 +223,31 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://areenaarora.com/stories/uttarakhand-floods/**
+**https://areenaarora.com/stories/biryani/**
+
+* Could not access the page - if you moved it, let me know
+
+**https://areenaarora.com/stories/data-viz/discretionary-funds**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Source: NYC Open Data` is too small at 10px
+    * Text `Bronx Defenders` is too small at 9px
+    * Text `Brooklyn Defender` is too small at 9px
+    * Text `Services` is too small at 9px
+    * Text `$5.7 million` is too small at 9px
+    * Text `$6.08 million` is too small at 9px
+    * Text `Source: NYC Open Data` is too small at 8px
+    * *and 9 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Bronx` overlaps with `Brooklyn` at screen width 400
+   * Text `Defenders` overlaps with `Defender Services` at screen width 400
+
+**https://areenaarora.com/stories/data-viz/salaries/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `nyc.jpg` missing `alt` tag
+
+**https://areenaarora.com/stories/ny-state-spills/**
 
 * Could not access the page - if you moved it, let me know
 
@@ -160,11 +259,7 @@ No issues found! 🎉
 
 * Could not access the page - if you moved it, let me know
 
-**https://areenaarora.com/stories/biryani/**
-
-* Could not access the page - if you moved it, let me know
-
-**https://areenaarora.com/stories/ny-state-spills/**
+**https://areenaarora.com/stories/uttarakhand-floods/**
 
 * Could not access the page - if you moved it, let me know
 
@@ -180,9 +275,11 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Ilena Peng](https://ilenapeng.github.io/)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
+|[California's Kelp Forests in Crisis](https://ilenapeng.github.io/california-kelp-forests/)|[![mobile](screenshots/ilenapeng.github.io/california-kelp-forests_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/california-kelp-forests_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/california-kelp-forests_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/california-kelp-forests_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/california-kelp-forests_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/california-kelp-forests_index.html-wide-full.jpg)|
 |[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages/)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
 |[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
 |[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
+|[Religions in America](https://ilenapeng.github.io/religion-voronoi-treemaps)|[![mobile](screenshots/ilenapeng.github.io/religion-voronoi-treemaps_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/religion-voronoi-treemaps_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/religion-voronoi-treemaps_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/religion-voronoi-treemaps_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/religion-voronoi-treemaps_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/religion-voronoi-treemaps_index.html-wide-full.jpg)|
 |[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
 
 
@@ -191,6 +288,14 @@ No issues found! 🎉
 **https://ilenapeng.github.io/**
 
 No issues found! 🎉
+
+**https://ilenapeng.github.io/california-kelp-forests/**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Square meters of kelp` overlaps with `Westport` at screen width 900
+   * Text `200` overlaps with `900` at screen width 900
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"Helvetica Neue"` font not found, used in 48 text objects. Example: _2016, 2019, 2008_
 
 **https://ilenapeng.github.io/nyc-languages/**
 
@@ -204,6 +309,11 @@ No issues found! 🎉
 
 No issues found! 🎉
 
+**https://ilenapeng.github.io/religion-voronoi-treemaps**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `19.3%` overlaps with `Unaffiliated` at screen width 400
+
 **https://ilenapeng.github.io/stevens-creek/**
 
 No issues found! 🎉
@@ -216,10 +326,12 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Jessie Blaeser's Portfolio](https://jessieblaeser.github.io/)|[![mobile](screenshots/jessieblaeser.github.io/index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/index.html-wide-full.jpg)|
+|[Vizualizing Apologies for Human Rights Violations](https://jessieblaeser.github.io/apologies)|[![mobile](screenshots/jessieblaeser.github.io/apologies_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/apologies_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/apologies_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/apologies_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/apologies_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/apologies_index.html-wide-full.jpg)|
+|[Dams in Georgia](https://jessieblaeser.github.io/dam-safety-georgia/)|[![mobile](screenshots/jessieblaeser.github.io/dam-safety-georgia_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/dam-safety-georgia_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/dam-safety-georgia_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/dam-safety-georgia_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/dam-safety-georgia_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/dam-safety-georgia_index.html-wide-full.jpg)|
+|[Dams in Georgia](https://jessieblaeser.github.io/georgia-dams/)|[![mobile](screenshots/jessieblaeser.github.io/georgia-dams_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/georgia-dams_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/georgia-dams_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/georgia-dams_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/georgia-dams_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/georgia-dams_index.html-wide-full.jpg)|
+|[Most Expensive Pipeline Incidents](https://jessieblaeser.github.io/pipelines/)|[![mobile](screenshots/jessieblaeser.github.io/pipelines_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pipelines_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pipelines_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pipelines_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pipelines_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pipelines_index.html-wide-full.jpg)|
 |[Ticket to Ride Analysis](https://jessieblaeser.github.io/ticket-to-ride/)|[![mobile](screenshots/jessieblaeser.github.io/ticket-to-ride_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/ticket-to-ride_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/ticket-to-ride_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/ticket-to-ride_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/ticket-to-ride_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/ticket-to-ride_index.html-wide-full.jpg)|
 |[Trae Young Hawks Analysis](https://jessieblaeser.github.io/trae-young/)|[![mobile](screenshots/jessieblaeser.github.io/trae-young_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/trae-young_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/trae-young_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/trae-young_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/trae-young_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/trae-young_index.html-wide-full.jpg)|
-|[Most Expensive Pipeline Incidents](https://jessieblaeser.github.io/pipelines/)|[![mobile](screenshots/jessieblaeser.github.io/pipelines_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/pipelines_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/pipelines_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/pipelines_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/pipelines_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/pipelines_index.html-wide-full.jpg)|
-|[Dams in Georgia](https://jessieblaeser.github.io/georgia-dams/)|[![mobile](screenshots/jessieblaeser.github.io/georgia-dams_index.html-mobile-thumb.jpg)](screenshots/jessieblaeser.github.io/georgia-dams_index.html-mobile-full.jpg)|[![medium](screenshots/jessieblaeser.github.io/georgia-dams_index.html-medium-thumb.jpg)](screenshots/jessieblaeser.github.io/georgia-dams_index.html-medium-full.jpg)|[![wide](screenshots/jessieblaeser.github.io/georgia-dams_index.html-wide-thumb.jpg)](screenshots/jessieblaeser.github.io/georgia-dams_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -228,11 +340,17 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://jessieblaeser.github.io/ticket-to-ride/**
+**https://jessieblaeser.github.io/apologies**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `Avenir` font not found, used in 118 text objects. Example: _United States, Germany, Canada_
+
+**https://jessieblaeser.github.io/dam-safety-georgia/**
 
 No issues found! 🎉
 
-**https://jessieblaeser.github.io/trae-young/**
+**https://jessieblaeser.github.io/georgia-dams/**
 
 No issues found! 🎉
 
@@ -246,7 +364,11 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Avenir` font not found, used in 46 text objects. Example: _The most expensive pipeline incidents are caused by material failures, Significant pipeline incidents from 2010 to February 2022, Incident caused by material failure_
 
-**https://jessieblaeser.github.io/georgia-dams/**
+**https://jessieblaeser.github.io/ticket-to-ride/**
+
+No issues found! 🎉
+
+**https://jessieblaeser.github.io/trae-young/**
 
 No issues found! 🎉
 
@@ -258,11 +380,13 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Jui Sarwate Personal Website](https://juisarwate.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/index.html-wide-full.jpg)|
-|[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
+|[UCLA Campus Study Spots](https://juisarwate.github.io/best-ucla-study-spots/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-wide-full.jpg)|
 |[Homeless 311 Complaints 2020](https://juisarwate.github.io/homeless-encampments-311/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-wide-full.jpg)|
+|[Monarch butterflies are coming back](https://juisarwate.github.io/monarch-butterflies)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/monarch-butterflies_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/monarch-butterflies_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/monarch-butterflies_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-wide-full.jpg)|
+|[Monarch butterflies are coming back](https://juisarwate.github.io/monarch-butterflies/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/monarch-butterflies_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/monarch-butterflies_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/monarch-butterflies_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-wide-full.jpg)|
+|[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
 |[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
 |[Yosemite National Park Visitation](https://juisarwate.github.io/yosemite-visitation-2020/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-wide-full.jpg)|
-|[UCLA Campus Study Spots](https://juisarwate.github.io/best-ucla-study-spots/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -271,15 +395,27 @@ No issues found! 🎉
 
 No issues found! 🎉
 
+**https://juisarwate.github.io/best-ucla-study-spots/**
+
+No issues found! 🎉
+
+**https://juisarwate.github.io/homeless-encampments-311/**
+
+No issues found! 🎉
+
+**https://juisarwate.github.io/monarch-butterflies**
+
+No issues found! 🎉
+
+**https://juisarwate.github.io/monarch-butterflies/**
+
+No issues found! 🎉
+
 **https://juisarwate.github.io/nyc-recycling-distribution/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `pexels-photo-802221.jpeg` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-**https://juisarwate.github.io/homeless-encampments-311/**
-
-No issues found! 🎉
 
 **https://juisarwate.github.io/nyc-recycling-distribution/**
 
@@ -290,10 +426,6 @@ No issues found! 🎉
 **https://juisarwate.github.io/yosemite-visitation-2020/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-**https://juisarwate.github.io/best-ucla-study-spots/**
-
-No issues found! 🎉
 
 
 
@@ -306,6 +438,8 @@ No issues found! 🎉
 |[California Utility Fires](https://juliaingram.github.io/ca-utility-fires/)|[![mobile](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/ca-utility-fires_index.html-wide-full.jpg)|
 |[Citi Bike](https://juliaingram.github.io/citibike/)|[![mobile](screenshots/juliaingram.github.io/citibike_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/citibike_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/citibike_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/citibike_index.html-wide-full.jpg)|
 |[Daylight Saving](https://juliaingram.github.io/daylight-saving/)|[![mobile](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/daylight-saving_index.html-wide-full.jpg)|
+|[The American Food Pyramid](https://juliaingram.github.io/food-pyramid)|[![mobile](screenshots/juliaingram.github.io/food-pyramid_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/food-pyramid_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/food-pyramid_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/food-pyramid_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/food-pyramid_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/food-pyramid_index.html-wide-full.jpg)|
+|[Historical Sites & Climate Disasters](https://juliaingram.github.io/historic-sites/)|[![mobile](screenshots/juliaingram.github.io/historic-sites_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/historic-sites_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/historic-sites_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/historic-sites_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/historic-sites_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/historic-sites_index.html-wide-full.jpg)|
 |[Therapy Apps](https://juliaingram.github.io/therapy-apps/)|[![mobile](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-mobile-full.jpg)|[![medium](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-medium-full.jpg)|[![wide](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-thumb.jpg)](screenshots/juliaingram.github.io/therapy-apps_index.html-wide-full.jpg)|
 
 
@@ -333,6 +467,23 @@ No issues found! 🎉
    * Text `Enacted` overlaps with `Failed` at screen width 1300
    * Text `Failed` overlaps with `2020` at screen width 1300
 
+**https://juliaingram.github.io/food-pyramid**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `-14%` overlaps with `-9.5%` at screen width 400
+   * Text `-5%` overlaps with `-9.5%` at screen width 400
+   * Text `6%` overlaps with `12%` at screen width 400
+   * Text `18%` overlaps with `12%` at screen width 400
+   * Text `-14%` overlaps with `-9.5%` at screen width 900
+   * Text `-5%` overlaps with `-9.5%` at screen width 900
+   * Text `6%` overlaps with `12%` at screen width 900
+   * *and 5 more*
+
+**https://juliaingram.github.io/historic-sites/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
 **https://juliaingram.github.io/therapy-apps/**
 
 No issues found! 🎉
@@ -345,13 +496,15 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
-|[US-controlled islands leading the way in vaccination rates](https://kfalayi.github.io/vaccination/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/vaccination_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/vaccination_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/vaccination_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-wide-full.jpg)|
 |[Africa is losing out of global investment in agriculture technology](https://kfalayi.github.io/agritech-investment/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
 |[Dollar stores would make perfect vaccination sites](https://kfalayi.github.io/bloomberg/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
+|[China dominates global demand for Africa's mineral resources](https://kfalayi.github.io/China-Africa-mineral-resources)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/China-Africa-mineral-resources_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/China-Africa-mineral-resources_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/China-Africa-mineral-resources_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/China-Africa-mineral-resources_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/China-Africa-mineral-resources_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/China-Africa-mineral-resources_index.html-wide-full.jpg)|
 |[Food prices are increasing in Nigeria, insecurity may be to blame](https://kfalayi.github.io/Food-price-Nigeria/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-wide-full.jpg)|
 |[Most of US visas go to Hispanic migrants, the economy depends on it](https://kfalayi.github.io/hispanics-in-america/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics-in-america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics-in-america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics-in-america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics-in-america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics-in-america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics-in-america_index.html-wide-full.jpg)|
-|[Ratings of directors of BBC's 100 greatest films](https://kfalayi.github.io/movie-directors/map.html)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/movie-directors_map.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/movie-directors_map.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
+|[Ratings of directors of BBC's 100 greatest films](https://kfalayi.github.io/movie-directors/map.html)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/movie-directors_map.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/movie-directors_map.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-wide-full.jpg)|
+|[Arrest data shows Manhattan is NYC's transit crimes hub](https://kfalayi.github.io/NY-transit-crimes/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-wide-full.jpg)|
+|[US-controlled islands leading the way in vaccination rates](https://kfalayi.github.io/vaccination/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/vaccination_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/vaccination_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/vaccination_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -360,10 +513,6 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `/images/kay.jpeg` missing `alt` tag
-
-**https://kfalayi.github.io/vaccination/**
-
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/agritech-investment/**
 
@@ -384,7 +533,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 34 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -401,6 +550,27 @@ No issues found! 🎉
     * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 10px
     * *and 11 more*
 
+**https://kfalayi.github.io/China-Africa-mineral-resources**
+
+* Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text ` ` is too small at 9px
+    * Text `2012` is too small at 9px
+    * Text `2018` is too small at 9px
+    * Text `2020` is too small at 9px
+    * Text `2014` is too small at 9px
+    * Text `2016` is too small at 9px
+    * Text `2010` is too small at 9px
+    * *and 12 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `France` overlaps with `France` at screen width 400
+   * Text `Germany` overlaps with `US` at screen width 400
+   * Text `France` overlaps with `France` at screen width 900
+   * Text `Germany` overlaps with `US` at screen width 900
+   * Text `France` overlaps with `France` at screen width 1300
+   * Text `Germany` overlaps with `US` at screen width 1300
+
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
 * Change URL to be all in lowercase
@@ -409,12 +579,9 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://kfalayi.github.io/movie-directors/map.html**
-
-* Move `movie-directors/map.html` into a folder called `map`, then rename the file `index.html`. That way the project can be found at **/map** instead of **/map.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
-
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -426,9 +593,28 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
+
+**https://kfalayi.github.io/movie-directors/map.html**
+
+* Move `movie-directors/map.html` into a folder called `map`, then rename the file `index.html`. That way the project can be found at **/map** instead of **/map.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
+
+**https://kfalayi.github.io/NY-transit-crimes/**
+
+* Change URL to be all in lowercase
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `2020` overlaps with `242` at screen width 400
+   * Text `2017` overlaps with `375` at screen width 400
+   * Text `Sex crimes` overlaps with `427` at screen width 400
+   * Text `2021` overlaps with `600` at screen width 400
+   * Text `2019` overlaps with `660` at screen width 400
+   * Text `Assault 3` overlaps with `1498` at screen width 400
+   * Text `2018` overlaps with `763` at screen width 400
+
+**https://kfalayi.github.io/vaccination/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -439,6 +625,8 @@ No issues found! 🎉
 |---|---|---|---|
 |[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
 |[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
+|[foia-denials/index.html](https://luizftoledo.github.io/foia-denials)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-full.jpg)|
+|[Only 3 out of 100 environmental fines get paid in Brazil](https://luizftoledo.github.io/ibama-lack-of-enforcement/)|[![mobile](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-wide-full.jpg)|
 |[Under Bolsonaro, Brazil has sanctioned less companies for environmental crimes](https://luizftoledo.github.io/ibama-sanctions/)|[![mobile](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-full.jpg)|
 |[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
 |[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
@@ -451,6 +639,23 @@ No issues found! 🎉
 No issues found! 🎉
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
+
+No issues found! 🎉
+
+**https://luizftoledo.github.io/foia-denials**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Top 10 most opaque Brazilian public bodies in the federal government` overlaps with `Shares of denied FOIA requests from 2013 to 2021` at screen width 400
+   * Text `Caixa Econômica` overlaps with `GSI` at screen width 400
+   * Text `Banco do Brasil` overlaps with `AGU` at screen width 400
+   * Text `56% denied requests` overlaps with `51%` at screen width 400
+   * Text `FINEP` overlaps with `Transpetro` at screen width 400
+   * Text `Exército` overlaps with `Banco Central` at screen width 400
+   * Text `Banco Central` overlaps with `Polícia Federal` at screen width 400
+
+**https://luizftoledo.github.io/ibama-lack-of-enforcement/**
 
 No issues found! 🎉
 
@@ -488,8 +693,10 @@ No issues found! 🎉
 |---|---|---|---|
 |[Misha Vaid](https://mishavaid7.github.io/)|[![mobile](screenshots/mishavaid7.github.io/index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/index.html-wide-full.jpg)|
 |[Airbnb Story](https://mishavaid7.github.io/airbnb-story/)|[![mobile](screenshots/mishavaid7.github.io/airbnb-story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/airbnb-story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/airbnb-story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-story_index.html-wide-full.jpg)|
-|[NYC Restaurant Grade Story](https://mishavaid7.github.io/rest-story/)|[![mobile](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/rest-story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/rest-story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-wide-full.jpg)|
 |[Airbnb Story](https://mishavaid7.github.io/airbnb-update/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/airbnb-update_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/airbnb-update_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/airbnb-update_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-wide-full.jpg)|
+|[Visualizing Presidential Pardons](https://mishavaid7.github.io/pardons)|[![mobile](screenshots/mishavaid7.github.io/pardons_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/pardons_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/pardons_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/pardons_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/pardons_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/pardons_index.html-wide-full.jpg)|
+|[Where do Americans get their news in 2022 and how much do they trust it?](https://mishavaid7.github.io/poll-project/)|[![mobile](screenshots/mishavaid7.github.io/poll-project_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/poll-project_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/poll-project_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-wide-full.jpg)|
+|[NYC Restaurant Grade Story](https://mishavaid7.github.io/rest-story/)|[![mobile](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/rest-story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/rest-story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-wide-full.jpg)|
 |[Wordle Cheaters](https://mishavaid7.github.io/wordle/)|[![mobile](screenshots/mishavaid7.github.io/wordle_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/wordle_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/wordle_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-wide-full.jpg)|
 
 
@@ -502,10 +709,6 @@ No issues found! 🎉
 **https://mishavaid7.github.io/airbnb-story/**
 
 No issues found! 🎉
-
-**https://mishavaid7.github.io/rest-story/**
-
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://mishavaid7.github.io/airbnb-update/**
 
@@ -520,6 +723,46 @@ No issues found! 🎉
    * Text `56.9` overlaps with `39.6` at screen width 900
    * *and 5 more*
 
+**https://mishavaid7.github.io/pardons**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `450` is too small at 10px
+    * Text `400` is too small at 10px
+    * Text `350` is too small at 10px
+    * Text `300` is too small at 10px
+    * Text `250` is too small at 10px
+    * Text `200` is too small at 10px
+    * Text `150` is too small at 10px
+    * *and 15 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Presidents Don’t Pardon Like They Used To.` overlaps with `Misha Vaid` at screen width 400
+   * Text `Misha Vaid` overlaps with `One such limitation is that pardons can only be granted for Federal Crimes. The President also cannot grant` at screen width 400
+   * Text `April 17th 2022` overlaps with `The president’s power to grant pardons or reprieves is quietly one of the broadest powers granted to the` at screen width 400
+   * Text `April 17th 2022` overlaps with `One such limitation is that pardons can only be granted for Federal Crimes. The President also cannot grant` at screen width 400
+   * Text `The president’s power to grant pardons or reprieves is quietly one of the broadest powers granted to the` overlaps with `One such limitation is that pardons can only be granted for Federal Crimes. The President also cannot grant` at screen width 400
+   * Text `Executive in the constitution. The power has very few limitations.` overlaps with `pardons cases of impeachment. And lastly, the President can pardon before prosecution and trial, but the` at screen width 400
+   * Text `on in the Presidency for the past 30 years. But have presidents always been so hesitant to use this sweeping` overlaps with `Pardons granted by` at screen width 400
+   * *and 33 more*
+
+**https://mishavaid7.github.io/poll-project/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `April 17th 2022` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 400
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 400
+   * Text `Get the data` overlaps with `​ ​` at screen width 400
+   * Text `US` overlaps with `​ Adult Citizen` at screen width 400
+   * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
+   * *and 8 more*
+
+**https://mishavaid7.github.io/rest-story/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
 **https://mishavaid7.github.io/wordle/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
@@ -533,10 +776,12 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Profile of Joel Konopo](https://msc-joel.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/index.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/index.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/index.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/index.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/index.html-wide-full.jpg)|
+|[Treemap (Voronoi)](https://msc-joel.github.io/fancystuff)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/fancystuff_index.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/fancystuff_index.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/fancystuff_index.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/fancystuff_index.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/fancystuff_index.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/fancystuff_index.html-wide-full.jpg)|
 |[Covid inflation surge likely to persist](https://msc-joel.github.io/main-article1.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/main-article1.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article1.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article1.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article1.html-wide-full.jpg)|
 |[More than half of CEDA loan beneficiaries are in the services business](https://msc-joel.github.io/main-article3.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/main-article3.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article3.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article3.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article3.html-wide-full.jpg)|
 |[Responsive page](https://msc-joel.github.io/main-article4.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/main-article4.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article4.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article4.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article4.html-wide-full.jpg)|
 |[main-article5.html](https://msc-joel.github.io/main-article5.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/main-article5.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article5.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article5.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article5.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article5.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article5.html-wide-full.jpg)|
+|[Vaccination target for countries to meet.](https://msc-joel.github.io/main-article6/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/msc-joel.github.io/main-article6_index.html-mobile-thumb.jpg)](screenshots/msc-joel.github.io/main-article6_index.html-mobile-full.jpg)|[![medium](screenshots/msc-joel.github.io/main-article6_index.html-medium-thumb.jpg)](screenshots/msc-joel.github.io/main-article6_index.html-medium-full.jpg)|[![wide](screenshots/msc-joel.github.io/main-article6_index.html-wide-thumb.jpg)](screenshots/msc-joel.github.io/main-article6_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -544,6 +789,27 @@ No issues found! 🎉
 **https://msc-joel.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://msc-joel.github.io/fancystuff**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Buildings` is too small at 8px
+    * Text `In-home care` is too small at 8px
+    * Text `Innovation` is too small at 8px
+    * Text `Pollution` is too small at 8px
+    * Text `Transportation` is too small at 8px
+    * Text `Transportation` is too small at 8px
+    * Text `Utilities` is too small at 8px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 400
+   * Text `Cleaning up` overlaps with `74` at screen width 400
+   * Text `17` overlaps with `Western water infrastructure` at screen width 400
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 900
+   * Text `Cleaning up` overlaps with `74` at screen width 900
+   * Text `17` overlaps with `Western water infrastructure` at screen width 900
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 1300
+   * *and 2 more*
 
 **https://msc-joel.github.io/main-article1.html**
 
@@ -607,6 +873,24 @@ No issues found! 🎉
    * Text `74%` overlaps with `74%` at screen width 400
    * *and 3 more*
 
+**https://msc-joel.github.io/main-article6/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Joel Konopo` is too small at 9px
+    * Text `•` is too small at 9px
+    * Text `Source` is too small at 9px
+    * Text `World Health Organization` is too small at 9px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Algeria` overlaps with `Angola` at screen width 400
+   * Text `Angola` overlaps with `Benin` at screen width 400
+   * Text `Benin` overlaps with `Botswana` at screen width 400
+   * Text `Botswana` overlaps with `Cape Verde` at screen width 400
+   * Text `Cape Verde` overlaps with `CAR` at screen width 400
+   * Text `CAR` overlaps with `Chad` at screen width 400
+   * Text `Chad` overlaps with `Congo` at screen width 400
+   * *and 378 more*
+
 
 
 ## naokatoh.github.io
@@ -615,9 +899,11 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Nao Hidaka Kato](https://naokatoh.github.io/)|[![mobile](screenshots/naokatoh.github.io/index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/index.html-wide-full.jpg)|
+|[fancy-chart/index.html](https://naokatoh.github.io/fancy-chart)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/naokatoh.github.io/fancy-chart_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/fancy-chart_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/fancy-chart_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/fancy-chart_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/fancy-chart_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/fancy-chart_index.html-wide-full.jpg)|
 |[Music in Men's Figure Skating](https://naokatoh.github.io/figure-skate-music/)|[![mobile](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/figure-skate-music_index.html-wide-full.jpg)|
 |[Rodents complaints](https://naokatoh.github.io/nycrats/)|[![mobile](screenshots/naokatoh.github.io/nycrats_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/nycrats_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/nycrats_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/nycrats_index.html-wide-full.jpg)|
 |[Disney/Pixar won the most Oscars](https://naokatoh.github.io/oscar-anime/)|[![mobile](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/oscar-anime_index.html-wide-full.jpg)|
+|[NYC Cherry Blossom](https://naokatoh.github.io/sakura-nyc/)|[![mobile](screenshots/naokatoh.github.io/sakura-nyc_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sakura-nyc_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sakura-nyc_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sakura-nyc_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sakura-nyc_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sakura-nyc_index.html-wide-full.jpg)|
 |[Where to Find Uni in the US](https://naokatoh.github.io/sea-urchin/)|[![mobile](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/sea-urchin_index.html-wide-full.jpg)|
 |[International students in Ukraine need more help as Russian intensifies attack](https://naokatoh.github.io/ukraine/)|[![mobile](screenshots/naokatoh.github.io/ukraine_index.html-mobile-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-mobile-full.jpg)|[![medium](screenshots/naokatoh.github.io/ukraine_index.html-medium-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-medium-full.jpg)|[![wide](screenshots/naokatoh.github.io/ukraine_index.html-wide-thumb.jpg)](screenshots/naokatoh.github.io/ukraine_index.html-wide-full.jpg)|
 
@@ -627,6 +913,14 @@ No issues found! 🎉
 **https://naokatoh.github.io/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://naokatoh.github.io/fancy-chart**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `AQI Category` overlaps with `Good` at screen width 400
+   * Text `AQI Category` overlaps with `2010` at screen width 400
 
 **https://naokatoh.github.io/figure-skate-music/**
 
@@ -641,6 +935,20 @@ No issues found! 🎉
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Not Disney/ Pixar` is too small at 10px
+
+**https://naokatoh.github.io/sakura-nyc/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./images/sakura_park.jpg` missing `alt` tag
+    * Image `./images/sakura_park2.jpg` missing `alt` tag
+    * Image `https://upload.wikimedia.org/wikipedia/commons/a/a3/Riverside_Park_03.jpg` missing `alt` tag
+    * Image `https://upload.wikimedia.org/wikipedia/commons/9/98/Central_Park%2C_New_York%2C_NY%2C_USA_-_panoramio_%28151%29.jpg` missing `alt` tag
+    * Image `https://upload.wikimedia.org/wikipedia/commons/5/52/Yoshino_Sakura_Tidal_Basin_DC.jpg` missing `alt` tag
+    * Image `https://upload.wikimedia.org/wikipedia/commons/f/f3/2016-03-12_10_26_38_Okame_Cherry_blossoms_at_the_Lawrence_Road_Presbyterian_Church_in_Lawrence%2C_New_Jersey.jpg` missing `alt` tag
+    * Image `https://upload.wikimedia.org/wikipedia/commons/5/52/Hunter%E2%80%99s_Point_South_Park_-_Phase_6_-_Overlook.jpg` missing `alt` tag
+    * Image `./images/tweet.jpg` missing `alt` tag
+    * Image `./images/cherry-traker.jpg` missing `alt` tag
+    * Image `https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Silver_Lake_%28aerial_view_of_reservoir_and_surrounding_area%29_%28NYPL_b15279351-104842%29.tiff/lossy-page1-800px-Silver_Lake_%28aerial_view_of_reservoir_and_surrounding_area%29_%28NYPL_b15279351-104842%29.tiff.jpg` missing `alt` tag
 
 **https://naokatoh.github.io/sea-urchin/**
 
@@ -665,6 +973,8 @@ No issues found! 🎉
 |[Prinz Magtulis](https://pmagtulis.github.io/)|[![mobile](screenshots/pmagtulis.github.io/index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/index.html-wide-full.jpg)|
 |[Prinz Magtulis - Projects](https://pmagtulis.github.io/projects/)|[![mobile](screenshots/pmagtulis.github.io/projects_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_index.html-wide-full.jpg)|
 |[One person is driving up 311 calls about air quality in Manhattan  Prinz Magtulis](https://pmagtulis.github.io/projects/air-quality/)|[![mobile](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_air-quality_index.html-wide-full.jpg)|
+|[Big Tech are also Nasdaq's only billionaires  Prinz Magtulis](https://pmagtulis.github.io/projects/fancy-chart)|[![mobile](screenshots/pmagtulis.github.io/projects_fancy-chart_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_fancy-chart_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_fancy-chart_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_fancy-chart_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_fancy-chart_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_fancy-chart_index.html-wide-full.jpg)|
+|[Duterte's freedom of information is not so free  Prinz Magtulis](https://pmagtulis.github.io/projects/foi-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_foi-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_foi-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_foi-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_foi-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_foi-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_foi-ph_index.html-wide-full.jpg)|
 |[Duterte sets record in conflict killings due to siege in South  Prinz Magtulis](https://pmagtulis.github.io/projects/ph-conflict/)|[![mobile](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_ph-conflict_index.html-wide-full.jpg)|
 |[Here are the vote-rich areas for the 2022 Philippine polls  Prinz Magtulis](https://pmagtulis.github.io/projects/polls-ph/)|[![mobile](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_polls-ph_index.html-wide-full.jpg)|
 |[New York City trains are likely to be so slow again  Prinz Magtulis](https://pmagtulis.github.io/projects/trains/)|[![mobile](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-mobile-full.jpg)|[![medium](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-medium-full.jpg)|[![wide](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-thumb.jpg)](screenshots/pmagtulis.github.io/projects_trains_index.html-wide-full.jpg)|
@@ -684,6 +994,25 @@ No issues found! 🎉
 **https://pmagtulis.github.io/projects/air-quality/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://pmagtulis.github.io/projects/fancy-chart**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Master` is too small at 10px
+    * Text `card` is too small at 10px
+    * Text `BoA` is too small at 10px
+    * Text `VISA` is too small at 10px
+    * Text `Canadian` is too small at 10px
+    * Text `National` is too small at 10px
+    * Text `Rail` is too small at 10px
+
+**https://pmagtulis.github.io/projects/foi-ph/**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `80` overlaps with `100` at screen width 400
+   * Text `80` overlaps with `100` at screen width 900
+   * Text `80` overlaps with `100` at screen width 1300
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
@@ -716,6 +1045,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -727,10 +1057,12 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Patricia's website](https://pmartisa.github.io/)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
-|[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
-|[Article focused on Russian oil and wheat exports](https://pmartisa.github.io/project-russia-exports/)|[![mobile](screenshots/pmartisa.github.io/project-russia-exports_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-russia-exports_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-russia-exports_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-wide-full.jpg)|
+|[Patricia's website](https://pmartisa.github.io/)|[![mobile](screenshots/pmartisa.github.io/index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/index.html-wide-full.jpg)|
 |[Article focused on domestic violence in Spain](https://pmartisa.github.io/project-domestic-violence/)|[![mobile](screenshots/pmartisa.github.io/project-domestic-violence_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-domestic-violence_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-domestic-violence_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-domestic-violence_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-domestic-violence_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-domestic-violence_index.html-wide-full.jpg)|
 |[Article on the Olympics](https://pmartisa.github.io/project-olympics/)|[![mobile](screenshots/pmartisa.github.io/project-olympics_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-olympics_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-olympics_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-olympics_index.html-wide-full.jpg)|
+|[Article focused on Russian oil and wheat exports](https://pmartisa.github.io/project-russia-exports/)|[![mobile](screenshots/pmartisa.github.io/project-russia-exports_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/project-russia-exports_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/project-russia-exports_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/project-russia-exports_index.html-wide-full.jpg)|
+|[scorllytelling-project2/index.html](https://pmartisa.github.io/scorllytelling-project2/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scorllytelling-project2_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scorllytelling-project2_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scorllytelling-project2_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scorllytelling-project2_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scorllytelling-project2_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scorllytelling-project2_index.html-wide-full.jpg)|
+|[scrollytelling_project/index.html](https://pmartisa.github.io/scrollytelling_project/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-mobile-full.jpg)|[![medium](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-medium-full.jpg)|[![wide](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-thumb.jpg)](screenshots/pmartisa.github.io/scrollytelling_project_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -759,44 +1091,29 @@ No issues found! 🎉
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
    * *and 7 more*
 
-**https://pmartisa.github.io/scrollytelling_project/**
+**https://pmartisa.github.io/**
 
-* Needs a title, add a `<title>` tag to the `<head>`
-* Change URL to use `-` instead of spaces or underscores
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Carabanchel` overlaps with `Puente de vallecas` at screen width 400
-   * Text `47` overlaps with `43` at screen width 400
-   * Text `Puente de vallecas` overlaps with `Tetuan` at screen width 400
-   * Text `43` overlaps with `39` at screen width 400
-   * Text `Tetuan` overlaps with `Usera` at screen width 400
-   * Text `Usera` overlaps with `Centro` at screen width 400
-   * Text `32` overlaps with `31` at screen width 400
-   * *and 54 more*
-
-**https://pmartisa.github.io/project-russia-exports/**
-
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `./viz_writing_data/casinos.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `over 1.5 million` is too small at 9px
-    * Text `barrels per day ` is too small at 9px
-    * Text `  186,000` is too small at 9px
-    * Text `    297,000` is too small at 9px
-    * Text ` ` is too small at 9px
-    * Text `   640,000` is too small at 9px
-    * Text `  ` is too small at 9px
-    * *and 3 more*
+    * Text ` ` is too small at 10px
+    * Text `All dead are a conservative estimation. The number of killed encompasses both security officials and civilians. Small deadly episodes such as regains of territory by Ethiopian Government or Tigray forces in 2021 haven’t been labeled. Source: ACLED. Patricia MS.` is too small at 10px
+    * Text `For years the second most populous country in Africa has faced military and police crackdowns, and civilian repression` is too small at 10px
+    * Text `4,800 dead` is too small at 8px
+    * Text `in 935 clashes ` is too small at 8px
+    * Text `amid conflict` is too small at 8px
+    * Text ` ` is too small at 6px
+    * *and 53 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `barrels/day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
-   * Text `297,000` overlaps with `barrels/day` at screen width 900
-   * Text `Slovakia` overlaps with `Turkey` at screen width 900
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
-   * Text `297,000` overlaps with `barrels/day` at screen width 1300
-   * *and 2 more*
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
+   * Text `close to 500 killed` overlaps with `1,000 killed after months of` at screen width 400
+   * Text `after security officials` overlaps with `anti-government protets` at screen width 400
+   * Text `used excessive force` overlaps with `in 146 clashes in Oromia` at screen width 400
+   * Text `civilians` overlaps with `1,575 killed` at screen width 400
+   * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
+   * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
+   * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
+   * *and 7 more*
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
@@ -825,6 +1142,56 @@ No issues found! 🎉
 
 No issues found! 🎉
 
+**https://pmartisa.github.io/project-russia-exports/**
+
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `over 1.5 million` is too small at 9px
+    * Text `barrels per day ` is too small at 9px
+    * Text `  186,000` is too small at 9px
+    * Text `    297,000` is too small at 9px
+    * Text ` ` is too small at 9px
+    * Text `   640,000` is too small at 9px
+    * Text `  ` is too small at 9px
+    * *and 3 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `297,000` overlaps with `barrels/day` at screen width 400
+   * Text `Slovakia` overlaps with `Turkey` at screen width 400
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `barrels/day` at screen width 900
+   * Text `Slovakia` overlaps with `Turkey` at screen width 900
+   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * *and 2 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
+
+**https://pmartisa.github.io/scorllytelling-project2/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `3.3` overlaps with `3.3` at screen width 400
+   * Text `24.7` overlaps with `24.7` at screen width 400
+   * Text `3.3` overlaps with `3.3` at screen width 900
+   * Text `24.7` overlaps with `24.7` at screen width 900
+   * Text `3.3` overlaps with `3.3` at screen width 1300
+   * Text `24.7` overlaps with `24.7` at screen width 1300
+
+**https://pmartisa.github.io/scrollytelling_project/**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Change URL to use `-` instead of spaces or underscores
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Carabanchel` overlaps with `Puente de vallecas` at screen width 400
+   * Text `47` overlaps with `43` at screen width 400
+   * Text `Puente de vallecas` overlaps with `Tetuan` at screen width 400
+   * Text `43` overlaps with `39` at screen width 400
+   * Text `Tetuan` overlaps with `Usera` at screen width 400
+   * Text `Usera` overlaps with `Centro` at screen width 400
+   * Text `32` overlaps with `31` at screen width 400
+   * *and 54 more*
+
 
 
 ## sarahgrevy.github.io
@@ -834,8 +1201,9 @@ No issues found! 🎉
 |---|---|---|---|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/air)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/air_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/air_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/air_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/air_index.html-wide-full.jpg)|
-|[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/weather-project)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/weather-project_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/weather-project_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/weather-project_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/weather-project_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/weather-project_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/weather-project_index.html-wide-full.jpg)|
+|[Mapbox Storytelling](https://sarahgrevy.github.io/airquality/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/airquality_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/airquality_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/airquality_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/airquality_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/airquality_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/airquality_index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/co2-emission)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/co2-emission_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/co2-emission_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/co2-emission_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/co2-emission_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/co2-emission_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/co2-emission_index.html-wide-full.jpg)|
+|[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/weather-project)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/weather-project_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/weather-project_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/weather-project_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/weather-project_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/weather-project_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/weather-project_index.html-wide-full.jpg)|
 |[Sarah Grevy Gotfredsen Portfolio](https://sarahgrevy.github.io/wordle)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/sarahgrevy.github.io/wordle_index.html-mobile-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-mobile-full.jpg)|[![medium](screenshots/sarahgrevy.github.io/wordle_index.html-medium-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-medium-full.jpg)|[![wide](screenshots/sarahgrevy.github.io/wordle_index.html-wide-thumb.jpg)](screenshots/sarahgrevy.github.io/wordle_index.html-wide-full.jpg)|
 
 
@@ -857,11 +1225,20 @@ No issues found! 🎉
    * Text `140` overlaps with `120` at screen width 400
    * *and 58 more*
 
-**https://sarahgrevy.github.io/weather-project**
+**https://sarahgrevy.github.io/airquality/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `images/legend2.png` missing `alt` tag
+    * Image `images/hair.png` missing `alt` tag
+    * Image `images/newdelhi.jpeg` missing `alt` tag
+    * Image `images/dhaka.jpeg` missing `alt` tag
+    * Image `images/chad.jpeg` missing `alt` tag
+
+**https://sarahgrevy.github.io/co2-emission**
 
 No issues found! 🎉
 
-**https://sarahgrevy.github.io/co2-emission**
+**https://sarahgrevy.github.io/weather-project**
 
 No issues found! 🎉
 
@@ -878,10 +1255,10 @@ No issues found! 🎉
 |---|---|---|---|
 |[Susan Merriam Portfolio](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
 |[First Visual Story](https://semerriam.github.io/nicar_first_visual_story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
-|[The Horror of Infrasound](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
 |[Census Peculiarities in Incarcerated Populations](https://semerriam.github.io/projects/pj-census-quirks/)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
 |[Investigating Inequalities of Essex County](https://semerriam.github.io/projects/pj-ec-schools/)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
 |[The Horror of Infrasound](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
+|[The Rise and Fall of Weather Words](https://semerriam.github.io/projects/pj-weather/)|[![mobile](screenshots/semerriam.github.io/projects_pj-weather_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-weather_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-weather_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-weather_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-weather_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-weather_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -896,36 +1273,6 @@ No issues found! 🎉
     * Image `https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-
-**https://semerriam.github.io/projects/pj-infrasound/**
-
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `imgs/infrasound-10-1.png` missing `alt` tag
-    * Image `imgs/infrasound-10-2.png` missing `alt` tag
-    * Image `imgs/infrasound-10-3.png` missing `alt` tag
-    * Image `imgs/infrasound-10-4.png` missing `alt` tag
-    * Image `imgs/infrasound-10-5.png` missing `alt` tag
-    * Image `imgs/infrasound-10-6.png` missing `alt` tag
-    * Image `imgs/infrasound-10-7.png` missing `alt` tag
-    * Image `imgs/infrasound-10-8.png` missing `alt` tag
-    * Image `imgs/infrasound-10-9.png` missing `alt` tag
-    * Image `imgs/infrasound-10-10.png` missing `alt` tag
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `44,083 Hz` is too small at 10px
-    * Text `44,083 Hz` is too small at 10px
-    * Text `7.5` is too small at 6px
-    * Text `7.5` is too small at 6px
-    * Text `5.0` is too small at 6px
-    * Text `5.0` is too small at 6px
-    * Text `2.5` is too small at 6px
-    * *and 104 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `0` overlaps with `0` at screen width 400
-   * Text `20` overlaps with `20` at screen width 400
-   * Text `0` overlaps with `0` at screen width 900
-   * Text `20` overlaps with `20` at screen width 900
-   * Text `0` overlaps with `0` at screen width 1300
-   * Text `20` overlaps with `20` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-census-quirks/**
 
@@ -1005,6 +1352,29 @@ No issues found! 🎉
    * Text `0` overlaps with `0` at screen width 1300
    * Text `20` overlaps with `20` at screen width 1300
 
+**https://semerriam.github.io/projects/pj-weather/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/weather-words.gif` missing `alt` tag
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Weather` is too small at 10px
+    * Text `Storm` is too small at 10px
+    * Text `Snow` is too small at 10px
+    * Text `Rain` is too small at 10px
+    * Text `Flood` is too small at 10px
+    * Text `20,000` is too small at 10px
+    * Text `20,000` is too small at 10px
+    * *and 306 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `‘09` overlaps with `‘10` at screen width 400
+   * Text `‘10` overlaps with `‘11` at screen width 400
+   * Text `‘11` overlaps with `‘12` at screen width 400
+   * Text `‘12` overlaps with `‘13` at screen width 400
+   * Text `‘13` overlaps with `‘14` at screen width 400
+   * Text `‘14` overlaps with `‘15` at screen width 400
+   * Text `‘15` overlaps with `‘16` at screen width 400
+   * *and 47 more*
+
 
 
 ## sriharshadevulapalli.github.io
@@ -1013,8 +1383,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/)|[![mobile](screenshots/sriharshadevulapalli.github.io/index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-wide-full.jpg)|
+|[Californian Fires](https://sriharshadevulapalli.github.io/californian-wildfires/)|[![mobile](screenshots/sriharshadevulapalli.github.io/californian-wildfires_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/californian-wildfires_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/californian-wildfires_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/californian-wildfires_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/californian-wildfires_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/californian-wildfires_index.html-wide-full.jpg)|
 |[This is your title](https://sriharshadevulapalli.github.io/central-vista/)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
 |[Indian Airline Routes](https://sriharshadevulapalli.github.io/indian-airline-routes/)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
+|[Languages of the World](https://sriharshadevulapalli.github.io/languages)|[![mobile](screenshots/sriharshadevulapalli.github.io/languages_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/languages_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/languages_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/languages_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/languages_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/languages_index.html-wide-full.jpg)|
 |[Indian Food in New York City](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)|[![mobile](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-full.jpg)|
 |[Central Vista](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
 
@@ -1022,6 +1394,10 @@ No issues found! 🎉
 ### Automatic Checks
 
 **https://sriharshadevulapalli.github.io/**
+
+No issues found! 🎉
+
+**https://sriharshadevulapalli.github.io/californian-wildfires/**
 
 No issues found! 🎉
 
@@ -1033,6 +1409,20 @@ No issues found! 🎉
 **https://sriharshadevulapalli.github.io/indian-airline-routes/**
 
 No issues found! 🎉
+
+**https://sriharshadevulapalli.github.io/languages**
+
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Hungarian` overlaps with `12.6m` at screen width 400
+   * Text `Hungarian` overlaps with `Zulu` at screen width 400
+   * Text `12.6m` overlaps with `Thai` at screen width 400
+   * Text `12.6m` overlaps with `12.1m` at screen width 400
+   * Text `Zulu` overlaps with `Thai` at screen width 400
+   * Text `Zulu` overlaps with `Igbo` at screen width 400
+   * Text `Zulu` overlaps with `12.1m` at screen width 400
+   * *and 457 more*
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"Source Sans Pro"` font not found, used in 167 text objects. Example: _Hungarian, 12.6m, Zulu_
 
 **https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/**
 
@@ -1052,7 +1442,9 @@ No issues found! 🎉
 |[Shelby Jouppi: Data Journalist & Multimedia Specialist](https://srjouppi.github.io/)|[![mobile](screenshots/srjouppi.github.io/index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/index.html-wide-full.jpg)|
 |[Shelby Jouppi - Colorado Parks Mobility Analysis](https://srjouppi.github.io/colorado-parks-mobility/)|[![mobile](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/colorado-parks-mobility_index.html-wide-full.jpg)|
 |[Shelby Jouppi - The Cost of COVID](https://srjouppi.github.io/covid-gofundme-analysis/)|[![mobile](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/covid-gofundme-analysis_index.html-wide-full.jpg)|
+|[Shelby Jouppi - Michigan Great Lakes Water Usage](https://srjouppi.github.io/michigan-great-lakes-usage)|[![mobile](screenshots/srjouppi.github.io/michigan-great-lakes-usage_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/michigan-great-lakes-usage_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/michigan-great-lakes-usage_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/michigan-great-lakes-usage_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/michigan-great-lakes-usage_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/michigan-great-lakes-usage_index.html-wide-full.jpg)|
 |[Shelby Jouppi - Waiting in Line](https://srjouppi.github.io/nyc-child-psychologists/)|[![mobile](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-child-psychologists_index.html-wide-full.jpg)|
+|[Shelby Jouppi - How New York Medicaid Psychotherapy Rates Measure Up](https://srjouppi.github.io/nyc-cost-of-therapy/)|[![mobile](screenshots/srjouppi.github.io/nyc-cost-of-therapy_index.html-mobile-thumb.jpg)](screenshots/srjouppi.github.io/nyc-cost-of-therapy_index.html-mobile-full.jpg)|[![medium](screenshots/srjouppi.github.io/nyc-cost-of-therapy_index.html-medium-thumb.jpg)](screenshots/srjouppi.github.io/nyc-cost-of-therapy_index.html-medium-full.jpg)|[![wide](screenshots/srjouppi.github.io/nyc-cost-of-therapy_index.html-wide-thumb.jpg)](screenshots/srjouppi.github.io/nyc-cost-of-therapy_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1069,9 +1461,34 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
+**https://srjouppi.github.io/michigan-great-lakes-usage**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Public Water` is too small at 10px
+    * Text `Industry` is too small at 10px
+    * Text `Power (once-through)` is too small at 10px
+    * Text `Power (recirculated)` is too small at 10px
+    * Text `300 million gallons of water per day` is too small at 9px
+    * Text `240` is too small at 9px
+    * Text `180` is too small at 9px
+    * *and 21 more*
+
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
 No issues found! 🎉
+
+**https://srjouppi.github.io/nyc-cost-of-therapy/**
+
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `$0` is too small at 9px
+    * Text `$100` is too small at 9px
+    * Text `$200` is too small at 9px
+    * Text `$300` is too small at 9px
+    * Text `$400` is too small at 9px
+    * Text `$500` is too small at 9px
+    * Text `$100` is too small at 9px
+    * *and 4 more*
 
 
 
@@ -1082,6 +1499,7 @@ No issues found! 🎉
 |---|---|---|---|
 |[grid stories](https://stephenanti.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/index.html-wide-full.jpg)|
 |[brooklyn crashes](https://stephenanti.github.io/brooklyn_crashes.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-full.jpg)|
+|[fancy foia](https://stephenanti.github.io/fancy_2)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/fancy_2_index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/fancy_2_index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/fancy_2_index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/fancy_2_index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/fancy_2_index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/fancy_2_index.html-wide-full.jpg)|
 |[stories](https://stephenanti.github.io/project_3.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/project_3.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/project_3.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/project_3.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-wide-full.jpg)|
 |[scrollyprojectAntii.html](https://stephenanti.github.io/scrollyprojectAntii.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-full.jpg)|
 |[Yam prices in Ghana](https://stephenanti.github.io/yam.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/yam.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/yam.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/yam.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-wide-full.jpg)|
@@ -1104,6 +1522,25 @@ No issues found! 🎉
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://stephenanti.github.io/fancy_2**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `yams.jpg` missing `alt` tag
+* Change URL to use `-` instead of spaces or underscores
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `USA` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `3207 Days` overlaps with `U.S. Department of Education` at screen width 400
+   * Text `2728` overlaps with `Department of DefenseGeneral` at screen width 400
+   * Text `2719` overlaps with `Metropolitan Transportation Auth` at screen width 400
+   * Text `2689` overlaps with `United States Air Force Academy` at screen width 400
+   * Text `2614` overlaps with `US Customs and Border Protection` at screen width 400
+   * Text `Dallas Public Information Office` overlaps with `2491` at screen width 400
+   * Text `2399` overlaps with `Dept. of Health & Human Services` at screen width 400
+* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
+    * `"open sans-serif"` font not found, used in 90 text objects. Example: _Agency, Processing Time, _
 
 **https://stephenanti.github.io/project_3.html**
 
@@ -1142,8 +1579,10 @@ No issues found! 🎉
 |---|---|---|---|
 |[Tanaz Meghjani's portfolio](https://tanazm.github.io/)|[![mobile](screenshots/tanazm.github.io/index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/index.html-wide-full.jpg)|
 |[Atlanta parks](https://tanazm.github.io/atlantaparks/)|[![mobile](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/atlantaparks_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/atlantaparks_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/atlantaparks_index.html-wide-full.jpg)|
-|[Libraries](https://tanazm.github.io/publiclibraries/)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://tanazm.github.io/fancy)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Brooklyn marathon](https://tanazm.github.io/marathonmap/)|[![mobile](screenshots/tanazm.github.io/marathonmap_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/marathonmap_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/marathonmap_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/marathonmap_index.html-wide-full.jpg)|
+|[Libraries](https://tanazm.github.io/publiclibraries/)|[![mobile](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/publiclibraries_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/publiclibraries_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/publiclibraries_index.html-wide-full.jpg)|
+|[Superfunds](https://tanazm.github.io/superfunds/)|[![mobile](screenshots/tanazm.github.io/superfunds_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/superfunds_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/superfunds_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/superfunds_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/superfunds_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/superfunds_index.html-wide-full.jpg)|
 |[Texas wind energy](https://tanazm.github.io/texaswind/)|[![mobile](screenshots/tanazm.github.io/texaswind_index.html-mobile-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-mobile-full.jpg)|[![medium](screenshots/tanazm.github.io/texaswind_index.html-medium-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-medium-full.jpg)|[![wide](screenshots/tanazm.github.io/texaswind_index.html-wide-thumb.jpg)](screenshots/tanazm.github.io/texaswind_index.html-wide-full.jpg)|
 
 
@@ -1157,6 +1596,16 @@ No issues found! 🎉
 
 No issues found! 🎉
 
+**https://tanazm.github.io/fancy**
+
+* Could not access the page - if you moved it, let me know
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+**https://tanazm.github.io/marathonmap/**
+
+No issues found! 🎉
+
 **https://tanazm.github.io/publiclibraries/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
@@ -1164,9 +1613,9 @@ No issues found! 🎉
     * `"Avenir Black"` font not found, used in 4 text objects. Example: _Residents of southern states live further away , from public libraries, Residents of southern states live further away_
     * `"Avenir Light"` font not found, used in 33 text objects. Example: _Percent of population that lives 6+ miles away from a library, Metropolitan, Non-metropolitan_
 
-**https://tanazm.github.io/marathonmap/**
+**https://tanazm.github.io/superfunds/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://tanazm.github.io/texaswind/**
 
@@ -1182,6 +1631,8 @@ No issues found! 🎉
 |[Vincent Van Buskirk](https://vincentvb.github.io/)|[![mobile](screenshots/vincentvb.github.io/index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/index.html-wide-full.jpg)|
 |[Raiders penalties analysis](https://vincentvb.github.io/football-penalties/)|[![mobile](screenshots/vincentvb.github.io/football-penalties_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/football-penalties_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/football-penalties_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/football-penalties_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/football-penalties_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/football-penalties_index.html-wide-full.jpg)|
 |[Video game review analysis](https://vincentvb.github.io/game-reviews)|[![mobile](screenshots/vincentvb.github.io/game-reviews_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/game-reviews_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/game-reviews_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/game-reviews_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/game-reviews_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/game-reviews_index.html-wide-full.jpg)|
+|[nft-analysis/index.html](https://vincentvb.github.io/nft-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/nft-analysis_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/nft-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/nft-analysis_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/nft-analysis_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/nft-analysis_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/nft-analysis_index.html-wide-full.jpg)|
+|[proj-7/index.html](https://vincentvb.github.io/proj-7)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/vincentvb.github.io/proj-7_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/proj-7_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/proj-7_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/proj-7_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/proj-7_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/proj-7_index.html-wide-full.jpg)|
 |[Football Penalty Analysis](https://vincentvb.github.io/santa-barbara-wine/)|[![mobile](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-wide-full.jpg)|
 |[Mapbox Storytelling](https://vincentvb.github.io/ukraine-invasion/)|[![mobile](screenshots/vincentvb.github.io/ukraine-invasion_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/ukraine-invasion_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/ukraine-invasion_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/ukraine-invasion_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/ukraine-invasion_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/ukraine-invasion_index.html-wide-full.jpg)|
 
@@ -1199,6 +1650,35 @@ No issues found! 🎉
 **https://vincentvb.github.io/game-reviews**
 
 No issues found! 🎉
+
+**https://vincentvb.github.io/nft-analysis/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `assets/bored_ape.png` missing `alt` tag
+* Needs a title, add a `<title>` tag to the `<head>`
+
+**https://vincentvb.github.io/proj-7**
+
+* Needs a title, add a `<title>` tag to the `<head>`
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Jan` is too small at 10px
+    * Text `Feb` is too small at 10px
+    * Text `Mar` is too small at 10px
+    * Text `Apr` is too small at 10px
+    * Text `May` is too small at 10px
+    * Text `Jun` is too small at 10px
+    * Text `Jul` is too small at 10px
+    * *and 88 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jan` overlaps with `Feb` at screen width 400
+   * Text `Feb` overlaps with `Mar` at screen width 400
+   * Text `Mar` overlaps with `Apr` at screen width 400
+   * Text `Apr` overlaps with `May` at screen width 400
+   * Text `May` overlaps with `Jun` at screen width 400
+   * Text `Jun` overlaps with `Jul` at screen width 400
+   * Text `Aug` overlaps with `Sep` at screen width 400
+   * *and 76 more*
 
 **https://vincentvb.github.io/santa-barbara-wine/**
 
