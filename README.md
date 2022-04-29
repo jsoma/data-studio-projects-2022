@@ -83,10 +83,9 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `gender ratio` overlaps with `92.29` at screen width 400
-   * Text `92.29` overlaps with `of marriageable age` at screen width 400
-   * Text `97.59` overlaps with `Hebei` at screen width 400
+   * Text `92.29` overlaps with `Anhui` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 900
    * Text `97.59` overlaps with `Hebei` at screen width 1300
 
@@ -553,6 +552,7 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -563,14 +563,12 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `United Kingdom` overlaps with `France` at screen width 400
-   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `2016` overlaps with `2014` at screen width 400
-   * Text `2016` overlaps with `2018` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 39 more*
+   * Text `France` overlaps with `France` at screen width 900
+   * Text `Germany` overlaps with `US` at screen width 900
+   * Text `France` overlaps with `France` at screen width 1300
+   * Text `Germany` overlaps with `US` at screen width 1300
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -615,8 +613,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -995,9 +992,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1049,6 +1044,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1116,11 +1112,12 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 8 more*
+   * *and 7 more*
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `The Basque ` is too small at 10px
     * Text `Country` is too small at 10px
@@ -1131,14 +1128,14 @@ No issues found! 🎉
     * Text `La Rioja` is too small at 10px
     * *and 137 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `The Basque` overlaps with `Cantabria` at screen width 400
    * Text `Country` overlaps with `Cantabria` at screen width 400
    * Text `0` overlaps with `-` at screen width 400
    * Text `0` overlaps with `0` at screen width 400
    * Text `0` overlaps with `.` at screen width 400
    * Text `0` overlaps with `2` at screen width 400
-   * Text `0` overlaps with `%` at screen width 400
-   * *and 341 more*
+   * Text `-` overlaps with `0` at screen width 400
+   * Text `-` overlaps with `.` at screen width 400
+   * *and 323 more*
 
 **https://pmartisa.github.io/project-olympics/**
 
