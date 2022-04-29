@@ -115,8 +115,6 @@ https://semerriam.github.io/nicar_first_visual_story/
 https://semerriam.github.io/projects/pj-census-quirks/
 https://semerriam.github.io/projects/pj-ec-schools/
 https://semerriam.github.io/projects/pj-infrasound/
-https://semerriam.github.io/projects/pj-infrasound/
-https://semerriam.github.io/projects/pj-weather/
 https://semerriam.github.io/projects/pj-weather/
 https://sriharshadevulapalli.github.io/
 https://sriharshadevulapalli.github.io/californian-wildfires/
