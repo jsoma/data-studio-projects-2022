@@ -55,12 +55,9 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/project-plane-crash/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `Fatalities` is too small at 8px
-    * Text `1` is too small at 8px
-    * Text `160` is too small at 8px
-    * Text `Guangzhou` is too small at 10px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `2` overlaps with `China` at screen width 400
+   * Text `0` overlaps with `2008` at screen width 400
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
@@ -183,7 +180,7 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Ilena Peng](https://ilenapeng.github.io/)|[![mobile](screenshots/ilenapeng.github.io/index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/index.html-wide-full.jpg)|
-|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
+|[New Yorkers in Languages](https://ilenapeng.github.io/nyc-languages/)|[![mobile](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-languages_index.html-wide-full.jpg)|
 |[NYC's "Open" Streets](https://ilenapeng.github.io/nyc-open-streets/)|[![mobile](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/nyc-open-streets_index.html-wide-full.jpg)|
 |[The Path to Principal](https://ilenapeng.github.io/path-to-principal/)|[![mobile](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/path-to-principal_index.html-wide-full.jpg)|
 |[The Bay's Rainy December](https://ilenapeng.github.io/stevens-creek/)|[![mobile](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-mobile-full.jpg)|[![medium](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-medium-full.jpg)|[![wide](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-thumb.jpg)](screenshots/ilenapeng.github.io/stevens-creek_index.html-wide-full.jpg)|
@@ -195,7 +192,7 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://ilenapeng.github.io/nyc-languages**
+**https://ilenapeng.github.io/nyc-languages/**
 
 No issues found! 🎉
 
@@ -262,9 +259,10 @@ No issues found! 🎉
 |---|---|---|---|
 |[Jui Sarwate Personal Website](https://juisarwate.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/index.html-wide-full.jpg)|
 |[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://juisarwate.github.io/project_5_scrollytelling/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://juisarwate.github.io/project-3/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://juisarwate.github.io/Sarwate_Project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Homeless 311 Complaints 2020](https://juisarwate.github.io/homeless-encampments-311/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/homeless-encampments-311_index.html-wide-full.jpg)|
+|[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
+|[Yosemite National Park Visitation](https://juisarwate.github.io/yosemite-visitation-2020/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-wide-full.jpg)|
+|[UCLA Campus Study Spots](https://juisarwate.github.io/best-ucla-study-spots/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/best-ucla-study-spots_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -279,26 +277,23 @@ No issues found! 🎉
     * Image `pexels-photo-802221.jpeg` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://juisarwate.github.io/project_5_scrollytelling/**
+**https://juisarwate.github.io/homeless-encampments-311/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+No issues found! 🎉
+
+**https://juisarwate.github.io/nyc-recycling-distribution/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `pexels-photo-802221.jpeg` missing `alt` tag
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://juisarwate.github.io/project-3/**
+**https://juisarwate.github.io/yosemite-visitation-2020/**
 
-* Could not access the page - if you moved it, let me know
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://juisarwate.github.io/Sarwate_Project1/**
+**https://juisarwate.github.io/best-ucla-study-spots/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 
 
@@ -350,10 +345,12 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/index.html-wide-full.jpg)|
+|[US-controlled islands leading the way in vaccination rates](https://kfalayi.github.io/vaccination/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/vaccination_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/vaccination_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/vaccination_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-wide-full.jpg)|
 |[Africa is losing out of global investment in agriculture technology](https://kfalayi.github.io/agritech-investment/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/agritech-investment_index.html-wide-full.jpg)|
 |[Dollar stores would make perfect vaccination sites](https://kfalayi.github.io/bloomberg/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/bloomberg_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/bloomberg_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/bloomberg_index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://kfalayi.github.io/Food_price_Nigeria/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://kfalayi.github.io/hispanics in america/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Food prices are increasing in Nigeria, insecurity may be to blame](https://kfalayi.github.io/Food-price-Nigeria/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/Food-price-Nigeria_index.html-wide-full.jpg)|
+|[Most of US visas go to Hispanic migrants, the economy depends on it](https://kfalayi.github.io/hispanics-in-america/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/hispanics-in-america_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/hispanics-in-america_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/hispanics-in-america_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/hispanics-in-america_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/hispanics-in-america_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/hispanics-in-america_index.html-wide-full.jpg)|
+|[Ratings of directors of BBC's 100 greatest films](https://kfalayi.github.io/movie-directors/map.html)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/movie-directors_map.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/movie-directors_map.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-wide-full.jpg)|
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 
 
@@ -363,6 +360,10 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `/images/kay.jpeg` missing `alt` tag
+
+**https://kfalayi.github.io/vaccination/**
+
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/agritech-investment/**
 
@@ -400,20 +401,17 @@ No issues found! 🎉
     * Text `Map with QGIS and Illustrator | Inspired by Bloomberg’s story.` is too small at 10px
     * *and 11 more*
 
-**https://kfalayi.github.io/Food_price_Nigeria/**
+**https://kfalayi.github.io/Food-price-Nigeria/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
 * Change URL to be all in lowercase
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://kfalayi.github.io/hispanics in america/**
+**https://kfalayi.github.io/hispanics-in-america/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
+
+**https://kfalayi.github.io/movie-directors/map.html**
+
+* Move `movie-directors/map.html` into a folder called `map`, then rename the file `index.html`. That way the project can be found at **/map** instead of **/map.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 
 **https://kfalayi.github.io/irpin/**
 
@@ -468,14 +466,14 @@ No issues found! 🎉
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `20 K` is too small at 6px
-    * Text `15 K` is too small at 6px
-    * Text `10.7 K` is too small at 5px
-    * Text `Gun ownership ` is too small at 5px
-    * Text `rules change` is too small at 5px
-    * Text `10 K` is too small at 6px
-    * Text `4.5 K` is too small at 6px
-    * *and 94 more*
+    * Text `1990` is too small at 6px
+    * Text `USA and Austria are the countries of origin for most of the ` is too small at 10px
+    * Text `foreign seized weapons in Brazil` is too small at 10px
+    * Text `Data is from 2013 to 2021` is too small at 8px
+    * Text `United States` is too small at 8px
+    * Text `Austria` is too small at 8px
+    * Text `Turkey` is too small at 8px
+    * *and 81 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `2019` overlaps with `2018` at screen width 400
    * Text `2019` overlaps with `2018` at screen width 900
@@ -742,6 +740,24 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `./viz_writing_data/casinos.png` missing `alt` tag
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text ` ` is too small at 10px
+    * Text `All dead are a conservative estimation. The number of killed encompasses both security officials and civilians. Small deadly episodes such as regains of territory by Ethiopian Government or Tigray forces in 2021 haven’t been labeled. Source: ACLED. Patricia MS.` is too small at 10px
+    * Text `For years the second most populous country in Africa has faced military and police crackdowns, and civilian repression` is too small at 10px
+    * Text `4,800 dead` is too small at 8px
+    * Text `in 935 clashes ` is too small at 8px
+    * Text `amid conflict` is too small at 8px
+    * Text ` ` is too small at 6px
+    * *and 53 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `close to 500 killed` overlaps with `1,000 killed after months of` at screen width 400
+   * Text `after security officials` overlaps with `anti-government protets` at screen width 400
+   * Text `used excessive force` overlaps with `in 146 clashes in Oromia` at screen width 400
+   * Text `civilians` overlaps with `1,575 killed` at screen width 400
+   * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
+   * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
+   * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
+   * *and 7 more*
 
 **https://pmartisa.github.io/scrollytelling_project/**
 
@@ -861,9 +877,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Susan Merriam Portfolio](https://semerriam.github.io/)|[![mobile](screenshots/semerriam.github.io/index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/index.html-wide-full.jpg)|
-|[First Visual Story](https://semerriam.github.io/nicar_first_visual_story)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
-|[Census Peculiarities in Incarcerated Populations](https://semerriam.github.io/projects/pj-census-quirks)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
-|[Investigating Inequalities of Essex County](https://semerriam.github.io/projects/pj-ec-schools)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
+|[First Visual Story](https://semerriam.github.io/nicar_first_visual_story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/nicar_first_visual_story_index.html-wide-full.jpg)|
+|[The Horror of Infrasound](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
+|[Census Peculiarities in Incarcerated Populations](https://semerriam.github.io/projects/pj-census-quirks/)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
+|[Investigating Inequalities of Essex County](https://semerriam.github.io/projects/pj-ec-schools/)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
 |[The Horror of Infrasound](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
 
 
@@ -873,14 +890,44 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://semerriam.github.io/nicar_first_visual_story**
+**https://semerriam.github.io/nicar_first_visual_story/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://bl.ocks.org/palewire/raw/1035cd306a2f85b362b1a20ce315b8eb/ire-logo.png` missing `alt` tag
 * Change URL to use `-` instead of spaces or underscores
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://semerriam.github.io/projects/pj-census-quirks**
+**https://semerriam.github.io/projects/pj-infrasound/**
+
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/infrasound-10-1.png` missing `alt` tag
+    * Image `imgs/infrasound-10-2.png` missing `alt` tag
+    * Image `imgs/infrasound-10-3.png` missing `alt` tag
+    * Image `imgs/infrasound-10-4.png` missing `alt` tag
+    * Image `imgs/infrasound-10-5.png` missing `alt` tag
+    * Image `imgs/infrasound-10-6.png` missing `alt` tag
+    * Image `imgs/infrasound-10-7.png` missing `alt` tag
+    * Image `imgs/infrasound-10-8.png` missing `alt` tag
+    * Image `imgs/infrasound-10-9.png` missing `alt` tag
+    * Image `imgs/infrasound-10-10.png` missing `alt` tag
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `44,083 Hz` is too small at 10px
+    * Text `44,083 Hz` is too small at 10px
+    * Text `7.5` is too small at 6px
+    * Text `7.5` is too small at 6px
+    * Text `5.0` is too small at 6px
+    * Text `5.0` is too small at 6px
+    * Text `2.5` is too small at 6px
+    * *and 104 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `0` overlaps with `0` at screen width 400
+   * Text `20` overlaps with `20` at screen width 400
+   * Text `0` overlaps with `0` at screen width 900
+   * Text `20` overlaps with `20` at screen width 900
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
+
+**https://semerriam.github.io/projects/pj-census-quirks/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `imgs/census-quirks-img2.png` missing `alt` tag
@@ -897,7 +944,7 @@ No issues found! 🎉
     * Text `1200` is too small at 10px
     * *and 23 more*
 
-**https://semerriam.github.io/projects/pj-ec-schools**
+**https://semerriam.github.io/projects/pj-ec-schools/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `imgs/ec-16.png` missing `alt` tag
@@ -967,9 +1014,9 @@ No issues found! 🎉
 |---|---|---|---|
 |[Sriharsha Devulapalli](https://sriharshadevulapalli.github.io/)|[![mobile](screenshots/sriharshadevulapalli.github.io/index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/index.html-wide-full.jpg)|
 |[This is your title](https://sriharshadevulapalli.github.io/central-vista/)|[![mobile](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/central-vista_index.html-wide-full.jpg)|
-|[Indian Airline Routes](https://sriharshadevulapalli.github.io/indian-airline-routes/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
+|[Indian Airline Routes](https://sriharshadevulapalli.github.io/indian-airline-routes/)|[![mobile](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/indian-airline-routes_index.html-wide-full.jpg)|
 |[Indian Food in New York City](https://sriharshadevulapalli.github.io/new-york-city-indian-food-menus/)|[![mobile](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/new-york-city-indian-food-menus_index.html-wide-full.jpg)|
-|[Central Vista](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
+|[Central Vista](https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/)|[![mobile](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-mobile-full.jpg)|[![medium](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-medium-full.jpg)|[![wide](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-thumb.jpg)](screenshots/sriharshadevulapalli.github.io/rainfall-patterns-in-india_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -983,7 +1030,7 @@ No issues found! 🎉
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Source Sans Pro"` font not found, used in 51 text objects. Example: _2000s - Present, 1930s - 1940s, 1950s - 1960s_
 
-**https://sriharshadevulapalli.github.io/indian-airline-routes/index.html**
+**https://sriharshadevulapalli.github.io/indian-airline-routes/**
 
 No issues found! 🎉
 
@@ -991,7 +1038,7 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/index.html**
+**https://sriharshadevulapalli.github.io/rainfall-patterns-in-india/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -1033,7 +1080,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Stephen Anti's portfolio](https://stephenanti.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/index.html-wide-full.jpg)|
+|[grid stories](https://stephenanti.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/index.html-wide-full.jpg)|
 |[brooklyn crashes](https://stephenanti.github.io/brooklyn_crashes.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-full.jpg)|
 |[stories](https://stephenanti.github.io/project_3.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/project_3.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/project_3.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/project_3.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-wide-full.jpg)|
 |[scrollyprojectAntii.html](https://stephenanti.github.io/scrollyprojectAntii.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-full.jpg)|
@@ -1044,6 +1091,7 @@ No issues found! 🎉
 
 **https://stephenanti.github.io/**
 
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
@@ -1083,6 +1131,7 @@ No issues found! 🎉
 
 * Move `yam.html` into a folder called `yam`, then rename the file `index.html`. That way the project can be found at **/yam** instead of **/yam.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1131,10 +1180,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Vincent Van Buskirk](https://vincentvb.github.io/)|[![mobile](screenshots/vincentvb.github.io/index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/index.html-wide-full.jpg)|
-|[Page not found · GitHub Pages](https://vincentvb.github.io/football_penalties/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://vincentvb.github.io/game_reviews)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://vincentvb.github.io/santa_barbara_wine/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page not found · GitHub Pages](https://vincentvb.github.io/ukraine_invasion/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Raiders penalties analysis](https://vincentvb.github.io/football-penalties/)|[![mobile](screenshots/vincentvb.github.io/football-penalties_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/football-penalties_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/football-penalties_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/football-penalties_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/football-penalties_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/football-penalties_index.html-wide-full.jpg)|
+|[Video game review analysis](https://vincentvb.github.io/game-reviews)|[![mobile](screenshots/vincentvb.github.io/game-reviews_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/game-reviews_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/game-reviews_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/game-reviews_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/game-reviews_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/game-reviews_index.html-wide-full.jpg)|
+|[Football Penalty Analysis](https://vincentvb.github.io/santa-barbara-wine/)|[![mobile](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/santa-barbara-wine_index.html-wide-full.jpg)|
+|[Mapbox Storytelling](https://vincentvb.github.io/ukraine-invasion/)|[![mobile](screenshots/vincentvb.github.io/ukraine-invasion_index.html-mobile-thumb.jpg)](screenshots/vincentvb.github.io/ukraine-invasion_index.html-mobile-full.jpg)|[![medium](screenshots/vincentvb.github.io/ukraine-invasion_index.html-medium-thumb.jpg)](screenshots/vincentvb.github.io/ukraine-invasion_index.html-medium-full.jpg)|[![wide](screenshots/vincentvb.github.io/ukraine-invasion_index.html-wide-thumb.jpg)](screenshots/vincentvb.github.io/ukraine-invasion_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -1143,31 +1192,19 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://vincentvb.github.io/football_penalties/**
+**https://vincentvb.github.io/football-penalties/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
-**https://vincentvb.github.io/game_reviews**
+**https://vincentvb.github.io/game-reviews**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
-**https://vincentvb.github.io/santa_barbara_wine/**
+**https://vincentvb.github.io/santa-barbara-wine/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
-**https://vincentvb.github.io/ukraine_invasion/**
+**https://vincentvb.github.io/ukraine-invasion/**
 
-* Could not access the page - if you moved it, let me know
-* Change URL to use `-` instead of spaces or underscores
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
