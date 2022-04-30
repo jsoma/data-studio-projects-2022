@@ -83,7 +83,6 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `gender ratio` overlaps with `92.29` at screen width 400
    * Text `92.29` overlaps with `of marriageable age` at screen width 400
@@ -554,7 +553,6 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -565,12 +563,14 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `United Kingdom` overlaps with `France` at screen width 400
+   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `France` overlaps with `France` at screen width 900
-   * Text `Germany` overlaps with `US` at screen width 900
-   * Text `France` overlaps with `France` at screen width 1300
-   * Text `Germany` overlaps with `US` at screen width 1300
+   * Text `2016` overlaps with `2014` at screen width 400
+   * Text `2016` overlaps with `2018` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 39 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -582,7 +582,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -594,6 +593,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -638,7 +638,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/congress-expenses-with-food/**
 
@@ -663,7 +663,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -995,7 +1003,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1047,7 +1057,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1147,7 +1156,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -1158,14 +1166,13 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `barrels/day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
-   * Text `297,000` overlaps with `barrels/day` at screen width 900
-   * Text `Slovakia` overlaps with `Turkey` at screen width 900
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
-   * Text `297,000` overlaps with `barrels/day` at screen width 1300
-   * *and 2 more*
+   * Text `297,000` overlaps with `640,000` at screen width 400
+   * Text `297,000` overlaps with `300,000` at screen width 400
+   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
+   * Text `297,000` overlaps with `640,000` at screen width 900
+   * Text `297,000` overlaps with `300,000` at screen width 900
+   * Text `297,000` overlaps with `640,000` at screen width 1300
+   * Text `297,000` overlaps with `300,000` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
@@ -1461,7 +1468,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
