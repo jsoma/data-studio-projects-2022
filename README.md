@@ -356,12 +356,13 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/pipelines/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Incident caused by material failure` overlaps with `All other pipeline incidents` at screen width 400
-   * Text `< 6` overlaps with `25` at screen width 400
+   * Text `Total Incident Cost (in millions of dollars)` overlaps with `< 6` at screen width 400
+   * Text `Total Incident Cost (in millions of dollars)` overlaps with `< 6` at screen width 900
+   * Text `Total Incident Cost (in millions of dollars)` overlaps with `< 6` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `Avenir` font not found, used in 46 text objects. Example: _The most expensive pipeline incidents are caused by material
-                                        failures, Significant pipeline incidents from 2010 to February 2022, Incident caused by material failure_
+    * `Avenir` font not found, used in 46 text objects. Example: _The most expensive pipeline incidents are caused by material failures, Significant pipeline incidents from 2010 to February 2022, Incident caused by material failure_
 
 **https://jessieblaeser.github.io/ticket-to-ride/**
 
@@ -662,15 +663,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1018,20 +1011,14 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/foi-ph/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `80` overlaps with `100` at screen width 400
    * Text `80` overlaps with `100` at screen width 900
    * Text `80` overlaps with `100` at screen width 1300
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1387,7 +1374,7 @@ No issues found! 🎉
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
    * Text `‘15` overlaps with `‘16` at screen width 400
-   * *and 118 more*
+   * *and 47 more*
 
 
 
@@ -1473,7 +1460,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
