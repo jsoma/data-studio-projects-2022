@@ -560,7 +560,6 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -571,12 +570,14 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `United Kingdom` overlaps with `France` at screen width 400
+   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `France` overlaps with `France` at screen width 900
-   * Text `Germany` overlaps with `US` at screen width 900
-   * Text `France` overlaps with `France` at screen width 1300
-   * Text `Germany` overlaps with `US` at screen width 1300
+   * Text `2016` overlaps with `2014` at screen width 400
+   * Text `2016` overlaps with `2018` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 71 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -621,7 +622,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
 
 
 
@@ -1000,7 +1002,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1023,13 +1027,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1512,75 +1510,54 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[grid stories](https://stephenanti.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/index.html-wide-full.jpg)|
-|[brooklyn crashes](https://stephenanti.github.io/brooklyn_crashes.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/brooklyn_crashes.html-wide-full.jpg)|
-|[fancy foia](https://stephenanti.github.io/fancy_2)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/fancy_2_index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/fancy_2_index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/fancy_2_index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/fancy_2_index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/fancy_2_index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/fancy_2_index.html-wide-full.jpg)|
-|[stories](https://stephenanti.github.io/project_3.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/project_3.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/project_3.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/project_3.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/project_3.html-wide-full.jpg)|
-|[scrollyprojectAntii.html](https://stephenanti.github.io/scrollyprojectAntii.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/scrollyprojectAntii.html-wide-full.jpg)|
-|[Yam prices in Ghana](https://stephenanti.github.io/yam.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/yam.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/yam.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/yam.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/yam.html-wide-full.jpg)|
+|[Stephen Anti's portfolio](https://stephenanti.github.io/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/stephenanti.github.io/index.html-mobile-thumb.jpg)](screenshots/stephenanti.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/stephenanti.github.io/index.html-medium-thumb.jpg)](screenshots/stephenanti.github.io/index.html-medium-full.jpg)|[![wide](screenshots/stephenanti.github.io/index.html-wide-thumb.jpg)](screenshots/stephenanti.github.io/index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://stephenanti.github.io/brooklyn_crashes.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://stephenanti.github.io/fancy_2)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://stephenanti.github.io/project_3.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://stephenanti.github.io/scrollyprojectAntii.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](https://stephenanti.github.io/yam.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://stephenanti.github.io/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/brooklyn_crashes.html**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `brooklyn.jpeg` missing `alt` tag
-    * Image `graph1.png` missing `alt` tag
-    * Image `graph2.png` missing `alt` tag
-    * Image `graph3.png` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Move `brooklyn_crashes.html` into a folder called `brooklyn_crashes`, then rename the file `index.html`. That way the project can be found at **/brooklyn_crashes** instead of **/brooklyn_crashes.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/fancy_2**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `yams.jpg` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `USA` is too small at 10px
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `3207 Days` overlaps with `U.S. Department of Education` at screen width 400
-   * Text `2728` overlaps with `Department of DefenseGeneral` at screen width 400
-   * Text `2719` overlaps with `Metropolitan Transportation Auth` at screen width 400
-   * Text `2689` overlaps with `United States Air Force Academy` at screen width 400
-   * Text `2614` overlaps with `US Customs and Border Protection` at screen width 400
-   * Text `Dallas Public Information Office` overlaps with `2491` at screen width 400
-   * Text `2399` overlaps with `Dept. of Health & Human Services` at screen width 400
-* Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"open sans-serif"` font not found, used in 90 text objects. Example: _Agency, Processing Time, _
 
 **https://stephenanti.github.io/project_3.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `project_3.html` into a folder called `project_3`, then rename the file `index.html`. That way the project can be found at **/project_3** instead of **/project_3.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to use `-` instead of spaces or underscores
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `9` is too small at 9px
-    * Text `8` is too small at 9px
-    * Text `7` is too small at 9px
-    * Text `6` is too small at 9px
-    * Text `54` is too small at 9px
-    * Text `52` is too small at 9px
-    * Text `51` is too small at 9px
-    * *and 8 more*
 
 **https://stephenanti.github.io/scrollyprojectAntii.html**
 
-* Needs a title, add a `<title>` tag to the `<head>`
+* Could not access the page - if you moved it, let me know
 * Move `scrollyprojectAntii.html` into a folder called `scrollyprojectAntii`, then rename the file `index.html`. That way the project can be found at **/scrollyprojectAntii** instead of **/scrollyprojectAntii.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Change URL to be all in lowercase
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://stephenanti.github.io/yam.html**
 
+* Could not access the page - if you moved it, let me know
 * Move `yam.html` into a folder called `yam`, then rename the file `index.html`. That way the project can be found at **/yam** instead of **/yam.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
