@@ -80,16 +80,15 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `University` overlaps with `2.8%` at screen width 400
-   * Text `Hotel` overlaps with `2.0%` at screen width 400
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
-   * Text `STATEN` overlaps with `QUEENS` at screen width 900
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 900
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 900
-   * *and 9 more*
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
+   * Text `STATEN` overlaps with `QUEENS` at screen width 400
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
+   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
+   * *and 14 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -648,7 +647,6 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -659,12 +657,14 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `United Kingdom` overlaps with `France` at screen width 400
+   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `France` overlaps with `France` at screen width 900
-   * Text `Germany` overlaps with `US` at screen width 900
-   * Text `France` overlaps with `France` at screen width 1300
-   * Text `Germany` overlaps with `US` at screen width 1300
+   * Text `2016` overlaps with `2014` at screen width 400
+   * Text `2016` overlaps with `2018` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * *and 39 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -676,7 +676,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -688,6 +687,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -722,7 +722,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
 
 
 
@@ -873,9 +874,8 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
-   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
-   * *and 8 more*
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1024,14 +1024,14 @@ No issues found! 🎉
     * Text `120` is too small at 9px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `San Francisco` overlaps with `Oakland` at screen width 400
    * Text `AZ` overlaps with `CA` at screen width 400
+   * Text `AZ` overlaps with `CO` at screen width 400
    * Text `CA` overlaps with `CO` at screen width 400
+   * Text `CA` overlaps with `CT` at screen width 400
    * Text `CO` overlaps with `CT` at screen width 400
-   * Text `CT` overlaps with `FL` at screen width 400
-   * Text `FL` overlaps with `GA` at screen width 400
-   * Text `GA` overlaps with `IL` at screen width 400
-   * Text `IL` overlaps with `MA` at screen width 400
-   * *and 53 more*
+   * Text `CO` overlaps with `FL` at screen width 400
+   * *and 85 more*
 
 
 
@@ -1197,7 +1197,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
