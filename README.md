@@ -80,6 +80,7 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
    * Text `STATEN` overlaps with `QUEENS` at screen width 400
@@ -635,6 +636,7 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -645,14 +647,12 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `United Kingdom` overlaps with `France` at screen width 400
-   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `2016` overlaps with `2014` at screen width 400
-   * Text `2016` overlaps with `2018` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 39 more*
+   * Text `France` overlaps with `France` at screen width 900
+   * Text `Germany` overlaps with `US` at screen width 900
+   * Text `France` overlaps with `France` at screen width 1300
+   * Text `Germany` overlaps with `US` at screen width 1300
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -763,7 +763,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -862,8 +870,9 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
+   * *and 8 more*
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1152,13 +1161,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1487,12 +1490,12 @@ No issues found! 🎉
     * Text `0` is too small at 9px
     * *and 63 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `North Andover` overlaps with `1,048` at screen width 400
+   * Text `North Andover` overlaps with `511` at screen width 400
+   * Text `North Andover` overlaps with `774` at screen width 400
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * Text `North Andover` overlaps with `511` at screen width 1300
-   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
