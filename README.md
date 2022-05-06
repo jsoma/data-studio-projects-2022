@@ -270,15 +270,10 @@ No issues found! 🎉
 |url|mobile|medium|wide|
 |---|---|---|---|
 |[Areena Arora](https://areenaarora.com/)|[![mobile](screenshots/areenaarora.com/index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/index.html-medium-thumb.jpg)](screenshots/areenaarora.com/index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/index.html-wide-thumb.jpg)](screenshots/areenaarora.com/index.html-wide-full.jpg)|
-|[Page Not Found](https://areenaarora.com/stories/biryani/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/data-viz/discretionary-funds)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/data-viz/ny-senate-analyses/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/data-viz/salaries/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/ny-state-spills/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/r-place/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/style-guides/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/uttarakhand-floods/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
-|[Page Not Found](https://areenaarora.com/stories/vaccines/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Discretionary funds](https://areenaarora.com/discretionary-funds/)|[![mobile](screenshots/areenaarora.com/discretionary-funds_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/discretionary-funds_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/discretionary-funds_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/discretionary-funds_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/discretionary-funds_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/discretionary-funds_index.html-wide-full.jpg)|
+|[Style guides](https://areenaarora.com/style-guides/)|[![mobile](screenshots/areenaarora.com/style-guides_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/style-guides_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/style-guides_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/style-guides_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/style-guides_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/style-guides_index.html-wide-full.jpg)|
+|[Street flooding in NYC](https://areenaarora.com/street-flooding/)|[![mobile](screenshots/areenaarora.com/street-flooding_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/street-flooding_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/street-flooding_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/street-flooding_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/street-flooding_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/street-flooding_index.html-wide-full.jpg)|
+|[Climate essay](https://areenaarora.com/climate-essay/)|[![mobile](screenshots/areenaarora.com/climate-essay_index.html-mobile-thumb.jpg)](screenshots/areenaarora.com/climate-essay_index.html-mobile-full.jpg)|[![medium](screenshots/areenaarora.com/climate-essay_index.html-medium-thumb.jpg)](screenshots/areenaarora.com/climate-essay_index.html-medium-full.jpg)|[![wide](screenshots/areenaarora.com/climate-essay_index.html-wide-thumb.jpg)](screenshots/areenaarora.com/climate-essay_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -287,41 +282,34 @@ No issues found! 🎉
 
 No issues found! 🎉
 
-**https://areenaarora.com/stories/biryani/**
+**https://areenaarora.com/discretionary-funds/**
 
-* Could not access the page - if you moved it, let me know
+* Minimum font size should be 12px, enlarge text in Illustrator
+    * Text `Source: NYC Open Data` is too small at 10px
+    * Text `Bronx Defenders` is too small at 9px
+    * Text `Brooklyn Defender` is too small at 9px
+    * Text `Services` is too small at 9px
+    * Text `$5.7 million` is too small at 9px
+    * Text `$6.08 million` is too small at 9px
+    * Text `Source: NYC Open Data` is too small at 8px
+    * *and 9 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Bronx` overlaps with `Brooklyn` at screen width 400
+   * Text `Defenders` overlaps with `Defender Services` at screen width 400
 
-**https://areenaarora.com/stories/data-viz/discretionary-funds**
+**https://areenaarora.com/style-guides/**
 
-* Could not access the page - if you moved it, let me know
+No issues found! 🎉
 
-**https://areenaarora.com/stories/data-viz/ny-senate-analyses/**
+**https://areenaarora.com/street-flooding/**
 
-* Could not access the page - if you moved it, let me know
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `nyc-street.jpg` missing `alt` tag
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
-**https://areenaarora.com/stories/data-viz/salaries/**
+**https://areenaarora.com/climate-essay/**
 
-* Could not access the page - if you moved it, let me know
-
-**https://areenaarora.com/stories/ny-state-spills/**
-
-* Could not access the page - if you moved it, let me know
-
-**https://areenaarora.com/stories/r-place/**
-
-* Could not access the page - if you moved it, let me know
-
-**https://areenaarora.com/stories/style-guides/**
-
-* Could not access the page - if you moved it, let me know
-
-**https://areenaarora.com/stories/uttarakhand-floods/**
-
-* Could not access the page - if you moved it, let me know
-
-**https://areenaarora.com/stories/vaccines/**
-
-* Could not access the page - if you moved it, let me know
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -615,7 +603,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 34 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -763,7 +751,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1155,7 +1151,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `1990` overlaps with `1995` at screen width 400
    * Text `2015` overlaps with `2019` at screen width 400
@@ -1240,7 +1235,7 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 7 more*
+   * *and 8 more*
 
 **https://pmartisa.github.io/**
 
@@ -1270,7 +1265,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Case Open at` is too small at 8px
     * Text `Time of Death` is too small at 8px
@@ -1280,8 +1274,17 @@ No issues found! 🎉
     * Text `15` is too small at 10px
     * Text `16` is too small at 10px
     * *and 33 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `2010` overlaps with `2011` at screen width 400
+   * Text `2011` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * *and 23 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
+    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one _
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
 
 **https://pmartisa.github.io/project-domestic-violence/**
@@ -1314,7 +1317,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
     * Text `barrels per day ` is too small at 9px
@@ -1325,16 +1327,15 @@ No issues found! 🎉
     * Text `  ` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `barrels/day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
-   * Text `297,000` overlaps with `barrels/day` at screen width 900
-   * Text `Slovakia` overlaps with `Turkey` at screen width 900
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
-   * Text `297,000` overlaps with `barrels/day` at screen width 1300
-   * *and 2 more*
+   * Text `297,000` overlaps with `640,000` at screen width 400
+   * Text `297,000` overlaps with `300,000` at screen width 400
+   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
+   * Text `297,000` overlaps with `640,000` at screen width 900
+   * Text `297,000` overlaps with `300,000` at screen width 900
+   * Text `297,000` overlaps with `640,000` at screen width 1300
+   * Text `297,000` overlaps with `300,000` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
 
 **https://pmartisa.github.io/scorllytelling-project2/**
 
@@ -1496,8 +1497,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1663,7 +1662,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
@@ -1818,6 +1817,11 @@ No issues found! 🎉
     * Text `$16B in debt that President ` is too small at 10px
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 1300
 
 **https://tanazm.github.io/superfunds/**
 
@@ -1860,7 +1864,7 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/github-vulnerabilities/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://vincentvb.github.io/nft-analysis/**
 
