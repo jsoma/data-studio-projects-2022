@@ -604,7 +604,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 33 more*
+   * *and 34 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -851,9 +851,8 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
-   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
-   * *and 8 more*
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1175,7 +1174,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1528,7 +1526,7 @@ No issues found! 🎉
    * Text `$28.5MM` overlaps with `$461.8MM` at screen width 400
    * Text `$461.8MM` overlaps with `$430.6MM` at screen width 400
    * Text `$430.6MM` overlaps with `$119.5MM` at screen width 400
-   * *and 38 more*
+   * *and 62 more*
 
 **https://semerriam.github.io/projects/pj-weather/**
 
