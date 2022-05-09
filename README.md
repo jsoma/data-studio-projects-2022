@@ -80,15 +80,16 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
-   * Text `STATEN` overlaps with `QUEENS` at screen width 400
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
-   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
-   * *and 14 more*
+   * Text `University` overlaps with `2.8%` at screen width 400
+   * Text `Hotel` overlaps with `2.0%` at screen width 400
+   * Text `University` overlaps with `2.8%` at screen width 900
+   * Text `Hotel` overlaps with `2.0%` at screen width 900
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
+   * Text `STATEN` overlaps with `QUEENS` at screen width 900
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
+   * *and 13 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -650,6 +651,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -661,7 +663,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -749,15 +750,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1124,9 +1117,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1149,13 +1140,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
