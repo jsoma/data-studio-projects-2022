@@ -80,16 +80,15 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `University` overlaps with `2.8%` at screen width 400
-   * Text `Hotel` overlaps with `2.0%` at screen width 400
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
-   * Text `STATEN` overlaps with `QUEENS` at screen width 900
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 900
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 900
-   * *and 9 more*
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
+   * Text `STATEN` overlaps with `QUEENS` at screen width 400
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
+   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
+   * *and 14 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -750,7 +749,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1516,7 +1523,9 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-litigation-funding/index.html**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `imgs/pj-litigation-funding-1.png` missing `alt` tag
+    * Image `imgs/pj-litigation-funding-2.png` missing `alt` tag
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `12.4` is too small at 10px
     * Text `Total AUM Dedicated ` is too small at 10px
@@ -1527,14 +1536,14 @@ No issues found! 🎉
     * Text `New Funding ` is too small at 10px
     * *and 112 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `$34.9MM` overlaps with `$113.1MM` at screen width 400
-   * Text `$0.01MM` overlaps with `$111.6MM` at screen width 400
-   * Text `$166.1MM` overlaps with `$465.9MM` at screen width 400
-   * Text `$465.9MM` overlaps with `$56.6MM` at screen width 400
-   * Text `$28.5MM` overlaps with `$461.8MM` at screen width 400
-   * Text `$461.8MM` overlaps with `$430.6MM` at screen width 400
-   * Text `$430.6MM` overlaps with `$119.5MM` at screen width 400
-   * *and 62 more*
+   * Text `Commitments per Year` overlaps with `New Funding to` at screen width 400
+   * Text `BRICKELL KEY` overlaps with `CURIAM` at screen width 400
+   * Text `ASSET MANAGEMENT LLC` overlaps with `CAPITAL LLC` at screen width 400
+   * Text `CURIAM` overlaps with `DELTA CAPITAL` at screen width 400
+   * Text `CAPITAL LLC` overlaps with `PARTNERS MANAGEMENT LLC` at screen width 400
+   * Text `$176.3MM` overlaps with `$7.6MM` at screen width 400
+   * Text `$184.3MM` overlaps with `$1.4MM` at screen width 400
+   * *and 52 more*
 
 **https://semerriam.github.io/projects/pj-weather/**
 
