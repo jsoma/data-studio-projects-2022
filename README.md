@@ -169,9 +169,8 @@ No issues found! 🎉
     * Text `150m` is too small at 10px
     * *and 87 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine
-                                years , The record amount coincides with a surge in number of projects ahead of
-                                the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine years_
+    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine years, The record amount coincides with a surge in number of projects ahead of the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine
+                                years _
     * `"Helvetica Next"` font not found, used in 41 text objects. Example: _$450m, 2014, 2015_
     * `GillSans` font not found, used in 6 text objects. Example: _Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey_
 
@@ -334,8 +333,11 @@ No issues found! 🎉
 **https://ilenapeng.github.io/data-studio/california-kelp-forests/**
 
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `2019` overlaps with `2008` at screen width 400
+   * Text `2019` overlaps with `2008` at screen width 900
    * Text `Square meters of kelp` overlaps with `Westport` at screen width 900
    * Text `200` overlaps with `900` at screen width 900
+   * Text `2019` overlaps with `2008` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Helvetica Neue"` font not found, used in 48 text objects. Example: _2016, 2019, 2008_
 
@@ -386,7 +388,8 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/apologies**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `60 apologies since 1957` overlaps with `1.` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Avenir` font not found, used in 118 text objects. Example: _United States, Germany, Canada_
 
@@ -856,8 +859,9 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
+   * *and 8 more*
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1521,7 +1525,6 @@ No issues found! 🎉
 
 **https://semerriam.github.io/projects/pj-litigation-funding/index.html**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `12.4` is too small at 10px
     * Text `Total AUM Dedicated ` is too small at 10px
@@ -1532,14 +1535,14 @@ No issues found! 🎉
     * Text `New Funding ` is too small at 10px
     * *and 112 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `$34.9MM` overlaps with `$113.1MM` at screen width 400
-   * Text `$0.01MM` overlaps with `$111.6MM` at screen width 400
-   * Text `$166.1MM` overlaps with `$465.9MM` at screen width 400
-   * Text `$465.9MM` overlaps with `$56.6MM` at screen width 400
-   * Text `$28.5MM` overlaps with `$461.8MM` at screen width 400
-   * Text `$461.8MM` overlaps with `$430.6MM` at screen width 400
-   * Text `$430.6MM` overlaps with `$119.5MM` at screen width 400
-   * *and 62 more*
+   * Text `Commitments per Year` overlaps with `New Funding to` at screen width 400
+   * Text `BRICKELL KEY` overlaps with `CURIAM` at screen width 400
+   * Text `ASSET MANAGEMENT LLC` overlaps with `CAPITAL LLC` at screen width 400
+   * Text `CURIAM` overlaps with `DELTA CAPITAL` at screen width 400
+   * Text `CAPITAL LLC` overlaps with `PARTNERS MANAGEMENT LLC` at screen width 400
+   * Text `$176.3MM` overlaps with `$7.6MM` at screen width 400
+   * Text `$184.3MM` overlaps with `$1.4MM` at screen width 400
+   * *and 52 more*
 
 **https://semerriam.github.io/projects/pj-weather/**
 
