@@ -128,7 +128,7 @@ No issues found! 🎉
    * Text `92.29` overlaps with `of marriageable age` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 900
-   * Text `92.29` overlaps with `Anhui` at screen width 1300
+   * Text `97.59` overlaps with `Hebei` at screen width 1300
 
 
 
@@ -169,8 +169,9 @@ No issues found! 🎉
     * Text `150m` is too small at 10px
     * *and 87 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine years, The record amount coincides with a surge in number of projects ahead of the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine
-                                years _
+    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine
+                                years , The record amount coincides with a surge in number of projects ahead of
+                                the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine years_
     * `"Helvetica Next"` font not found, used in 41 text objects. Example: _$450m, 2014, 2015_
     * `GillSans` font not found, used in 6 text objects. Example: _Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey_
 
@@ -388,8 +389,7 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/apologies**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `60 apologies since 1957` overlaps with `1.` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Avenir` font not found, used in 118 text objects. Example: _United States, Germany, Canada_
 
@@ -413,16 +413,8 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/shakespeareandco/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `while serving as a lending library, 1919-1941` overlaps with `Joyce’s books were` at screen width 400
-   * Text `were borrowed the most.` overlaps with `Virginia` at screen width 400
-   * Text `while serving as a lending library, 1919-1941` overlaps with `Joyce’s books were` at screen width 900
-   * Text `were borrowed the most.` overlaps with `Virginia` at screen width 900
-   * Text `while serving as a lending library, 1919-1941` overlaps with `Joyce’s books were` at screen width 1300
-   * Text `were borrowed the most.` overlaps with `Virginia` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `Avenir` font not found, used in 47 text objects. Example: _Virginia Woolf and James Joyce, among most popular female and male authors, Most popular books borrowed from Shakespeare & Co. Bookstore_
+    * `Avenir` font not found, used in 47 text objects. Example: _Virginia Woolf and James Joyce , among most popular female and male authors, Most popular books borrowed from Shakespeare & Co. Bookstore_
 
 **https://jessieblaeser.github.io/ticket-to-ride/**
 
@@ -859,9 +851,8 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
-   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
-   * *and 8 more*
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1333,10 +1324,11 @@ No issues found! 🎉
    * Text `Azerbaijan` overlaps with `1,28` at screen width 400
    * Text `297,000` overlaps with `640,000` at screen width 900
    * Text `297,000` overlaps with `300,000` at screen width 900
-   * Text `297,000` overlaps with `640,000` at screen width 1300
-   * Text `297,000` overlaps with `300,000` at screen width 1300
+   * Text `297,000` overlaps with `barrels/day` at screen width 1300
+   * Text `Slovakia` overlaps with `Turkey` at screen width 1300
+   * *and 1 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
 
 **https://pmartisa.github.io/scorllytelling-project2/**
 
@@ -1820,11 +1812,6 @@ No issues found! 🎉
     * Text `$16B in debt that President ` is too small at 10px
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 1300
 
 **https://tanazm.github.io/superfunds/**
 
