@@ -1116,9 +1116,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1174,6 +1172,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1293,20 +1292,17 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-russia-exports/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `over 1.5 million` is too small at 9px
-    * Text `barrels per day ` is too small at 9px
-    * Text `  186,000` is too small at 9px
-    * Text `    297,000` is too small at 9px
-    * Text ` ` is too small at 9px
-    * Text `   640,000` is too small at 9px
-    * Text `  ` is too small at 9px
+    * Text `barrels per day` is too small at 9px
+    * Text `186,000` is too small at 9px
+    * Text `297,000` is too small at 9px
+    * Text `640,000` is too small at 9px
     * *and 3 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `297,000` overlaps with `barrels/day` at screen width 400
-   * Text `Slovakia` overlaps with `Turkey` at screen width 400
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 400
+   * Text `297,000` overlaps with `640,000` at screen width 400
+   * Text `297,000` overlaps with `300,000` at screen width 400
+   * Text `Azerbaijan` overlaps with `1,28` at screen width 400
    * Text `297,000` overlaps with `barrels/day` at screen width 900
    * Text `Slovakia` overlaps with `Turkey` at screen width 900
    * Text `8,25` overlaps with `million metric tonnes` at screen width 900
