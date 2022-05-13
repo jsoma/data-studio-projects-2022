@@ -749,15 +749,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1142,8 +1134,8 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/foi-ph/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `80` overlaps with `100` at screen width 400
    * Text `80` overlaps with `100` at screen width 900
    * Text `80` overlaps with `100` at screen width 1300
 
@@ -1559,7 +1551,7 @@ No issues found! 🎉
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
    * Text `‘15` overlaps with `‘16` at screen width 400
-   * *and 47 more*
+   * *and 118 more*
 
 
 
@@ -1847,7 +1839,7 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/github-vulnerabilities/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://vincentvb.github.io/nft-analysis/**
 
