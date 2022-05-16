@@ -54,15 +54,16 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
-   * Text `STATEN` overlaps with `QUEENS` at screen width 400
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
-   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
-   * *and 14 more*
+   * Text `University` overlaps with `2.8%` at screen width 400
+   * Text `Hotel` overlaps with `2.0%` at screen width 400
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
+   * Text `STATEN` overlaps with `QUEENS` at screen width 900
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 900
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 900
+   * *and 9 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -560,7 +561,7 @@ No issues found! 🎉
 |[Kunle Falayi's Portfolio](https://kfalayi.github.io/irpin/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irpin_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irpin_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irpin_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irpin_index.html-wide-full.jpg)|
 |[Here's how much water US agriculture uses for irrigation](https://kfalayi.github.io/irrigation-water/index.html)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/irrigation-water_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/irrigation-water_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/irrigation-water_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/irrigation-water_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/irrigation-water_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/irrigation-water_index.html-wide-full.jpg)|
 |[Ratings of directors of BBC's 100 greatest films](https://kfalayi.github.io/movie-directors/map.html)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/movie-directors_map.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/movie-directors_map.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/movie-directors_map.html-wide-full.jpg)|
-|[Arrest data shows Manhattan is NYC's transit crimes hub](https://kfalayi.github.io/NY-transit-crimes/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/NY-transit-crimes_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://kfalayi.github.io/NY-transit-crimes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[US-controlled islands leading the way in vaccination rates](https://kfalayi.github.io/vaccination/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/kfalayi.github.io/vaccination_index.html-mobile-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-mobile-full.jpg)|[![medium](screenshots/kfalayi.github.io/vaccination_index.html-medium-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-medium-full.jpg)|[![wide](screenshots/kfalayi.github.io/vaccination_index.html-wide-thumb.jpg)](screenshots/kfalayi.github.io/vaccination_index.html-wide-full.jpg)|
 
 
@@ -568,8 +569,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `/images/kay.jpeg` missing `alt` tag
+No issues found! 🎉
 
 **https://kfalayi.github.io/agritech-investment/**
 
@@ -639,7 +639,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -651,6 +650,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -673,15 +673,10 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/NY-transit-crimes/**
 
+* Could not access the page - if you moved it, let me know
 * Change URL to be all in lowercase
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2020` overlaps with `242` at screen width 400
-   * Text `2017` overlaps with `375` at screen width 400
-   * Text `Sex crimes` overlaps with `427` at screen width 400
-   * Text `2021` overlaps with `600` at screen width 400
-   * Text `2019` overlaps with `660` at screen width 400
-   * Text `Assault 3` overlaps with `1498` at screen width 400
-   * Text `2018` overlaps with `763` at screen width 400
+* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://kfalayi.github.io/vaccination/**
 
@@ -1641,6 +1636,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Public Water` is too small at 10px
     * Text `Industry` is too small at 10px
@@ -1650,13 +1646,6 @@ No issues found! 🎉
     * Text `240` is too small at 9px
     * Text `180` is too small at 9px
     * *and 21 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
