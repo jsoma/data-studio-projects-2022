@@ -318,11 +318,8 @@ No issues found! 🎉
 **https://ilenapeng.github.io/data-studio/california-kelp-forests/**
 
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2019` overlaps with `2008` at screen width 400
-   * Text `2019` overlaps with `2008` at screen width 900
    * Text `Square meters of kelp` overlaps with `Westport` at screen width 900
    * Text `200` overlaps with `900` at screen width 900
-   * Text `2019` overlaps with `2008` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Helvetica Neue"` font not found, used in 48 text objects. Example: _2016, 2019, 2008_
 
@@ -641,7 +638,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -693,7 +689,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
+|[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|request failed|request failed|request failed|
 |[1 out of 4 federal agencies has become more secretive under Bolsonaro](https://luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro/)|[![mobile](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-wide-full.jpg)|
 |[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
 |[foia-denials/index.html](https://luizftoledo.github.io/foia-denials)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-full.jpg)|
@@ -707,7 +703,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/**
 
-No issues found! 🎉
+* Could not access the page - if you moved it, let me know
 
 **https://luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro/**
 
@@ -736,15 +732,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -843,9 +831,8 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
-   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
-   * *and 8 more*
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
+   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1311,6 +1298,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/scorllytelling-project2/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `3.3` overlaps with `3.3` at screen width 400
    * Text `24.7` overlaps with `24.7` at screen width 400
@@ -1549,7 +1537,7 @@ No issues found! 🎉
    * Text `‘13` overlaps with `‘14` at screen width 400
    * Text `‘14` overlaps with `‘15` at screen width 400
    * Text `‘15` overlaps with `‘16` at screen width 400
-   * *and 47 more*
+   * *and 118 more*
 
 
 
@@ -1858,7 +1846,7 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/github-vulnerabilities/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://vincentvb.github.io/nft-analysis/**
 
