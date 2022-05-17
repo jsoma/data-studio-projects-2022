@@ -102,7 +102,7 @@ No issues found! 🎉
    * Text `92.29` overlaps with `of marriageable age` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 400
    * Text `97.59` overlaps with `Hebei` at screen width 900
-   * Text `97.59` overlaps with `Hebei` at screen width 1300
+   * Text `92.29` overlaps with `Anhui` at screen width 1300
 
 **https://angelinejcq.github.io/japan-career-news-game/**
 
@@ -370,7 +370,8 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/apologies**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `60 apologies since 1957` overlaps with `1.` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Avenir` font not found, used in 118 text objects. Example: _United States, Germany, Canada_
 
@@ -689,7 +690,7 @@ No issues found! 🎉
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|request failed|request failed|request failed|
+|[luizftoledo's journalism portfolio](https://luizftoledo.github.io/)|[![mobile](screenshots/luizftoledo.github.io/index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/index.html-wide-full.jpg)|
 |[1 out of 4 federal agencies has become more secretive under Bolsonaro](https://luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro/)|[![mobile](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro_index.html-wide-full.jpg)|
 |[Brazilian politicians pay for dozens of meals in the same day](https://luizftoledo.github.io/congress-expenses-with-food/)|[![mobile](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/congress-expenses-with-food_index.html-wide-full.jpg)|
 |[foia-denials/index.html](https://luizftoledo.github.io/foia-denials)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-full.jpg)|
@@ -703,7 +704,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/**
 
-* Could not access the page - if you moved it, let me know
+No issues found! 🎉
 
 **https://luizftoledo.github.io/1-out-of-4-agencies-has-become-more-secretive-under-bolsonaro/**
 
@@ -732,7 +733,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -831,8 +840,9 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
+   * *and 8 more*
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1123,7 +1133,13 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `1990` overlaps with `1995` at screen width 400
+   * Text `2015` overlaps with `2019` at screen width 400
+   * Text `1990` overlaps with `1995` at screen width 900
+   * Text `2015` overlaps with `2019` at screen width 900
+   * Text `1990` overlaps with `1995` at screen width 1300
+   * Text `2015` overlaps with `2019` at screen width 1300
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1226,12 +1242,11 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 7 more*
+   * *and 6 more*
 
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Case Open at` is too small at 8px
     * Text `Time of Death` is too small at 8px
@@ -1241,14 +1256,22 @@ No issues found! 🎉
     * Text `15` is too small at 10px
     * Text `16` is too small at 10px
     * *and 33 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `2010` overlaps with `2011` at screen width 400
+   * Text `2011` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * *and 23 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
+    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one _
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `The Basque ` is too small at 10px
     * Text `Country` is too small at 10px
@@ -1259,14 +1282,14 @@ No issues found! 🎉
     * Text `La Rioja` is too small at 10px
     * *and 137 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `The Basque` overlaps with `Cantabria` at screen width 400
    * Text `Country` overlaps with `Cantabria` at screen width 400
    * Text `0` overlaps with `-` at screen width 400
    * Text `0` overlaps with `0` at screen width 400
    * Text `0` overlaps with `.` at screen width 400
    * Text `0` overlaps with `2` at screen width 400
-   * Text `-` overlaps with `0` at screen width 400
-   * Text `-` overlaps with `.` at screen width 400
-   * *and 323 more*
+   * Text `0` overlaps with `%` at screen width 400
+   * *and 341 more*
 
 **https://pmartisa.github.io/project-olympics/**
 
@@ -1298,7 +1321,6 @@ No issues found! 🎉
 **https://pmartisa.github.io/scorllytelling-project2/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `3.3` overlaps with `3.3` at screen width 400
    * Text `24.7` overlaps with `24.7` at screen width 400
@@ -1630,7 +1652,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
@@ -1803,6 +1825,13 @@ No issues found! 🎉
     * Text `$16B in debt that President ` is too small at 10px
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 400
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 400
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 1300
 
 **https://tanazm.github.io/superfunds/**
 
