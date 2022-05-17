@@ -626,7 +626,7 @@ No issues found! 🎉
    * Text `2016` overlaps with `2014` at screen width 400
    * Text `2016` overlaps with `2018` at screen width 400
    * Text `2002` overlaps with `2004` at screen width 400
-   * *and 71 more*
+   * *and 39 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -732,7 +732,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -831,8 +839,9 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
+   * *and 8 more*
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1461,8 +1470,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1636,6 +1643,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Public Water` is too small at 10px
     * Text `Industry` is too small at 10px
@@ -1645,13 +1653,6 @@ No issues found! 🎉
     * Text `240` is too small at 9px
     * Text `180` is too small at 9px
     * *and 21 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
