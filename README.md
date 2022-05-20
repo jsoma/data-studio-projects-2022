@@ -54,16 +54,15 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `University` overlaps with `2.8%` at screen width 400
-   * Text `Hotel` overlaps with `2.0%` at screen width 400
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
-   * Text `STATEN` overlaps with `QUEENS` at screen width 900
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 900
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 900
-   * *and 9 more*
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
+   * Text `STATEN` overlaps with `QUEENS` at screen width 400
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
+   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
+   * *and 14 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -149,8 +148,9 @@ No issues found! 🎉
     * Text `150m` is too small at 10px
     * *and 87 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine years, The record amount coincides with a surge in number of projects ahead of the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine
-                                years _
+    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine
+                                years , The record amount coincides with a surge in number of projects ahead of
+                                the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine years_
     * `"Helvetica Next"` font not found, used in 41 text objects. Example: _$450m, 2014, 2015_
     * `GillSans` font not found, used in 6 text objects. Example: _Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey_
 
@@ -732,15 +732,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -775,7 +767,7 @@ No issues found! 🎉
 |[Airbnb Story](https://mishavaid7.github.io/airbnb-update/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/mishavaid7.github.io/airbnb-update_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/airbnb-update_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/airbnb-update_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/airbnb-update_index.html-wide-full.jpg)|
 |[Visualizing Presidential Pardons](https://mishavaid7.github.io/clemency/)|[![mobile](screenshots/mishavaid7.github.io/clemency_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/clemency_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/clemency_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/clemency_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/clemency_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/clemency_index.html-wide-full.jpg)|
 |[Visualizing Presidential Pardons](https://mishavaid7.github.io/pardons)|[![mobile](screenshots/mishavaid7.github.io/pardons_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/pardons_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/pardons_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/pardons_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/pardons_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/pardons_index.html-wide-full.jpg)|
-|[Where do Americans get their news in 2022 and how much do they trust it?](https://mishavaid7.github.io/poll-project/)|[![mobile](screenshots/mishavaid7.github.io/poll-project_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/poll-project_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/poll-project_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-wide-full.jpg)|
+|[News Consumption Poll](https://mishavaid7.github.io/poll-project/)|[![mobile](screenshots/mishavaid7.github.io/poll-project_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/poll-project_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/poll-project_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/poll-project_index.html-wide-full.jpg)|
 |[NYC Restaurant Grade Story](https://mishavaid7.github.io/rest-story/)|[![mobile](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/rest-story_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/rest-story_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/rest-story_index.html-wide-full.jpg)|
 |[Wordle Cheaters](https://mishavaid7.github.io/wordle/)|[![mobile](screenshots/mishavaid7.github.io/wordle_index.html-mobile-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-mobile-full.jpg)|[![medium](screenshots/mishavaid7.github.io/wordle_index.html-medium-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-medium-full.jpg)|[![wide](screenshots/mishavaid7.github.io/wordle_index.html-wide-thumb.jpg)](screenshots/mishavaid7.github.io/wordle_index.html-wide-full.jpg)|
 
@@ -830,17 +822,15 @@ No issues found! 🎉
 
 **https://mishavaid7.github.io/poll-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Minimum font size should be 12px, enlarge text in Illustrator
-    * Text `April 17th 2022` is too small at 10px
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `US` overlaps with `​ Adult Citizens` at screen width 400
-   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 400
-   * Text `Get the data` overlaps with `​ ​` at screen width 400
+   * Text `of the isle distrust.` overlaps with `YouGov asked Americans with different ideologies, “how trustworthy do you consider the following` at screen width 400
+   * Text `of the isle distrust.` overlaps with `news personalities?”` at screen width 400
+   * Text `YouGov asked Americans with different ideologies, “how trustworthy do you consider the following` overlaps with `news personalities?”` at screen width 400
+   * Text `Democrats` overlaps with `Republicans` at screen width 400
+   * Text `Republicans` overlaps with `US` at screen width 400
+   * Text `Republicans` overlaps with `​ Adult Citizen` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
-   * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
+   * *and 64 more*
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1106,9 +1096,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Jun` overlaps with `Feb` at screen width 400
-   * Text `2021` overlaps with `2022` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1164,6 +1152,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1239,6 +1228,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Case Open at` is too small at 8px
     * Text `Time of Death` is too small at 8px
@@ -1248,22 +1238,14 @@ No issues found! 🎉
     * Text `15` is too small at 10px
     * Text `16` is too small at 10px
     * *and 33 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2010` overlaps with `2011` at screen width 400
-   * Text `2011` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * *and 23 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one _
+    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
 
 **https://pmartisa.github.io/project-domestic-violence/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `The Basque ` is too small at 10px
     * Text `Country` is too small at 10px
@@ -1274,14 +1256,14 @@ No issues found! 🎉
     * Text `La Rioja` is too small at 10px
     * *and 137 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `The Basque` overlaps with `Cantabria` at screen width 400
    * Text `Country` overlaps with `Cantabria` at screen width 400
    * Text `0` overlaps with `-` at screen width 400
    * Text `0` overlaps with `0` at screen width 400
    * Text `0` overlaps with `.` at screen width 400
    * Text `0` overlaps with `2` at screen width 400
-   * Text `0` overlaps with `%` at screen width 400
-   * *and 341 more*
+   * Text `-` overlaps with `0` at screen width 400
+   * Text `-` overlaps with `.` at screen width 400
+   * *and 323 more*
 
 **https://pmartisa.github.io/project-olympics/**
 
@@ -1505,10 +1487,8 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
-   * Text `7.5` overlaps with `7.5` at screen width 1300
-   * Text `5.0` overlaps with `5.0` at screen width 1300
-   * *and 14 more*
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-litigation-funding/index.html**
 
@@ -1648,7 +1628,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
@@ -1821,13 +1801,6 @@ No issues found! 🎉
     * Text `$16B in debt that President ` is too small at 10px
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 400
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 400
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 1300
 
 **https://tanazm.github.io/superfunds/**
 
