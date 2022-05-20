@@ -638,6 +638,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -649,7 +650,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -831,8 +831,9 @@ No issues found! 🎉
    * Text `Get the data` overlaps with `​ ​` at screen width 400
    * Text `US` overlaps with `​ Adult Citizen` at screen width 400
    * Text `Anderson Cooper of CNN was the personality that Democrats and Republicans disagreed over the` overlaps with `​ ​` at screen width 400
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 900
-   * Text `.` overlaps with `Anderson Cooper of CNN was the personality that` at screen width 1300
+   * Text `US` overlaps with `​ Adult Citizens` at screen width 900
+   * Text `the % above includes an aggregate of those who answered “very trustworthy” and “trustworthy” in the poll` overlaps with `​ ​` at screen width 900
+   * *and 8 more*
 
 **https://mishavaid7.github.io/rest-story/**
 
@@ -1160,6 +1161,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1402,7 +1404,7 @@ No issues found! 🎉
 |[Census Peculiarities in Incarcerated Populations](https://semerriam.github.io/projects/pj-census-quirks/)|[![mobile](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-census-quirks_index.html-wide-full.jpg)|
 |[Investigating Inequalities of Essex County](https://semerriam.github.io/projects/pj-ec-schools/)|[![mobile](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-ec-schools_index.html-wide-full.jpg)|
 |[The Horror of Infrasound](https://semerriam.github.io/projects/pj-infrasound/)|[![mobile](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-infrasound_index.html-wide-full.jpg)|
-|[Litigation Finance Growth](https://semerriam.github.io/projects/pj-litigation-funding/index.html)|[![mobile](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-wide-full.jpg)|
+|[Litigation Funding — High Incentives, Low Visibility](https://semerriam.github.io/projects/pj-litigation-funding/index.html)|[![mobile](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-litigation-funding_index.html-wide-full.jpg)|
 |[The Rise and Fall of Weather Words](https://semerriam.github.io/projects/pj-weather/)|[![mobile](screenshots/semerriam.github.io/projects_pj-weather_index.html-mobile-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-weather_index.html-mobile-full.jpg)|[![medium](screenshots/semerriam.github.io/projects_pj-weather_index.html-medium-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-weather_index.html-medium-full.jpg)|[![wide](screenshots/semerriam.github.io/projects_pj-weather_index.html-wide-thumb.jpg)](screenshots/semerriam.github.io/projects_pj-weather_index.html-wide-full.jpg)|
 
 
