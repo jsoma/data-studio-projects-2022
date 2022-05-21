@@ -1139,13 +1139,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1278,6 +1272,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/project-domestic-violence/**
 
 * Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `The Basque ` is too small at 10px
     * Text `Country` is too small at 10px
@@ -1288,14 +1283,14 @@ No issues found! 🎉
     * Text `La Rioja` is too small at 10px
     * *and 137 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `The Basque` overlaps with `Cantabria` at screen width 400
    * Text `Country` overlaps with `Cantabria` at screen width 400
    * Text `0` overlaps with `-` at screen width 400
    * Text `0` overlaps with `0` at screen width 400
    * Text `0` overlaps with `.` at screen width 400
    * Text `0` overlaps with `2` at screen width 400
-   * Text `0` overlaps with `%` at screen width 400
-   * *and 341 more*
+   * Text `-` overlaps with `0` at screen width 400
+   * Text `-` overlaps with `.` at screen width 400
+   * *and 323 more*
 
 **https://pmartisa.github.io/project-olympics/**
 
@@ -1658,10 +1653,11 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Public Water` is too small at 10px
     * Text `Industry` is too small at 10px
@@ -1671,13 +1667,6 @@ No issues found! 🎉
     * Text `240` is too small at 9px
     * Text `180` is too small at 9px
     * *and 21 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
