@@ -148,8 +148,9 @@ No issues found! 🎉
     * Text `150m` is too small at 10px
     * *and 87 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine years, The record amount coincides with a surge in number of projects ahead of the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine
-                                years _
+    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine
+                                years , The record amount coincides with a surge in number of projects ahead of
+                                the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine years_
     * `"Helvetica Next"` font not found, used in 41 text objects. Example: _$450m, 2014, 2015_
     * `GillSans` font not found, used in 6 text objects. Example: _Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey_
 
@@ -732,7 +733,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1113,13 +1122,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1806,11 +1809,6 @@ No issues found! 🎉
     * Text `$16B in debt that President ` is too small at 10px
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 1300
 
 **https://tanazm.github.io/superfunds/**
 
