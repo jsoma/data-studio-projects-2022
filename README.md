@@ -639,6 +639,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -650,7 +651,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -733,15 +733,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `8k` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * Text `2017` overlaps with `2018` at screen width 400
-   * Text `2018` overlaps with `2019` at screen width 400
-   * *and 4 more*
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1105,7 +1097,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1462,6 +1454,8 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
+   * Text `North Andover` overlaps with `1,048` at screen width 1300
+   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1804,11 +1798,6 @@ No issues found! 🎉
     * Text `$16B in debt that President ` is too small at 10px
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 1300
 
 **https://tanazm.github.io/superfunds/**
 
