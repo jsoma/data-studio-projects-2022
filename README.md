@@ -1281,13 +1281,12 @@ No issues found! 🎉
    * Text `297,000` overlaps with `barrels/day` at screen width 400
    * Text `Slovakia` overlaps with `Turkey` at screen width 400
    * Text `8,25` overlaps with `million metric tonnes` at screen width 400
-   * Text `297,000` overlaps with `barrels/day` at screen width 900
-   * Text `Slovakia` overlaps with `Turkey` at screen width 900
-   * Text `8,25` overlaps with `million metric tonnes` at screen width 900
-   * Text `297,000` overlaps with `barrels/day` at screen width 1300
-   * *and 2 more*
+   * Text `297,000` overlaps with `640,000` at screen width 900
+   * Text `297,000` overlaps with `300,000` at screen width 900
+   * Text `297,000` overlaps with `640,000` at screen width 1300
+   * Text `297,000` overlaps with `300,000` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%), Moderately Low (10% - 20%), Low (5% - 10%)_
+    * `"Times Roman"` font not found, used in 99 text objects. Example: _Very High above (40%)  ,  Moderately Low (10% - 20%) , Low (5% - 10%) _
 
 **https://pmartisa.github.io/scorllytelling-project2/**
 
