@@ -54,15 +54,16 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
-   * Text `STATEN` overlaps with `QUEENS` at screen width 400
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
-   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
-   * *and 14 more*
+   * Text `University` overlaps with `2.8%` at screen width 400
+   * Text `Hotel` overlaps with `2.0%` at screen width 400
+   * Text `University` overlaps with `2.8%` at screen width 900
+   * Text `Hotel` overlaps with `2.0%` at screen width 900
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
+   * Text `STATEN` overlaps with `QUEENS` at screen width 900
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
+   * *and 13 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -97,7 +98,6 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `gender ratio` overlaps with `92.29` at screen width 400
    * Text `92.29` overlaps with `of marriageable age` at screen width 400
@@ -597,7 +597,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/bloomberg/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `1 dot = 1 dollar store` is too small at 10px
     * Text `blue dots = dollar stores` is too small at 10px
@@ -611,6 +610,7 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -621,14 +621,12 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `United Kingdom` overlaps with `France` at screen width 400
-   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `2016` overlaps with `2014` at screen width 400
-   * Text `2016` overlaps with `2018` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 39 more*
+   * Text `France` overlaps with `France` at screen width 900
+   * Text `Germany` overlaps with `US` at screen width 900
+   * Text `France` overlaps with `France` at screen width 1300
+   * Text `Germany` overlaps with `US` at screen width 1300
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -681,8 +679,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -981,14 +978,14 @@ No issues found! 🎉
     * Text `120` is too small at 9px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `San Francisco` overlaps with `Oakland` at screen width 400
    * Text `AZ` overlaps with `CA` at screen width 400
-   * Text `AZ` overlaps with `CO` at screen width 400
    * Text `CA` overlaps with `CO` at screen width 400
-   * Text `CA` overlaps with `CT` at screen width 400
    * Text `CO` overlaps with `CT` at screen width 400
-   * Text `CO` overlaps with `FL` at screen width 400
-   * *and 85 more*
+   * Text `CT` overlaps with `FL` at screen width 400
+   * Text `FL` overlaps with `GA` at screen width 400
+   * Text `GA` overlaps with `IL` at screen width 400
+   * Text `IL` overlaps with `MA` at screen width 400
+   * *and 53 more*
 
 
 
@@ -1148,6 +1145,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1223,6 +1221,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Case Open at` is too small at 8px
     * Text `Time of Death` is too small at 8px
@@ -1232,17 +1231,8 @@ No issues found! 🎉
     * Text `15` is too small at 10px
     * Text `16` is too small at 10px
     * *and 33 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2010` overlaps with `2011` at screen width 400
-   * Text `2011` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * *and 23 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one _
+    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
 
 **https://pmartisa.github.io/project-domestic-violence/**
