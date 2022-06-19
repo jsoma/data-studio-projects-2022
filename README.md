@@ -54,16 +54,15 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `University` overlaps with `2.8%` at screen width 400
-   * Text `Hotel` overlaps with `2.0%` at screen width 400
-   * Text `University` overlaps with `2.8%` at screen width 900
-   * Text `Hotel` overlaps with `2.0%` at screen width 900
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
-   * Text `STATEN` overlaps with `QUEENS` at screen width 900
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
-   * *and 13 more*
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
+   * Text `STATEN` overlaps with `QUEENS` at screen width 400
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
+   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
+   * *and 14 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -640,7 +639,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -652,6 +650,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -877,6 +876,15 @@ No issues found! 🎉
     * Text `Transportation` is too small at 8px
     * Text `Transportation` is too small at 8px
     * Text `Utilities` is too small at 8px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 400
+   * Text `Cleaning up` overlaps with `74` at screen width 400
+   * Text `17` overlaps with `Western water infrastructure` at screen width 400
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 900
+   * Text `Cleaning up` overlaps with `74` at screen width 900
+   * Text `17` overlaps with `Western water infrastructure` at screen width 900
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 1300
+   * *and 2 more*
 
 **https://msc-joel.github.io/main-article1.html**
 
@@ -966,7 +974,7 @@ No issues found! 🎉
     * Text `6k` is too small at 10px
     * Text `213k` is too small at 9px
     * Text `200` is too small at 9px
-    * Text `Black drivers are stopped frequently in LA ` is too small at 9px
+    * Text `Black drivers are stopped frequently in LA` is too small at 9px
     * Text `160` is too small at 9px
     * Text `120k` is too small at 9px
     * Text `120` is too small at 9px
@@ -1185,7 +1193,7 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 7 more*
+   * *and 8 more*
 
 **https://pmartisa.github.io/**
 
@@ -1499,7 +1507,7 @@ No issues found! 🎉
    * Text `CAPITAL LLC` overlaps with `PARTNERS MANAGEMENT LLC` at screen width 400
    * Text `$176.3MM` overlaps with `$7.6MM` at screen width 400
    * Text `$184.3MM` overlaps with `$1.4MM` at screen width 400
-   * *and 52 more*
+   * *and 67 more*
 
 **https://semerriam.github.io/projects/pj-weather/**
 
