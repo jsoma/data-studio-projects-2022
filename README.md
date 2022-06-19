@@ -54,14 +54,15 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `University` overlaps with `2.8%` at screen width 400
-   * Text `Hotel` overlaps with `2.0%` at screen width 400
-   * Text `University` overlaps with `2.8%` at screen width 900
-   * Text `Hotel` overlaps with `2.0%` at screen width 900
-   * Text `University` overlaps with `2.8%` at screen width 1300
-   * Text `Hotel` overlaps with `2.0%` at screen width 1300
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
+   * Text `STATEN` overlaps with `QUEENS` at screen width 400
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
+   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
+   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
+   * *and 14 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -96,11 +97,12 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/woman-trafficking-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `92.29` overlaps with `Anhui` at screen width 400
-   * Text `92.29` overlaps with `Anhui` at screen width 900
-   * Text `92.29` overlaps with `Anhui` at screen width 1300
+   * Text `gender ratio` overlaps with `92.29` at screen width 400
+   * Text `92.29` overlaps with `of marriageable age` at screen width 400
+   * Text `97.59` overlaps with `Hebei` at screen width 400
+   * Text `97.59` overlaps with `Hebei` at screen width 900
+   * Text `97.59` overlaps with `Hebei` at screen width 1300
 
 **https://angelinejcq.github.io/japan-career-news-game/**
 
@@ -167,6 +169,15 @@ No issues found! 🎉
     * Text `3%` is too small at 10px
     * Text `Early 2000s ` is too small at 9px
     * *and 39 more*
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `3%` overlaps with `Early 2000s` at screen width 400
+   * Text `2002` overlaps with `2004` at screen width 400
+   * Text `2004` overlaps with `2006` at screen width 400
+   * Text `2006` overlaps with `2008` at screen width 400
+   * Text `2008` overlaps with `2010` at screen width 400
+   * Text `2010` overlaps with `2012` at screen width 400
+   * Text `2012` overlaps with `2014` at screen width 400
+   * *and 3 more*
 
 **https://annerquaye.github.io/projects/oscars.html**
 
@@ -323,7 +334,6 @@ No issues found! 🎉
 
 **https://ilenapeng.github.io/data-studio/path-to-principal/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Baskerville` font not found, used in 122 text objects. Example: _Ages at which New York City Ballet’s principal dancers reached each milestone, 10, 20_
 
@@ -563,7 +573,6 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/agritech-investment/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `South ` is too small at 10px
     * Text `Africa` is too small at 10px
@@ -581,7 +590,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 31 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -1086,7 +1095,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1103,13 +1112,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/ph-conflict/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `1990` overlaps with `1995` at screen width 400
-   * Text `2015` overlaps with `2019` at screen width 400
-   * Text `1990` overlaps with `1995` at screen width 900
-   * Text `2015` overlaps with `2019` at screen width 900
-   * Text `1990` overlaps with `1995` at screen width 1300
-   * Text `2015` overlaps with `2019` at screen width 1300
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/polls-ph/**
 
@@ -1130,7 +1133,15 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/trains/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 400
+   * Text `Jun` overlaps with `Feb` at screen width 400
+   * Text `2021` overlaps with `2022` at screen width 400
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 900
+   * Text `Jun` overlaps with `Feb` at screen width 900
+   * Text `2021` overlaps with `2022` at screen width 900
+   * Text `Jun 2021` overlaps with `Feb 2022` at screen width 1300
+   * *and 2 more*
 
 **https://pmagtulis.github.io/projects/video-games/**
 
@@ -1205,7 +1216,7 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 8 more*
+   * *and 7 more*
 
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
@@ -1494,13 +1505,12 @@ No issues found! 🎉
    * Text `CAPITAL LLC` overlaps with `PARTNERS MANAGEMENT LLC` at screen width 400
    * Text `$176.3MM` overlaps with `$7.6MM` at screen width 400
    * Text `$184.3MM` overlaps with `$1.4MM` at screen width 400
-   * *and 67 more*
+   * *and 52 more*
 
 **https://semerriam.github.io/projects/pj-weather/**
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `imgs/weather-words.gif` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `20,000` is too small at 10px
     * Text `20,000` is too small at 10px
