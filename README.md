@@ -1095,7 +1095,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1446,12 +1446,12 @@ No issues found! 🎉
     * Text `0` is too small at 9px
     * *and 63 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `North Andover` overlaps with `1,048` at screen width 400
-   * Text `North Andover` overlaps with `511` at screen width 400
-   * Text `North Andover` overlaps with `774` at screen width 400
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
+   * Text `North Andover` overlaps with `1,048` at screen width 1300
+   * Text `North Andover` overlaps with `511` at screen width 1300
+   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
