@@ -119,7 +119,7 @@ No issues found! 🎉
 |[Abbey Richard's Portfolio](https://annerquaye.github.io)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/data-viz/exemptions.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/data-viz/gasoline.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-wide-full.jpg)|
-|[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/oscars.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_oscars.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_oscars.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_oscars.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-wide-full.jpg)|
+|[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/oscars.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/responsive_pages/responsive.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/ricestory.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_ricestory.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_ricestory.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://annerquaye.github.io/projects/scrolly.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
@@ -148,8 +148,9 @@ No issues found! 🎉
     * Text `150m` is too small at 10px
     * *and 87 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine years, The record amount coincides with a surge in number of projects ahead of the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine
-                                years _
+    * `"Avenir Next"` font not found, used in 9 text objects. Example: _2019 accounts for 40% of all tax exemptions granted in the last nine
+                                years , The record amount coincides with a surge in number of projects ahead of
+                                the 2020 general elections, 2019 accounts for 40% of all tax exemptions granted in the last nine years_
     * `"Helvetica Next"` font not found, used in 41 text objects. Example: _$450m, 2014, 2015_
     * `GillSans` font not found, used in 6 text objects. Example: _Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey, Source of data: Parliament of Ghana | Chart by: Richard A. Abbey_
 
@@ -182,6 +183,7 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `oscars/oscars.jpeg` missing `alt` tag
+* Could not access the page - if you moved it, let me know
 * Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -1466,8 +1468,6 @@ No issues found! 🎉
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
-   * Text `North Andover` overlaps with `1,048` at screen width 1300
-   * *and 2 more*
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1496,10 +1496,8 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
-   * Text `7.5` overlaps with `7.5` at screen width 1300
-   * Text `5.0` overlaps with `5.0` at screen width 1300
-   * *and 14 more*
+   * Text `0` overlaps with `0` at screen width 1300
+   * Text `20` overlaps with `20` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-litigation-funding/index.html**
 
@@ -1813,6 +1811,8 @@ No issues found! 🎉
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 400
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 400
    * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
    * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
    * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
