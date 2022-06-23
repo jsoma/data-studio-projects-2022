@@ -119,7 +119,7 @@ No issues found! 🎉
 |[Abbey Richard's Portfolio](https://annerquaye.github.io)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/index.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/index.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/index.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/index.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/index.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/index.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/data-viz/exemptions.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_exemptions.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/data-viz/gasoline.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_data-viz_gasoline.html-wide-full.jpg)|
-|[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/oscars.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/oscars.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_oscars.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_oscars.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_oscars.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_oscars.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/responsive_pages/responsive.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_responsive_pages_responsive.html-wide-full.jpg)|
 |[Abbey Richard's Portfolio](https://annerquaye.github.io/projects/ricestory.html)<br>:x: og:title<br>:x: og:description<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-mobile-full.jpg)|[![medium](screenshots/annerquaye.github.io/projects_ricestory.html-medium-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-medium-full.jpg)|[![wide](screenshots/annerquaye.github.io/projects_ricestory.html-wide-thumb.jpg)](screenshots/annerquaye.github.io/projects_ricestory.html-wide-full.jpg)|
 |[Page not found · GitHub Pages](https://annerquaye.github.io/projects/scrolly.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
@@ -183,7 +183,6 @@ No issues found! 🎉
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `oscars/oscars.jpeg` missing `alt` tag
-* Could not access the page - if you moved it, let me know
 * Move `projects/oscars.html` into a folder called `oscars`, then rename the file `index.html`. That way the project can be found at **/oscars** instead of **/oscars.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505)
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
@@ -1156,6 +1155,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1306,6 +1306,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/scorllytelling-project2/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `3.3` overlaps with `3.3` at screen width 400
    * Text `24.7` overlaps with `24.7` at screen width 400
@@ -1496,8 +1497,10 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `0` overlaps with `0` at screen width 1300
-   * Text `20` overlaps with `20` at screen width 1300
+   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
+   * Text `7.5` overlaps with `7.5` at screen width 1300
+   * Text `5.0` overlaps with `5.0` at screen width 1300
+   * *and 14 more*
 
 **https://semerriam.github.io/projects/pj-litigation-funding/index.html**
 
@@ -1811,8 +1814,6 @@ No issues found! 🎉
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 400
-   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 400
    * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
    * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
    * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
