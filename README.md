@@ -627,7 +627,7 @@ No issues found! 🎉
    * Text `2016` overlaps with `2014` at screen width 400
    * Text `2016` overlaps with `2018` at screen width 400
    * Text `2002` overlaps with `2004` at screen width 400
-   * *and 71 more*
+   * *and 39 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -1147,7 +1147,9 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
+    * Text ` ` is too small at 10px
 
 
 
