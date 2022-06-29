@@ -371,7 +371,8 @@ No issues found! 🎉
 
 **https://jessieblaeser.github.io/apologies**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `60 apologies since 1957` overlaps with `1.` at screen width 400
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Avenir` font not found, used in 118 text objects. Example: _United States, Germany, Canada_
 
@@ -1810,6 +1811,8 @@ No issues found! 🎉
     * Text `Biden has already forgiven` is too small at 10px
     * *and 23 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 400
+   * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 400
    * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 900
    * Text `​ Borrowers with $10-50k of debt` overlaps with `​ Borrowers with up to $10k of debt` at screen width 900
    * Text `​ Borrowers with more than $50k of debt` overlaps with `​ Borrowers with $10-50k of debt` at screen width 1300
