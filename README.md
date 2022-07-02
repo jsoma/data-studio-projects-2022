@@ -54,7 +54,6 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
    * Text `STATEN` overlaps with `QUEENS` at screen width 400
@@ -597,6 +596,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/bloomberg/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `1 dot = 1 dollar store` is too small at 10px
     * Text `blue dots = dollar stores` is too small at 10px
@@ -679,8 +679,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -877,6 +876,15 @@ No issues found! 🎉
     * Text `Transportation` is too small at 8px
     * Text `Transportation` is too small at 8px
     * Text `Utilities` is too small at 8px
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 400
+   * Text `Cleaning up` overlaps with `74` at screen width 400
+   * Text `17` overlaps with `Western water infrastructure` at screen width 400
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 900
+   * Text `Cleaning up` overlaps with `74` at screen width 900
+   * Text `17` overlaps with `Western water infrastructure` at screen width 900
+   * Text `Public transit` overlaps with `Reconnecting` at screen width 1300
+   * *and 2 more*
 
 **https://msc-joel.github.io/main-article1.html**
 
