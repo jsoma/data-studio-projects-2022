@@ -54,15 +54,16 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
-   * Text `STATEN` overlaps with `QUEENS` at screen width 400
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
-   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
-   * *and 14 more*
+   * Text `University` overlaps with `2.8%` at screen width 400
+   * Text `Hotel` overlaps with `2.0%` at screen width 400
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 900
+   * Text `STATEN` overlaps with `QUEENS` at screen width 900
+   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 900
+   * Text `ISLAND` overlaps with `QUEENS` at screen width 900
+   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 900
+   * *and 9 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -590,7 +591,7 @@ No issues found! 🎉
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `United` overlaps with `Germany` at screen width 400
    * Text `Kingdom` overlaps with `Kingdom` at screen width 400
-   * *and 34 more*
+   * *and 33 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `Georgia` font not found, used in 192 text objects. Example: _ASIA, NORTH AMERICA, $6.7 billion_
 
@@ -639,6 +640,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -650,7 +652,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -1491,8 +1492,10 @@ No issues found! 🎉
    * Text `20` overlaps with `20` at screen width 400
    * Text `0` overlaps with `0` at screen width 900
    * Text `20` overlaps with `20` at screen width 900
-   * Text `0` overlaps with `0` at screen width 1300
-   * Text `20` overlaps with `20` at screen width 1300
+   * Text `44,083 Hz` overlaps with `44,083 Hz` at screen width 1300
+   * Text `7.5` overlaps with `7.5` at screen width 1300
+   * Text `5.0` overlaps with `5.0` at screen width 1300
+   * *and 14 more*
 
 **https://semerriam.github.io/projects/pj-litigation-funding/index.html**
 
