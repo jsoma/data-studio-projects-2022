@@ -610,6 +610,7 @@ No issues found! 🎉
 **https://kfalayi.github.io/China-Africa-mineral-resources**
 
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 9px
     * Text `2012` is too small at 9px
@@ -620,14 +621,12 @@ No issues found! 🎉
     * Text `2010` is too small at 9px
     * *and 12 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `United Kingdom` overlaps with `France` at screen width 400
-   * Text `United Kingdom` overlaps with `France` at screen width 400
    * Text `France` overlaps with `France` at screen width 400
    * Text `Germany` overlaps with `US` at screen width 400
-   * Text `2016` overlaps with `2014` at screen width 400
-   * Text `2016` overlaps with `2018` at screen width 400
-   * Text `2002` overlaps with `2004` at screen width 400
-   * *and 39 more*
+   * Text `France` overlaps with `France` at screen width 900
+   * Text `Germany` overlaps with `US` at screen width 900
+   * Text `France` overlaps with `France` at screen width 1300
+   * Text `Germany` overlaps with `US` at screen width 1300
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -680,8 +679,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -989,14 +987,14 @@ No issues found! 🎉
     * Text `120` is too small at 9px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `San Francisco` overlaps with `Oakland` at screen width 400
    * Text `AZ` overlaps with `CA` at screen width 400
-   * Text `AZ` overlaps with `CO` at screen width 400
    * Text `CA` overlaps with `CO` at screen width 400
-   * Text `CA` overlaps with `CT` at screen width 400
    * Text `CO` overlaps with `CT` at screen width 400
-   * Text `CO` overlaps with `FL` at screen width 400
-   * *and 85 more*
+   * Text `CT` overlaps with `FL` at screen width 400
+   * Text `FL` overlaps with `GA` at screen width 400
+   * Text `GA` overlaps with `IL` at screen width 400
+   * Text `IL` overlaps with `MA` at screen width 400
+   * *and 53 more*
 
 
 
@@ -1301,6 +1299,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/scorllytelling-project2/**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `3.3` overlaps with `3.3` at screen width 400
    * Text `24.7` overlaps with `24.7` at screen width 400
