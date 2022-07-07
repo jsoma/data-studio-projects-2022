@@ -429,7 +429,7 @@ No issues found! 🎉
 |[Monarch butterflies are coming back](https://juisarwate.github.io/monarch-butterflies/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/monarch-butterflies_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/monarch-butterflies_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/monarch-butterflies_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/monarch-butterflies_index.html-wide-full.jpg)|
 |[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
 |[Recycling Distribution NYC](https://juisarwate.github.io/nyc-recycling-distribution/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/nyc-recycling-distribution_index.html-wide-full.jpg)|
-|[Yosemite National Park Visitation](https://juisarwate.github.io/yosemite-visitation-2020/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|request failed|request failed|request failed|
+|[Yosemite National Park Visitation](https://juisarwate.github.io/yosemite-visitation-2020/)<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/yosemite-visitation-2020_index.html-wide-full.jpg)|
 |[game](https://juisarwate.github.io/job-game/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/juisarwate.github.io/job-game_index.html-mobile-thumb.jpg)](screenshots/juisarwate.github.io/job-game_index.html-mobile-full.jpg)|[![medium](screenshots/juisarwate.github.io/job-game_index.html-medium-thumb.jpg)](screenshots/juisarwate.github.io/job-game_index.html-medium-full.jpg)|[![wide](screenshots/juisarwate.github.io/job-game_index.html-wide-thumb.jpg)](screenshots/juisarwate.github.io/job-game_index.html-wide-full.jpg)|
 
 
@@ -473,7 +473,6 @@ No issues found! 🎉
 
 **https://juisarwate.github.io/yosemite-visitation-2020/**
 
-* Could not access the page - if you moved it, let me know
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://juisarwate.github.io/job-game/**
@@ -597,6 +596,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/bloomberg/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `1 dot = 1 dollar store` is too small at 10px
     * Text `blue dots = dollar stores` is too small at 10px
@@ -638,6 +638,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -649,7 +650,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -987,14 +987,14 @@ No issues found! 🎉
     * Text `120` is too small at 9px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `San Francisco` overlaps with `Oakland` at screen width 400
    * Text `AZ` overlaps with `CA` at screen width 400
+   * Text `AZ` overlaps with `CO` at screen width 400
    * Text `CA` overlaps with `CO` at screen width 400
+   * Text `CA` overlaps with `CT` at screen width 400
    * Text `CO` overlaps with `CT` at screen width 400
-   * Text `CT` overlaps with `FL` at screen width 400
-   * Text `FL` overlaps with `GA` at screen width 400
-   * Text `GA` overlaps with `IL` at screen width 400
-   * Text `IL` overlaps with `MA` at screen width 400
-   * *and 53 more*
+   * Text `CO` overlaps with `FL` at screen width 400
+   * *and 85 more*
 
 
 
@@ -1200,7 +1200,7 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 7 more*
+   * *and 8 more*
 
 **https://pmartisa.github.io/**
 
@@ -1230,6 +1230,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Case Open at` is too small at 8px
     * Text `Time of Death` is too small at 8px
@@ -1239,15 +1240,6 @@ No issues found! 🎉
     * Text `15` is too small at 10px
     * Text `16` is too small at 10px
     * *and 33 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2010` overlaps with `2011` at screen width 400
-   * Text `2011` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * *and 3 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
