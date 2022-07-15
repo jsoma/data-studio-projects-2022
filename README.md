@@ -54,15 +54,16 @@ No issues found! 🎉
 
 **https://angelinejcq.github.io/energy-efficiency-project/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `STATEN` overlaps with `UNKNOWN` at screen width 400
-   * Text `STATEN` overlaps with `QUEENS` at screen width 400
-   * Text `ISLAND` overlaps with `UNKNOWN` at screen width 400
-   * Text `ISLAND` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `QUEENS` at screen width 400
-   * Text `BROOKLYN` overlaps with `BRONX` at screen width 400
-   * Text `BRONX` overlaps with `MANHATTAN` at screen width 400
-   * *and 14 more*
+   * Text `University` overlaps with `2.8%` at screen width 400
+   * Text `Hotel` overlaps with `2.0%` at screen width 400
+   * Text `University` overlaps with `2.8%` at screen width 900
+   * Text `Hotel` overlaps with `2.0%` at screen width 900
+   * Text `University` overlaps with `2.8%` at screen width 1300
+   * Text `Hotel` overlaps with `2.0%` at screen width 1300
+   * Text `STATEN` overlaps with `UNKNOWN` at screen width 1300
+   * *and 6 more*
 
 **https://angelinejcq.github.io/fancy-chart**
 
@@ -638,6 +639,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -649,7 +651,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -987,14 +988,14 @@ No issues found! 🎉
     * Text `120` is too small at 9px
     * *and 79 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `San Francisco` overlaps with `Oakland` at screen width 400
    * Text `AZ` overlaps with `CA` at screen width 400
+   * Text `AZ` overlaps with `CO` at screen width 400
    * Text `CA` overlaps with `CO` at screen width 400
+   * Text `CA` overlaps with `CT` at screen width 400
    * Text `CO` overlaps with `CT` at screen width 400
-   * Text `CT` overlaps with `FL` at screen width 400
-   * Text `FL` overlaps with `GA` at screen width 400
-   * Text `GA` overlaps with `IL` at screen width 400
-   * Text `IL` overlaps with `MA` at screen width 400
-   * *and 53 more*
+   * Text `CO` overlaps with `FL` at screen width 400
+   * *and 85 more*
 
 
 
@@ -1455,12 +1456,12 @@ No issues found! 🎉
     * Text `0` is too small at 9px
     * *and 63 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `North Andover` overlaps with `1,048` at screen width 400
-   * Text `North Andover` overlaps with `511` at screen width 400
-   * Text `North Andover` overlaps with `774` at screen width 400
    * Text `North Andover` overlaps with `1,048` at screen width 900
    * Text `North Andover` overlaps with `511` at screen width 900
    * Text `North Andover` overlaps with `774` at screen width 900
+   * Text `North Andover` overlaps with `1,048` at screen width 1300
+   * Text `North Andover` overlaps with `511` at screen width 1300
+   * Text `North Andover` overlaps with `774` at screen width 1300
 
 **https://semerriam.github.io/projects/pj-infrasound/**
 
@@ -1846,7 +1847,7 @@ No issues found! 🎉
 
 **https://vincentvb.github.io/github-vulnerabilities/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://vincentvb.github.io/nft-analysis/**
 
