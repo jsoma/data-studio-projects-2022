@@ -627,7 +627,7 @@ No issues found! 🎉
    * Text `2016` overlaps with `2014` at screen width 400
    * Text `2016` overlaps with `2018` at screen width 400
    * Text `2002` overlaps with `2004` at screen width 400
-   * *and 39 more*
+   * *and 71 more*
 
 **https://kfalayi.github.io/Food-price-Nigeria/**
 
@@ -639,6 +639,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/irpin/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Irpin` is too small at 10px
     * Text `Kyiv` is too small at 9px
@@ -650,7 +651,6 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
-   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -696,7 +696,7 @@ No issues found! 🎉
 |[foia-denials/index.html](https://luizftoledo.github.io/foia-denials)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](tips/SOCIAL.md)|[![mobile](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/foia-denials_index.html-wide-full.jpg)|
 |[Only 3 out of 100 environmental fines get paid in Brazil](https://luizftoledo.github.io/ibama-lack-of-enforcement/)|[![mobile](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-lack-of-enforcement_index.html-wide-full.jpg)|
 |[Under Bolsonaro, Brazil has sanctioned less companies for environmental crimes](https://luizftoledo.github.io/ibama-sanctions/)|[![mobile](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/ibama-sanctions_index.html-wide-full.jpg)|
-|[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|[![mobile](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/iron-maiden-happiness_index.html-wide-full.jpg)|
+|[How happy can Iron Maiden songs be?](https://luizftoledo.github.io/iron-maiden-happiness/)|request failed|request failed|request failed|
 |[US exports more pistols than ever to Brazil: legally and ilegally](https://luizftoledo.github.io/weapons-seized/)|[![mobile](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-mobile-full.jpg)|[![medium](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-medium-full.jpg)|[![wide](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-thumb.jpg)](screenshots/luizftoledo.github.io/weapons-seized_index.html-wide-full.jpg)|
 
 
@@ -745,7 +745,7 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
-No issues found! 🎉
+* Could not access the page - if you moved it, let me know
 
 **https://luizftoledo.github.io/weapons-seized/**
 
@@ -1164,6 +1164,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/video-games/**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text ` ` is too small at 10px
 
@@ -1239,6 +1240,7 @@ No issues found! 🎉
 **https://pmartisa.github.io/child-homicide-project/index.html**
 
 * Needs a title, add a `<title>` tag to the `<head>`
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Case Open at` is too small at 8px
     * Text `Time of Death` is too small at 8px
@@ -1248,17 +1250,8 @@ No issues found! 🎉
     * Text `15` is too small at 10px
     * Text `16` is too small at 10px
     * *and 33 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `2010` overlaps with `2011` at screen width 400
-   * Text `2011` overlaps with `2012` at screen width 400
-   * Text `2012` overlaps with `2013` at screen width 400
-   * Text `2013` overlaps with `2014` at screen width 400
-   * Text `2014` overlaps with `2015` at screen width 400
-   * Text `2015` overlaps with `2016` at screen width 400
-   * Text `2016` overlaps with `2017` at screen width 400
-   * *and 23 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one _
+    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
 
 **https://pmartisa.github.io/project-domestic-violence/**
