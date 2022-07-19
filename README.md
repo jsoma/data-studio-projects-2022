@@ -679,8 +679,7 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 
 
@@ -1105,7 +1104,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-No issues found! 🎉
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1115,7 +1114,6 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/foi-ph/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `80` overlaps with `100` at screen width 400
    * Text `80` overlaps with `100` at screen width 900
@@ -1636,6 +1634,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `Public Water` is too small at 10px
     * Text `Industry` is too small at 10px
@@ -1645,13 +1644,6 @@ No issues found! 🎉
     * Text `240` is too small at 9px
     * Text `180` is too small at 9px
     * *and 21 more*
-* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 400
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 900
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
-   * Text `Power (once-through)` overlaps with `Power (recirculated)` at screen width 1300
 
 **https://srjouppi.github.io/nyc-child-psychologists/**
 
