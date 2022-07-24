@@ -320,8 +320,11 @@ No issues found! 🎉
 **https://ilenapeng.github.io/data-studio/california-kelp-forests/**
 
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `2019` overlaps with `2008` at screen width 400
+   * Text `2019` overlaps with `2008` at screen width 900
    * Text `Square meters of kelp` overlaps with `Westport` at screen width 900
    * Text `200` overlaps with `900` at screen width 900
+   * Text `2019` overlaps with `2008` at screen width 1300
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
     * `"Helvetica Neue"` font not found, used in 48 text objects. Example: _2016, 2019, 2008_
 
@@ -652,6 +655,7 @@ No issues found! 🎉
     * *and 24 more*
 * Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 400
+   * Text `IRPIN` overlaps with `Irpin River` at screen width 400
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 900
    * Text `Irpin River` overlaps with `Evacuees huddled under` at screen width 1300
 
@@ -681,7 +685,8 @@ No issues found! 🎉
 
 **https://kfalayi.github.io/vaccination/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `American Samoa` overlaps with `Puerto Rico` at screen width 400
 
 
 
@@ -733,7 +738,15 @@ No issues found! 🎉
 
 **https://luizftoledo.github.io/ibama-sanctions/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Overlapping elements in ai2html, check [the overflow video](https://www.youtube.com/watch?v=6vHsnjTp3_w) or make a smaller size
+   * Text `8k` overlaps with `2013` at screen width 400
+   * Text `2013` overlaps with `2014` at screen width 400
+   * Text `2014` overlaps with `2015` at screen width 400
+   * Text `2015` overlaps with `2016` at screen width 400
+   * Text `2016` overlaps with `2017` at screen width 400
+   * Text `2017` overlaps with `2018` at screen width 400
+   * Text `2018` overlaps with `2019` at screen width 400
+   * *and 4 more*
 
 **https://luizftoledo.github.io/iron-maiden-happiness/**
 
@@ -1106,7 +1119,7 @@ No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/air-quality/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://pmagtulis.github.io/projects/fancy-chart**
 
@@ -1202,7 +1215,7 @@ No issues found! 🎉
    * Text `close to 500` overlaps with `Troops on Addis` at screen width 400
    * Text `killed in missile` overlaps with `Ababa after murder` at screen width 400
    * Text `attacks/shelling` overlaps with `of Oromo activist` at screen width 400
-   * *and 7 more*
+   * *and 8 more*
 
 **https://pmartisa.github.io/**
 
@@ -1249,9 +1262,9 @@ No issues found! 🎉
    * Text `2014` overlaps with `2015` at screen width 400
    * Text `2015` overlaps with `2016` at screen width 400
    * Text `2016` overlaps with `2017` at screen width 400
-   * *and 3 more*
+   * *and 23 more*
 * Missing font(s), you might need web fonts – [text explanation](https://gist.github.com/jsoma/631621e0807b26d49f5aef5260f79162), [video explanation](https://www.youtube.com/watch?v=HNhIeb_jEYM&list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2&index=3)
-    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one_
+    * `"Kohinoor Devanagari"` font not found, used in 36 text objects. Example: _Case Open at, Time of Death, At least one _
     * `"BlairMdITC TT"` font not found, used in 66 text objects. Example: _7%, 11, 16_
 
 **https://pmartisa.github.io/project-domestic-violence/**
@@ -1507,7 +1520,6 @@ No issues found! 🎉
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `imgs/pj-litigation-funding-1.png` missing `alt` tag
     * Image `imgs/pj-litigation-funding-2.png` missing `alt` tag
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Minimum font size should be 12px, enlarge text in Illustrator
     * Text `12.4` is too small at 10px
     * Text `Total AUM Dedicated ` is too small at 10px
@@ -1641,7 +1653,7 @@ No issues found! 🎉
 
 **https://srjouppi.github.io/covid-gofundme-analysis/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
+No issues found! 🎉
 
 **https://srjouppi.github.io/michigan-great-lakes-usage**
 
